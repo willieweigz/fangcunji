@@ -11,7 +11,7 @@ import StampGallery from "@/components/StampGallery";
 import Highlight from "@/components/Highlight";
 
 export function generateStaticParams() {
-  return getAllSets().map((s) => ({ id: encodeURIComponent(s.id) }));
+  return getAllSets().map((s) => ({ id: s.id }));
 }
 
 export default async function StampDetailPage({

@@ -4,7 +4,7 @@ import { getAllSets, getPrimaryThemeNames, getThemes } from "@/lib/stamps";
 import StampCard from "@/components/StampCard";
 
 export function generateStaticParams() {
-  return getThemes().map(({ theme }) => ({ theme: encodeURIComponent(theme) }));
+  return getThemes().map(({ theme }) => ({ theme }));
 }
 
 export default async function ThemePage({
