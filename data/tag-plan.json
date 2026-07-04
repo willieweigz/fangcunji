@@ -80,7 +80,7 @@
   "id": "1992-17",
   "title": "罗荣桓同志诞生九十周年",
   "themes": [
-   "共产党人",
+   "解放军",
    "十大元帅"
   ],
   "status": "manual"
@@ -89,7 +89,7 @@
   "id": "1992-18",
   "title": "刘伯承同志诞生一百周年",
   "themes": [
-   "共产党人",
+   "解放军",
    "十大元帅"
   ],
   "status": "manual"
@@ -196,103 +196,154 @@
    "生肖",
    "生肖鸡"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "1993-10",
   "title": "中国古典文学名著《水浒传》（第四组）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文学名著",
+   "水浒传"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-11",
   "title": "蜜蜂",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "昆虫"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-12",
   "title": "中华人民共和国第七届运动会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "全运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-13",
   "title": "龙门石窟",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "石窟"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-14",
   "title": "中国古代漆器",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "漆器"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-15",
   "title": "郑板桥作品选",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "古画"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-16",
   "title": "杨虎城诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "人物",
+   "现代人",
+   "爱国民主人士"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-17",
   "title": "毛泽东同志诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "毛泽东",
+   "领袖"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-2",
   "title": "宋庆龄同志诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "老一辈革命家"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-3",
   "title": "野骆驼",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "濒危动物"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-4",
   "title": "中华人民共和国第八届全国人民代表大会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "人大"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-5",
   "title": "围棋",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "棋类"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-6",
   "title": "第一届东亚运动会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "综合运动会"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-7",
   "title": "竹子",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "植物花卉",
+   "竹"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-8",
   "title": "爱国民主人士 (一)",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "人物",
+   "现代人",
+   "爱国民主人士"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-9",
   "title": "长白山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-1",
@@ -301,127 +352,192 @@
    "生肖",
    "生肖狗"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "1994-10",
   "title": "昭君出塞",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "历史故事"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-11",
   "title": "第六届远东及南太平洋地区残疾人运动会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "残疾人体育"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-12",
   "title": "武陵源",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "世界自然遗产"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-13",
   "title": "武夷山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-14",
   "title": "傅抱石作品选",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "现代画"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-15",
   "title": "鹤",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "鸟类"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-16",
   "title": "万国邮政联盟成立一百二十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "邮政",
+   "万国邮政联盟"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-17",
   "title": "中国古典文学名著–三国演义（第四组）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文学名著",
+   "三国演义"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-18",
   "title": "长江三峡",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "江河"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-19",
   "title": "中华全国集邮联合会第四次代表大会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "集邮",
+   "中华全国集邮联合会"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-2",
   "title": "爱国民主人士（二）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "人物",
+   "现代人",
+   "爱国民主人士"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-20",
   "title": "经济特区",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "区域发展"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-21",
   "title": "中国古塔",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "古塔"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-3",
   "title": "鲟",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "鱼类",
+   "濒危动物"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-4",
   "title": "沙漠绿化",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "环保"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-5",
   "title": "宜兴紫砂陶",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "陶瓷"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-6",
   "title": "纪念黄埔军校建校七十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "黄埔军校"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-7",
   "title": "国际奥林匹克委员会成立一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-8",
   "title": "敦煌壁画（第五组）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "敦煌壁画"
+  ],
+  "status": "manual"
  },
  {
   "id": "1994-9",
   "title": "中国古代文学家（第二组）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "人物",
+   "古代人",
+   "中国古代文学家"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-1",
@@ -430,166 +546,243 @@
    "生肖",
    "生肖猪"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "1995-10",
   "title": "北京立交桥",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "桥梁"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-11",
   "title": "中泰建交20周年",
   "themes": [
    "周年纪念",
-   "建交"
+   "建交",
+   "泰国"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "1995-12",
   "title": "太湖",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "湖泊"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-13",
   "title": "古代驿站",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "邮政"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-14",
   "title": "少林寺建寺1500年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "佛教"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-15",
   "title": "珍稀动物",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "濒危动物"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-16",
   "title": "西藏文物",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "西藏"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-17",
   "title": "抗日战争及世界反法西斯战争胜利50周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "抗战胜利"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-18",
   "title": "联合国第四次世界妇女大会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "国际峰会",
+   "妇女"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-19",
   "title": "国际邮票、钱币博览会-北京1995",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "集邮"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-2",
   "title": "吉林雾淞",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "冰雪"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-20",
   "title": "九华胜境",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-21",
   "title": "电影诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "电影"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-22",
   "title": "联合国成立50周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "联合国"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-23",
   "title": "嵩山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-24",
   "title": "三清山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-25",
   "title": "香港风光名胜",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "城市"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-26",
   "title": "孙子兵法",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "古代典籍"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-27",
   "title": "中韩海底光缆系统开通",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "通信"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-3",
   "title": "鼎湖山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-4",
   "title": "社会发展 共创未来",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "国际峰会"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-5",
   "title": "鸮",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "鸟类"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-6",
   "title": "桂花",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "植物花卉",
+   "花卉"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-7",
   "title": "第43届世界乒乓球锦标赛",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "乒乓球"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-8",
   "title": "虢国夫人游春图",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "古画"
+  ],
+  "status": "manual"
  },
  {
   "id": "1995-9",
   "title": "中国皮影",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "非物质文化遗产"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-1",
@@ -598,187 +791,279 @@
    "生肖",
    "生肖鼠"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "1996-10",
   "title": "河姆渡遗址",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "遗址"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-11",
   "title": "中国第九届亚洲国际集邮展览",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "集邮",
+   "亚洲国际集邮展览"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-12",
   "title": "儿童生活",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "6.1儿童邮票",
+   "儿童生活"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-13",
   "title": "奥运百年暨第二十六届奥运会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-14",
   "title": "珍惜土地",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "环保"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-15",
   "title": "经略台真武阁",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "古建筑"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-16",
   "title": "中国汽车",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "汽车"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-17",
   "title": "震后新唐山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "城市建设"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-18",
   "title": "第三十届国际地质大会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "地质"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-19",
   "title": "天山天池",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "湖泊"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-2",
   "title": "第三届亚洲冬季运动会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "亚运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-20",
   "title": "敦煌壁画（第六组）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "敦煌壁画"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-21",
   "title": "西夏陵",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "陵墓"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-22",
   "title": "铁路建设",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "铁路"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-23",
   "title": "中国古代档案珍藏",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "档案"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-24",
   "title": "叶挺同志诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "解放军",
+   "军事家"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-25",
   "title": "各国议会联盟第96届大会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "国际会议"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-26",
   "title": "上海浦东",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "区域发展"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-27",
   "title": "国际宇航大会第四十七届年会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "航天"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-28",
   "title": "城市风光",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "城市风光"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-29",
   "title": "中国工农红军长征胜利六十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "党史",
+   "长征"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-3",
   "title": "沈阳故宫",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "宫殿"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-30",
   "title": "天津民间彩塑",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "非物质文化遗产"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-31",
   "title": "香港经济建设",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "区域发展"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-4",
   "title": "中国邮政开办一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "邮政"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-5",
   "title": "黄宾虹作品选",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "现代画"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-6",
   "title": "山水盆景",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "盆景"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-7",
   "title": "苏铁",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "植物花卉",
+   "树木"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-8",
   "title": "古代建筑",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "古建筑"
+  ],
+  "status": "manual"
  },
  {
   "id": "1996-9",
   "title": "中国飞机",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "中国飞机"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-1",
@@ -787,145 +1072,218 @@
    "生肖",
    "生肖牛"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "1997-10",
   "title": "香港回归祖国",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "香港",
+   "香港回归"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-11",
   "title": "五台古刹",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "佛教"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-12",
   "title": "中国人民解放军建军七十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "解放军",
+   "建军"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-13",
   "title": "寿山石雕",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "非物质文化遗产",
+   "石雕"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-14",
   "title": "中国共产党第十五次全国代表大会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "党史",
+   "十五大"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-15",
   "title": "中华人民共和国第八届运动会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "全运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-16",
   "title": "黄山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-17",
   "title": "花卉",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "植物花卉",
+   "花卉"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-18",
   "title": "天坛",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "世界文化遗产"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-19",
   "title": "西安城墙",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "古建筑"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-2",
   "title": "中国首次农业普查",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "民生"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-20",
   "title": "澳门古迹",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "澳门"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-21",
   "title": "中国古典文学名著—《水浒传》(第五组)",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文学名著",
+   "水浒传"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-22",
   "title": "1996年中国钢产量突破一亿吨",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "工业"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-23",
   "title": "长江三峡工程·截流",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "水利"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-24",
   "title": "中国电信",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "通信"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-3",
   "title": "中国旅游年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "旅游"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-4",
   "title": "潘天寿作品选",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "现代画"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-5",
   "title": "茶",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "茶"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-6",
   "title": "内蒙古自治区成立50周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "自治区成立",
+   "内蒙古"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-7",
   "title": "珍禽",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "鸟类"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-8",
   "title": "侗族建筑",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "民族建筑"
+  ],
+  "status": "manual"
  },
  {
   "id": "1997-9",
   "title": "麦积山石窟",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "石窟"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-1",
@@ -934,13 +1292,16 @@
    "生肖",
    "生肖虎"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "1998-10",
   "title": "古代书院",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "书院"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-11",
@@ -949,175 +1310,261 @@
    "周年纪念",
    "大学建校"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "1998-12",
   "title": "第22届万国邮政联盟大会会徽",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "邮政"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-13",
   "title": "神农架",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-14",
   "title": "重庆风貌",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "城市风光"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-15",
   "title": "何香凝国画作品",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "现代画"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-16",
   "title": "锡林郭勒草原",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "草原"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-17",
   "title": "镜泊湖",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "湖泊"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-18",
   "title": "中国古典文学名著《三国演义》（第五组）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文学名著",
+   "三国演义"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-19",
   "title": "承德普宁寺和维尔茨堡宫",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "世界文化遗产"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-2",
   "title": "岭南庭园",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "园林"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-20",
   "title": "故宫和卢浮宫",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "世界文化遗产"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-21",
   "title": "贺兰山岩画",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "岩画"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-22",
   "title": "中国陶瓷–龙泉窖瓷器",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "陶瓷"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-23",
   "title": "炎帝陵",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "陵墓"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-24",
   "title": "解放军三大战役纪念",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "解放军",
+   "解放战争"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-25",
   "title": "刘少奇同志诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "领袖"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-26",
   "title": "瘦西湖和莱芒湖",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "湖泊"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-27",
   "title": "灵渠",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "水利"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-28",
   "title": "澳门建筑",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "澳门"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-29",
   "title": "海底世界·珊瑚礁观赏鱼",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "海洋生物"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-3",
   "title": "邓小平同志逝世一周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "邓小平",
+   "领袖"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-30",
   "title": "中国共产党十一届三中全会二十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "党史",
+   "改革开放"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-31",
   "title": "抗洪赈灾",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "抗灾"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-4",
   "title": "中国人民警察",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "公安"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-5",
   "title": "周恩来同志诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "领袖"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-6",
   "title": "九寨沟",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "世界自然遗产"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-7",
   "title": "中华人民共和国第九届全国人民代表大会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "人大"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-8",
   "title": "傣族建筑",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "民族建筑"
+  ],
+  "status": "manual"
  },
  {
   "id": "1998-9",
   "title": "海南特区建设",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "区域发展"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-1",
@@ -1126,121 +1573,182 @@
    "生肖",
    "生肖兔"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "1999-10",
   "title": "万国邮政联盟成立一百二十五周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "邮政",
+   "万国邮政联盟"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-11",
   "title": "中华人民共和国成立五十周年-民族大团结",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "国庆",
+   "民族团结"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-12",
   "title": "国际老人年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "民生"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-13",
   "title": "中国人民政治协商会议成立五十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "政协"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-14",
   "title": "庐山和金刚山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-15",
   "title": "希望工程实施十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "教育"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-16",
   "title": "科技成果",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "科技成果"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-17",
   "title": "李立三同志诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "老一辈革命家"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-18",
   "title": "澳门回归祖国",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "澳门",
+   "澳门回归"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-19",
   "title": "聂荣臻同志诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "解放军",
+   "十大元帅"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-2",
   "title": "汉画像石",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "画像石"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-20",
   "title": "世纪交替 千年更始–20世纪回顾",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "跨世纪"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-3",
   "title": "中国陶瓷—钧窑瓷器",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "陶瓷"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-4",
   "title": "昆明世界园艺博览会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "世界园艺博览会"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-5",
   "title": "马鹿",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "鹿"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-6",
   "title": "普陀秀色",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-7",
   "title": "中国1999世界集邮展览",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "集邮",
+   "世界集邮展览"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-8",
   "title": "方志敏同志诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "老一辈革命家"
+  ],
+  "status": "manual"
  },
  {
   "id": "1999-9",
   "title": "第二十二届万国邮政联盟大会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "邮政"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-1",
@@ -1249,217 +1757,326 @@
    "生肖",
    "生肖龙"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2000-10",
   "title": "革命终身伴侣百年诞辰-李富春 蔡畅",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "老一辈革命家"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-11",
   "title": "世纪交替，千年更始–21世纪展望",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "跨世纪"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-12",
   "title": "陈云同志诞生九十五周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "老一辈革命家"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-13",
   "title": "盉壶和马奶壶",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "青铜器"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-14",
   "title": "崂山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-15",
   "title": "小鲤鱼跳龙门",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "6.1儿童邮票",
+   "动画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-16",
   "title": "深圳经济特区建设",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "区域发展"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-17",
   "title": "第二十七届奥林匹克运动会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-18",
   "title": "海滨风光",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "海滨"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-19",
   "title": "木偶和面具",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "非物质文化遗产"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-2",
   "title": "春节",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "节日",
+   "民俗节日"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-20",
   "title": "古代思想家",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "人物",
+   "古代人",
+   "古代思想家"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-21",
   "title": "中山靖王墓文物",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "玉器"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-22",
   "title": "中国“神舟”飞船首飞成功纪念",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "航天"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-23",
   "title": "气象成就",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "气象"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-24",
   "title": "君子兰",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "植物花卉",
+   "花卉"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-25",
   "title": "中国古钟",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "古钟"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-3",
   "title": "国家重点保护野生动物（I级）(一)",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "国家重点保护野生动物",
+   "濒危动物"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-4",
   "title": "龙（文物）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "瑞兽"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-5",
   "title": "全国集邮联合会第五次代表大会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "集邮",
+   "中华全国集邮联合会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-6",
   "title": "木兰从军",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "历史故事"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-7",
   "title": "长江公路大桥",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "桥梁"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-8",
   "title": "大理风光",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "城市"
+  ],
+  "status": "manual"
  },
  {
   "id": "2000-9",
   "title": "塔尔寺",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "佛教"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-1",
   "title": "世纪交替 千年更始——迈入21世纪",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "跨世纪"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-10",
   "title": "端午节",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "节日",
+   "民俗节日"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-11",
   "title": "中国共产党早期领导人（一）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "中国共产党早期领导人"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-12",
   "title": "中国共产党成立八十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "党史",
+   "建党"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-13",
   "title": "黄果树瀑布",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "瀑布"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-14",
   "title": "北戴河",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "海滨"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-15",
   "title": "为中国喝彩",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-16",
   "title": "引大入秦工程",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "水利"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-17",
   "title": "二滩水电站",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "水电"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-18",
   "title": "兜兰",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "植物花卉",
+   "花卉"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-19",
   "title": "芜湖长江大桥",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "桥梁"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-2",
@@ -1468,103 +2085,153 @@
    "生肖",
    "生肖蛇"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2001-20",
   "title": "古代金面罩头像",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "青铜器"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-21",
   "title": "亚太经合组织2001年会议•中国",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "国际峰会",
+   "APEC"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-22",
   "title": "昭陵六骏",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "石刻"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-23",
   "title": "古代帆船",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "航海"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-24",
   "title": "中华人民共和国第九届运动会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "全运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-25",
   "title": "六盘山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-26",
   "title": "民间传说–许仙与白娘子",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "民间传说"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-27",
   "title": "郑成功收复台湾340年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "台湾"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-28",
   "title": "青藏铁路开工纪念",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "铁路"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-3",
   "title": "京剧丑角",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "戏曲",
+   "京剧"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-4",
   "title": "国家重点保护野生动物（I级）(二)",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "国家重点保护野生动物",
+   "濒危动物"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-5",
   "title": "水乡古镇",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "中国古镇"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-6",
   "title": "永乐宫壁画",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "壁画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-7",
   "title": "中国古典文学名著-《聊斋志异》（第一组）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文学名著",
+   "聊斋志异"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-8",
   "title": "武当山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "2001-9",
   "title": "陶瓷",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "陶瓷"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-1",
@@ -1573,163 +2240,242 @@
    "生肖",
    "生肖马"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2002-10",
   "title": "灯塔",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "灯塔"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-11",
   "title": "世界杯足球赛",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "足球"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-12",
   "title": "黄河水利水电工程",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "水电"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-13",
   "title": "大足石刻",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "石窟"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-14",
   "title": "沙漠植物",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "植物花卉",
+   "沙漠植物"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-15",
   "title": "南极风光",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "极地"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-16",
   "title": "青海湖",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "湖泊"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-17",
   "title": "人民军队早期将领",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "解放军",
+   "人民军队早期将领"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-18",
   "title": "中国古代科学家（第四组）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "人物",
+   "古代人",
+   "中国古代科学家"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-19",
   "title": "雁荡山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-2",
   "title": "八大山人作品选",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "古画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-20",
   "title": "中秋节",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "节日",
+   "民俗节日"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-21",
   "title": "黄河壶口瀑布",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "瀑布"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-22",
   "title": "亭台与城堡",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "古建筑"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-23",
   "title": "民间传说—董永与七仙女",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "民间传说"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-24",
   "title": "彭真同志诞生100周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "老一辈革命家"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-25",
   "title": "博物馆建设",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "博物馆建设"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-26",
   "title": "武术与跆拳道",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "武术"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-27",
   "title": "长臂猿",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "濒危动物"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-3",
   "title": "珍稀花卉",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "植物花卉",
+   "花卉"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-4",
   "title": "民族乐器",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "民族乐器"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-5",
   "title": "步辇图",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "古画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-6",
   "title": "中国陶瓷—汝窑瓷器",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "陶瓷"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-7",
   "title": "中国古典文学名著《聊斋志异》（第二组）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文学名著",
+   "聊斋志异"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-8",
   "title": "千山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "2002-9",
   "title": "丽江古城",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "古城"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-1",
@@ -1738,157 +2484,237 @@
    "生肖",
    "生肖羊"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2003-10",
   "title": "吉林陨石雨",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "天文"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-11",
   "title": "苏州园林–网师园",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "园林"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-12",
   "title": "藏羚",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "濒危动物"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-13",
   "title": "崆峒山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-14",
   "title": "飞机发明一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "航空"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-15",
   "title": "晋祠彩塑",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "彩塑"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-16",
   "title": "少数民族传统体育",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "少数民族传统体育"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-17",
   "title": "中国古代名将—岳飞",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "人物",
+   "古代人",
+   "古代名将"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-18",
   "title": "重阳节",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "节日",
+   "民俗节日"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-19",
   "title": "图书艺术",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "出版"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-2",
   "title": "杨柳青木版年画",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "非物质文化遗产",
+   "木版年画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-20",
   "title": "民间传说-梁山伯与祝英台",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "民间传说"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-21",
   "title": "长江三峡工程·发电",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "水利"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-22",
   "title": "南水北调工程开工纪念",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "水利"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-23",
   "title": "第十六届亚洲国际邮票展览",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "集邮",
+   "亚洲国际集邮展览"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-24",
   "title": "世界防治艾滋病日",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "节日",
+   "现代节日"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-25",
   "title": "毛泽东同志诞生110周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "毛泽东",
+   "领袖"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-26",
   "title": "东周青铜器",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "青铜器"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-3",
   "title": "中国古代书法–篆书",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "书法艺术",
+   "中国古代书法",
+   "篆书"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-4",
   "title": "百合花",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "植物花卉",
+   "花卉"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-5",
   "title": "中国古桥—拱桥",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "桥梁"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-6",
   "title": "钟楼与清真寺",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "古建筑"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-7",
   "title": "乐山大佛",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "佛教"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-8",
   "title": "鼓浪屿",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "海滨"
+  ],
+  "status": "manual"
  },
  {
   "id": "2003-9",
   "title": "中国古典文学名著–聊斋志异（第三组）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文学名著",
+   "聊斋志异"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-1",
@@ -1897,142 +2723,209 @@
    "生肖",
    "生肖猴"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2004-10",
   "title": "侨乡新貌",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "华侨"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-11",
   "title": "司马光砸缸",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "历史故事"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-12",
   "title": "中国 新加坡合作–苏州工业园区成立十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "区域发展"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-13",
   "title": "皖南古村落–西递、宏村",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "世界文化遗产"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-14",
   "title": "民间传说-柳毅传书",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "民间传说"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-15",
   "title": "神话-八仙过海",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "中国古代神话"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-16",
   "title": "奥运会从雅典到北京",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-17",
   "title": "邓小平同志诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "邓小平",
+   "领袖"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-18",
   "title": "绿绒蒿",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "植物花卉",
+   "花卉"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-19",
   "title": "华南虎",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "濒危动物"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-2",
   "title": "桃花坞木版年画",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "非物质文化遗产",
+   "木版年画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-20",
   "title": "人民代表大会成立五十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "全国人民代表大会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-21",
   "title": "鸡血石印",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "石雕"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-22",
   "title": "漆器与陶器",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "漆器"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-23",
   "title": "中华人民共和国国旗 国徽",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "国家象征"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-24",
   "title": "祖国边陲风光",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "边疆"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-25",
   "title": "城市建筑",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "城市风光"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-26",
   "title": "清明上河图",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "古画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-27",
   "title": "中国名亭（一）",
   "themes": [
    "建筑",
+   "园林",
    "中国名亭"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2004-28",
   "title": "中国古代书法–隶书",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "书法艺术",
+   "中国古代书法",
+   "隶书"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-3",
   "title": "邓颖超同志诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "老一辈革命家"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-4",
   "title": "中国红十字会成立一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "中国红十字会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-5",
@@ -2041,31 +2934,43 @@
    "文化",
    "成语典故"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2004-6",
   "title": "孔雀",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "鸟类"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-7",
   "title": "楠溪江",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "江河"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-8",
   "title": "丹霞山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "2004-9",
   "title": "中国经济技术开发区二十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "区域发展"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-1",
@@ -2074,13 +2979,16 @@
    "生肖",
    "生肖鸡"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2005-10",
   "title": "大连海滨风光",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "海滨"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-11",
@@ -2089,157 +2997,235 @@
    "周年纪念",
    "大学建校"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2005-12",
   "title": "安徒生童话",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "6.1儿童邮票",
+   "童话"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-13",
   "title": "郑和下西洋600周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "航海"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-14",
   "title": "南通博物苑",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "博物馆建设"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-15",
   "title": "向海自然保护区",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "自然保护区"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-16",
   "title": "反法西斯战争胜利六十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "抗战胜利"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-17",
   "title": "中国电影诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "电影"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-18",
   "title": "水车与风车",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "农耕"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-19",
   "title": "梵净山自然保护区",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-2",
   "title": "西气东输工程竣工",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "能源"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-20",
   "title": "中国人民解放军大将",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "解放军",
+   "开国大将"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-21",
   "title": "新疆维吾尔自治区成立五十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "自治区成立",
+   "新疆"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-22",
   "title": "中华人民共和国第十届运动会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "全运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-23",
   "title": "金钱豹与美洲狮",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "濒危动物"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-24",
   "title": "城头山遗址",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "遗址"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-25",
   "title": "洛神赋图",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "古画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-26",
   "title": "人民军队早期将领（二）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "解放军",
+   "人民军队早期将领"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-27",
   "title": "西藏自治区成立四十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "自治区成立",
+   "西藏"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-28",
   "title": "第29届奥林匹克运动会-会徽和吉祥物",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-3",
   "title": "台湾古迹",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "台湾"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-4",
   "title": "杨家埠木版年画",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "非物质文化遗产",
+   "木版年画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-5",
   "title": "玉兰花",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "植物花卉",
+   "花卉"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-6",
   "title": "世界地球日",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "节日",
+   "现代节日"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-7",
   "title": "鸡公山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-8",
   "title": "中华全国总工会成立八十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "中华全国总工会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2005-9",
   "title": "绘画作品",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "现代画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-1",
@@ -2248,184 +3234,272 @@
    "生肖",
    "生肖狗"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2006-10",
   "title": "全面取消农业税",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "民生"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-11",
   "title": "中国现代科学家（四）",
   "themes": [
    "人物",
+   "现代人",
    "中国现代科学家"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2006-12",
   "title": "现代灯塔",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "灯塔"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-13",
   "title": "中国航天事业创建五十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "航天"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-14",
   "title": "中国共产党早期领导人（二）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "中国共产党早期领导人"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-15",
   "title": "青藏铁路通车纪念",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "铁路"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-16",
   "title": "喀纳斯自然保护区",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "自然保护区"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-17",
   "title": "防震减灾",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "抗灾"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-18",
   "title": "金银器",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "金银器"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-19",
   "title": "第29届奥林匹克运动会-运动项目（一）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-2",
   "title": "武强木版年画",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "非物质文化遗产",
+   "木版年画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-20",
   "title": "中非合作论坛北京峰会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "国际峰会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-21",
   "title": "中华全国归国华侨联合会成立五十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "华侨"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-22",
   "title": "古琴与钢琴",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "民族乐器"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-23",
   "title": "文房四宝",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "文房四宝"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-24",
   "title": "中国出口商品交易会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "经贸"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-25",
   "title": "中国工农红军长征胜利七十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "党史",
+   "长征"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-26",
   "title": "中国-东盟建立对话关系15周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "国际合作"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-27",
   "title": "中国邮政开办一百一十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "邮政"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-28",
   "title": "孙中山诞生一百四十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "人物",
+   "现代人",
+   "辛亥革命"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-29",
   "title": "神骏图",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "古画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-3",
   "title": "民间灯彩",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "非物质文化遗产"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-30",
   "title": "和谐铁路建设",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "铁路"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-4",
   "title": "漓江",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "江河"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-5",
   "title": "孑遗植物",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "植物花卉",
+   "树木"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-6",
   "title": "犬",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "犬"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-7",
   "title": "青城山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-8",
   "title": "云冈石窟",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "石窟"
+  ],
+  "status": "manual"
  },
  {
   "id": "2006-9",
   "title": "天柱山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-1",
@@ -2434,25 +3508,35 @@
    "生肖",
    "生肖猪"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2007-10",
   "title": "中国话剧诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "话剧"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-11",
   "title": "内蒙古自治区成立六十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "自治区成立",
+   "内蒙古"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-12",
   "title": "清皇陵建筑",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "陵墓"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-13",
@@ -2461,169 +3545,256 @@
    "周年纪念",
    "大学建校"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2007-14",
   "title": "孔融让梨",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "历史故事"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-15",
   "title": "重庆建设",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "城市风光"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-16",
   "title": "五大连池",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "湖泊"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-17",
   "title": "香港回归祖国十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "香港",
+   "香港回归"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-18",
   "title": "杨尚昆同志诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "老一辈革命家"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-19",
   "title": "南麂列岛自然保护区",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "自然保护区"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-2",
   "title": "第六届亚洲冬季运动会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "亚运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-20",
   "title": "中华全国集邮联合会第六次代表大会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "集邮",
+   "中华全国集邮联合会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-21",
   "title": "中国人民解放军建军八十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "解放军",
+   "建军"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-22",
   "title": "第29届奥林匹克运动会——运动项目（二）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-23",
   "title": "腾冲地热火山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "火山"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-24",
   "title": "金湖",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "湖泊"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-25",
   "title": "贡嘎山与波波山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "山"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-26",
   "title": "FIFA 2007年中国女足世界杯·会徽",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "足球"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-27",
   "title": "2007年世界夏季特殊奥林匹克运动会·会徽",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "残疾人体育"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-28",
   "title": "长江三峡库区古迹",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "遗址"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-29",
   "title": "中国共产党第十七次全国代表大会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "党史",
+   "十七大"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-3",
   "title": "石湾陶瓷",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "陶瓷"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-30",
   "title": "中国古代书法-楷书",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "书法艺术",
+   "中国古代书法",
+   "楷书"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-31",
   "title": "中国2010年上海世博会会徽和吉祥物",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "世博会",
+   "上海"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-32",
   "title": "第29届奥林匹克运动会-竞赛场馆",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-4",
   "title": "绵竹木版年画",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "非物质文化遗产",
+   "木版年画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-5",
   "title": "京剧生角",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "戏曲",
+   "京剧"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-6",
   "title": "李可染作品选",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "现代画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-7",
   "title": "扬州园林",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "园林"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-8",
   "title": "舞龙舞狮",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "非物质文化遗产"
+  ],
+  "status": "manual"
  },
  {
   "id": "2007-9",
   "title": "中国邮政储蓄银行",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "金融"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-1",
@@ -2632,91 +3803,135 @@
    "生肖",
    "生肖鼠"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2008-10",
   "title": "颐和园",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "园林"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-11",
   "title": "千岛湖风光",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "湖泊"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-12",
   "title": "北京2008年奥林匹克博览会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-13",
   "title": "曹冲称象",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "历史故事"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-14",
   "title": "海峡西岸建设",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "区域发展"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-15",
   "title": "第二次全国土地调查",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "民生"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-16",
   "title": "龟兹石窟壁画",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "壁画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-17",
   "title": "古代名将-戚继光",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "人物",
+   "古代人",
+   "古代名将"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-18",
   "title": "第29届奥林匹克运动会开幕纪念",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-19",
   "title": "第29届奥林匹克运动会开幕纪念",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-2",
   "title": "朱仙镇木版年画",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "非物质文化遗产",
+   "木版年画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-20",
   "title": "奥运会从北京到伦敦",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-21",
   "title": "中国电视事业暨中央电视台创立五十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "电视"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-22",
   "title": "北京2008年残奥会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "残疾人体育"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-23",
@@ -2725,79 +3940,118 @@
    "周年纪念",
    "大学建校"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2008-24",
   "title": "宁夏回族自治区成立五十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "自治区成立",
+   "宁夏"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-25",
   "title": "机场建设",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "机场"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-26",
   "title": "广西壮族自治区成立五十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "自治区成立",
+   "广西"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-27",
   "title": "第七届亚欧首脑会议",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "国际峰会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-28",
   "title": "改革开放三十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "党史",
+   "改革开放"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-3",
   "title": "京剧净角",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "戏曲",
+   "京剧"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-4",
   "title": "中国鸟",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "鸟类"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-5",
   "title": "中华人民共和国第十一届全国人民代表大会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "人大"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-6",
   "title": "第29届奥林匹克运动会-火炬接力",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-7",
   "title": "白马寺与大菩提寺",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "佛教"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-8",
   "title": "苏通长江公路大桥",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "桥梁"
+  ],
+  "status": "manual"
  },
  {
   "id": "2008-9",
   "title": "海南博鳌",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "城市风光"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-1",
@@ -2806,79 +4060,116 @@
    "生肖",
    "生肖牛"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2009-10",
   "title": "祝福祖国",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "国庆"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-11",
   "title": "杭州湾跨海大桥",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "桥梁"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-12",
   "title": "李先念同志诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "老一辈革命家"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-13",
   "title": "第16届亚洲运动会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "亚运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-14",
   "title": "三江源自然保护区",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "自然保护区"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-15",
   "title": "人民大会堂",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "现代建筑"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-16",
   "title": "拉卜愣寺",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "佛教"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-17",
   "title": "鹳雀楼与金门",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "古建筑"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-18",
   "title": "黄龙",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "世界自然遗产"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-19",
   "title": "国家图书馆",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "现代建筑"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-2",
   "title": "漳州木版年画",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "非物质文化遗产",
+   "木版年画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-20",
   "title": "唐诗三百首",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文学名著",
+   "诗词"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-21",
@@ -2887,109 +4178,163 @@
    "周年纪念",
    "大学建校"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "2009-22",
   "title": "中国人民政治协商会议成立60周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "政协"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-23",
   "title": "京杭大运河",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "水利"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-24",
   "title": "中华人民共和国第十一届运动会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "全运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-25",
   "title": "中华人民共和国成立60周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "国庆"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-26",
   "title": "中华人民共和国成立60周年国庆首都阅兵",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "国庆",
+   "阅兵"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-27",
   "title": "古代书院（二）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "书院"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-28",
   "title": "广济桥",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "建筑",
+   "桥梁"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-29",
   "title": "马连良舞台艺术",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "戏曲",
+   "京剧"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-3",
   "title": "薄一波同志诞生100周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "老一辈革命家"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-30",
   "title": "澳门回归祖国十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "澳门",
+   "澳门回归"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-31",
   "title": "古田会议八十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "党史"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-4",
   "title": "第24届世界大学生冬季运动会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "大运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-5",
   "title": "电网建设",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "电力"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-6",
   "title": "石涛作品选",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "古画"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-7",
   "title": "中国2009世界集邮展览",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "集邮",
+   "世界集邮展览"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-8",
   "title": "中国与世博会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "世博会"
+  ],
+  "status": "manual"
  },
  {
   "id": "2009-9",
   "title": "凤凰古城",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "古城"
+  ],
+  "status": "manual"
  },
  {
   "id": "2010-1",

@@ -1,0 +1,744 @@
+[
+  {
+    "id": "1992-1",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "壬申年",
+    "issueDate": "1992-01-25",
+    "year": 1992,
+    "themes": [
+      "生肖",
+      "生肖猴"
+    ],
+    "designer": "曹鸿年、许彦博、王振华",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1992 年为农历壬申猴年，此套邮票是第二轮生肖邮票的开篇之作。两枚分别表现“猴桃瑞寿”和“喜鹊登梅”，以民间喜庆色彩和装饰画语言传达长寿吉祥、喜上眉梢的新春祝愿。邮票采用影雕套印，画面一红一绿，相映成趣，也延续了生肖题材连接民俗、年节与收藏记忆的传统。",
+    "quantity": "20400.1万套",
+    "needsReview": false,
+    "localImageFolder": "1992-1 《壬申年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "猴桃瑞寿",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-1-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "喜鹊登梅",
+        "denomination": "50分",
+        "image": "/images/stamps/1992/1992-1-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-2",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "鹳",
+    "issueDate": "1992-02-20",
+    "year": 1992,
+    "themes": [
+      "动物",
+      "鸟类",
+      "鹳"
+    ],
+    "designer": "殷会利",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "鹳属大型涉禽，常栖息于沼泽、浅水湖泊和溪流等湿地环境。邮票选取黑鹳与白鹳两种珍稀水禽：黑鹳为国家一级保护动物，羽色黑亮而腹部洁白；白鹳体型较大，白羽黑翼，姿态舒展。画面以工笔重彩表现鹳类修长的嘴、腿和优雅体态，并以湿地背景提示其生态环境，凸显水鸟保护与湿地保护的价值。",
+    "quantity": "2571.7万套",
+    "needsReview": false,
+    "localImageFolder": "1992-2 《鹳》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "黑鹳",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-2-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "白鹳",
+        "denomination": "1.60元",
+        "image": "/images/stamps/1992/1992-2-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-3",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "杉树",
+    "issueDate": "1992-03-10",
+    "year": 1992,
+    "themes": [
+      "植物花卉",
+      "树木",
+      "杉树"
+    ],
+    "designer": "曾孝濂",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "此套邮票集中表现中国珍稀杉科树种。水杉是中国特有的古老孑遗植物，曾一度被认为已经灭绝；银杉被称为“植物界的大熊猫”，属国家一级保护植物；秃杉分布范围较窄；百山祖冷杉仅产于**浙江庆元百山祖**，现存极少。邮票以写实笔法刻画枝叶、球果与树形差异，将植物分类特征和珍稀植物保护意识结合起来。",
+    "quantity": "2611.7万套",
+    "needsReview": false,
+    "localImageFolder": "1992-3 《杉树》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "水杉",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-3-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "银杉",
+        "denomination": "30分",
+        "image": "/images/stamps/1992/1992-3-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "秃杉",
+        "denomination": "50分",
+        "image": "/images/stamps/1992/1992-3-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "百山祖冷杉",
+        "denomination": "80分",
+        "image": "/images/stamps/1992/1992-3-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-4",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "近海养殖",
+    "issueDate": "1992-04-15",
+    "year": 1992,
+    "themes": [
+      "科技",
+      "农业",
+      "海洋"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "近海养殖是中国海洋渔业的重要组成部分。邮票选取真鲷、中国对虾、栉孔扇贝和海带四类代表性海产：真鲷为名贵经济鱼类，中国对虾是中国近海重要虾类，栉孔扇贝的闭壳肌可制成干贝，海带既是食品又是工业原料。画面以写实方式呈现海洋生物的形态和色彩，折射出近海资源开发与水产养殖技术的发展。",
+    "quantity": "2609.7万套",
+    "needsReview": false,
+    "localImageFolder": "1992-4 《近海养殖》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "真鲷",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-4-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中国对虾",
+        "denomination": "25分",
+        "image": "/images/stamps/1992/1992-4-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "栉孔扇贝",
+        "denomination": "50分",
+        "image": "/images/stamps/1992/1992-4-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "海带",
+        "denomination": "80分",
+        "image": "/images/stamps/1992/1992-4-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-5",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "纪念《在延安文艺座谈会上的讲话》发表五十周年",
+    "issueDate": "1992-05-23",
+    "year": 1992,
+    "themes": [
+      "周年纪念",
+      "延安文艺座谈会"
+    ],
+    "designer": "古元",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1942 年 5 月，**毛泽东**在**延安**文艺座谈会上发表讲话，提出文艺为工农兵服务的方向，对中国现当代文艺发展产生深远影响。1992 年适逢讲话发表五十周年，邮票以宝塔山和文艺工作者形象为主题，象征延安精神在文艺领域的传承。设计者古元是著名版画家，也是延安时期文艺运动的亲历者，使这枚纪念邮票带有更强的历史现场感。",
+    "quantity": "6414.2万套",
+    "needsReview": false,
+    "localImageFolder": "1992-5 《纪念《在延安文艺座谈会上的讲话》发表五十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "纪念《在延安文艺座谈会上的讲话》发表五十周年",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-5-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-6",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "联合国人类环境会议二十周年",
+    "issueDate": "1992-06-05",
+    "year": 1992,
+    "themes": [
+      "周年纪念",
+      "环保",
+      "联合国"
+    ],
+    "designer": "张安朴、徐逸涛",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1972 年 6 月 5 日，联合国人类环境会议在**瑞典斯德哥尔摩**召开，这是联合国首次围绕环境问题举行的全球性会议，并促成“世界环境日”的设立。1992 年既是会议二十周年，也是联合国环境与发展大会在**巴西里约热内卢**召开的年份。邮票以地球和绿色植物为主题，表达保护人类共同环境、推动可持续发展的理念。",
+    "quantity": "6388.2万套",
+    "needsReview": false,
+    "localImageFolder": "1992-6 《联合国人类环境会议二十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "联合国人类环境会议二十周年",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-6-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-7",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "昆虫",
+    "issueDate": "1992-06-28",
+    "year": 1992,
+    "themes": [
+      "动物",
+      "昆虫"
+    ],
+    "designer": "殷会利",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1992 年 6 月，第 19 届国际昆虫学大会在**北京**召开，中国邮政发行此套邮票以配合这一学术活动。四枚邮票表现七星瓢虫、半黄赤蜻、大草蛉和中华大刀螳，均为具有捕食害虫等生态作用的益虫。画面以写实手法精细描绘昆虫的体态、翅脉和色彩，既展示昆虫世界的微观之美，也提示生物多样性与农业生态保护的关系。",
+    "quantity": "4159.2万套",
+    "needsReview": false,
+    "localImageFolder": "1992-7 《昆虫》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "七星瓢虫",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-7-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "半黄赤蜻",
+        "denomination": "30分",
+        "image": "/images/stamps/1992/1992-7-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "大草蛉",
+        "denomination": "50分",
+        "image": "/images/stamps/1992/1992-7-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "中华大刀螳",
+        "denomination": "2元",
+        "image": "/images/stamps/1992/1992-7-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-8",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "第二十五届奥林匹克运动会",
+    "issueDate": "1992-07-25",
+    "year": 1992,
+    "themes": [
+      "体育",
+      "奥运会"
+    ],
+    "designer": "殷会利",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "第二十五届夏季奥林匹克运动会于 1992 年 7 月 25 日至 8 月 9 日在**西班牙巴塞罗那**举行。此套邮票选取篮球、体操、跳水和举重四个竞技项目，小型张表现马拉松这一历史悠久的奥运项目。画面以强烈动势和鲜明色彩突出运动员的速度、力量与技巧，也记录了中国体育代表团在本届奥运会上取得优异成绩的时代背景。",
+    "quantity": "2766.2万套，小型张2088.2万枚",
+    "needsReview": false,
+    "localImageFolder": "1992-8 《第二十五届奥林匹克运动会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "篮球",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-8-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "体操",
+        "denomination": "25分",
+        "image": "/images/stamps/1992/1992-8-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "跳水",
+        "denomination": "50分",
+        "image": "/images/stamps/1992/1992-8-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "举重",
+        "denomination": "80分",
+        "image": "/images/stamps/1992/1992-8-4.jpg"
+      },
+      {
+        "sn": 5,
+        "format": "小型张",
+        "name": "马拉松",
+        "denomination": "5元",
+        "image": "/images/stamps/1992/1992-8-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-9",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国古典文学名著《三国演义》（第三组）",
+    "issueDate": "1992-08-25",
+    "year": 1992,
+    "themes": [
+      "文学名著",
+      "三国演义"
+    ],
+    "designer": "戴宏海",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "此套邮票是《中国古典文学名著〈三国演义〉》系列第三组，聚焦赤壁之战前后诸葛亮纵横捭阖的经典情节。“舌战群儒”与“智激孙权”表现其联吴抗曹的辩才与谋略，“蒋干盗书”呈现周瑜反间之计，“草船借箭”则展现借天时与曹军心理取箭的智谋。邮票采用工笔重彩国画风格，人物动态和情节冲突都带有鲜明的叙事性。",
+    "quantity": "2865.7万套",
+    "needsReview": false,
+    "localImageFolder": "1992-9 《中国古典文学名著《三国演义》（第三组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "舌战群儒",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-9-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "智激孙权",
+        "denomination": "30分",
+        "image": "/images/stamps/1992/1992-9-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "蒋干盗书",
+        "denomination": "50分",
+        "image": "/images/stamps/1992/1992-9-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "草船借箭",
+        "denomination": "1.60元",
+        "image": "/images/stamps/1992/1992-9-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-10",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中日邦交正常化二十周年",
+    "issueDate": "1992-09-29",
+    "year": 1992,
+    "themes": [
+      "周年纪念",
+      "建交",
+      "日本"
+    ],
+    "designer": "李如",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1972 年 9 月 29 日，中日两国签署《中日联合声明》，实现邦交正常化。1992 年适逢中日邦交正常化二十周年，中国邮政发行此套纪念邮票。“中日邦交正常化二十周年”以中国牡丹和日本樱花为主要图案，象征两国文化意象；“世代友好”以两国儿童和和平鸽表达和平共处、世代相交的愿望。",
+    "quantity": "2556.7万套",
+    "needsReview": false,
+    "localImageFolder": "1992-10 《中日邦交正常化二十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中日邦交正常化二十周年",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-10-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "世代友好",
+        "denomination": "2元",
+        "image": "/images/stamps/1992/1992-10-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-11",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "敦煌壁画（第四组）",
+    "issueDate": "1992-09-15",
+    "year": 1992,
+    "themes": [
+      "绘画艺术",
+      "古画",
+      "敦煌壁画"
+    ],
+    "designer": "吴建坤、任宇",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "**敦煌莫高窟**是中国古代艺术宝库，壁画艺术以丰富题材、瑰丽色彩和流畅线条著称。此套邮票为敦煌壁画系列第四组，选取唐代壁画中的菩萨、伎乐、乘龙升天、出使西域等画面，兼具佛教图像、乐舞场景和丝绸之路交流意象。小型张“唐·观音菩萨”集中呈现盛唐人物造型的庄严与华美，展示敦煌艺术的开放气象。",
+    "quantity": "2763.9万套，小型张2073万枚",
+    "needsReview": false,
+    "localImageFolder": "1992-11 《敦煌壁画（第四组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "唐·菩萨",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-11-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "唐·伎乐",
+        "denomination": "25分",
+        "image": "/images/stamps/1992/1992-11-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "唐·乘龙升天",
+        "denomination": "55分",
+        "image": "/images/stamps/1992/1992-11-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "唐·出使西域",
+        "denomination": "80分",
+        "image": "/images/stamps/1992/1992-11-4.jpg"
+      },
+      {
+        "sn": 5,
+        "format": "小型张",
+        "name": "唐·观音菩萨",
+        "denomination": "5元",
+        "image": "/images/stamps/1992/1992-11-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-12",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "妈祖",
+    "issueDate": "1992-10-04",
+    "year": 1992,
+    "themes": [
+      "文化",
+      "民间信仰",
+      "妈祖"
+    ],
+    "designer": "万维生",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**妈祖**是中国东南沿海及**台湾**地区广泛信奉的海上保护神，原名**林默**，相传为宋代**福建莆田湄洲岛**人，生前常救助海上遇险者，身后被尊为海神。邮票图案取材于**湄洲妈祖祖庙**妈祖像，表现其端庄慈和的神祇形象。妈祖信俗后来被列入联合国教科文组织人类非物质文化遗产代表作名录，体现民间信仰与海洋文化的延续。",
+    "quantity": "10770.2万套",
+    "needsReview": false,
+    "localImageFolder": "1992-12 《妈祖》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "妈祖像",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-12-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-13",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国共产党第十四次全国代表大会",
+    "issueDate": "1992-10-12",
+    "year": 1992,
+    "themes": [
+      "历史事件",
+      "党史",
+      "十四大"
+    ],
+    "designer": "雷汉林",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "中国共产党第十四次全国代表大会于 1992 年 10 月 12 日至 18 日在**北京**召开。大会确立邓小平建设中国特色社会主义理论在全党的指导地位，明确提出建立社会主义市场经济体制的改革目标，是改革开放和现代化建设进程中的重要节点。邮票以党徽和数字“14”为核心设计元素，突出大会的庄严气氛和历史分量。",
+    "quantity": "6361.7万套",
+    "needsReview": false,
+    "localImageFolder": "1992-13 《中国共产党第十四次全国代表大会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国共产党第十四次全国代表大会",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-13-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-14",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "国际空间年",
+    "issueDate": "1992-08-18",
+    "year": 1992,
+    "themes": [
+      "科技",
+      "航天"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1992 年被联合国定为“国际空间年”，以纪念第二次联合国探索及和平利用外层空间会议召开十周年，倡导增进公众对空间活动的认识，推动空间技术服务人类。邮票以火箭发射、卫星环绕地球等视觉元素表现人类探索太空的壮举。同年中国政府批准实施载人航天工程，这枚邮票也与中国航天事业进入新阶段的时代氛围相呼应。",
+    "quantity": "6581.7万套",
+    "needsReview": false,
+    "localImageFolder": "1992-14 《国际空间年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "国际空间年",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-14-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-15",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "党的好干部——焦裕禄",
+    "issueDate": "1992-10-28",
+    "year": 1992,
+    "themes": [
+      "共产党人",
+      "模范人物"
+    ],
+    "designer": "李庆发、姜伟杰",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**焦裕禄**（1922-1964）是中国共产党的优秀党员，1962 年调任**河南兰考**县委书记后，带领群众治理风沙、盐碱和内涝，为改变兰考贫困面貌殚精竭虑，因积劳成疾早逝。他被誉为“县委书记的榜样”“党的好干部”。邮票以焦裕禄肖像为图案，突出其朴素、坚毅的形象，也承载了社会对焦裕禄精神的纪念与敬仰。",
+    "quantity": "9616.5万套",
+    "needsReview": false,
+    "localImageFolder": "1992-15 《党的好干部——焦裕禄》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "党的好干部——焦裕禄",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-15-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-16",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "青田石雕",
+    "issueDate": "1992-12-15",
+    "year": 1992,
+    "themes": [
+      "文化",
+      "非物质文化遗产",
+      "石雕"
+    ],
+    "designer": "任国恩",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "青田石雕以**浙江青田**出产的叶蜡石为原料，是中国“四大名石”之一，已有千余年历史。其技艺以“因材施艺、因色取巧”见长，后来被列入国家级非物质文化遗产名录。邮票选取“春”“高粱”“丰收”“花好月圆”四件代表作：或表现春笋花卉的生机，或刻画高粱、瓜果的丰收意象，或借花月题材寄寓团圆美好。",
+    "quantity": "4958.7万套",
+    "needsReview": false,
+    "localImageFolder": "1992-16 《青田石雕》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "春",
+        "denomination": "10分",
+        "image": "/images/stamps/1992/1992-16-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "高粱",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-16-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "丰收",
+        "denomination": "40分",
+        "image": "/images/stamps/1992/1992-16-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "花好月圆",
+        "denomination": "2元",
+        "image": "/images/stamps/1992/1992-16-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-17",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "罗荣桓同志诞生九十周年",
+    "issueDate": "1992-11-26",
+    "year": 1992,
+    "themes": [
+      "解放军",
+      "十大元帅"
+    ],
+    "designer": "魏楚予",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**罗荣桓**（1902-1963）是中国人民解放军开国元帅之一，长期从事军队政治工作，为人民军队建设和中国人民解放事业作出重要贡献。1992 年适逢其诞辰九十周年，邮票一枚以罗荣桓肖像和“人类庄严一典型”题词为主题，另一枚以战争场景表现“身经百战摧强敌”的英雄气概。整套邮票将人物纪念与革命军事题材结合起来。",
+    "quantity": "2638.45万套",
+    "needsReview": false,
+    "localImageFolder": "1992-17 《罗荣桓同志诞生九十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "人类庄严一典型",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-17-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "身经百战摧强敌",
+        "denomination": "50分",
+        "image": "/images/stamps/1992/1992-17-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-18",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "刘伯承同志诞生一百周年",
+    "issueDate": "1992-12-04",
+    "year": 1992,
+    "themes": [
+      "解放军",
+      "十大元帅"
+    ],
+    "designer": "广军",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**刘伯承**（1892-1986）是中国人民解放军开国元帅之一，杰出的军事家、军事教育家，被誉为“军神”。他参与领导南昌起义，在长征、抗日战争和解放战争中建立卓著功勋。1992 年为刘伯承诞辰一百周年，邮票一枚为元帅肖像，一枚描绘长征时期的刘伯承，以人物形象和历史场景共同纪念其戎马一生。",
+    "quantity": "2626.95万套",
+    "needsReview": false,
+    "localImageFolder": "1992-18 《刘伯承同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "元帅像",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-18-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "长征时期的刘伯承",
+        "denomination": "50分",
+        "image": "/images/stamps/1992/1992-18-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-19",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国现代科学家（三）",
+    "issueDate": "1992-11-20",
+    "year": 1992,
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代科学家"
+    ],
+    "designer": "魏楚予",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "此套邮票是中国现代科学家系列第三组，纪念四位杰出学者：**熊庆来**是中国现代数学教育的重要奠基人之一；**汤飞凡**是著名微生物学家、沙眼衣原体的发现者；**张孝骞**是中国胃肠病学的重要奠基人；**梁思成**是中国古建筑研究的先驱。邮票以人物肖像为主，呈现科学家的学术风范，也延续了该系列以邮票记录现代学术群像的传统。",
+    "quantity": "5376.2万套",
+    "needsReview": false,
+    "localImageFolder": "1992-19 《中国现代科学家（三）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "数学家熊庆来",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-19-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "微生物学家汤飞凡",
+        "denomination": "30分",
+        "image": "/images/stamps/1992/1992-19-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "医学家张孝骞",
+        "denomination": "50分",
+        "image": "/images/stamps/1992/1992-19-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "建筑学家梁思成",
+        "denomination": "100分",
+        "image": "/images/stamps/1992/1992-19-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1992-20",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中华人民共和国宪法（1982-1992）",
+    "issueDate": "1992-12-04",
+    "year": 1992,
+    "themes": [
+      "周年纪念",
+      "宪法"
+    ],
+    "designer": "卢天骄、潘可明",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1982 年 12 月 4 日，第五届全国人民代表大会第五次会议通过现行《中华人民共和国宪法》，即“八二宪法”。它确立了以经济建设为中心、坚持四项基本原则、坚持改革开放的基本路线。1992 年适逢宪法颁布十周年，邮票以宪法文本和鲜花为图案，象征宪法的庄严和对法治建设的祝愿；12 月 4 日后来也被设立为国家宪法日。",
+    "quantity": "6336.1万套",
+    "needsReview": false,
+    "localImageFolder": "1992-20 《中华人民共和国宪法（1982-1992）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中华人民共和国宪法",
+        "denomination": "20分",
+        "image": "/images/stamps/1992/1992-20-1.jpg"
+      }
+    ]
+  }
+]
