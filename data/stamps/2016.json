@@ -1,0 +1,1288 @@
+[
+  {
+    "id": "2016-1",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "丙申年",
+    "issueDate": "2016-01-05",
+    "year": 2016,
+    "themes": [
+      "生肖",
+      "生肖猴"
+    ],
+    "designer": "",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "第四轮生肖邮票首套猴年票，全套2枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "灵猴献瑞",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-1-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "福寿双至",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-1-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-2",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "拜年",
+    "issueDate": "2016-01-10",
+    "year": 2016,
+    "themes": [
+      "节日",
+      "民俗节日",
+      "拜年"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "《拜年》系列第二套，表现新春拜年的民俗场景。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "拜年",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-2-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-3",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "刘海粟作品选",
+    "issueDate": "2016-03-16",
+    "year": 2016,
+    "themes": [
+      "绘画艺术",
+      "现代画"
+    ],
+    "designer": "",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "选取刘海粟代表性绘画作品，全套3枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "江山如此多娇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-3-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "墨荷",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-3-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "黄岳人字瀑",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-3-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-4",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国邮政开办一百二十周年",
+    "issueDate": "2016-03-20",
+    "year": 2016,
+    "themes": [
+      "周年纪念",
+      "邮政"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "纪念中国近代邮政开办120周年，全套1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国邮政开办一百二十周年",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-4-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-5",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "高逸图",
+    "issueDate": "2016-04-02",
+    "year": 2016,
+    "themes": [
+      "绘画艺术",
+      "古画"
+    ],
+    "designer": "",
+    "totalStamps": 3,
+    "extras": [
+      "小型张"
+    ],
+    "description": "以古画《高逸图》为题材，全套3枚，另发行小型张1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "高逸图",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-5-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "高逸图",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-5-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "高逸图",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-5-3.jpg"
+      },
+      {
+        "sn": 4,
+        "format": "小型张",
+        "name": "高逸图小型张",
+        "denomination": "6元",
+        "image": "/images/stamps/2016/2016-5-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-6",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "交通大学建校一百二十周年",
+    "issueDate": "2016-04-08",
+    "year": 2016,
+    "themes": [
+      "周年纪念",
+      "大学建校"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "纪念交通大学建校120周年，全套1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "交通大学建校一百二十周年",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-6-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-7",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "世界法医学奠基人—宋慈",
+    "issueDate": "2016-04-13",
+    "year": 2016,
+    "themes": [
+      "人物",
+      "古代人"
+    ],
+    "designer": "",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "纪念世界法医学奠基人宋慈，全套2枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "宋慈像",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-7-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "著书立说",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-7-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-8",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "全民阅读",
+    "issueDate": "2016-04-23",
+    "year": 2016,
+    "themes": [
+      "文化",
+      "阅读"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "倡导全民阅读，全套1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "全民阅读",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-8-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-9",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "2016唐山世界园艺博览会",
+    "issueDate": "2016-04-29",
+    "year": 2016,
+    "themes": [
+      "历史事件",
+      "世界园艺博览会"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "纪念2016**唐山**世界园艺博览会举办，全套1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "2016唐山世界园艺博览会",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-9-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-10",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "二十四节气（二）",
+    "issueDate": "2016-05-05",
+    "year": 2016,
+    "themes": [
+      "文化",
+      "非物质文化遗产",
+      "二十四节气"
+    ],
+    "designer": "",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "《二十四节气》系列第二组，表现夏季六个节气。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "立夏",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-10-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "小满",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-10-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "芒种",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-10-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "夏至",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-10-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "小暑",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-10-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "大暑",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-10-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-11",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国现代科学家（七）",
+    "issueDate": "2016-05-08",
+    "year": 2016,
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代科学家"
+    ],
+    "designer": "",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《中国现代科学家》系列第七组，全套4枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "丁文江",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-11-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "金善宝",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-11-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "叶企孙",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-11-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "叶笃正",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-11-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-12",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国古镇（二）",
+    "issueDate": "2016-05-19",
+    "year": 2016,
+    "themes": [
+      "建筑",
+      "中国古镇"
+    ],
+    "designer": "",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "《中国古镇》系列第二组，展现六处中国古镇。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "江苏姜堰溱潼镇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-12-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "湖北红安七里坪镇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-12-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "贵州贵阳青岩镇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-12-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "上海青浦朱家角镇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-12-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "安徽肥西三河镇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-12-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "广西昭平黄姚镇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-12-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-13",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "文化遗产日",
+    "issueDate": "2016-06-11",
+    "year": 2016,
+    "themes": [
+      "文化",
+      "非物质文化遗产"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "纪念文化遗产日，全套1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "文化遗产日",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-13-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-14",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "上海迪士尼",
+    "issueDate": "2016-06-16",
+    "year": 2016,
+    "themes": [
+      "建筑",
+      "上海"
+    ],
+    "designer": "",
+    "totalStamps": 2,
+    "extras": [
+      "小全张"
+    ],
+    "description": "纪念**上海**迪士尼度假区开园，全套2枚，另发行小全张。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "米奇和米妮",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-14-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "奇幻童话城堡",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-14-2.jpg"
+      },
+      {
+        "sn": 3,
+        "format": "小全张",
+        "name": "上海迪士尼小全张",
+        "denomination": "",
+        "image": "/images/stamps/2016/2016-14-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-15",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国古典文学名著——〈红楼梦〉（二）",
+    "issueDate": "2016-06-18",
+    "year": 2016,
+    "themes": [
+      "文学名著",
+      "红楼梦"
+    ],
+    "designer": "",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "中国古典文学名著《红楼梦》系列第二组，全套4枚，另发行小型张1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "凤姐弄权",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-15-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "龄官画蔷",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-15-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "晴雯撕扇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-15-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "宝玉受笞",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-15-4.jpg"
+      },
+      {
+        "sn": 5,
+        "format": "小型张",
+        "name": "归省庆元宵",
+        "denomination": "6元",
+        "image": "/images/stamps/2016/2016-15-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-16",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "正定隆兴寺",
+    "issueDate": "2016-06-26",
+    "year": 2016,
+    "themes": [
+      "建筑",
+      "佛教"
+    ],
+    "designer": "",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "展现**河北正定**隆兴寺代表性建筑，全套2枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "摩尼殿",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-16-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "大悲阁",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-16-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-17",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "殷墟",
+    "issueDate": "2016-07-13",
+    "year": 2016,
+    "themes": [
+      "文物古迹",
+      "世界文化遗产",
+      "遗址"
+    ],
+    "designer": "",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "展现**殷墟**甲骨文、青铜器和玉器，全套3枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "甲骨文",
+        "denomination": "80分",
+        "image": "/images/stamps/2016/2016-17-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "青铜器",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-17-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "玉器",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-17-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-18",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "水果（二）",
+    "issueDate": "2016-07-23",
+    "year": 2016,
+    "themes": [
+      "植物花卉",
+      "水果"
+    ],
+    "designer": "",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《水果》系列第二组，全套4枚，表现杏、葡萄、西瓜、荔枝。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "杏",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-18-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "葡萄",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-18-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "西瓜",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-18-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "荔枝",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-18-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-19",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国灯塔",
+    "issueDate": "2016-08-08",
+    "year": 2016,
+    "themes": [
+      "建筑",
+      "灯塔"
+    ],
+    "designer": "",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "展现中国**南海**海域灯塔，全套5枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "华阳灯塔",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-19-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "赤瓜灯塔",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-19-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "渚碧灯塔",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-19-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "永暑灯塔",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-19-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "美济灯塔",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-19-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-20",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "第三十一届奥林匹克运动会",
+    "issueDate": "2016-08-05",
+    "year": 2016,
+    "themes": [
+      "体育",
+      "奥运会"
+    ],
+    "designer": "",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "纪念第三十一届奥林匹克运动会举办，全套2枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "女子排球",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-20-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "男子接力",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-20-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-21",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "相思鸟",
+    "issueDate": "2016-08-09",
+    "year": 2016,
+    "themes": [
+      "动物",
+      "鸟类",
+      "相思鸟"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "以相思鸟为题材，全套1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "相思鸟",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-21-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-22",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "长城",
+    "issueDate": "2016-08-20",
+    "year": 2016,
+    "themes": [
+      "文物古迹",
+      "世界文化遗产",
+      "长城"
+    ],
+    "designer": "",
+    "totalStamps": 9,
+    "extras": [],
+    "description": "以**长城**为题材，全套9枚，并有长卷版式。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "关山沧海",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-22-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "蓟辽天堑",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-22-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "燕赵雄风",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-22-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "京畿屏障",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-22-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "三晋重关",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-22-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "长河飞龙",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-22-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "高原北望",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-22-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "大漠关城",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-22-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "丝路古道",
+        "denomination": "3元",
+        "image": "/images/stamps/2016/2016-22-9.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-23",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "月圆中秋",
+    "issueDate": "2016-09-15",
+    "year": 2016,
+    "themes": [
+      "节日",
+      "民俗节日"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "《月圆中秋》系列第一组，全套1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "月圆中秋",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-23-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-24",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "玄奘",
+    "issueDate": "2016-09-04",
+    "year": 2016,
+    "themes": [
+      "人物",
+      "古代人",
+      "佛教"
+    ],
+    "designer": "",
+    "totalStamps": 2,
+    "extras": [
+      "小型张"
+    ],
+    "description": "以玄奘西行求法、东归译经为题材，全套2枚，另发行小型张1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "西行求法",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-24-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "东归译经",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-24-2.jpg"
+      },
+      {
+        "sn": 3,
+        "format": "小型张",
+        "name": "玄奘像",
+        "denomination": "6元",
+        "image": "/images/stamps/2016/2016-24-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-25",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "2016年二十国集团杭州峰会",
+    "issueDate": "2016-09-04",
+    "year": 2016,
+    "themes": [
+      "历史事件",
+      "国际峰会",
+      "G20"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "纪念2016年二十国集团**杭州**峰会举办，全套1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "2016年二十国集团杭州峰会",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-25-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-26",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "海上丝绸之路",
+    "issueDate": "2016-09-10",
+    "year": 2016,
+    "themes": [
+      "文化",
+      "一带一路",
+      "丝绸之路"
+    ],
+    "designer": "",
+    "totalStamps": 6,
+    "extras": [
+      "小全张"
+    ],
+    "description": "表现海上丝绸之路的互联互通主题，全套6枚，另发行小全张。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "政策沟通",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-26-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "设施联通",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-26-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "贸易畅通",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-26-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "资金融通",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-26-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "民心相通",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-26-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "海上交通",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-26-6.jpg"
+      },
+      {
+        "sn": 7,
+        "format": "小全张",
+        "name": "海上丝绸之路小全张",
+        "denomination": "",
+        "image": "/images/stamps/2016/2016-26-7.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-27",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "第39届国际标准化组织大会",
+    "issueDate": "2016-09-11",
+    "year": 2016,
+    "themes": [
+      "历史事件",
+      "国际组织"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "纪念第39届国际标准化组织大会举办，全套1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "第39届国际标准化组织大会",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-27-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-28",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "四川大学建校一百二十周年",
+    "issueDate": "2016-09-29",
+    "year": 2016,
+    "themes": [
+      "周年纪念",
+      "大学建校"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "纪念四川大学建校120周年，全套1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "四川大学建校一百二十周年",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-28-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-29",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中华孝道（二）",
+    "issueDate": "2016-10-09",
+    "year": 2016,
+    "themes": [
+      "文化",
+      "中华孝道"
+    ],
+    "designer": "",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《中华孝道》系列第二组，全套4枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "百里负米",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-29-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "亲尝汤药",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-29-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "文姬续书",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-29-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "恺之画母",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-29-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-30",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "扶贫日",
+    "issueDate": "2016-10-17",
+    "year": 2016,
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "纪念扶贫日，全套1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "扶贫日",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-30-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-31",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国工农红军长征胜利八十周年",
+    "issueDate": "2016-10-22",
+    "year": 2016,
+    "themes": [
+      "历史事件",
+      "党史",
+      "长征"
+    ],
+    "designer": "",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "纪念中国工农红军长征胜利80周年，全套6枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "长征出发",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-31-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "遵义会议",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-31-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "四渡赤水",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-31-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "过雪山草地",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-31-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "胜利会师",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-31-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "缅怀先烈 不忘初心 走好新的长征路",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-31-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-32",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "孙中山诞生一百五十周年",
+    "issueDate": "2016-11-12",
+    "year": 2016,
+    "themes": [
+      "人物",
+      "现代人",
+      "辛亥革命"
+    ],
+    "designer": "",
+    "totalStamps": 4,
+    "extras": [
+      "小全张"
+    ],
+    "description": "纪念孙中山诞生150周年，全套4枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "孙中山故居纪念馆",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-32-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中山铜像",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-32-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "中山公园中山堂",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-32-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "中山纪念中学",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2016/2016-32-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2016-33",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国2016亚洲国际集邮展览",
+    "issueDate": "2016-12-02",
+    "year": 2016,
+    "themes": [
+      "文化",
+      "集邮",
+      "亚洲国际集邮展览"
+    ],
+    "designer": "",
+    "totalStamps": 2,
+    "extras": [
+      "小型张"
+    ],
+    "description": "纪念中国2016亚洲国际集邮展览举办，全套2枚，另发行小型张1枚。",
+    "needsReview": true,
+    "localImageFolder": "44-编年号2016年",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "壮锦",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-33-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "绣球",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2016/2016-33-2.jpg"
+      },
+      {
+        "sn": 3,
+        "format": "小型张",
+        "name": "西汉羽纹铜凤灯",
+        "denomination": "6元",
+        "image": "/images/stamps/2016/2016-33-3.jpg"
+      }
+    ]
+  }
+]

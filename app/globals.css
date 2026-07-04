@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #f3ecdd;
+  --color-cream: #fbf7ec;
+  --color-ink: #3b2f23;
+  --color-faded: #8a7a63;
+  --color-seal: #b23a2a;
+  --color-postal: #1f6b50;
+  --color-gold: #c9a227;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  font-family: "Microsoft YaHei", "PingFang SC", "Helvetica Neue", Arial,
+    sans-serif;
+  background-image: radial-gradient(
+    rgba(59, 47, 35, 0.035) 1px,
+    transparent 1px
+  );
+  background-size: 22px 22px;
+}
+
+.font-serif-cn {
+  font-family: "Noto Serif SC", "Songti SC", "SimSun", "STSong", serif;
+}

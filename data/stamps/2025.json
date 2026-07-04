@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "2025-1",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "乙巳年",
+    "issueDate": "2025-01-05",
+    "year": 2025,
+    "themes": [
+      "生肖",
+      "生肖蛇"
+    ],
+    "designer": "潘虎、张旺",
+    "totalStamps": 2,
+    "extras": [
+      "小全张"
+    ],
+    "description": "第四轮生肖邮票蛇年票，全套2枚。“蛇呈丰稔”寓意五谷丰登，“福纳百祥”祈愿吉庆祥和，融入传统吉祥纹样，色彩喜庆。另发行小本票，并与**香港**、**澳门**联合印制三地小全张。",
+    "quantity": "套票2680万套，版式二162万版，小本票387万本",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "蛇呈丰稔",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-1-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "福纳百祥",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-1-2.jpg"
+      },
+      {
+        "sn": 3,
+        "format": "小全张",
+        "name": "三地联合小全张",
+        "denomination": "",
+        "image": "/images/stamps/2025/2025-1-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2025-2",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国核工业创建七十周年",
+    "issueDate": "2025-01-15",
+    "year": 2025,
+    "themes": [
+      "周年纪念",
+      "中国核工业"
+    ],
+    "designer": "",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "1955年党中央决定发展原子能事业，中国核工业由此发轫，从“两弹一艇”到铸造大国重器。邮票以平面设计结合手绘表现，分别呈现原子弹氢弹核潜艇、**秦山**核电基地与“华龙一号”、医疗安检等核能民生应用，高网线影写工艺印制。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "核铸利器",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-2-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "核能先锋",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-2-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "核惠民生",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2025/2025-2-3.jpg"
+      }
+    ],
+    "quantity": "610万套"
+  },
+  {
+    "id": "2025-3",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "第九届亚洲冬季运动会",
+    "issueDate": "2025-02-07",
+    "year": 2025,
+    "themes": [
+      "体育",
+      "亚运会"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "第九届亚冬会2025年2月在**黑龙江哈尔滨**举行，是继北京冬奥会后我国又一冰雪盛会。邮票以吉祥物“滨滨”“妮妮”为主体，采用六边形票幅、雪花异形齿孔与特种珠光材料，凸显冰雪美感与地域特色。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "第九届亚洲冬季运动会",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-3-1.jpg"
+      }
+    ],
+    "quantity": "649万套"
+  },
+  {
+    "id": "2025-4",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "数学之美",
+    "issueDate": "2025-03-14",
+    "year": 2025,
+    "themes": [
+      "科技",
+      "数学"
+    ],
+    "designer": "",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "全套4枚展现数学之美：“圆周率”以缩微文字呈现996位小数并纪念**祖冲之**；“勾股定理”借局部烫印展现证明过程；“欧拉公式”融合五大数学常数与缩微防伪；“莫比乌斯带”呈现拓扑多维性质。首创日光型荧光油墨与“钥匙”异形齿孔。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "圆周率",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-4-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "勾股定理",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-4-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "欧拉公式",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-4-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "莫比乌斯带",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2025/2025-4-4.jpg"
+      }
+    ],
+    "quantity": "套票625万套，版式二80万版"
+  },
+  {
+    "id": "2025-5",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "全民国家安全教育日10周年",
+    "issueDate": "2025-04-15",
+    "year": 2025,
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "2015年国家安全法将每年4月15日定为全民国家安全教育日，今年恰逢十周年。邮票以“安”字与长城、麦穗、高铁、火箭等元素同构设计，多块砖石垒砌寓意国家安全体系坚如磐石，金字采用镂空套印工艺。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "全民国家安全教育日10周年",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-5-1.jpg"
+      }
+    ],
+    "quantity": "590万套"
+  },
+  {
+    "id": "2025-6",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中华全国总工会成立一百周年",
+    "issueDate": "2025-05-01",
+    "year": 2025,
+    "themes": [
+      "周年纪念",
+      "中华全国总工会"
+    ],
+    "designer": "",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1925年5月1日中华全国总工会在**广州**成立，百年来与党同心奋进。邮票采用连票设计，“亿万职工心向党”以党徽与总工会旧址为主体，“团结奋斗新征程”融合会徽、齿轮、芯片与高铁航天元素，高网线影写工艺印制。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "亿万职工心向党",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-6-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "团结奋斗新征程",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-6-2.jpg"
+      }
+    ],
+    "quantity": "570万套"
+  },
+  {
+    "id": "2025-7",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "丝绸之路文物（三）",
+    "issueDate": "2025-05-18",
+    "year": 2025,
+    "themes": [
+      "文物古迹",
+      "丝绸之路文物"
+    ],
+    "designer": "",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "精选陆上丝路四件珍贵文物：**新疆**“五星出东方利中国”锦护膊以触感工艺再现汉代织锦；**甘肃**神人纹银盘融合罗马纹饰与三维浮雕；**宁夏**凸钉玻璃碗呈现萨珊风格玻璃质感；**洛阳**胡人牵驼载丝壁画再现商队西行场景。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "汉·“五星出东方利中国”锦护膊",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-7-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "南北朝·神人纹银盘",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-7-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "北周·凸钉玻璃碗",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-7-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "唐·胡人牵驼载丝壁画",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-7-4.jpg"
+      }
+    ],
+    "quantity": "590万套"
+  },
+  {
+    "id": "2025-8",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "楚辞",
+    "issueDate": "2025-05-31",
+    "year": 2025,
+    "themes": [
+      "文学名著",
+      "楚辞"
+    ],
+    "designer": "",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "取材屈原《离骚》《九歌》《天问》《九章》《九辩》名句，全套6枚以工笔写意结合的传统绘画表现楚辞意境，色调呼应诗句情感——红黑对应楚国漆器、深蓝紫展现天问玄思。采用胶印+双色雕刻工艺，米色衬底营造古雅氛围。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "亦余心之所善兮 虽九死其犹未悔",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-8-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "路曼曼其修远兮 吾将上下而求索",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-8-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "诚既勇兮又以武 终刚强兮不可凌 身既死兮神以灵 子魂魄兮为鬼雄",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-8-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "遂古之初 谁传道之 上下未形 何由考之",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-8-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "后皇嘉树 橘徕服兮 受命不迁 生南国兮 深固难徙 更壹志兮",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2025/2025-8-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "独耿介而不随兮 愿慕先圣之遗教",
+        "denomination": "3元",
+        "image": "/images/stamps/2025/2025-8-6.jpg"
+      }
+    ],
+    "quantity": "520万套"
+  },
+  {
+    "id": "2025-9",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "动画——天书奇谭",
+    "issueDate": "2025-06-01",
+    "year": 2025,
+    "themes": [
+      "6.1儿童邮票",
+      "动画"
+    ],
+    "designer": "",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "取材上海美术电影制片厂1983年经典动画《天书奇谭》，以主角蛋生为主线，通过“凿书云梦”“蛋生拜师”“巧用宝盆”“大战狐妖”“天书永传”五组场景再现故事精髓，荧光工艺呈现山石铭文、飞鸟、水火特效，隐喻传承与守护。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "凿书云梦",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-9-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "蛋生拜师",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-9-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "巧用宝盆",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-9-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "大战狐妖",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-9-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "天书永传",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-9-5.jpg"
+      }
+    ],
+    "quantity": "500万套"
+  },
+  {
+    "id": "2025-10",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国古代书法——篆书（二）",
+    "issueDate": "2025-06-21",
+    "year": 2025,
+    "themes": [
+      "书法艺术",
+      "中国古代书法",
+      "篆书"
+    ],
+    "designer": "",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "精选五件文物传递千年篆韵：西周大盂鼎金文浑厚庄重；战国中山王铁足鼎铭文469字，为已知铭文最长的战国青铜器；石鼓文见证大篆向小篆过渡；琅琊刻石存**李斯**小篆典范。小型张选西周何尊，其“宅兹中国”铭文是“中国”一词最早实物见证。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "大盂鼎",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-10-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中山王铁足鼎",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-10-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "石鼓·吾车刻石",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-10-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "琅琊刻石",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-10-4.jpg"
+      },
+      {
+        "sn": 5,
+        "format": "小型张",
+        "name": "篆书（二）",
+        "denomination": "6元",
+        "image": "/images/stamps/2025/2025-10-5.jpg"
+      }
+    ],
+    "quantity": "套票590万套，版式二69.3万版，小型张470万枚"
+  },
+  {
+    "id": "2025-11",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "食用菌（二）",
+    "issueDate": "2025-07-12",
+    "year": 2025,
+    "themes": [
+      "植物花卉",
+      "菌类",
+      "食用菌"
+    ],
+    "designer": "",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "延续1981年首套《食用菌》科普特点，聚焦四种珍稀真菌：变绿红菇即青头菌鲜美广受喜爱；中华金耳2024年经条形码技术确证为新种；松口蘑即松茸为国家二级濒危保护物种；干巴菌为中国特有种。采用异形齿孔与三维起凸、香味油墨工艺。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "变绿红菇",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-11-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中华金耳",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-11-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "松口蘑",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-11-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "干巴菌",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-11-4.jpg"
+      }
+    ],
+    "quantity": "490万套"
+  },
+  {
+    "id": "2025-12",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "世界文化遗产——北京中轴线",
+    "issueDate": "2025-07-27",
+    "year": 2025,
+    "themes": [
+      "文物古迹",
+      "世界文化遗产"
+    ],
+    "designer": "",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "**北京**中轴线全长7.8公里，始建于13世纪，2024年列入《世界遗产名录》。邮票由南至北表现**永定门**、**正阳门**、**天安门**、故宫·景山、钟鼓楼五处遗产要素，以青绿重彩展现古代都城规划理念，紫外灯下呈现“一票两景”。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "永定门",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-12-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "正阳门",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-12-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "天安门",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2025/2025-12-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "故宫·景山",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-12-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "钟鼓楼",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-12-5.jpg"
+      }
+    ],
+    "quantity": "套票570万套，版式二69.3万版"
+  },
+  {
+    "id": "2025-13",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国人民解放军挂像英模",
+    "issueDate": "2025-08-01",
+    "year": 2025,
+    "themes": [
+      "解放军",
+      "英模"
+    ],
+    "designer": "",
+    "totalStamps": 10,
+    "extras": [
+      "小全张"
+    ],
+    "description": "各时期人民解放军挂像英模共10位：**张思德**——为人民利益而死重于泰山；**董存瑞**——完成党交给的艰巨任务最光荣；**黄继光**——英勇战斗奋不顾身；**邱少云**——纪律重于生命；**雷锋**——把有限生命投入无限为人民服务之中；**苏宁**——献身国防现代化；**李向群**——胸怀远大志向追求高尚人生；**杨业功**——忠诚履行使命的模范指挥员；**林俊德**——献身国防科技事业的杰出科学家；**张超**——逐梦海天的强军先锋。10位英模如座座丰碑，彰显共产党人、革命军人的崇高精神风范，邮票以高网线影写工艺印制，画框采用金属油墨，五角星异形齿孔与主题呼应。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "张思德",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-13-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "董存瑞",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-13-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "黄继光",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-13-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "邱少云",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-13-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "雷锋",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-13-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "苏宁",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-13-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "李向群",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-13-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "杨业功",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-13-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "林俊德",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-13-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "张超",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-13-10.jpg"
+      },
+      {
+        "sn": 11,
+        "format": "小全张",
+        "name": "中国人民解放军挂像英模",
+        "denomination": "",
+        "image": "/images/stamps/2025/2025-13-11.jpg"
+      }
+    ],
+    "quantity": "450万套"
+  },
+  {
+    "id": "2025-14",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "大兴安岭",
+    "issueDate": "2025-08-08",
+    "year": 2025,
+    "themes": [
+      "山水风光",
+      "山"
+    ],
+    "designer": "",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**大兴安岭**是内蒙古高原与松辽平原分水岭，国家重点国有林区。邮票依次选取湿地、火山、森林、极光四处风光——湿地展现候鸟与杜鹃，火山呈现天池奇观，森林呈秋日原始林貌，极光描绘高纬度天象，呼应“绿水青山就是金山银山”理念。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "湿地",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-14-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "火山",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-14-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "森林",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-14-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "极光",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-14-4.jpg"
+      }
+    ],
+    "quantity": "套票460万套，版式二69.3万版"
+  },
+  {
+    "id": "2025-15",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "古树名木",
+    "issueDate": "2025-08-15",
+    "year": 2025,
+    "themes": [
+      "植物花卉",
+      "树木",
+      "古树名木"
+    ],
+    "designer": "",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "全套4枚展现四棵珍贵古树：**山东**定林寺银杏树龄约4000年，堪称植物界活化石；**四川**翠云廊剑阁柏全世界仅存一株；**山西**晋祠国槐种植于隋代；**浙江**普陀山普陀鹅耳枥被誉“地球独子”，曾参与“天宫一号”太空育种。胶印+雕刻工艺呈现古树苍劲质感。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "山东定林寺银杏",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-15-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "四川翠云廊剑阁柏",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-15-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "山西晋祠国槐",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-15-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "浙江普陀山普陀鹅耳枥",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-15-4.jpg"
+      }
+    ],
+    "quantity": "470万套"
+  },
+  {
+    "id": "2025-16",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中印尼建交七十五周年",
+    "issueDate": "2025-08-30",
+    "year": 2025,
+    "themes": [
+      "周年纪念",
+      "建交",
+      "印度尼西亚"
+    ],
+    "designer": "",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "与印度尼西亚联合发行，邮票分别表现**杭州西湖**与巴厘岛布拉坦湖两处世界闻名的湖泊胜景，统一采用蓝绿色调又各具风格，寓意两国山水相依、诗情共赏。高精度影写工艺精准还原色彩层次。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "杭州西湖",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-16-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "布拉坦湖",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-16-2.jpg"
+      }
+    ],
+    "quantity": "450万套"
+  },
+  {
+    "id": "2025-17",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "西藏自治区成立六十周年",
+    "issueDate": "2025-08-15",
+    "year": 2025,
+    "themes": [
+      "周年纪念",
+      "自治区成立",
+      "西藏"
+    ],
+    "designer": "",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "1965年**西藏**自治区正式成立，60年来创造“短短几十年、跨越上千年”的人间奇迹。邮票融合藏派绘画与现代装饰风格，“同心筑梦”表现团结庆典，“美丽雪域”描绘牦牛藏羚羊与珠峰雪山，“幸福高原”展现现代化发展图景。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "同心筑梦",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-17-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "美丽雪域",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-17-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "幸福高原",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-17-3.jpg"
+      }
+    ],
+    "quantity": "490万套"
+  },
+  {
+    "id": "2025-18",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国人民抗日战争暨世界反法西斯战争胜利八十周年",
+    "issueDate": "2025-09-03",
+    "year": 2025,
+    "themes": [
+      "历史事件",
+      "抗战胜利"
+    ],
+    "designer": "",
+    "totalStamps": 13,
+    "extras": [
+      "小型张",
+      "小全张"
+    ],
+    "description": "全套13枚以14年抗战重要战役为主线，以抗战题材雕塑与历史照片为背景创作，涵盖“九·一八”“平型关大捷”“南京大屠杀”“百团大战”“中国远征军”等历史节点，铭记历史、缅怀先烈。小型张主题“珍爱和平、开创未来”，另与**香港**、**澳门**联合印制纪念张。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "奋起抗战",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-18-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "八女投江",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-18-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "全民族抗战爆发",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-18-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "平型关大捷",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-18-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "南京大屠杀",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-18-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "台儿庄战役",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-18-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "百团大战",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-18-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "刘老庄连",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-18-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "论持久战",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-18-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "人民战争",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-18-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "中国远征军",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-18-11.jpg"
+      },
+      {
+        "sn": 12,
+        "name": "并肩战斗",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-18-12.jpg"
+      },
+      {
+        "sn": 13,
+        "name": "伟大胜利",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-18-13.jpg"
+      },
+      {
+        "sn": 14,
+        "format": "小型张",
+        "name": "珍爱和平 开创未来",
+        "denomination": "6元",
+        "image": "/images/stamps/2025/2025-18-14.jpg"
+      },
+      {
+        "sn": 15,
+        "format": "小全张",
+        "name": "纪念套票",
+        "denomination": "",
+        "image": "/images/stamps/2025/2025-18-15.jpg"
+      },
+      {
+        "sn": 16,
+        "format": "小型张",
+        "name": "中国香港 抗日战争暨世界反法西斯战争胜利八十周年",
+        "denomination": "",
+        "image": "/images/stamps/2025/2025-18-16.jpg"
+      },
+      {
+        "sn": 17,
+        "format": "小全张",
+        "name": "中国澳门 抗日战争暨世界反法西斯战争胜利八十周年（2枚）",
+        "denomination": "",
+        "image": "/images/stamps/2025/2025-18-17.jpg"
+      }
+    ],
+    "quantity": "套票600万套，小型张500万枚"
+  },
+  {
+    "id": "2025-19",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "莫干山",
+    "issueDate": "2025-09-22",
+    "year": 2025,
+    "themes": [
+      "山水风光",
+      "山"
+    ],
+    "designer": "",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "**莫干山**位于**浙江**湖州，因春秋干将莫邪铸剑得名，以“竹云泉”三胜、“清静凉绿”四优著称，被誉“世界近代建筑博物馆”。邮票选取剑池飞瀑、群墅点翠、旭光云海三景，讲述铸剑传说、中西合璧建筑与日出奇观。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "剑池飞瀑",
+        "denomination": "80分",
+        "image": "/images/stamps/2025/2025-19-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "群墅点翠",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-19-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "旭光云海",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-19-3.jpg"
+      }
+    ],
+    "quantity": "套票420万套，版式二69.3万版"
+  },
+  {
+    "id": "2025-20",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "新疆维吾尔自治区成立七十周年",
+    "issueDate": "2025-09-21",
+    "year": 2025,
+    "themes": [
+      "周年纪念",
+      "自治区成立",
+      "新疆"
+    ],
+    "designer": "",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "邮票采用岩彩绘画技法，“美丽新疆”以**昆仑山**慕士塔格峰与卡拉库里湖为背景、玫瑰象征锁边工程；“团结和睦”表现各民族团结场景；“开放高地”以中欧班列、霍尔果斯国门为主体，远景现乌鲁木齐机场与博格达峰。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "美丽新疆",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-20-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "团结和睦",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-20-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "开放高地",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-20-3.jpg"
+      }
+    ],
+    "quantity": "490万套"
+  },
+  {
+    "id": "2025-21",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "故宫博物院建院一百周年",
+    "issueDate": "2025-10-10",
+    "year": 2025,
+    "themes": [
+      "文物古迹",
+      "故宫博物院"
+    ],
+    "designer": "",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**故宫博物院**成立于1925年10月10日，是中华五千年文明的重要承载者。“器载文枢”以金嵌珍珠天球仪为主体，融入神武门及宫殿群；“丹青永续”以《千年和合轴》为核心，传递中华文化传承新生的精神内核。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "器载文枢",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-21-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "丹青永续",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-21-2.jpg"
+      }
+    ],
+    "quantity": "套票490万套，版式二69.3万版"
+  },
+  {
+    "id": "2025-22",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中摩建交三十周年",
+    "issueDate": "2025-10-15",
+    "year": 2025,
+    "themes": [
+      "周年纪念",
+      "建交",
+      "摩纳哥"
+    ],
+    "designer": "",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "与摩纳哥联合发行，中国选用栽培历史悠久的春兰，摩纳哥选用美丽灵动的风铃草，寓意“友谊长存”。邮票以油画表现方式呈现，采用特种香型油墨——春兰散发兰花清香，风铃草散发花草芬芳，兼具感官体验与收藏意义。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "春兰",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-22-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "风铃草",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-22-2.jpg"
+      }
+    ],
+    "quantity": "450万套"
+  },
+  {
+    "id": "2025-23",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国农业大学建校一百二十周年",
+    "issueDate": "2025-10-16",
+    "year": 2025,
+    "themes": [
+      "周年纪念",
+      "大学建校"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**中国农业大学**溯源于1905年京师大学堂农科大学，是我国现代农业高等教育起源地。邮票以雕刻结合淡彩表现“农科大学”老校门，辅以现代校园风光，紫外灯下可见“解民生之多艰，育天下之英才”校训文字。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国农业大学建校一百二十周年",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-23-1.jpg"
+      }
+    ],
+    "quantity": "450万套"
+  },
+  {
+    "id": "2025-24",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "联合国粮食及农业组织成立八十周年",
+    "issueDate": "2025-10-16",
+    "year": 2025,
+    "themes": [
+      "周年纪念",
+      "联合国",
+      "联合国粮农组织"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "联合国粮农组织成立于1945年10月16日，中国是创始成员国之一，这一天同时也是世界粮食日。邮票以粮农组织80周年纪念标识为主体，蓝色环形象征地球家园，长城元素呼应中国，高网线影写工艺印制。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "联合国粮食及农业组织成立八十周年",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-24-1.jpg"
+      }
+    ],
+    "quantity": "460万套"
+  },
+  {
+    "id": "2025-25",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中华全国集邮联合会第九次代表大会",
+    "issueDate": "2025-11-13",
+    "year": 2025,
+    "themes": [
+      "文化",
+      "集邮",
+      "中华全国集邮联合会"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [
+      "小型张"
+    ],
+    "description": "小型张表现“黑夫木牍”——1975年出土于**湖北云梦**睡虎地秦墓，是考古发现最早的家书，延续集邮联大会系列以邮驿文化为题材的惯例。边饰竹简延展至星空银河，寓意文明传承创新，高精度胶版工艺呈现深邃星空与金属质感文字。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中华全国集邮联合会第九次代表大会",
+        "denomination": "6元",
+        "image": "/images/stamps/2025/2025-25-1.jpg"
+      }
+    ],
+    "quantity": "435万套"
+  },
+  {
+    "id": "2025-26",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "2025年全球妇女峰会暨《北京宣言》和《行动纲领》通过三十周年",
+    "issueDate": "2025-10-13",
+    "year": 2025,
+    "themes": [
+      "周年纪念",
+      "妇女"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1995年**北京**承办联合国第四次世界妇女大会，通过的《北京宣言》和《行动纲领》成为全球性别平等里程碑，三十年后各方再聚**北京**共商妇女事业发展。邮票以女性剪影、牡丹、地球、和平鸽组成“30”字样。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "2025年全球妇女峰会暨《北京宣言》和《行动纲领》通过三十周年",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-26-1.jpg"
+      }
+    ],
+    "quantity": "460万套"
+  },
+  {
+    "id": "2025-27",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中萨建交五十周年",
+    "issueDate": "2025-11-06",
+    "year": 2025,
+    "themes": [
+      "周年纪念",
+      "建交",
+      "萨摩亚"
+    ],
+    "designer": "",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "与萨摩亚联合发行，以两国特色鸟类为核心：白马鸡是**四川**丹巴莫斯卡鸟类保护区代表物种，齿嘴鸠为萨摩亚本土特有鸟类，二者顾盼相应象征两国友谊。融合西方钢笔线条与东方淡彩技法，紫外灯下鸟儿呈现漂亮荧光效果。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "白马鸡",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-27-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "齿嘴鸠",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-27-2.jpg"
+      }
+    ],
+    "quantity": "450万套"
+  },
+  {
+    "id": "2025-28",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中华人民共和国第十五届运动会",
+    "issueDate": "2025-11-09",
+    "year": 2025,
+    "themes": [
+      "体育",
+      "全运会"
+    ],
+    "designer": "",
+    "totalStamps": 3,
+    "extras": ["小全张"],
+    "description": "十五运会由粤港澳三地承办，是港澳首次承办全国运动会。邮票由内地港澳三地设计师分别创作：花样游泳以剪影展现水中灵动身姿，击剑以飞动线条表现矫健对抗，乒乓球以几何色块呈现蓄势之姿。另与**香港**、**澳门**联合印制三地小全张。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "花样游泳",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-28-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "击剑",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-28-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "乒乓球",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-28-3.jpg"
+      },
+      {
+        "sn": 4,
+        "format": "小全张",
+        "name": "三地联合小全张",
+        "denomination": "",
+        "image": "/images/stamps/2025/2025-28-4.jpg"
+      }
+    ],
+    "quantity": "套票500万套，版式二69.3万版"
+  },
+  {
+    "id": "2025-29",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "海南自由贸易港",
+    "issueDate": "2025-12-18",
+    "year": 2025,
+    "themes": [
+      "历史事件",
+      "区域发展"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "2025年12月18日**海南**自贸港正式启动全岛封关运作，标志中国对外开放迈入新阶段。邮票以自贸港形象标识为主体，背景绘五指山、稻穗、火箭、深海勇士等元素展现“五向图强”新图景，高网线影写工艺呈现灯塔发光与电缆荧光效果。",
+    "needsReview": false,
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "海南自由贸易港",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2025/2025-29-1.jpg"
+      }
+    ],
+    "quantity": "490万套"
+  }
+]
