@@ -175,10 +175,11 @@ def main():
         sys.exit(1)
     print(f"\n结果: 通过（0 错误，{len(warns)} 个警告）")
 
-    # 体检通过后自动刷新标签总表，保证 JSON 和总表始终同步
-    export_script = os.path.join("scripts", "export_tags.py")
-    if os.path.exists(export_script):
-        subprocess.run([sys.executable, export_script], check=False)
+    # 体检通过后自动刷新标签总表和录入进度表，保证报表与数据同步
+    for script in ("export_tags.py", "build_progress.py"):
+        path = os.path.join("scripts", script)
+        if os.path.exists(path):
+            subprocess.run([sys.executable, path], check=False)
 
 
 if __name__ == "__main__":
