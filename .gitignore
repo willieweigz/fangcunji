@@ -15,3 +15,6 @@ next-dev.err.log
 # Python 缓存
 __pycache__/
 *.pyc
+
+# Windows保留名意外生成的文件
+nul

@@ -23,7 +23,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 LIBRARY = "新中国邮票图片全集（1949年-2026年最新）"
 OUT = "录入进度表.md"
-YEARS = range(1992, 2027)
+YEARS = range(1990, 2027)
 
 
 def load_plan_by_year():
@@ -44,21 +44,27 @@ def find_lib_folder(year):
     if not os.path.isdir(LIBRARY):
         return None
     for name in os.listdir(LIBRARY):
-        if f"编年号{year}年" in name:
+        # 1992年及以后叫"编年号XXXX年"；1990/1991（从JT合集里提取出来的）叫"XXXX年"
+        if f"编年号{year}年" in name or name == f"15-{year}年":
             return os.path.join(LIBRARY, name)
     return None
 
 
 def check_year(year, plan_by_year):
-    # 标签
-    statuses = plan_by_year.get(year, [])
-    if not statuses:
-        tag = "—"
-    elif all(s in ("manual", "confirmed") for s in statuses):
+    # 标签：该年份数据已录入即视为标签✅（已通过体检的真实数据必然标签合规，
+    # 不管 id 是"YYYY-N"编年格式还是"T159"这种历史志号格式）
+    data_path_check = os.path.join("data", "stamps", f"{year}.json")
+    if os.path.exists(data_path_check):
         tag = "✅"
     else:
-        todo = sum(1 for s in statuses if s not in ("manual", "confirmed"))
-        tag = f"⚠️缺{todo}"
+        statuses = plan_by_year.get(year, [])
+        if not statuses:
+            tag = "—"
+        elif all(s in ("manual", "confirmed") for s in statuses):
+            tag = "✅"
+        else:
+            todo = sum(1 for s in statuses if s not in ("manual", "confirmed"))
+            tag = f"⚠️缺{todo}"
 
     # 图库整理 + md
     folder = find_lib_folder(year)
