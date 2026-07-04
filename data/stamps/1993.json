@@ -1,0 +1,683 @@
+[
+  {
+    "id": "1993-1",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "癸酉年",
+    "issueDate": "1993-01-05",
+    "year": 1993,
+    "themes": [
+      "生肖",
+      "生肖鸡"
+    ],
+    "designer": "蔡兰英",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1993 年为农历癸酉鸡年，此套邮票是第二轮生肖邮票第二组，由民间剪纸艺术家蔡兰英设计，采用鲜明的剪纸艺术风格。“雄鸡报晓”表现昂首啼鸣的雄鸡，象征朝气与新岁的开始；“四季吉祥”以鸡为中心，配以四季花卉，寓意四季平安、吉祥如意。两枚邮票色彩明快，延续生肖邮票与春节民俗、民间美术之间的紧密关联。",
+    "quantity": "25062.5万套",
+    "needsReview": false,
+    "localImageFolder": "1993-1 《癸酉年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "雄鸡报晓",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-1-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "四季吉祥",
+        "denomination": "50分",
+        "image": "/images/stamps/1993/1993-1-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-2",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "宋庆龄同志诞生一百周年",
+    "issueDate": "1993-01-20",
+    "year": 1993,
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "designer": "杨顺泰",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**宋庆龄**（1893-1981）是伟大的爱国主义、民主主义、国际主义和共产主义战士，也是举世闻名的二十世纪伟大女性。此套邮票为纪念宋庆龄诞生一百周年发行，“宋庆龄同志在海边”展现其端庄慈祥的肖像风采，“儿童与和平”以儿童和和平鸽为主要意象，呼应她长期关怀儿童事业、倡导和平进步的精神。",
+    "quantity": "5569.7万套",
+    "needsReview": false,
+    "localImageFolder": "1993-2 《宋庆龄同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "宋庆龄同志在海边",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-2-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "儿童与和平",
+        "denomination": "1元",
+        "image": "/images/stamps/1993/1993-2-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-3",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "野骆驼",
+    "issueDate": "1993-02-20",
+    "year": 1993,
+    "themes": [
+      "动物",
+      "濒危动物"
+    ],
+    "designer": "殷会利",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "野骆驼是国家一级保护动物，主要分布于中国**新疆**、**甘肃**、**内蒙古**等荒漠地带，是世界上唯一幸存的野生双峰驼种群。邮票以写实手法描绘野骆驼在沙漠环境中行走、栖息的场景，表现其适应严酷荒漠生态的生命力。题材本身也带有明确的保护意识，提醒人们关注濒危珍稀物种和荒漠生态系统。",
+    "quantity": "5380.25万套",
+    "needsReview": false,
+    "localImageFolder": "1993-3 《野骆驼》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "野骆驼",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-3-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "野骆驼",
+        "denomination": "1.60元",
+        "image": "/images/stamps/1993/1993-3-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-4",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中华人民共和国第八届全国人民代表大会",
+    "issueDate": "1993-03-15",
+    "year": 1993,
+    "themes": [
+      "历史事件",
+      "人大"
+    ],
+    "designer": "冯小红、何洁",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1993 年 3 月，第八届全国人民代表大会第一次会议在**北京**召开。此套纪念邮票以人民代表大会制度为主题，画面以红旗和**天安门**为主视觉元素，象征人民当家作主的根本政治制度。横向构图使庄重的国家政治题材更具纪念性，也记录了 1990 年代初国家政治生活中的重要节点。",
+    "quantity": "19406.75万枚",
+    "needsReview": false,
+    "localImageFolder": "1993-4 《中华人民共和国第八届全国人民代表大会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中华人民共和国第八届全国人民代表大会",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-4-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-5",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "围棋",
+    "issueDate": "1993-04-30",
+    "year": 1993,
+    "themes": [
+      "文化",
+      "棋类"
+    ],
+    "designer": "钱忠平",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "围棋是中国传统智力竞技项目，兼具博弈技巧、审美意趣和文化象征。此套邮票从古今两个侧面表现围棋：“古人对弈图”以古代文人弈棋为题材，强调围棋悠久的历史和士人文化气质；“中国流布局”展示现代围棋中的经典布局方式，象征中国围棋事业的传承与发展。两枚一静一动，将棋艺传统与竞技思维并置呈现。",
+    "quantity": "5656.25万套",
+    "needsReview": false,
+    "localImageFolder": "1993-5 《围棋》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "围棋—古人对弈图",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-5-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "围棋—中国流布局",
+        "denomination": "1.60元",
+        "image": "/images/stamps/1993/1993-5-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-6",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "第一届东亚运动会",
+    "issueDate": "1993-05-09",
+    "year": 1993,
+    "themes": [
+      "体育",
+      "综合运动会"
+    ],
+    "designer": "李玮、李斌",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "第一届东亚运动会于 1993 年 5 月 9 日至 18 日在**上海**举行，是中国首次承办的大型综合性国际运动会。邮票以运动员形象和吉祥物“东东”为两枚主题，前者突出竞技体育的动感，后者以牛犊形象传达亲和与活力。整套邮票记录了东亚地区体育交流的平台初创，也反映了中国城市承办国际体育赛事能力的提升。",
+    "quantity": "7341万套",
+    "needsReview": false,
+    "localImageFolder": "1993-6 《第一届东亚运动会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "运动员",
+        "denomination": "50分",
+        "image": "/images/stamps/1993/1993-6-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "吉祥物",
+        "denomination": "50分",
+        "image": "/images/stamps/1993/1993-6-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-7",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "竹子",
+    "issueDate": "1993-06-15",
+    "year": 1993,
+    "themes": [
+      "植物花卉",
+      "竹"
+    ],
+    "designer": "肖溶",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "竹子在中国传统文化中被列为“四君子”之一，常象征高洁、虚心和坚韧。此套邮票选取紫竹、金镶玉竹、佛肚竹、茶秆竹四种典型竹类，以工笔手法描绘竹竿、竹节、枝叶和色泽差异。小型张“毛竹”展现竹林成片生长的恢宏气势，使植物科学题材同时带有鲜明的文人审美和人格象征意味。",
+    "quantity": "5233.7万套，小型张4330.2万枚",
+    "needsReview": false,
+    "localImageFolder": "1993-7 《竹子》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "紫竹",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-7-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "金镶玉竹",
+        "denomination": "30分",
+        "image": "/images/stamps/1993/1993-7-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "佛肚竹",
+        "denomination": "40分",
+        "image": "/images/stamps/1993/1993-7-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "茶秆竹",
+        "denomination": "1元",
+        "image": "/images/stamps/1993/1993-7-4.jpg"
+      },
+      {
+        "sn": 5,
+        "format": "小型张",
+        "name": "毛竹",
+        "denomination": "5元",
+        "image": "/images/stamps/1993/1993-7-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-8",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "爱国民主人士（一）",
+    "issueDate": "1993-05-15",
+    "year": 1993,
+    "themes": [
+      "人物",
+      "现代人",
+      "爱国民主人士"
+    ],
+    "designer": "朱振庚",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《爱国民主人士（一）》以肖像画形式纪念中国近现代史上的四位重要人物：**李济深**曾任中国国民党革命委员会主要领导人；**张澜**是著名民主人士和教育家；**沈钧儒**是法学家、社会活动家；**黄炎培**是近现代职业教育的重要倡导者。邮票通过庄重的肖像构图，缅怀他们在中国革命、民主政治和建设事业中的贡献。",
+    "quantity": "5301.75万套",
+    "needsReview": false,
+    "localImageFolder": "1993-8 《爱国民主人士（一）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "李济深",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-8-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "张澜",
+        "denomination": "30分",
+        "image": "/images/stamps/1993/1993-8-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "沈钧儒",
+        "denomination": "50分",
+        "image": "/images/stamps/1993/1993-8-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "黄炎培",
+        "denomination": "1元",
+        "image": "/images/stamps/1993/1993-8-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-9",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "长白山",
+    "issueDate": "1993-09-03",
+    "year": 1993,
+    "themes": [
+      "山水风光",
+      "山"
+    ],
+    "designer": "黄华强",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**长白山**位于中国**吉林省**东南部，是著名的火山地貌自然保护区。此套邮票从不同生态景观切入：天池表现火山湖的碧波与高远，高山苔原呈现寒地植被的苍茫，瀑布突出山地水势的奔涌，针阔混交林展示层次丰富的森林生态。四枚合看，既有山水风光的审美价值，也呈现长白山自然生态系统的多样性。",
+    "quantity": "5303.2万套",
+    "needsReview": false,
+    "localImageFolder": "1993-9 《长白山》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "长白山天池",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-9-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "长白山高山苔原",
+        "denomination": "30分",
+        "image": "/images/stamps/1993/1993-9-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "长白山瀑布",
+        "denomination": "50分",
+        "image": "/images/stamps/1993/1993-9-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "长白山针阔混交林",
+        "denomination": "1元",
+        "image": "/images/stamps/1993/1993-9-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-10",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国古典文学名著《水浒传》（第四组）",
+    "issueDate": "1993-08-20",
+    "year": 1993,
+    "themes": [
+      "文学名著",
+      "水浒传"
+    ],
+    "designer": "周峰",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "此套邮票是《中国古典文学名著〈水浒传〉》系列第四组，选取小说中四个紧张而富戏剧性的情节。“柴进失陷高唐州”引出高唐州故事线，“时迁盗甲”表现梁山好汉智取关键战具，“徐宁教使钩镰枪”承接破敌之法，“劫法场石秀跳楼”则刻画石秀舍身救人的勇烈瞬间。画面以传统工笔重彩表现人物、兵器和场景，强化小说叙事的连环画式张力。",
+    "quantity": "4309.5万套",
+    "needsReview": false,
+    "localImageFolder": "1993-10 《中国古典文学名著《水浒传》（第四组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "柴进失陷高唐州",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-10-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "时迁盗甲",
+        "denomination": "30分",
+        "image": "/images/stamps/1993/1993-10-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "徐宁教使钩镰枪",
+        "denomination": "50分",
+        "image": "/images/stamps/1993/1993-10-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "劫法场石秀跳楼",
+        "denomination": "2元",
+        "image": "/images/stamps/1993/1993-10-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-11",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "蜜蜂",
+    "issueDate": "1993-09-21",
+    "year": 1993,
+    "themes": [
+      "动物",
+      "昆虫"
+    ],
+    "designer": "刘显波",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "蜜蜂是重要的经济昆虫，也在农业生产和生态平衡中发挥关键作用。此套邮票以“蜂王”“采蜜”“中华蜜蜂”“授粉”四个主题组织画面，从蜂群结构、采集行为、本土蜂种和植物授粉等方面展示蜜蜂生活。邮票兼具科普性与装饰性，既表现微小昆虫的形态美，也提示蜜蜂与农作物、花卉及生态系统之间的密切关系。",
+    "quantity": "5253.7万套",
+    "needsReview": false,
+    "localImageFolder": "1993-11 《蜜蜂》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "蜂王",
+        "denomination": "10分",
+        "image": "/images/stamps/1993/1993-11-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "采蜜",
+        "denomination": "15分",
+        "image": "/images/stamps/1993/1993-11-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "中华蜜蜂",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-11-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "授粉",
+        "denomination": "2元",
+        "image": "/images/stamps/1993/1993-11-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-12",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中华人民共和国第七届运动会",
+    "issueDate": "1993-09-04",
+    "year": 1993,
+    "themes": [
+      "体育",
+      "全运会"
+    ],
+    "designer": "张安朴",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "中华人民共和国第七届运动会于 1993 年 9 月 4 日至 15 日在**北京**举行，是全国性大型综合体育盛会。邮票以运动员剪影为主图案，利用简洁有力的姿态表现竞技体育的速度与力量。作为全运会纪念邮票，它既记录赛事本身，也反映 1990 年代群众体育、竞技体育和城市体育设施建设共同发展的时代气息。",
+    "quantity": "11603.7万枚",
+    "needsReview": false,
+    "localImageFolder": "1993-12 《中华人民共和国第七届运动会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中华人民共和国第七届运动会",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-12-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-13",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "龙门石窟",
+    "issueDate": "1993-09-05",
+    "year": 1993,
+    "themes": [
+      "文物古迹",
+      "石窟"
+    ],
+    "designer": "任国恩、王虎鸣",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "**龙门石窟**位于**河南洛阳**，是中国四大石窟之一，始凿于北魏，历经东西魏、北齐、隋唐等朝代，后来被列入世界文化遗产。此套邮票选取唐代奉先寺卢舍那大佛、北魏宾阳中洞释迦牟尼、唐代天王足踏药叉和北魏古阳洞左胁侍菩萨等代表性造像，小型张呈现奉先寺全景。北魏清峻与盛唐恢宏在方寸间并列，展示中国石窟艺术的历史跨度。",
+    "quantity": "4201.75万套，小型张3486万枚",
+    "needsReview": false,
+    "localImageFolder": "1993-13 《龙门石窟》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "唐·奉先寺卢舍那大佛",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-13-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "北魏·宾阳中洞释迦牟尼",
+        "denomination": "30分",
+        "image": "/images/stamps/1993/1993-13-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "唐·奉先寺天王足踏药叉",
+        "denomination": "50分",
+        "image": "/images/stamps/1993/1993-13-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "北魏·古阳洞左胁侍菩萨",
+        "denomination": "1元",
+        "image": "/images/stamps/1993/1993-13-4.jpg"
+      },
+      {
+        "sn": 5,
+        "format": "小型张",
+        "name": "唐·奉先寺",
+        "denomination": "5元",
+        "image": "/images/stamps/1993/1993-13-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-14",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国古代漆器",
+    "issueDate": "1993-10-20",
+    "year": 1993,
+    "themes": [
+      "文物古迹",
+      "漆器"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "中国是世界上最早发现和使用天然漆的国家之一，漆器工艺源远流长。此套邮票选取新石器时代朱漆木碗、战国彩绘乐舞鸳鸯形盒、元代剔红紫萼圆盘、清代菊瓣形朱漆盒四件代表性器物，横跨多个历史阶段。题材从实用器到陈设赏玩之物，呈现漆器在造型、彩绘、雕漆等工艺上的发展脉络，也显示古代手工艺的审美高度。",
+    "quantity": "4301.75万套",
+    "needsReview": false,
+    "localImageFolder": "1993-14 《中国古代漆器》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "新石器·朱漆木碗",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-14-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "战国·彩绘乐舞鸳鸯形盒",
+        "denomination": "30分",
+        "image": "/images/stamps/1993/1993-14-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "元·剔红紫萼圆盘",
+        "denomination": "50分",
+        "image": "/images/stamps/1993/1993-14-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "清·菊瓣形朱漆盒",
+        "denomination": "1元",
+        "image": "/images/stamps/1993/1993-14-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-15",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "郑板桥作品选",
+    "issueDate": "1993-11-22",
+    "year": 1993,
+    "themes": [
+      "绘画艺术",
+      "古画"
+    ],
+    "designer": "潘可明、卢天骄",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "**郑板桥**（1693-1765）是清代著名书画家、“扬州八怪”之一，以画兰、竹、石和独创“六分半书”闻名。此套邮票发行于郑板桥诞生三百周年之际，选取竹石扇面、兰花册页、兰竹石大中堂、竹石图轴、瓶菊册页、书法扇面六件作品。题材覆盖花卉、竹石与书法，既展示其诗书画三绝，也体现文人画中人格寄托与笔墨趣味的结合。",
+    "quantity": "4633.7万套",
+    "needsReview": false,
+    "localImageFolder": "1993-15 《郑板桥作品选》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "竹石扇面",
+        "denomination": "10分",
+        "image": "/images/stamps/1993/1993-15-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "兰花册页",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-15-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "兰竹石大中堂",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-15-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "竹石图轴",
+        "denomination": "30分",
+        "image": "/images/stamps/1993/1993-15-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "瓶菊册页",
+        "denomination": "50分",
+        "image": "/images/stamps/1993/1993-15-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "书法扇面",
+        "denomination": "1.60元",
+        "image": "/images/stamps/1993/1993-15-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-16",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "杨虎城诞生一百周年",
+    "issueDate": "1993-11-26",
+    "year": 1993,
+    "themes": [
+      "人物",
+      "现代人",
+      "爱国民主人士"
+    ],
+    "designer": "邹建军",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**杨虎城**（1893-1949）是著名爱国将领。1936 年，他与**张学良**共同发动“西安事变”，促成国共第二次合作和抗日民族统一战线的建立，在中国近现代史上具有重要地位。此枚纪念邮票为杨虎城诞生一百周年发行，图案采用将军肖像，着重表现其坚毅气质，并以人物纪念的方式缅怀其爱国精神和历史功绩。",
+    "quantity": "8109.25万枚",
+    "needsReview": false,
+    "localImageFolder": "1993-16 《杨虎城诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "杨虎城诞生一百周年",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-16-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1993-17",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "毛泽东同志诞生一百周年",
+    "issueDate": "1993-12-26",
+    "year": 1993,
+    "themes": [
+      "共产党人",
+      "毛泽东",
+      "领袖"
+    ],
+    "designer": "魏楚予、彭彬",
+    "totalStamps": 2,
+    "extras": [
+      "小型张"
+    ],
+    "description": "**毛泽东**（1893-1976）是伟大的马克思主义者，无产阶级革命家、战略家和理论家，中国共产党、中国人民解放军和中华人民共和国的主要缔造者和领导人。此套邮票为毛泽东诞生一百周年发行，两枚正票分别表现“毛泽东在陕北”和“毛泽东在中南海”，小型张表现“毛泽东在建国初期”。三幅形象对应革命战争、国家建设和领袖纪念的不同历史阶段。",
+    "quantity": "5095.7万套，小型张3726.34万枚",
+    "needsReview": false,
+    "localImageFolder": "1993-17 《毛泽东同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "毛泽东在陕北",
+        "denomination": "20分",
+        "image": "/images/stamps/1993/1993-17-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "毛泽东在中南海",
+        "denomination": "1元",
+        "image": "/images/stamps/1993/1993-17-2.jpg"
+      },
+      {
+        "sn": 3,
+        "format": "小型张",
+        "name": "毛泽东在建国初期",
+        "denomination": "5元",
+        "image": "/images/stamps/1993/1993-17-3.jpg"
+      }
+    ]
+  }
+]

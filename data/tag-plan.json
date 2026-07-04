@@ -1,12 +1,12 @@
 [
  {
   "id": "1992-1",
-  "title": "壬申年-猴",
+  "title": "壬申年",
   "themes": [
    "生肖",
    "生肖猴"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-10",
@@ -16,7 +16,7 @@
    "建交",
    "日本"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-11",
@@ -26,7 +26,7 @@
    "古画",
    "敦煌壁画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-12",
@@ -36,7 +36,7 @@
    "民间信仰",
    "妈祖"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-13",
@@ -46,7 +46,7 @@
    "党史",
    "十四大"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-14",
@@ -55,7 +55,7 @@
    "科技",
    "航天"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-15",
@@ -64,7 +64,7 @@
    "共产党人",
    "模范人物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-16",
@@ -74,7 +74,7 @@
    "非物质文化遗产",
    "石雕"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-17",
@@ -83,7 +83,7 @@
    "解放军",
    "十大元帅"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-18",
@@ -92,7 +92,7 @@
    "解放军",
    "十大元帅"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-19",
@@ -102,7 +102,7 @@
    "现代人",
    "中国现代科学家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-2",
@@ -112,16 +112,16 @@
    "鸟类",
    "鹳"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-20",
-  "title": "中华人民共和国宪法（1982-1992）",
+  "title": "中华人民共和国宪法（",
   "themes": [
    "周年纪念",
    "宪法"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-3",
@@ -131,7 +131,7 @@
    "树木",
    "杉树"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-4",
@@ -141,16 +141,16 @@
    "农业",
    "海洋"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-5",
-  "title": "纪念《在延安文艺座谈会上的讲话发表五十周年》",
+  "title": "纪念《在延安文艺座谈会上的讲话》发表五十周年",
   "themes": [
    "周年纪念",
    "延安文艺座谈会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-6",
@@ -160,7 +160,7 @@
    "环保",
    "联合国"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-7",
@@ -169,7 +169,7 @@
    "动物",
    "昆虫"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-8",
@@ -178,7 +178,7 @@
    "体育",
    "奥运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1992-9",
@@ -187,16 +187,16 @@
    "文学名著",
    "三国演义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-1",
-  "title": "癸酉年-鸡",
+  "title": "癸酉年",
   "themes": [
    "生肖",
    "生肖鸡"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-10",
@@ -205,7 +205,7 @@
    "文学名著",
    "水浒传"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-11",
@@ -214,7 +214,7 @@
    "动物",
    "昆虫"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-12",
@@ -223,7 +223,7 @@
    "体育",
    "全运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-13",
@@ -232,7 +232,7 @@
    "文物古迹",
    "石窟"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-14",
@@ -241,7 +241,7 @@
    "文物古迹",
    "漆器"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-15",
@@ -250,7 +250,7 @@
    "绘画艺术",
    "古画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-16",
@@ -260,7 +260,7 @@
    "现代人",
    "爱国民主人士"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-17",
@@ -270,7 +270,7 @@
    "毛泽东",
    "领袖"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-2",
@@ -279,7 +279,7 @@
    "共产党人",
    "老一辈革命家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-3",
@@ -288,7 +288,7 @@
    "动物",
    "濒危动物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-4",
@@ -297,7 +297,7 @@
    "历史事件",
    "人大"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-5",
@@ -306,7 +306,7 @@
    "文化",
    "棋类"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-6",
@@ -315,7 +315,7 @@
    "体育",
    "综合运动会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-7",
@@ -324,17 +324,17 @@
    "植物花卉",
    "竹"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-8",
-  "title": "爱国民主人士 (一)",
+  "title": "爱国民主人士（一）",
   "themes": [
    "人物",
    "现代人",
    "爱国民主人士"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1993-9",
@@ -343,7 +343,7 @@
    "山水风光",
    "山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "1994-1",
@@ -7053,7 +7053,7 @@
   "title": "中华人民共和国成立七十周年",
   "themes": [
    "历史事件",
-   "国庆七十周年"
+   "国庆"
   ],
   "status": "confirmed"
  },
@@ -7136,7 +7136,7 @@
  },
  {
   "id": "2019-31",
-  "title": "二十四节气",
+  "title": "二十四节气（四）",
   "themes": [
    "文化",
    "非物质文化遗产",
@@ -7817,8 +7817,7 @@
   "title": "虎（文物）",
   "themes": [
    "文物古迹",
-   "虎",
-   "青铜器"
+   "瑞兽"
   ],
   "status": "confirmed"
  },
@@ -8651,7 +8650,7 @@
  },
  {
   "id": "2025-26",
-  "title": "2025年全球妇女峰会暨《北京宣言》和《行动纲领》通过三十周年",
+  "title": "2025年全球妇女峰会暨〈北京宣言〉和〈行动纲领〉通过三十周年",
   "themes": [
    "周年纪念",
    "妇女"
@@ -9321,32 +9320,47 @@
  {
   "id": "J175",
   "title": "巴黎公社一百二十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "巴黎公社"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "J176",
   "title": "和平解放西藏四十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "西藏"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "J177",
   "title": "南极条约生效三十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "南极条约"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "J178",
   "title": "中国共产党成立七十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "建党"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "J179",
   "title": "陈胜、吴广起义二千二百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "农民起义"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "J18",
@@ -9357,38 +9371,56 @@
  {
   "id": "J180",
   "title": "第十三届国际第四纪研究联合会大会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "学术会议"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "J181",
   "title": "陈毅同志诞生九十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "解放军",
+   "十大元帅"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "J182",
   "title": "辛亥革命时期著名人物",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "人物",
+   "辛亥革命"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "J183",
   "title": "陶行知诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "人物",
+   "现代人"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "J184",
   "title": "徐向前同志诞生九十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "解放军",
+   "十大元帅"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "J185",
   "title": "第一届世界女子足球锦标赛",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "足球"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "J19",
@@ -10323,8 +10355,12 @@
  {
   "id": "T156",
   "title": "都江堰水利工程",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "水利",
+   "都江堰"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "T157",
@@ -10345,7 +10381,7 @@
    "生肖",
    "生肖羊"
   ],
-  "status": "auto"
+  "status": "confirmed"
  },
  {
   "id": "T16",
@@ -10356,56 +10392,86 @@
  {
   "id": "T160",
   "title": "计划生育",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "民生"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "T161",
   "title": "野羊",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "野羊"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "T162",
   "title": "杜鹃花",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "植物花卉",
+   "花卉",
+   "杜鹃花"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "T163",
   "title": "恒山",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "山水风光",
+   "五岳",
+   "恒山"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "T164",
   "title": "承德避暑山庄",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "世界文化遗产"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "T165",
   "title": "社会主义建设成就（第四组）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "建设成就"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "T166",
   "title": "景德镇瓷器",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文物古迹",
+   "陶瓷",
+   "景德镇"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "T167",
   "title": "中国古典文学名著-《水浒传》（第三组）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文学名著",
+   "水浒传"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "T168",
   "title": "赈灾",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "历史事件",
+   "民生"
+  ],
+  "status": "confirmed"
  },
  {
   "id": "T17",
