@@ -6,124 +6,188 @@
    "生肖",
    "生肖猴"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "1992-10",
   "title": "中日邦交正常化二十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "建交",
+   "日本"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-11",
   "title": "敦煌壁画（第四组）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "绘画艺术",
+   "古画",
+   "敦煌壁画"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-12",
   "title": "妈祖",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "民间信仰",
+   "妈祖"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-13",
-  "title": "中国共产党第十四次全国代表团大会",
-  "themes": [],
-  "status": "todo"
+  "title": "中国共产党第十四次全国代表大会",
+  "themes": [
+   "历史事件",
+   "党史",
+   "十四大"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-14",
   "title": "国际空间年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "航天"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-15",
-  "title": "党的好干部–焦裕禄",
-  "themes": [],
-  "status": "todo"
+  "title": "党的好干部——焦裕禄",
+  "themes": [
+   "共产党人",
+   "模范人物"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-16",
   "title": "青田石雕",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文化",
+   "非物质文化遗产",
+   "石雕"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-17",
   "title": "罗荣桓同志诞生九十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "十大元帅"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-18",
   "title": "刘伯承同志诞生一百周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "共产党人",
+   "十大元帅"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-19",
   "title": "中国现代科学家（三）",
   "themes": [
    "人物",
+   "现代人",
    "中国现代科学家"
   ],
-  "status": "auto"
+  "status": "manual"
  },
  {
   "id": "1992-2",
   "title": "鹳",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "鸟类",
+   "鹳"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-20",
-  "title": "中华人民共和国宪法（",
-  "themes": [],
-  "status": "todo"
+  "title": "中华人民共和国宪法（1982-1992）",
+  "themes": [
+   "周年纪念",
+   "宪法"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-3",
   "title": "杉树",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "植物花卉",
+   "树木",
+   "杉树"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-4",
   "title": "近海养殖",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "科技",
+   "农业",
+   "海洋"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-5",
   "title": "纪念《在延安文艺座谈会上的讲话发表五十周年》",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "延安文艺座谈会"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-6",
   "title": "联合国人类环境会议二十周年",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "周年纪念",
+   "环保",
+   "联合国"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-7",
   "title": "昆虫",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "动物",
+   "昆虫"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-8",
   "title": "第二十五届奥林匹克运动会",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "体育",
+   "奥运会"
+  ],
+  "status": "manual"
  },
  {
   "id": "1992-9",
   "title": "中国古典文学名著《三国演义》（第三组）",
-  "themes": [],
-  "status": "todo"
+  "themes": [
+   "文学名著",
+   "三国演义"
+  ],
+  "status": "manual"
  },
  {
   "id": "1993-1",

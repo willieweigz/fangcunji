@@ -7,3 +7,11 @@ next-env.d.ts
 next-dev.log
 next-dev.err.log
 *.log
+
+# 原始邮票图库（24GB，仅本地录入用，绝不提交到 git / 不部署）
+# 网站只需要 public/images/stamps/ 里筛选压缩后的图片
+新中国邮票图片全集（1949年-2026年最新）/
+
+# Python 缓存
+__pycache__/
+*.pyc

@@ -16,7 +16,7 @@ import sys
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-LIBRARY = r"D:\BaiduNetdiskDownload\新中国邮票图片全集（1949年-2025年最新）"
+LIBRARY = "新中国邮票图片全集（1949年-2026年最新）"
 PLAN = os.path.join("data", "tag-plan.json")
 
 GANZHI_ANIMAL = {
