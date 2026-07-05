@@ -15,7 +15,6 @@
 """
 import json
 import os
-import re
 import sys
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -23,53 +22,45 @@ if hasattr(sys.stdout, "reconfigure"):
 
 LIBRARY = "新中国邮票图片全集（1949年-2026年最新）"
 OUT = "录入进度表.md"
-YEARS = range(1990, 2027)
+YEARS = range(1949, 2027)
 
 
-def load_plan_by_year():
+def load_plan_by_id():
     path = os.path.join("data", "tag-plan.json")
     if not os.path.exists(path):
         return {}
-    by_year = {}
-    for e in json.load(open(path, encoding="utf-8")):
-        m = re.match(r"(\d{4})-", e["id"])
-        if not m:
-            continue
-        y = int(m.group(1))
-        by_year.setdefault(y, []).append(e["status"])
-    return by_year
+    return {e["id"]: e["status"] for e in json.load(open(path, encoding="utf-8"))}
 
 
 def find_lib_folder(year):
     if not os.path.isdir(LIBRARY):
         return None
+    matches = []
     for name in os.listdir(LIBRARY):
-        # 1992年及以后叫"编年号XXXX年"；1990/1991（从JT合集里提取出来的）叫"XXXX年"
-        if f"编年号{year}年" in name or name == f"15-{year}年":
-            return os.path.join(LIBRARY, name)
+        # 1992年及以后叫"编年号XXXX年"；1989/1990/1991（从JT合集里提取出来的）叫"XXXX年"或"15-XXXX年"
+        if f"编年号{year}年" in name or name == f"15-{year}年" or name == f"{year}年":
+            matches.append(name)
+    if matches:
+        matches.sort(key=lambda n: (0 if "编年号" in n else 1, n))
+        return os.path.join(LIBRARY, matches[0])
     return None
 
 
-def check_year(year, plan_by_year):
-    # 标签：该年份数据已录入即视为标签✅（已通过体检的真实数据必然标签合规，
-    # 不管 id 是"YYYY-N"编年格式还是"T159"这种历史志号格式）
-    data_path_check = os.path.join("data", "stamps", f"{year}.json")
-    if os.path.exists(data_path_check):
-        tag = "✅"
-    else:
-        statuses = plan_by_year.get(year, [])
-        if not statuses:
-            tag = "—"
-        elif all(s in ("manual", "confirmed") for s in statuses):
-            tag = "✅"
-        else:
-            todo = sum(1 for s in statuses if s not in ("manual", "confirmed"))
-            tag = f"⚠️缺{todo}"
+def folder_ids(folder, subs):
+    """从子文件夹名提取志号（空格前的第一段），用于历史 T/J 志号年份的标签核对。"""
+    ids = []
+    for d in subs:
+        head = d.replace("《", " ").split(" ")[0].strip()
+        if head:
+            ids.append(head)
+    return ids
 
-    # 图库整理 + md
+
+def check_year(year, plan_by_id):
+    # 图库整理 + md（先算，历史志号年份要靠子文件夹名反查标签状态）
     folder = find_lib_folder(year)
     if not folder:
-        lib, md = "❌无", "—"
+        lib, md, subs = "❌无", "—", []
     else:
         subs = [d for d in os.listdir(folder) if os.path.isdir(os.path.join(folder, d))]
         if not subs:
@@ -82,6 +73,22 @@ def check_year(year, plan_by_year):
                 if any(f.endswith(".md") for f in os.listdir(os.path.join(folder, d)))
             )
             md = "✅" if with_md == len(subs) else f"⚠️{with_md}/{len(subs)}"
+
+    # 标签：该年份数据已录入即视为标签✅（已通过体检的真实数据必然标签合规）
+    data_path_check = os.path.join("data", "stamps", f"{year}.json")
+    if os.path.exists(data_path_check):
+        tag = "✅"
+    else:
+        ids = folder_ids(folder, subs) if folder else []
+        if not ids:
+            tag = "—"
+        else:
+            statuses = [plan_by_id.get(i, "todo") for i in ids]
+            if all(s in ("manual", "confirmed") for s in statuses):
+                tag = "✅"
+            else:
+                todo = sum(1 for s in statuses if s not in ("manual", "confirmed"))
+                tag = f"⚠️缺{todo}"
 
     # 数据录入
     data_path = os.path.join("data", "stamps", f"{year}.json")
@@ -102,7 +109,7 @@ def check_year(year, plan_by_year):
 
 
 def main():
-    plan_by_year = load_plan_by_year()
+    plan_by_id = load_plan_by_id()
     lines = [
         "# 方寸集 · 录入进度表",
         "",
@@ -115,7 +122,7 @@ def main():
         "|---|---|---|---|---|---|---|",
     ]
     for year in sorted(YEARS, reverse=True):
-        tag, lib, md, data, img = check_year(year, plan_by_year)
+        tag, lib, md, data, img = check_year(year, plan_by_id)
         ready = "✅ 可" if (tag == "✅" and lib.startswith("✅") and md == "✅") else "—"
         if data.startswith("✅"):
             ready = "已录入"

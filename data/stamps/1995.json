@@ -1,0 +1,1179 @@
+[
+  {
+    "id": "1995-1",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "乙亥年",
+    "issueDate": "1995-01-05",
+    "year": 1995,
+    "themes": [
+      "生肖",
+      "生肖猪"
+    ],
+    "designer": "吴建坤、杨文清",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1995 年为农历乙亥猪年，此套邮票是第二轮生肖邮票第四组。“肥猪拱门”以民间布玩具猪为造型，寓意财运亨通、家门兴旺；“喜迎新春”结合剪纸猪与窗花纹样，表现春节喜庆气氛。两枚邮票延续生肖票与民间美术、岁时节令之间的联系。",
+    "quantity": "10006.5万套",
+    "needsReview": false,
+    "localImageFolder": "1995-1 《乙亥年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "肥猪拱门",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-1-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "喜迎新春",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-1-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-2",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "吉林雾凇",
+    "issueDate": "1995-01-12",
+    "year": 1995,
+    "themes": [
+      "山水风光",
+      "冰雪"
+    ],
+    "designer": "吴建坤",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**吉林**雾凇是松花江畔冬季特有的自然景观，常与桂林山水、长江三峡、云南石林并称中国四大自然奇观。邮票以“寒江雪柳”和“玉树琼花”表现江岸树木凝霜挂雪后的晶莹景象，画面银装素裹，突出北国冬日的静美。",
+    "quantity": "2651.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-2 《吉林雾凇》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "寒江雪柳",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-2-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "玉树琼花",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-2-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-3",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "鼎湖山",
+    "issueDate": "1995-02-18",
+    "year": 1995,
+    "themes": [
+      "山水风光",
+      "山"
+    ],
+    "designer": "王振华",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "鼎湖山位于**广东肇庆**，是中国第一个自然保护区，也是联合国“人与生物圈”自然保护区网成员。邮票从北回归线绿洲、沟谷雨林、季风常绿阔叶林和白鹇四个角度展开，呈现这里丰富的森林生态、物种资源与自然保护价值。",
+    "quantity": "2651.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-3 《鼎湖山》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "北回归线上的绿洲",
+        "denomination": "15分",
+        "image": "/images/stamps/1995/1995-3-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "沟谷雨林",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-3-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "季风常绿阔叶林",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-3-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "白鹇",
+        "denomination": "1.50元",
+        "image": "/images/stamps/1995/1995-3-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-4",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "社会发展 共创未来",
+    "issueDate": "1995-03-06",
+    "year": 1995,
+    "themes": [
+      "历史事件",
+      "国际峰会"
+    ],
+    "designer": "孙振",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1995 年 3 月，联合国社会发展世界首脑会议在**哥本哈根**举行，会议关注贫困、就业、社会融合等全球议题。邮票以地球、和平鸽和人群等元素构成画面，表达各国共同推动社会发展、共享未来的主题。",
+    "quantity": "10011.75万枚",
+    "needsReview": false,
+    "localImageFolder": "1995-4 《社会发展 共创未来》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "社会发展 共创未来",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-4-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-5",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "鸮",
+    "issueDate": "1995-03-22",
+    "year": 1995,
+    "themes": [
+      "动物",
+      "鸟类"
+    ],
+    "designer": "马刚",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "鸮俗称猫头鹰，是夜行性猛禽，许多种类属于国家重点保护野生动物。此套邮票选取鵰鸮、长耳鸮、雪鸮和草鸮，分别表现不同鸮类的体态、羽色与栖息环境，也借邮票图像传播保护猛禽和维护生态平衡的观念。",
+    "quantity": "2481.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-5 《鸮》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "鵰鸮",
+        "denomination": "10分",
+        "image": "/images/stamps/1995/1995-5-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "长耳鸮",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-5-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "雪鸮",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-5-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "草鸮",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-5-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-6",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "桂花",
+    "issueDate": "1995-04-14",
+    "year": 1995,
+    "themes": [
+      "植物花卉",
+      "花卉"
+    ],
+    "designer": "朱曙征",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "桂花是中国传统名花，花香清远，常被赋予高洁、吉祥与秋日雅趣等意象。邮票以工笔方式描绘金桂、银桂、丹桂和四季桂四个品类，既展示不同花色与花形，也呈现桂花作为园林观赏植物和文化象征的双重意味。",
+    "quantity": "2481.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-6 《桂花》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "金桂",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-6-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "银桂",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-6-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "丹桂",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-6-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "四季桂",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-6-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-7",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "第43届世界乒乓球锦标赛",
+    "issueDate": "1995-05-01",
+    "year": 1995,
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
+    "designer": "孟祥斌",
+    "totalStamps": 2,
+    "extras": [
+      "小全张"
+    ],
+    "description": "第 43 届世界乒乓球锦标赛于 1995 年 5 月 1 日至 14 日在**天津**举行，中国队在本届赛事中包揽七项冠军。邮票以运动员和比赛场馆为主题，小全张将两枚邮票连印成张，记录乒乓球这一中国优势项目的重要赛事时刻。",
+    "quantity": "10011.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-7 《第43届世界乒乓球锦标赛》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "运动员",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-7-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "场馆",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-7-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "第43届世界乒乓球锦标赛",
+        "denomination": "20分+50分",
+        "image": "/images/stamps/1995/1995-7-3.jpg",
+        "format": "小全张"
+      }
+    ]
+  },
+  {
+    "id": "1995-8",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "虢国夫人游春图",
+    "issueDate": "1995-05-23",
+    "year": 1995,
+    "themes": [
+      "绘画艺术",
+      "古画"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "《虢国夫人游春图》传为唐代画家张萱所作，描绘杨贵妃三姐虢国夫人率众出游的场景，原作现藏**辽宁省博物馆**。此套邮票以两枚连贯画面呈现长卷局部，重点表现人物服饰、马匹动态和唐代贵族游春的雍容气象。",
+    "quantity": "2704.95万套",
+    "needsReview": false,
+    "localImageFolder": "1995-8 《虢国夫人游春图》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "游春图",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-8-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "游春图",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-8-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-9",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国皮影",
+    "issueDate": "1995-06-08",
+    "year": 1995,
+    "themes": [
+      "文化",
+      "非物质文化遗产"
+    ],
+    "designer": "王虎鸣、阎炳武",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "中国皮影是集雕刻、绘画、唱腔和表演于一体的传统民间艺术。邮票选取**陕西东路**、**河北滦县**、**山西孝义**和**四川大邑**四地皮影人物，展示不同地域在造型比例、线刻纹样、设色风格和人物神态上的差异。\n\n**陕西东路皮影**以华县（今华州区）为中心，影人造型高大（约33厘米），以牛皮透雕而成，线条流畅洗练，色彩以红、绿、黑为主，人物面部轮廓写实、生旦净丑分明，被列为国家级非物质文化遗产。\n\n**河北滦县皮影**属冀东皮影代表，影人以驴皮雕刻（俗称“驴皮影”），造型精巧小巧，头部比例偏大，侧面单眼，风格夸张生动，色彩艳丽明快，唱腔以乐亭大鼓为基调形成独特的“老呔儿”腔调。\n\n**山西孝义皮影**历史悠久，可追溯至宋金时期，造型粗犷古朴，雕工大气洗练，色彩对比强烈，以黑、红、绿、黄为主色调，兼具写实与写意。孝义皮腔以小唢呐伴奏，为当地独有声腔，2006年列入国家级非物质文化遗产名录。\n\n**四川大邑皮影**属成都皮影体系，影人体型在各派中最大（可达60厘米），造型夸张饱满，装饰繁复华丽，色彩浓烈鲜艳，面部多取正面构图，唱腔以川剧腔调融入四川方言，风格活泼热闹，具有浓郁的巴蜀地方特色。",
+    "quantity": "2617.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-9 《中国皮影》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "陕西东路皮影人物",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-9-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "河北滦县皮影人物",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-9-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "山西孝义皮影人物",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-9-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "四川大邑皮影人物",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-9-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-10",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "北京立交桥",
+    "issueDate": "1995-06-20",
+    "year": 1995,
+    "themes": [
+      "建筑",
+      "桥梁"
+    ],
+    "designer": "呼振源",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《北京立交桥》反映 20 世纪 90 年代**北京**城市道路与交通建设的发展面貌。四枚邮票选取四元桥、天宁寺桥、玉蜓桥和安慧桥，以俯瞰式构图表现道路交汇、车辆通行和城市空间扩展，记录首都现代化交通设施的阶段性景观。",
+    "quantity": "2745.7万套",
+    "needsReview": false,
+    "localImageFolder": "1995-10 《北京立交桥》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "北京·四元桥",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-10-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "北京·天宁寺桥",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-10-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "北京·玉蜓桥",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-10-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "北京·安慧桥",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-10-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-11",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中泰建交20周年",
+    "issueDate": "1995-07-01",
+    "year": 1995,
+    "themes": [
+      "周年纪念",
+      "建交",
+      "联合发行",
+      "泰国"
+    ],
+    "designer": "吴建坤（中）、维莱·暖塔信（泰）",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1995 年是中国与泰国建交 20 周年，中泰两国联合发行此套纪念邮票。两枚邮票均以亚洲象为主题，借这一在东南亚文化中具有吉祥、稳健和亲近自然意味的动物，象征两国友好关系的持续发展。",
+    "quantity": "2521.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-11 《中泰建交20周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "亚洲象",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-11-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "亚洲象",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-11-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-12",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "太湖",
+    "issueDate": "1995-07-20",
+    "year": 1995,
+    "themes": [
+      "山水风光",
+      "湖泊"
+    ],
+    "designer": "范扬",
+    "totalStamps": 5,
+    "extras": [
+      "小型张"
+    ],
+    "description": "太湖位于江南腹地，是中国重要淡水湖之一，也是自然风光与吴越文化交织的名胜区域。邮票选取洞庭山色、鼋头春涛、蠡湖烟绿、寄畅清秋和梅园香雪等景观，小型张“包孕吴越”概括太湖山水与人文积淀。\n\n**洞庭山色**：洞庭山位于太湖东南水域，包括东山半岛和西山岛，以碧螺春茶、枇杷杨梅等物产闻名，山峦起伏、果林遍野，湖岛风光与田园景色交融。\n\n**鼋头春涛**：鼋头渚在太湖西北岸无锡境内，因巨石突入湖中形似神鼋昂首而得名，是观赏太湖山水全景的最佳处，春日樱花烂漫、波涛拍岸，素有“太湖佳绝处”之誉。\n\n**蠡湖烟绿**：蠡湖为太湖伸入无锡的内湖（又名五里湖），传因范蠡携西施泛舟于此而得名，湖面烟波浩渺，两岸垂柳成荫，以绿意朦胧的湖滨风光为特色。\n\n**寄畅清秋**：寄畅园在无锡惠山，始建于明代，以借景惠山、古木清幽、叠山理水著称，是江南古典园林杰作，秋日枫叶映池、格外静美。\n\n**梅园香雪**：无锡梅园依山植梅数千株，早春时节万梅齐放、香雪如海，以“香雪”喻梅花之盛，是江南赏梅胜地。\n\n**包孕吴越**（小型张）：太湖横跨古代吴越两地，“包孕吴越”四字取自鼋头渚摩崖石刻，概括了太湖吞吐吴越山水的宏阔气魄与深厚人文积淀。",
+    "quantity": "2197.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-12 《太湖》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "洞庭山色",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-12-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "鼋头春涛",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-12-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "蠡湖烟绿",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-12-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "寄畅清秋",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-12-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "梅园香雪",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-12-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "包孕吴越",
+        "denomination": "5元",
+        "image": "/images/stamps/1995/1995-12-6.jpg",
+        "format": "小型张"
+      }
+    ]
+  },
+  {
+    "id": "1995-13",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "古代驿站",
+    "issueDate": "1995-08-01",
+    "year": 1995,
+    "themes": [
+      "文物古迹",
+      "邮政"
+    ],
+    "designer": "阎炳武、李庆发",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "古代驿站是传递公文、接待使节和保障交通联络的重要设施，也是中国邮驿制度的实物见证。邮票表现**江苏高邮**盂城驿和**河北怀来**鸡鸣山驿，呈现驿站建筑格局与历史交通网络遗存。",
+    "quantity": "2481.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-13 《古代驿站》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "盂城驿",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-13-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "鸡鸣山驿",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-13-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-14",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "少林寺建寺1500年",
+    "issueDate": "1995-08-14",
+    "year": 1995,
+    "themes": [
+      "文物古迹",
+      "佛教"
+    ],
+    "designer": "李庆发、阎炳武",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "少林寺位于**河南登封**嵩山五乳峰下，相传创建于北魏太和十九年，即公元 495 年。此套邮票以山门、塔林、众僧徒习武和“十三僧救秦王”故事为题，纪念少林寺建寺 1500 年，并呈现其禅宗祖庭和少林武术发源地的历史地位。",
+    "quantity": "2651.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-14 《少林寺建寺1500年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "少林寺山门",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-14-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "少林寺塔林",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-14-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "众僧徒习武",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-14-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "十三僧救秦王",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-14-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-15",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "珍稀动物",
+    "issueDate": "1995-09-01",
+    "year": 1995,
+    "themes": [
+      "动物",
+      "濒危动物",
+      "联合发行"
+    ],
+    "designer": "许彦博（中）、尼科拉斯·罗伯茨（澳）",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "《珍稀动物》为中国与澳大利亚联合发行的邮票，选取考拉和熊猫两种具有鲜明地域代表性的动物。考拉是澳大利亚特有有袋类动物，熊猫是中国珍稀动物代表；两枚邮票以动物形象连接自然保护与国际交流主题。",
+    "quantity": "2481.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-15 《珍稀动物》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "考拉",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-15-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "熊猫",
+        "denomination": "2.50元",
+        "image": "/images/stamps/1995/1995-15-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-16",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "西藏文物",
+    "issueDate": "1995-09-01",
+    "year": 1995,
+    "themes": [
+      "文物古迹",
+      "西藏"
+    ],
+    "designer": "王虎鸣、格桑次成",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《西藏文物》选取陶罐、宝胄、天体运行图和珍珠曼荼罗四件具有代表性的文物，呈现**西藏**地区历史、宗教、工艺和天文知识传统。\n\n**陶罐**：出土于西藏昌都卡若遗址，属新石器时代（距今约4000—5000年）遗物。卡若遗址是西藏首次大规模发掘的史前遗址，陶罐为手制夹砂陶，饰有刻划纹和附加堆纹，造型古朴，反映了高原先民的制陶工艺与定居生活面貌。\n\n**宝胄**：即头盔甲胄，为吐蕃时期（约公元7—9世纪）藏族武士装备。西藏铠甲以皮革为底、铁片编缀，头盔造型融合了中原与中亚风格，兼具实用防护与礼仪装饰功能，体现了高原军事文化与周边地区的交流。\n\n**天体运行图**：藏传天文历算图，以唐卡形式绘制日、月、星辰及行星运行轨道。西藏天文历算融合印度、中原和本土星象学知识，用于推算历法、节气和宗教活动时辰，是藏民族在自然科学领域的重要贡献。\n\n**珍珠曼荼罗**：供奉于布达拉宫的宗教艺术珍品，以数万颗珍珠串缀成曼荼罗（坛城）图案。曼荼罗是藏传佛教中代表佛国净土与宇宙秩序的几何图形，此件以珍珠为材、工艺精绝，是西藏宗教艺术与宫廷工艺结合的代表之作。",
+    "quantity": "2501.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-16 《西藏文物》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "陶罐",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-16-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "宝胄",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-16-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "天体运行图",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-16-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "珍珠曼荼罗",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-16-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-17",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "抗日战争及世界反法西斯战争胜利50周年",
+    "issueDate": "1995-09-03",
+    "year": 1995,
+    "themes": [
+      "历史事件",
+      "抗战胜利"
+    ],
+    "designer": "何洁、冯小红",
+    "totalStamps": 8,
+    "extras": [],
+    "description": "1995 年是中国人民抗日战争和世界反法西斯战争胜利 50 周年。八枚邮票依次表现“七·七”战火、台儿庄大捷、百团大战、敌后游击队、芒友会师、华侨捐款、台湾光复和伟大胜利，串联起全民抗战、国际支援与战后胜利的重要历史场景。",
+    "quantity": "2531.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-17 《抗日战争及世界反法西斯战争胜利50周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "“七·七”战火",
+        "denomination": "10分",
+        "image": "/images/stamps/1995/1995-17-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "台儿庄大捷",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-17-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "百团大战",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-17-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "敌后游击队",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-17-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "芒友会师",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-17-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "华侨捐款",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-17-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "台湾光复",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-17-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "伟大胜利",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-17-8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-18",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "联合国第四次世界妇女大会",
+    "issueDate": "1995-09-04",
+    "year": 1995,
+    "themes": [
+      "历史事件",
+      "国际峰会",
+      "妇女"
+    ],
+    "designer": "陈绍华",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "联合国第四次世界妇女大会于 1995 年 9 月 4 日至 15 日在**北京**举行，是全球妇女事业发展史上的重要会议。四枚邮票以平等、发展、和平和友谊为主题，概括大会倡导的核心价值与国际合作精神。",
+    "quantity": "2531.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-18 《联合国第四次世界妇女大会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "平等",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-18-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "发展",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-18-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "和平",
+        "denomination": "40分",
+        "image": "/images/stamps/1995/1995-18-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "友谊",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-18-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-19",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "国际邮票、钱币博览会·北京1995",
+    "issueDate": "1995-09-14",
+    "year": 1995,
+    "themes": [
+      "文化",
+      "集邮"
+    ],
+    "designer": "孟祥斌",
+    "totalStamps": 0,
+    "extras": [
+      "小全张"
+    ],
+    "description": "国际邮票、钱币博览会·北京 1995 于 1995 年 9 月在**北京**举行。为纪念这次集邮与钱币交流活动，邮票采用第 43 届世界乒乓球锦标赛邮票组成小全张，并发行有齿与无齿两种版本，兼具体育纪念和集邮展览纪念意义。",
+    "quantity": "2422.75万枚（无齿：56.7万枚）",
+    "needsReview": false,
+    "localImageFolder": "1995-19 《国际邮票、钱币博览会·北京1995》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "国际邮票、钱币博览会·北京1995",
+        "denomination": "3元",
+        "image": "/images/stamps/1995/1995-19-1.jpg",
+        "format": "小全张"
+      },
+      {
+        "sn": 2,
+        "name": "国际邮票、钱币博览会·北京1995（无齿）",
+        "denomination": "3元",
+        "image": "/images/stamps/1995/1995-19-2.jpg",
+        "format": "小全张"
+      }
+    ]
+  },
+  {
+    "id": "1995-20",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "九华胜境",
+    "issueDate": "1995-10-09",
+    "year": 1995,
+    "themes": [
+      "山水风光",
+      "山",
+      "佛教"
+    ],
+    "designer": "朱曙征",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "九华山位于**安徽池州**，是中国佛教四大名山之一，素有地藏菩萨道场之称。邮票选取天台晨曦、百岁禅宫、肉身宝殿、祗园夕照、大鹏听经和凤凰古松，将山水景观、寺院建筑与佛教传说融为一组“九华胜境”。\n\n**天台晨曦**：天台峰海拔1306米，为九华山主峰之一。峰顶有拜经台，传为地藏菩萨昔日拜经之处。晨曦初露时云海翻涌、霞光万道，是九华山观赏日出的最佳处。\n\n**百岁禅宫**：百岁宫又名万年禅寺，始建于明代，依悬崖峭壁而建、不施寸土。内供无瑕和尚真身（肉身），无瑕禅师苦修一百二十六年，圆寂后肉身不腐，明崇祯帝敕封为“应身菩萨”，是九华山重要的肉身崇拜圣地。\n\n**肉身宝殿**：九华山核心圣迹，供奉地藏菩萨化身——唐代新罗王子金乔觉的肉身塔。金乔觉于唐贞元年间渡海来华，在九华山苦修数十载，圆寂后三年肉身不坏，被认定为地藏菩萨应化身，建塔供奉，为九华山最重要的朝拜之地。\n\n**祗园夕照**：祗园寺是九华山规模最大的寺院，始建于明代，为九华山“四大丛林”之首。夕照时分古刹飞檐映着晚霞，金碧辉煌、殿宇庄严，是九华晚景的代表。\n\n**大鹏听经**：九华山一处奇石景观，巨石形似大鹏鸟栖于崖壁之上，相传为大鹏鸟聆听地藏菩萨说法而化为石，自然造化与佛教传说融为一体。\n\n**凤凰古松**：位于九华山闵园，相传为南北朝时期所植，树龄逾1400年。古松主干低矮、侧枝平展如凤凰展翅欲飞，被誉为“天下第一松”，是九华山标志性古树名木。",
+    "quantity": "2601.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-20 《九华胜境》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "天台晨曦",
+        "denomination": "10分",
+        "image": "/images/stamps/1995/1995-20-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "百岁禅宫",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-20-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "肉身宝殿",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-20-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "祗园夕照",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-20-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "大鹏听经",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-20-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "凤凰古松",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-20-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-21",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "电影诞生一百周年",
+    "issueDate": "1995-10-18",
+    "year": 1995,
+    "themes": [
+      "文化",
+      "电影"
+    ],
+    "designer": "阎炳武、秦锡麟",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1895 年 12 月 28 日，卢米埃尔兄弟在**巴黎**举行公开电影放映，通常被视为电影诞生的重要标志。此套邮票以黑白电影和彩色电影为题，概括电影技术和影像艺术从早期放映到彩色银幕的发展历程。",
+    "quantity": "2531.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-21 《电影诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "黑白电影",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-21-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "彩色电影",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-21-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-22",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "联合国成立50周年",
+    "issueDate": "1995-10-24",
+    "year": 1995,
+    "themes": [
+      "周年纪念",
+      "联合国"
+    ],
+    "designer": "王雪青、陈绍华",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1995 年是联合国成立 50 周年。两枚邮票分别以联合国旗和联合国大厦、联合国成立 50 周年纪念标志为主题，突出联合国在维护和平、促进发展与推动国际合作中的象征意义。",
+    "quantity": "2531.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-22 《联合国成立50周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "联合国旗和联合国大厦",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-22-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "联合国成立50周年纪念标志",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-22-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-23",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "嵩山",
+    "issueDate": "1995-11-10",
+    "year": 1995,
+    "themes": [
+      "山水风光",
+      "山",
+      "五岳",
+      "佛教"
+    ],
+    "designer": "李德福、杨文清",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "嵩山位于**河南登封**，为五岳中的中岳，兼具自然山岳景观和深厚历史文化积淀。邮票选取中岳古庙、嵩门待月、少林晴雪和嵩山如卧四景，呈现嵩山在古建筑、宗教文化和山水意象上的代表性。",
+    "quantity": "2151.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-23 《嵩山》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中岳古庙",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-23-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "嵩门待月",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-23-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "少林晴雪",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-23-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "嵩山如卧",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-23-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-24",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "三清山",
+    "issueDate": "1995-11-01",
+    "year": 1995,
+    "themes": [
+      "山水风光",
+      "山",
+      "道教"
+    ],
+    "designer": "王西京、王秦晋",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "三清山位于**江西上饶**，以花岗岩峰林地貌、云雾景观和道教文化著称。四枚邮票表现三清福地、司春女神、观音赏曲和巨蟒出山等代表景观，既突出奇峰怪石的自然形态，也保留山名背后的道教文化意味。",
+    "quantity": "2531.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-24 《三清山》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "三清福地",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-24-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "司春女神",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-24-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "观音赏曲",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-24-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "巨蟒出山",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-24-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-25",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "香港风光名胜",
+    "issueDate": "1995-11-28",
+    "year": 1995,
+    "themes": [
+      "山水风光",
+      "城市",
+      "香港"
+    ],
+    "designer": "黄里",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《香港风光名胜》发行于香港回归前夕，集中展示**香港**的城市景观与滨海风貌。维多利亚港湾、中环广场、文化中心和浅水湾四景，分别呈现港口、摩天建筑、公共文化空间与海滨休闲景观，概括其国际都市气质。",
+    "quantity": "2531.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-25 《香港风光名胜》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "维多利亚港湾",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-25-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中环广场",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-25-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "文化中心",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-25-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "浅水湾",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-25-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-26",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "孙子兵法",
+    "issueDate": "1995-12-04",
+    "year": 1995,
+    "themes": [
+      "文化",
+      "古代典籍"
+    ],
+    "designer": "陈全胜",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "《孙子兵法》相传为春秋时期孙武所著，是中国古代军事理论经典。邮票以孙子像开篇，并以吴宫叙战、五战入郢、艾陵之战和黄池会盟等历史题材展开，呈现兵书思想与春秋争霸历史之间的联系。\n\n**孙子像**：孙武，字长卿，春秋末期齐国乐安人，因避内乱奔吴。经伍子胥七次推荐，被吴王阖闾拜为将军。他著《孙子兵法》十三篇，被誉为“兵学圣典”，后世尊为“兵圣”。\n\n**吴宫叙战**：孙武初见吴王阖闾，阖闾命其以兵法训练宫中美女以试其能。孙武将宫女分作两队，以吴王两名宠妃为队长。宫女嬉笑不听号令，孙武不顾吴王求情，以“将在外，君命有所不受”为由斩两名宠妃以正军纪，宫女遂肃然听令、进退如法。此即“吴宫教战”典故，体现了孙武治军严明、令行禁止的军事原则。\n\n**五战入郢**：公元前506年，孙武与伍子胥辅佐吴王阖闾伐楚。吴军以三万之师运用迂回奔袭战术，在柏举之战中大败楚军二十万主力，随后五战五捷，一举攻破楚国都城郢都（今湖北荆州）。此役是春秋时期以少胜多的经典战例，使吴国声威大震。\n\n**艾陵之战**：公元前484年，吴王夫差北上伐齐，与齐军会战于艾陵（今山东莱芜东北）。吴军采用诱敌深入、迂回包抄的战术大败齐军，俘获齐军将领及战车千余乘。此战是春秋时期规模最大的歼灭战之一，体现了孙武军事思想在实战中的延续运用。\n\n**黄池会盟**：公元前482年，吴王夫差于艾陵之战后北上争霸，与晋定公会盟于黄池（今河南封丘西南），以武力为后盾争取诸侯霸主地位，吴国由此达到鼎盛。然而会盟期间吴国后方空虚，越王勾践乘机伐吴，最终导致吴国灭亡。黄池之会既是吴国霸业的顶峰，也是盛极而衰的转折点。",
+    "quantity": "2111.75万套",
+    "needsReview": false,
+    "localImageFolder": "1995-26 《孙子兵法》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "孙子像",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-26-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "吴宫叙战",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-26-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "五战入郢",
+        "denomination": "30分",
+        "image": "/images/stamps/1995/1995-26-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "艾陵之战",
+        "denomination": "50分",
+        "image": "/images/stamps/1995/1995-26-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "黄池会盟",
+        "denomination": "1元",
+        "image": "/images/stamps/1995/1995-26-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1995-27",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中韩海底光缆系统开通",
+    "issueDate": "1995-12-15",
+    "year": 1995,
+    "themes": [
+      "科技",
+      "通信"
+    ],
+    "designer": "李建国",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "中韩海底光缆系统于 1995 年开通，是两国通信基础设施合作的重要成果。邮票以海底光缆和通信图形为核心元素，表现跨海信息传输、国际通信联网和 20 世纪 90 年代通信技术发展的时代特征。",
+    "quantity": "3611.75万枚",
+    "needsReview": false,
+    "localImageFolder": "1995-27 《中韩海底光缆系统开通》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中韩海底光缆系统开通",
+        "denomination": "20分",
+        "image": "/images/stamps/1995/1995-27-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "普28",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "长城",
+    "issueDate": "1995-10-28",
+    "year": 1995,
+    "themes": [
+      "普票",
+      "长城"
+    ],
+    "designer": "",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "普28《长城》属于普通邮票，按邮资使用需求发行，不同于纪念、特种邮票的专题纪念属性。三枚邮票分别表现**河北承德**金山岭长城、**河北秦皇岛**山海关和老龙头，呈现长城在山地关隘、雄关城楼与入海端点上的不同形态。发行日期、设计者和发行量待进一步核对。",
+    "quantity": "",
+    "needsReview": true,
+    "localImageFolder": "普28 《长城》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "金山岭",
+        "denomination": "60分",
+        "image": "/images/stamps/1995/普28-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "山海关",
+        "denomination": "230分",
+        "image": "/images/stamps/1995/普28-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "老龙头",
+        "denomination": "290分",
+        "image": "/images/stamps/1995/普28-3.jpg"
+      }
+    ]
+  }
+]

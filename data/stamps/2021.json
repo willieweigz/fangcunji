@@ -307,6 +307,7 @@
     "themes": [
       "周年纪念",
       "建交",
+      "联合发行",
       "巴基斯坦"
     ],
     "designer": "",
@@ -1128,6 +1129,7 @@
     "themes": [
       "周年纪念",
       "建交",
+      "联合发行",
       "伊朗"
     ],
     "designer": "",
@@ -1187,6 +1189,63 @@
         "denomination": "",
         "image": "/images/stamps/2021/贺16-3.jpg",
         "format": "小全张"
+      }
+    ]
+  },
+  {
+    "id": "普32-3",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "美丽中国（第三组）",
+    "issueDate": "2021-05-19",
+    "year": 2021,
+    "themes": [
+      "普票",
+      "美丽中国"
+    ],
+    "designer": "马立航",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "《美丽中国》系列第三组与前一组间隔五年，全套面值7.20元，发行日期同样选在\"中国旅游日\"。临沂沂蒙崮群描绘了**山东**蒙阴县岱崮地貌旅游区的方山地形；博尔塔拉赛里木湖展现了**新疆**博尔塔拉蒙古自治州赛里木湖碧波万顷的高山湖泊风光；宜宾竹海呈现了**四川**宜宾蜀南竹海翠竹漫山的景观；阿拉善巴丹吉林沙漠展示了**内蒙古**阿拉善盟巴丹吉林沙漠沙丘起伏的地貌；承德塞罕坝林海描绘了**河北**承德塞罕坝机械林场人造林海的景象；北京香山红叶呈现了**北京**香山秋季红叶满山的景观。",
+    "quantity": "",
+    "needsReview": false,
+    "localImageFolder": "普32 《普32》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "临沂沂蒙崮群",
+        "denomination": "80分",
+        "image": "/images/stamps/2021/普32-3-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "博尔塔拉赛里木湖",
+        "denomination": "1元",
+        "image": "/images/stamps/2021/普32-3-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "宜宾竹海",
+        "denomination": "1元",
+        "image": "/images/stamps/2021/普32-3-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "阿拉善巴丹吉林沙漠",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2021/普32-3-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "承德塞罕坝林海",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2021/普32-3-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "北京香山红叶",
+        "denomination": "2元",
+        "image": "/images/stamps/2021/普32-3-6.jpg"
       }
     ]
   }

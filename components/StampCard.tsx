@@ -27,8 +27,11 @@ export default function StampCard({ set }: { set: StampSet }) {
             </div>
           )}
         </div>
-        <div className="mt-3 flex items-baseline justify-between gap-2">
-          <span className="truncate font-serif-cn font-bold group-hover:text-seal">
+        <div className="mt-3 flex items-start justify-between gap-2">
+          <span
+            title={set.title}
+            className="line-clamp-2 min-h-11 min-w-0 font-serif-cn font-bold leading-snug group-hover:text-seal"
+          >
             {set.title}
           </span>
           <span className="shrink-0 font-mono text-xs text-seal">{set.id}</span>

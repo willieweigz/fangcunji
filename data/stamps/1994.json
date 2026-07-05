@@ -1,0 +1,908 @@
+[
+  {
+    "id": "1994-1",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "甲戌年",
+    "issueDate": "1994-01-05",
+    "year": 1994,
+    "themes": [
+      "生肖",
+      "生肖狗"
+    ],
+    "designer": "张二苗",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1994 年为农历甲戌狗年，此套邮票是第二轮生肖邮票第三组，由民间美术家张二苗设计。“平安家福”以民间布玩具狗为原型，寓意平安幸福；“祥瑞兴旺”结合剪纸荷花和狗的形象，象征吉祥兴旺。两枚邮票延续生肖票与春节民俗、民间美术之间的联系。",
+    "quantity": "16011.3万套",
+    "needsReview": false,
+    "localImageFolder": "1994-1 《甲戌年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "平安家福",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-1-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "祥瑞兴旺",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-1-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-2",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "爱国民主人士（二）",
+    "issueDate": "1994-02-25",
+    "year": 1994,
+    "themes": [
+      "人物",
+      "现代人",
+      "爱国民主人士"
+    ],
+    "designer": "朱振庚",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《爱国民主人士（二）》延续系列肖像纪念方式，纪念四位近现代爱国民主人士：**陈其尤**（1892-1970）是致公党重要领导人，长期从事爱国民主运动；**陈叔通**（1876-1966）是实业界、工商界代表人物，参与新中国政权建设；**马叙伦**（1885-1970）是教育家、语言文字学家，也是民进主要创始人之一；**许德珩**（1890-1990）参加五四运动，后来成为九三学社主要创始人。四枚肖像共同呈现民主党派和无党派人士在中国革命与建设中的历史贡献。",
+    "quantity": "3419.25万套",
+    "needsReview": false,
+    "localImageFolder": "1994-2 《爱国民主人士（二）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "陈其尤",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-2-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "陈叔通",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-2-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "马叙伦",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-2-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "许德珩",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-2-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-3",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "鲟",
+    "issueDate": "1994-03-18",
+    "year": 1994,
+    "themes": [
+      "动物",
+      "鱼类",
+      "濒危动物"
+    ],
+    "designer": "李印清",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "鲟鱼类是古老的脊椎动物，常被称为“活化石”，兼具科研和生态价值。此套邮票选取鳇、中华鲟、白鲟、达氏鲟四种中国鲟类，以写实方式描绘其体形、吻部和鳍尾特征。题材具有鲜明的水生珍稀动物保护意味，提醒人们关注江河生态和濒危物种保护。",
+    "quantity": "3999.75万套",
+    "needsReview": false,
+    "localImageFolder": "1994-3 《鲟》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "鳇",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-3-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中华鲟",
+        "denomination": "40分",
+        "image": "/images/stamps/1994/1994-3-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "白鲟",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-3-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "达氏鲟",
+        "denomination": "1元",
+        "image": "/images/stamps/1994/1994-3-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-4",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "沙漠绿化",
+    "issueDate": "1994-04-21",
+    "year": 1994,
+    "themes": [
+      "历史事件",
+      "环保"
+    ],
+    "designer": "孟嗣微",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "沙漠绿化是中国生态环境建设中的重要主题。此套邮票以“浩瀚沙海”“沙洲花开”“胡杨成林”“沙漠绿洲”四个画面，展示从荒漠环境到植被恢复、生态改善的过程。画面既表现治沙造林的实践成果，也强调人与自然关系中保护、修复和持续建设的意义。",
+    "quantity": "3435.9万套",
+    "needsReview": false,
+    "localImageFolder": "1994-4 《沙漠绿化》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "浩瀚沙海",
+        "denomination": "15分",
+        "image": "/images/stamps/1994/1994-4-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "沙洲花开",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-4-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "胡杨成林",
+        "denomination": "40分",
+        "image": "/images/stamps/1994/1994-4-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "沙漠绿洲",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-4-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-5",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "宜兴紫砂陶",
+    "issueDate": "1994-05-05",
+    "year": 1994,
+    "themes": [
+      "文物古迹",
+      "陶瓷"
+    ],
+    "designer": "王虎鸣、李印清",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**宜兴**紫砂陶以当地紫砂泥为材料，是中国传统工艺的重要门类。此套邮票选取明代三足圆壶、清代四足方壶、清代八卦束竹壶和现代提璧壶，呈现紫砂壶从明清名家器物到现代工艺精品的发展线索。造型、泥色和装饰各具特点，体现紫砂陶兼具实用与审美的工艺传统。",
+    "quantity": "3594.25万套",
+    "needsReview": false,
+    "localImageFolder": "1994-5 《宜兴紫砂陶》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "明·三足圆壶",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-5-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "清·四足方壶",
+        "denomination": "30分",
+        "image": "/images/stamps/1994/1994-5-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "清·八卦束竹壶",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-5-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "现代·提璧壶",
+        "denomination": "1元",
+        "image": "/images/stamps/1994/1994-5-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-6",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "纪念黄埔军校建校七十周年",
+    "issueDate": "1994-06-16",
+    "year": 1994,
+    "themes": [
+      "周年纪念",
+      "黄埔军校"
+    ],
+    "designer": "任宇",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**黄埔军校**是中国近代史上著名的军事学校，1924 年 6 月 16 日由**孙中山**创办于**广州黄埔长洲岛**。此枚纪念邮票为黄埔军校建校七十周年发行，图案以军校校门和历史场景为主题，强调这所学校在近现代军事教育、革命历史和人才培养中的特殊地位。",
+    "quantity": "11996.75万枚",
+    "needsReview": false,
+    "localImageFolder": "1994-6 《纪念黄埔军校建校七十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "纪念黄埔军校建校七十周年",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-6-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-7",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "国际奥林匹克委员会成立一百周年",
+    "issueDate": "1994-06-23",
+    "year": 1994,
+    "themes": [
+      "体育",
+      "奥运会"
+    ],
+    "designer": "王雪青",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "国际奥林匹克委员会于 1894 年 6 月 23 日在**巴黎**正式成立，是现代奥林匹克运动的重要组织基础。此枚纪念邮票为国际奥委会成立一百周年发行，画面以奥运五环和奔跑的运动员剪影为主题，象征奥林匹克精神的传承、竞赛活力和各国体育交流。",
+    "quantity": "15606.75万枚",
+    "needsReview": false,
+    "localImageFolder": "1994-7 《国际奥林匹克委员会成立一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "国际奥林匹克委员会成立一百周年",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-7-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-8",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "敦煌壁画（第五组）",
+    "issueDate": "1994-07-16",
+    "year": 1994,
+    "themes": [
+      "绘画艺术",
+      "敦煌壁画"
+    ],
+    "designer": "吴建坤、任宇",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**敦煌**壁画是中国古代艺术的重要遗存，此套邮票为敦煌壁画系列第五组，集中选取唐代壁画题材。“飞天”以飘带和身姿表现佛国乐舞的轻盈，“维摩诘”来自佛教经变故事，突出人物神情与辩论场面，“张议潮出行图”记录归义军节度使出行仪仗，具有珍贵历史图像价值，“魔女”则取自佛教叙事中的降魔场景，造型富于动感和装饰性。",
+    "quantity": "3720.1万套",
+    "needsReview": false,
+    "localImageFolder": "1994-8 《敦煌壁画（第五组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "唐·飞天",
+        "denomination": "10分",
+        "image": "/images/stamps/1994/1994-8-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "唐·维摩诘",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-8-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "唐·张议潮出行图",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-8-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "唐·魔女",
+        "denomination": "1.60元",
+        "image": "/images/stamps/1994/1994-8-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-9",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国古代文学家（第二组）",
+    "issueDate": "1994-06-25",
+    "year": 1994,
+    "themes": [
+      "人物",
+      "古代人",
+      "中国古代文学家"
+    ],
+    "designer": "黄木",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《中国古代文学家（第二组）》以肖像形式纪念四位古代文学和史学名家：**陶渊明**（约365-427）以田园诗著称，**曹植**（192-232）是建安文学代表人物，**司马迁**（约前145-？）以《史记》奠定纪传体史学传统，**屈原**（约前340-前278）是中国浪漫主义诗歌的重要源头。四枚邮票共同呈现中国古代文学谱系中的不同高峰。",
+    "quantity": "3501.75万套",
+    "needsReview": false,
+    "localImageFolder": "1994-9 《中国古代文学家（第二组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "陶渊明",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-9-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "曹植",
+        "denomination": "30分",
+        "image": "/images/stamps/1994/1994-9-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "司马迁",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-9-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "屈原",
+        "denomination": "1元",
+        "image": "/images/stamps/1994/1994-9-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-10",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "昭君出塞",
+    "issueDate": "1994-08-25",
+    "year": 1994,
+    "themes": [
+      "文化",
+      "历史故事"
+    ],
+    "designer": "萧玉田",
+    "totalStamps": 2,
+    "extras": [
+      "小型张"
+    ],
+    "description": "**王昭君**是西汉时期出塞和亲的代表性历史人物，被汉元帝赐嫁匈奴呼韩邪单于，成为民族关系史上的著名故事。此套邮票以工笔重彩描绘昭君形象和出塞场景，小型张“和亲”展现昭君抵达匈奴受到欢迎的场面，突出历史故事中的和平交往意涵。",
+    "quantity": "4701.7万套，小型张3153.2万枚",
+    "needsReview": false,
+    "localImageFolder": "1994-10 《昭君出塞》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "昭君",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-10-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "出塞",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-10-2.jpg"
+      },
+      {
+        "sn": 3,
+        "format": "小型张",
+        "name": "和亲",
+        "denomination": "3元",
+        "image": "/images/stamps/1994/1994-10-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-11",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "第六届远东及南太平洋地区残疾人运动会",
+    "issueDate": "1994-09-04",
+    "year": 1994,
+    "themes": [
+      "体育",
+      "残疾人体育"
+    ],
+    "designer": "李庆发、姜伟杰",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "第六届远东及南太平洋地区残疾人运动会于 1994 年 9 月 4 日至 10 日在**北京**举行。此枚纪念邮票以残疾人运动员拼搏形象为主题，表现自强不息、平等参与和体育交流的精神。它记录了中国承办区域性残疾人综合运动会的重要时刻，也传达了对残疾人体育事业的关注。",
+    "quantity": "10011.7万枚",
+    "needsReview": false,
+    "localImageFolder": "1994-11 《第六届远东及南太平洋地区残疾人运动会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "第六届远东及南太平洋地区残疾人运动会",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-11-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-12",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "武陵源",
+    "issueDate": "1994-09-25",
+    "year": 1994,
+    "themes": [
+      "山水风光",
+      "世界自然遗产"
+    ],
+    "designer": "许彦博",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "**武陵源**位于**湖南张家界**，以石英砂岩峰林地貌著称，是世界自然遗产。此套邮票选取南天门、神堂湾、天下第一桥、御笔峰四处典型景观，小型张展现十里画廊全景。方寸之间呈现峰柱、峡谷、天然桥和山林云气，突出武陵源奇峻幽深的自然景观特征。",
+    "quantity": "3697.75万套，小型张2903.16万枚",
+    "needsReview": false,
+    "localImageFolder": "1994-12 《武陵源》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "南天门",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-12-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "神堂湾",
+        "denomination": "30分",
+        "image": "/images/stamps/1994/1994-12-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "天下第一桥",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-12-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "御笔峰",
+        "denomination": "1元",
+        "image": "/images/stamps/1994/1994-12-4.jpg"
+      },
+      {
+        "sn": 5,
+        "format": "小型张",
+        "name": "十里画廊",
+        "denomination": "3元",
+        "image": "/images/stamps/1994/1994-12-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-13",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "武夷山",
+    "issueDate": "1994-09-30",
+    "year": 1994,
+    "themes": [
+      "山水风光",
+      "山"
+    ],
+    "designer": "邹建军",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**武夷山**位于**福建省**西北部，是兼具自然景观和文化积淀的名山。此套邮票采用横 4 枚连印形式，表现玉女峰、九曲溪、挂墩、高山草甸四处代表性景观。山峰、水曲、森林和草甸并置，展现武夷山层次丰富的地貌与秀逸清朗的山水气质。",
+    "quantity": "2440.7万套",
+    "needsReview": false,
+    "localImageFolder": "1994-13 《武夷山》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "武夷山玉女峰",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-13-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "武夷山九曲溪",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-13-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "武夷山挂墩",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-13-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "武夷山高山草甸",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-13-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-14",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "傅抱石作品选",
+    "issueDate": "1994-10-05",
+    "year": 1994,
+    "themes": [
+      "绘画艺术",
+      "现代画"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "**傅抱石**（1904-1965）是中国现代著名画家、美术理论家，也是新山水画的重要代表。此套邮票选其六幅作品：《听泉图》写高士临泉而坐，《洗手图》以人物小景寄托文人清洁之意，《大涤草堂图》表现山居草堂的幽深气象，《擘阮图》描绘人物弹阮的闲雅情境，《虎跑》取**杭州**名泉山景，《山阴道上》写江南山水行旅。六图合看，可见其人物、山水与诗意叙事的结合。",
+    "quantity": "3501.75万套",
+    "needsReview": false,
+    "localImageFolder": "1994-14 《傅抱石作品选》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "听泉图",
+        "denomination": "10分",
+        "image": "/images/stamps/1994/1994-14-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "洗手图",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-14-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "大涤草堂图",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-14-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "擘阮图",
+        "denomination": "40分",
+        "image": "/images/stamps/1994/1994-14-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "虎跑",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-14-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "山阴道上",
+        "denomination": "1元",
+        "image": "/images/stamps/1994/1994-14-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-15",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "鹤",
+    "issueDate": "1994-10-09",
+    "year": 1994,
+    "themes": [
+      "动物",
+      "鸟类",
+      "联合发行"
+    ],
+    "designer": "詹庚西、克兰斯·李",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "《鹤》是中国与**美国**联合发行的邮票，选取两国具有代表性的珍稀鹤类：美洲鹤是北美濒危鹤种，黑颈鹤主要栖息于青藏高原及周边高寒湿地。两枚邮票以影雕套印表现鹤的修长体态、羽色特征和栖息环境，既有鸟类题材的观赏性，也把野生动物保护与国际合作联系在一起，具有类似联合发行建交票的交流意味。",
+    "quantity": "3762.7万套",
+    "needsReview": false,
+    "localImageFolder": "1994-15 《鹤》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "美洲鹤",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-15-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "黑颈鹤",
+        "denomination": "2元",
+        "image": "/images/stamps/1994/1994-15-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-16",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "万国邮政联盟成立一百二十周年",
+    "issueDate": "1994-10-09",
+    "year": 1994,
+    "themes": [
+      "周年纪念",
+      "邮政",
+      "万国邮政联盟"
+    ],
+    "designer": "赵均龙、吴建坤",
+    "totalStamps": 0,
+    "extras": [
+      "小型张"
+    ],
+    "description": "万国邮政联盟成立于 1874 年，是推动国际邮政合作的重要组织，后来成为联合国专门机构之一。此枚纪念小型张为万国邮联成立一百二十周年发行，图案以邮政主题和万国邮联标志为主要设计元素，突出邮政网络跨越国界、连接世界的公共服务意义。",
+    "quantity": "2911.96万枚",
+    "needsReview": false,
+    "localImageFolder": "1994-16 《万国邮政联盟成立一百二十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "format": "小型张",
+        "name": "万国邮政联盟成立一百二十周年",
+        "denomination": "3元",
+        "image": "/images/stamps/1994/1994-16-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-17",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国古典文学名著《三国演义》（第四组）",
+    "issueDate": "1994-11-24",
+    "year": 1994,
+    "themes": [
+      "文学名著",
+      "三国演义"
+    ],
+    "designer": "戴宏海",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "此套邮票是《中国古典文学名著〈三国演义〉》系列第四组，选取五个关键故事：“横槊赋诗”写**曹操**临江赋诗的豪情，“刘备招亲”表现孙刘联姻中的权谋转折，“威震逍遥津”刻画**张辽**以少胜多震慑江东，“火烧连营”呈现夷陵之战中**陆逊**破蜀的战局，小型张“赤壁鏖兵”表现孙刘联军火攻曹军的宏大场面。整套以战争、谋略和人物性格串起三国叙事。",
+    "quantity": "3565.7万套，小型张3033.6万枚",
+    "needsReview": false,
+    "localImageFolder": "1994-17 《中国古典文学名著《三国演义》（第四组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "横槊赋诗",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-17-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "刘备招亲",
+        "denomination": "30分",
+        "image": "/images/stamps/1994/1994-17-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "威震逍遥津",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-17-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "火烧连营",
+        "denomination": "1元",
+        "image": "/images/stamps/1994/1994-17-4.jpg"
+      },
+      {
+        "sn": 5,
+        "format": "小型张",
+        "name": "赤壁鏖兵",
+        "denomination": "5元",
+        "image": "/images/stamps/1994/1994-17-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-18",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "长江三峡",
+    "issueDate": "1994-11-04",
+    "year": 1994,
+    "themes": [
+      "山水风光",
+      "江河"
+    ],
+    "designer": "杨文清、李德福",
+    "totalStamps": 6,
+    "extras": [
+      "小型张"
+    ],
+    "description": "**长江三峡**由瞿塘峡、巫峡、西陵峡组成，是长江最壮观的峡谷河段之一。此套邮票选取白帝城、瞿塘峡、巫峡、神女峰、西陵峡、屈原祠六处景观，小型张呈现三峡全景。自然峡谷、历史遗迹和人文传说并列，展现三峡风光的雄奇与厚重。",
+    "quantity": "3915.3万套，小型张3059.4万枚",
+    "needsReview": false,
+    "localImageFolder": "1994-18 《长江三峡》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "白帝城",
+        "denomination": "10分",
+        "image": "/images/stamps/1994/1994-18-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "瞿塘峡",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-18-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "巫峡",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-18-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "神女峰",
+        "denomination": "30分",
+        "image": "/images/stamps/1994/1994-18-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "西陵峡",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-18-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "屈原祠",
+        "denomination": "1元",
+        "image": "/images/stamps/1994/1994-18-6.jpg"
+      },
+      {
+        "sn": 7,
+        "format": "小型张",
+        "name": "长江三峡",
+        "denomination": "5元",
+        "image": "/images/stamps/1994/1994-18-7.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-19",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中华全国集邮联合会第四次代表大会",
+    "issueDate": "1994-11-07",
+    "year": 1994,
+    "themes": [
+      "文化",
+      "集邮",
+      "中华全国集邮联合会"
+    ],
+    "designer": "王振华",
+    "totalStamps": 0,
+    "extras": [
+      "小型张"
+    ],
+    "description": "中华全国集邮联合会第四次代表大会于 1994 年 11 月 17 日在**北京**召开。此枚纪念小型张以**新疆克孜尔**烽燧遗址为主题，将集邮大会纪念与中国古代邮驿通信历史相联系。烽燧形象提示信息传递的古老传统，也呼应集邮文化对邮政历史的收藏和研究。",
+    "quantity": "2767.7万枚",
+    "needsReview": false,
+    "localImageFolder": "1994-19 《中华全国集邮联合会第四次代表大会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "format": "小型张",
+        "name": "汉·克孜尔烽燧",
+        "denomination": "3元",
+        "image": "/images/stamps/1994/1994-19-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-20",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "经济特区",
+    "issueDate": "1994-12-10",
+    "year": 1994,
+    "themes": [
+      "历史事件",
+      "区域发展"
+    ],
+    "designer": "王振华、陈晓聪",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "经济特区是改革开放的重要试验田：**深圳**、**珠海**、**汕头**、**厦门**于 1980 年设立，分别承担毗邻香港澳门、联系侨乡和面向台湾海峡等区位使命；**海南**于 1988 年建省并设立经济特区，成为面积最大的经济特区。此套邮票以横 5 枚连印展示城市风貌和建设成就，记录从边陲口岸、侨乡港口到海岛开放前沿的区域发展图景。",
+    "quantity": "3542.75万套",
+    "needsReview": false,
+    "localImageFolder": "1994-20 《经济特区》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "经济特区—深圳",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-20-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "经济特区—珠海",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-20-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "经济特区—汕头",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-20-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "经济特区—厦门",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-20-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "经济特区—海南",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-20-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1994-21",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国古塔",
+    "issueDate": "1994-12-15",
+    "year": 1994,
+    "themes": [
+      "文物古迹",
+      "古塔"
+    ],
+    "designer": "李庆发、姜伟杰",
+    "totalStamps": 4,
+    "extras": [
+      "小全张"
+    ],
+    "description": "中国古塔兼具宗教、纪念、登临和城市地标功能。**西安**慈恩寺大雁塔始建于唐代，与**玄奘**译经、藏经活动相关；**泉州**开元寺镇国塔为宋代石塔，是海丝名城的重要佛寺地标；**杭州**六和塔临钱塘江而立，传说有镇江潮之意，层檐轮廓极具辨识度；**开封**祐国寺塔俗称铁塔，以褐色琉璃砖砌成，是北宋都城遗存的代表。四塔合看，展示唐宋古塔的地域风格和历史记忆。",
+    "quantity": "3559.2万套，小全张1673.6万套",
+    "needsReview": false,
+    "localImageFolder": "1994-21 《中国古塔》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "西安慈恩寺大雁塔",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-21-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "泉州开元寺镇国塔",
+        "denomination": "20分",
+        "image": "/images/stamps/1994/1994-21-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "杭州开化寺六和塔",
+        "denomination": "50分",
+        "image": "/images/stamps/1994/1994-21-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "开封祐国寺塔",
+        "denomination": "2元",
+        "image": "/images/stamps/1994/1994-21-4.jpg"
+      },
+      {
+        "sn": 5,
+        "format": "小全张",
+        "name": "中国古塔",
+        "denomination": "20分+20分+50分+2元",
+        "image": "/images/stamps/1994/1994-21-5.jpg"
+      }
+    ]
+  }
+]

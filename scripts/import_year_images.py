@@ -88,7 +88,7 @@ def _sort_key(name: str) -> tuple:
 def find_year_dir(year: str) -> str | None:
     # 精确匹配"编年号XXXX年"或"XXXX年"（1990/1991从JT合集提取出的年份文件夹），
     # 不用子串匹配，避免"J字头邮票1974年-1991年"这种跨年份合集文件夹被误命中
-    exact = [f"{year}-编年号{year}年", f"编年号{year}年", f"{year}年"]
+    exact_matches = []
     for name in os.listdir(LIBRARY):
         full = os.path.join(LIBRARY, name)
         if not os.path.isdir(full):
@@ -96,7 +96,10 @@ def find_year_dir(year: str) -> str | None:
         # 去掉编号前缀（如"52-"）再比较
         stripped = re.sub(r"^\d+-", "", name)
         if stripped in (f"编年号{year}年", f"{year}年"):
-            return full
+            exact_matches.append(name)
+    if exact_matches:
+        exact_matches.sort(key=lambda n: (0 if "编年号" in n else 1, n))
+        return os.path.join(LIBRARY, exact_matches[0])
     # 兜底：贺卡专用邮票这类命名不规则的，仍用子串匹配
     matches = [
         name

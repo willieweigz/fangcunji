@@ -49,12 +49,26 @@ for _year in range(1992, 2026):
         PERIODS.append((_folders[str(_year)], rf"({_year}-\d+)-(.+)", "编年"))
 
 
+def resolve_folder(prefix: str) -> str | None:
+    """按前缀匹配图库顶层文件夹，兼容手工加的后缀（如" done"标记），避免因文件夹被重命名而扫描不到。"""
+    if not os.path.isdir(LIBRARY):
+        return None
+    exact = os.path.join(LIBRARY, prefix)
+    if os.path.isdir(exact):
+        return exact
+    for name in os.listdir(LIBRARY):
+        full = os.path.join(LIBRARY, name)
+        if os.path.isdir(full) and name.startswith(prefix):
+            return full
+    return None
+
+
 def extract_sets():
     """从图库文件/文件夹名提取 (志号, 题目)，同一志号取最短名（套级条目）。"""
     found = {}
     for folder, pattern, series in PERIODS:
-        full = os.path.join(LIBRARY, folder)
-        if not os.path.isdir(full):
+        full = resolve_folder(folder)
+        if not full:
             continue
         pat = re.compile(pattern)
         # 子文件夹式命名："2024-1 《甲辰年》"
@@ -123,7 +137,9 @@ def main():
 
     plan = []
     stats = {"confirmed": 0, "manual": 0, "auto": 0, "todo": 0}
+    seen_ids = set()
     for sid, (title, series_val) in sorted(all_sets.items()):
+        seen_ids.add(sid)
         if sid in existing:
             entry = {"id": sid, "title": title, "themes": existing[sid], "status": "confirmed"}
         elif sid in old_plan and old_plan[sid].get("status") == "manual":
@@ -134,12 +150,25 @@ def main():
         stats[entry["status"]] += 1
         plan.append(entry)
 
+    # 安全网：本次图库扫描没找到、但旧表里已经存在的条目原样保留，不当成"不存在"删掉——
+    # 云同步盘瞬时读取失败、多会话并发访问、图库文件夹被临时移动等都可能导致某次扫描漏掉本该存在的条目，
+    # 直接丢弃会静默销毁已经人工确认过的标签，比"表里多留一条没扫到源的旧记录"风险大得多。
+    stale = 0
+    for sid in sorted(old_plan):
+        if sid not in seen_ids:
+            entry = old_plan[sid]
+            plan.append(entry)
+            stats[entry.get("status", "todo")] = stats.get(entry.get("status", "todo"), 0) + 1
+            stale += 1
+
     json.dump(plan, open(PLAN, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(f"tag-plan.json: 共 {len(plan)} 套")
     print(f"  confirmed(已录入即答案): {stats['confirmed']}")
     print(f"  manual(人工已预打): {stats['manual']}")
     print(f"  auto(规则自动预打,待复核): {stats['auto']}")
     print(f"  todo(待人工打标): {stats['todo']}")
+    if stale:
+        print(f"  [警告] {stale} 条本次未在图库中扫到来源，已按旧记录原样保留——建议检查图库对应文件夹是否被移动/改名/云同步未完成")
 
 
 if __name__ == "__main__":
