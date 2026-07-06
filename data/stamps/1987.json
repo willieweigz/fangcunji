@@ -1,0 +1,818 @@
+[
+    {
+        "id":  "T112",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "丁卯年",
+        "issueDate":  "1987-01-05",
+        "year":  1987,
+        "themes":  [
+                       "生肖",
+                       "生肖兔"
+                   ],
+        "designer":  "李芳芳",
+        "totalStamps":  1,
+        "extras":  [
+
+                   ],
+        "description":  "\"丁卯年\"是十二生肖系列邮票中的第八套，对应农历兔年。邮票以白底和高调灰色表现兔身，除文字外不用黑色，在拙朴轮廓外施以逐渐浅淡的灰色，突出柔和洁白的形象。画面汲取**陕北黄土高原**剪纸和泥玩具的表现手法，配以品红、品绿色，形成清新明快的民间装饰趣味。",
+        "quantity":  "兔11481.65万枚",
+        "needsReview":  true,
+        "localImageFolder":  "T112 《丁卯年》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "兔",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T112-1.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J136",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "明代地理学家、旅行家徐霞客诞生四百周年",
+        "issueDate":  "1987-02-20",
+        "year":  1987,
+        "themes":  [
+                       "人物",
+                       "古代人"
+                   ],
+        "designer":  "高云",
+        "totalStamps":  3,
+        "extras":  [
+
+                   ],
+        "description":  "**徐霞客**（1587-1641）是明代地理学家、旅行家和文学家，经30年考察撰成地理名著《徐霞客游记》，被称为\"千古奇人\"。邮票采用立轴国画格局和工笔重彩手法，左右以竖线框住画面，文字置于图上方，古朴典雅。三枚分别表现他摒弃仕途矢志远游、岩栖穴处排日记程、登必至极穷途不忧的形象，突出不畏艰险、执着探索的科学精神。",
+        "quantity":  "摒绝仕途，矢志远游1539.15万枚，岩栖穴处，排日记程1060.65万枚，登必至极，穷途不忧661.65万枚",
+        "needsReview":  true,
+        "localImageFolder":  "J136 《明代地理学家、旅行家徐霞客诞生四百周年》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "摒绝仕途，矢志远游",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/J136-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "岩栖穴处，排日记程",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1987/J136-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "登必至极，穷途不忧",
+                           "denomination":  "40分",
+                           "image":  "/images/stamps/1987/J136-3.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T114",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "猛禽",
+        "issueDate":  "1987-03-20",
+        "year":  1987,
+        "themes":  [
+                       "动物",
+                       "鸟类"
+                   ],
+        "designer":  "万一、程传理",
+        "totalStamps":  4,
+        "extras":  [
+
+                   ],
+        "description":  "猛禽分布很广，种类繁多，全世界约有400多种，其中生活在中国的有82种，占全世界猛禽种类总数的五分之一。猛禽是人类的朋友，有的嗜食鼠类及昆虫，有利于农林牧业；有的专食弃尸和腐肉，能够防止自然环境污染，被誉为\"自然界中的清洁工\"。近年来由于自然环境破坏和人类经济活动影响，猛禽数量越来越少，许多种类已濒临灭绝。国际有关组织已将猛禽全部种类列入保护动物之中，中国政府也采取了相应措施保护猛禽、维护自然生态平衡。",
+        "quantity":  "鸢1627.85万枚，虎头海雕1657.35万枚，秃鹫1311.15万枚，大鵟625.75万枚",
+        "needsReview":  true,
+        "localImageFolder":  "T114 《猛禽》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "鸢",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T114-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "虎头海雕",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T114-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "秃鹫",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1987/T114-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "大鵟",
+                           "denomination":  "90分",
+                           "image":  "/images/stamps/1987/T114-4.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T115",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "风筝（第二组）",
+        "issueDate":  "1987-04-01",
+        "year":  1987,
+        "themes":  [
+                       "文化",
+                       "风筝"
+                   ],
+        "designer":  "潘可明",
+        "totalStamps":  4,
+        "extras":  [
+
+                   ],
+        "description":  "风筝又名纸鸢，在中国有着悠久的历史。相传春秋时期**墨子**（约前468-前376）制作木鸢，是风筝早期形态之一；英国学者**李约瑟**（1900-1995）也曾把风筝列为中华民族的重要科学发明。中国风筝讲究造型优美、形象逼真，扎绘上善于捕捉自然意象。邮票展现鹰、龙头蜈蚣、八卦、凤凰四种经典造型，既有民间玩具的灵动，也有传统工艺的装饰美。",
+        "quantity":  "鹰915.65万枚，龙头蜈蚣915.65万枚，八卦605.4万枚，凤凰605.4万枚",
+        "needsReview":  true,
+        "localImageFolder":  "T115 《风筝（第二组）》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "鹰",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T115-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "龙头蜈蚣",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T115-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "八卦",
+                           "denomination":  "30分",
+                           "image":  "/images/stamps/1987/T115-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "凤凰",
+                           "denomination":  "30分",
+                           "image":  "/images/stamps/1987/T115-4.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J137",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "廖仲恺诞生一百一十周年",
+        "issueDate":  "1987-04-23",
+        "year":  1987,
+        "themes":  [
+                       "人物",
+                       "现代人",
+                       "爱国民主人士"
+                   ],
+        "designer":  "何家英",
+        "totalStamps":  2,
+        "extras":  [
+
+                   ],
+        "description":  "**廖仲恺**（1877-1925）是中国近代民主革命家，协助**孙中山**（1866-1925）改组国民党，力主联俄、联共、扶助农工三大政策，1925年8月在**广州**遇刺殉难。邮票采用镜面画形式，将人物素描像嵌于竖椭圆形边框中；第二枚表现廖仲恺与夫人**何香凝**（1878-1972）的伉俪形象，背景梅花象征不畏强暴的品格。何香凝同为革命家、画家，新中国成立后曾任全国人大常委会副委员长。",
+        "quantity":  "廖仲恺像1482.4万枚，廖仲恺与何香凝964.15万枚",
+        "needsReview":  true,
+        "localImageFolder":  "J137 《廖仲恺诞生一百一十周年》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "廖仲恺像",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/J137-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "廖仲恺与何香凝",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1987/J137-2.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J138",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "叶剑英同志诞生九十周年",
+        "issueDate":  "1987-04-28",
+        "year":  1987,
+        "themes":  [
+                       "解放军",
+                       "十大元帅"
+                   ],
+        "designer":  "杨飞云、李贵君、石良",
+        "totalStamps":  3,
+        "extras":  [
+
+                   ],
+        "description":  "**叶剑英**（1897-1986）是中国人民解放军缔造者之一，中华人民共和国开国元帅。邮票选用青年、中年、老年三个时期的形象，上部展现人物画面，下部以白色票幅安排文字，使形象鲜明突出。\"峥嵘岁月\"表现青年叶剑英英姿勃发，\"开国元勋\"展现中年叶剑英叱咤风云，\"满目青山\"描绘晚年叶剑英壮心不已，三枚邮票浓缩了这位革命家、军事家波澜壮阔的一生。",
+        "quantity":  "峥嵘岁月848.65万枚，开国元勋980.65万枚，满目青山1267.65万枚",
+        "needsReview":  true,
+        "localImageFolder":  "J138 《叶剑英同志诞生九十周年》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "峥嵘岁月",
+                           "denomination":  "30分",
+                           "image":  "/images/stamps/1987/J138-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "开国元勋",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1987/J138-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "满目青山",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/J138-3.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T116",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "敦煌壁画（第一组）",
+        "issueDate":  "1987-05-20",
+        "year":  1987,
+        "themes":  [
+                       "绘画艺术",
+                       "古画",
+                       "敦煌壁画"
+                   ],
+        "designer":  "吴建坤、任宇",
+        "totalStamps":  4,
+        "extras":  [
+                       "小型张"
+                   ],
+        "description":  "**敦煌莫高窟**开凿于公元366年，历经北凉、北魏、隋、唐、宋、元等朝代，保存大量壁画和彩塑，是世界佛教艺术宝库之一。早期敦煌壁画虽经风化、烟熏和人为破坏，仍保留着珍贵的历史画卷。邮票选取供养菩萨、鹿王本生、天宫伎乐、飞天等北凉至北魏题材；其中\"鹿王本生\"描绘九色鹿救人反被出卖的故事，小型张\"萨埵太子舍身饲虎\"表现太子舍身救虎的佛教本生故事。",
+        "quantity":  "北凉·供养菩萨1675.502万枚，北魏·鹿王本生643.552万枚，北魏·天宫伎乐932.602万枚，北魏·飞天645.972万枚，北魏·萨埵太子舍身饲虎329.39万枚",
+        "needsReview":  true,
+        "localImageFolder":  "T116 《敦煌壁画（第一组）》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "北凉·供养菩萨",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T116-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "北魏·鹿王本生",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1987/T116-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "北魏·天宫伎乐",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1987/T116-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "北魏·飞天",
+                           "denomination":  "40分",
+                           "image":  "/images/stamps/1987/T116-4.jpg"
+                       },
+                       {
+                           "sn":  5,
+                           "format":  "小型张",
+                           "name":  "北魏·萨埵太子舍身饲虎",
+                           "denomination":  "2元",
+                           "image":  "/images/stamps/1987/T116-5.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T117",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "我们的节日",
+        "issueDate":  "1987-06-01",
+        "year":  1987,
+        "themes":  [
+                       "节日",
+                       "现代节日"
+                   ],
+        "designer":  "（2-1）阎庆辉；（2-2）刘媛",
+        "totalStamps":  2,
+        "extras":  [
+
+                   ],
+        "description":  "1949年11月，国际民主妇女联合会决定每年6月1日为国际儿童节。新中国成立后，中央人民政府政务院于1949年12月规定6月1日为新中国儿童节。这套儿童节邮票由两位少年儿童设计，\"节日欢乐\"以红领巾少年欢庆节日为主题，\"和平幸福\"以和平鸽与儿童为意象，表达了新中国儿童在和平环境中幸福成长的美好画面。邮票充满童真童趣，是中国邮票中少有的由儿童参与设计的作品。",
+        "quantity":  "节日欢乐1897.95万枚，和平幸福1674.75万枚",
+        "needsReview":  true,
+        "localImageFolder":  "T117 《我们的节日》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "节日欢乐",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T117-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "和平幸福",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T117-2.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T118",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "今日农村",
+        "issueDate":  "1987-06-25",
+        "year":  1987,
+        "themes":  [
+                       "历史事件",
+                       "农村"
+                   ],
+        "designer":  "张新英、邵其华、陈德华",
+        "totalStamps":  4,
+        "extras":  [
+
+                   ],
+        "description":  "改革开放后，中国农村逐步改变贫困落后的面貌，生产生活方式和精神文化需求都出现新变化。邮票以农民画风格展现**江南**小镇的秀美水乡、新菜上市的丰收喜悦、喂牛的田园生活和看电影的文化生活四个场景。画面色彩明快、生活气息浓厚，把农村从温饱改善走向文化生活丰富的时代面貌，转化为亲切的日常图景。",
+        "quantity":  "江南小镇1791.15万枚，新菜上市1920.65万枚，喂牛1001.9万枚，看电影699.65万枚",
+        "needsReview":  true,
+        "localImageFolder":  "T118 《今日农村》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "江南小镇",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T118-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "新菜上市",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T118-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "喂牛",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1987/T118-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "看电影",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1987/T118-4.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T119",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "邮政储蓄",
+        "issueDate":  "1987-07-01",
+        "year":  1987,
+        "themes":  [
+                       "历史事件",
+                       "金融"
+                   ],
+        "designer":  "邵立辰",
+        "totalStamps":  1,
+        "extras":  [
+
+                   ],
+        "description":  "邮政储蓄是邮政部门开办的储蓄业务，邮政部门具备网点分布广、营业时间长、节假日不休息的特点，便于吸收社会闲散资金、回笼货币。邮票图案采用广告画技法：深绿色底色搭配左上角邮政徽志代表邮政属性，中央放置人民币符号\"¥\"搭配\"储\"字，直观体现邮政储蓄属性。图案暗藏巧思——\"Y\"是\"邮\"字汉语拼音首字母代表邮政，在\"Y\"中间加上两横就变为人民币符号\"¥\"，同一字母实现邮政、储蓄双重主题呼应。中国于1919年首次开办邮政储蓄业务，1986年重新开办。",
+        "quantity":  "储蓄邮政3186.45万枚",
+        "needsReview":  true,
+        "localImageFolder":  "T119 《邮政储蓄》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "储蓄邮政",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T119-1.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J139",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "世界语诞生一百周年",
+        "issueDate":  "1987-07-26",
+        "year":  1987,
+        "themes":  [
+                       "历史事件",
+                       "世界语"
+                   ],
+        "designer":  "许洪茹",
+        "totalStamps":  1,
+        "extras":  [
+
+                   ],
+        "description":  "世界语是波兰眼科医生**柴门霍夫**（1859-1917）于1887年创造的人造国际辅助语言，旨在消除语言障碍、促进各国人民之间的理解与和平。邮票画面为蓝色地球，以大大小小的\"Esperanto\"字母占据整个球面，象征世界语遍及全球；左上角配世界语标志和世界语大会标志。1986年第71届国际世界语大会在**北京**举行，这是中国首次举办国际世界语大会，也为百年纪念增添了中国语境。",
+        "quantity":  "世界语诞生一百周年2605.65万枚",
+        "needsReview":  true,
+        "localImageFolder":  "J139 《世界语诞生一百周年》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "世界语诞生一百周年",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/J139-1.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J140",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "中国人民解放军建军六十周年",
+        "issueDate":  "1987-08-01",
+        "year":  1987,
+        "themes":  [
+                       "解放军",
+                       "建军"
+                   ],
+        "designer":  "刘向平",
+        "totalStamps":  4,
+        "extras":  [
+
+                   ],
+        "description":  "1927年8月1日**南昌**起义是中国共产党独立领导武装斗争的开始，后来成为建军节的历史源头。邮票分别展示八一军旗、陆军战士、海军战士和空军战士，背景中出现导弹发射基地、潜水艇、新型战斗机等现代化装备意象。每枚左上角配中国人民解放军军徽，既表现军魂传承，也呈现陆、海、空三军现代化建设的时代面貌。",
+        "quantity":  "军魂1786.93万枚，陆军战士1645.25万枚，海军战士987.25万枚，空军战士673.37万枚",
+        "needsReview":  true,
+        "localImageFolder":  "J140 《中国人民解放军建军六十周年》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "军魂",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/J140-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "陆军战士",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/J140-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "海军战士",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1987/J140-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "空军战士",
+                           "denomination":  "30分",
+                           "image":  "/images/stamps/1987/J140-4.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J141",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "国际住房年",
+        "issueDate":  "1987-08-20",
+        "year":  1987,
+        "themes":  [
+                       "历史事件",
+                       "住房建设"
+                   ],
+        "designer":  "陈幼林",
+        "totalStamps":  1,
+        "extras":  [
+
+                   ],
+        "description":  "1981年联合国第36届大会通过决议，宣布1987年为\"国际住房年\"，旨在唤起各国政府对住房问题的关注，推动解决全球住房短缺问题。邮票采用民间剪纸形式，以红色房屋剪纸作主图，灰色砖形纹样背景，白色屋形增加层次感，红喜鹊剪纸表达人们渴望舒适住房的愿望，象征吉祥如意。整体构图简洁明快，将传统民间艺术与现代设计理念融为一体。",
+        "quantity":  "国际住房年3167.15万枚",
+        "needsReview":  true,
+        "localImageFolder":  "J141 《国际住房年》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "国际住房年",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/J141-1.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J142",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "中国艺术节",
+        "issueDate":  "1987-09-05",
+        "year":  1987,
+        "themes":  [
+                       "文化",
+                       "中国艺术节"
+                   ],
+        "designer":  "陈幼林、刘秀峰",
+        "totalStamps":  1,
+        "extras":  [
+
+                   ],
+        "description":  "首届中国艺术节于1987年9月5日至25日在**北京**举行。邮票主体形象选用北宋书画家**米芾**（1051-1107）的行书\"艺\"字，以沉稳大红色衬底，散金装饰，烘托浓烈节日气氛。字势飞动跌宕，是字又是图，高度概括\"中国艺术节\"主题。画面把书法艺术与现代设计相结合，一枚邮票同时传递书法之美与艺术之魂。",
+        "quantity":  "中国艺术节3588.15万枚",
+        "needsReview":  true,
+        "localImageFolder":  "J142 《中国艺术节》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "中国艺术节",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/J142-1.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T120",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "中国古代神话",
+        "issueDate":  "1987-09-25",
+        "year":  1987,
+        "themes":  [
+                       "文化",
+                       "中国古代神话"
+                   ],
+        "designer":  "楼家本",
+        "totalStamps":  6,
+        "extras":  [
+
+                   ],
+        "description":  "这组邮票选取中国古神话中开天辟地、为民造福、除暴安良、追求光明、自强不息、舍己救人的故事，借上古叙事呈现民族精神。创作参考神话学者**袁珂**（1916-2001）等人的研究意见，既坚持民族气派，又吸收民间与国外绘画中夸张、生动的表现方式。六枚分别描绘盘古（神话人物）开天、女娲（神话人物）造人、羿（神话人物）射九日、嫦娥（神话人物）奔月、夸父（神话人物）追日、精卫（神话人物）填海。",
+        "quantity":  "盘古开天1474.15万枚，女娲造人1703.9万枚，羿射九日1664.65万枚，嫦娥奔月1079.15万枚，夸父追日950.65万枚，精卫填海604.65万枚",
+        "needsReview":  true,
+        "localImageFolder":  "T120 《中国古代神话》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "盘古开天",
+                           "denomination":  "4分",
+                           "image":  "/images/stamps/1987/T120-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "女娲造人",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T120-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "羿射九日",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T120-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "嫦娥奔月",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1987/T120-4.jpg"
+                       },
+                       {
+                           "sn":  5,
+                           "name":  "夸父追日",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1987/T120-5.jpg"
+                       },
+                       {
+                           "sn":  6,
+                           "name":  "精卫填海",
+                           "denomination":  "90分",
+                           "image":  "/images/stamps/1987/T120-6.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J143",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "中国共产党第十三次全国代表大会",
+        "issueDate":  "1987-10-25",
+        "year":  1987,
+        "themes":  [
+                       "历史事件",
+                       "党史",
+                       "十三大"
+                   ],
+        "designer":  "康人平",
+        "totalStamps":  1,
+        "extras":  [
+
+                   ],
+        "description":  "中国共产党第十三次全国代表大会于1987年10月25日至11月1日在**北京**举行。邮票图案由一面飘扬的党旗和一轮喷薄而出的旭日组成：党旗呈波浪状，象征中国共产党领导人民奋勇前进；旭日寓意党的蓬勃生机。画面色彩明亮庄重，以象征和比喻手法营造\"共产党像太阳\"的艺术意境。",
+        "quantity":  "中国共产党第十三次全国代表大会3189.65万枚",
+        "needsReview":  true,
+        "localImageFolder":  "J143 《中国共产党第十三次全国代表大会》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "中国共产党第十三次全国代表大会",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/J143-1.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T121",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "中国历代名楼",
+        "issueDate":  "1987-10-30",
+        "year":  1987,
+        "themes":  [
+                       "建筑",
+                       "园林",
+                       "中国历代名楼"
+                   ],
+        "designer":  "周令钊",
+        "totalStamps":  4,
+        "extras":  [
+                       "小全张"
+                   ],
+        "description":  "黄鹤楼位于**湖北武汉**蛇山之巅，始建于三国吴黄武二年（223年），因唐代诗人**崔颢**（704-754）\"黄鹤一去不复返，白云千载空悠悠\"诗句名传千古。岳阳楼位于**湖南岳阳**城西门城头，北宋**范仲淹**（989-1052）《岳阳楼记》\"先天下之忧而忧，后天下之乐而乐\"使其名扬天下。滕王阁位于**江西南昌**赣江东岸，因**王勃**（约650-676）《滕王阁序》而誉满天下。蓬莱阁位于**山东蓬莱**丹崖山巅，以\"八仙过海\"传说和海市蜃楼奇观闻名。",
+        "quantity":  "黄鹤楼1734.15万枚，岳阳楼1693.65万枚，滕王阁929.4万枚，蓬莱阁652.4万枚，中国历代名楼364.1万枚",
+        "needsReview":  true,
+        "localImageFolder":  "T121 《中国历代名楼》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "黄鹤楼",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T121-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "岳阳楼",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T121-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "滕王阁",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1987/T121-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "蓬莱阁",
+                           "denomination":  "90分",
+                           "image":  "/images/stamps/1987/T121-4.jpg"
+                       },
+                       {
+                           "sn":  5,
+                           "format":  "小全张",
+                           "name":  "中国历代名楼",
+                           "denomination":  "1.16元",
+                           "image":  "/images/stamps/1987/T121-5.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J144",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "中华人民共和国第六届运动会",
+        "issueDate":  "1987-11-20",
+        "year":  1987,
+        "themes":  [
+                       "体育",
+                       "全运会"
+                   ],
+        "designer":  "卢德辉",
+        "totalStamps":  4,
+        "extras":  [
+
+                   ],
+        "description":  "中华人民共和国第六届运动会于1987年11月20日至12月5日在**广东**举行。邮票采用现代变形和抽象叠影手法表现撑杆跳高、女子垒球、举重、跳水四项运动的连续动作，并以四联票形式用\"6\"字连接成整体。会徽以金色和绿色为主色调，由火炬形变体\"6\"和\"羊\"字手柄组成，象征全运会届次与**广州**地域特征。",
+        "quantity":  "撑杆跳高1631.9万枚，女子垒球1636.65万枚，举重802.65万枚，跳水699.65万枚",
+        "needsReview":  true,
+        "localImageFolder":  "J144 《中华人民共和国第六届运动会》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "撑杆跳高",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/J144-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "女子垒球",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/J144-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "举重",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/J144-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "跳水",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/J144-4.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T122",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "曾侯乙编钟",
+        "issueDate":  "1987-12-10",
+        "year":  1987,
+        "themes":  [
+                       "文物古迹",
+                       "青铜器"
+                   ],
+        "designer":  "邵柏林",
+        "totalStamps":  0,
+        "extras":  [
+                       "小型张"
+                   ],
+        "description":  "曾侯乙编钟于1978年出土于**湖北随县擂鼓墩**曾侯乙墓，是战国早期曾国青铜乐器。整套编钟共65件，分三层悬挂于铜木钟架，每钟可敲击两音，音域涵盖五个八度，钟体铭文记载了乐律信息，是中国音乐、科学和考古史上的珍贵发现。小型张属\"中国国宝\"系列首套，随邮折还配有收录编钟演奏古曲《竹枝词》的微型唱片；因采用布纹纸、无齿孔、无背胶印制，也成为新中国邮票发行史上的特殊案例。",
+        "quantity":  "曾侯乙编钟396.45万枚",
+        "needsReview":  true,
+        "localImageFolder":  "T122 《曾侯乙编钟》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "format":  "小型张",
+                           "name":  "曾侯乙编钟",
+                           "denomination":  "3元",
+                           "image":  "/images/stamps/1987/T122-1.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T123",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "中国古典文学名著——《水浒传》（第一组）",
+        "issueDate":  "1987-12-20",
+        "year":  1987,
+        "themes":  [
+                       "文学名著",
+                       "水浒传"
+                   ],
+        "designer":  "周峰",
+        "totalStamps":  4,
+        "extras":  [
+                       "小型张"
+                   ],
+        "description":  "《水浒传》是中国古典文学四大名著之一，作者**施耐庵**（约1296-1370）依据北宋时期宋江（历史原型人物）领导的农民起义，并吸收宋、元、明、清以来民间传说写成，揭示\"官逼民反\"的主题。这是《水浒传》邮票系列第一组，本组选取史进（《水浒传》人物）习武、鲁智深（《水浒传》人物）倒拔垂杨柳、林冲（《水浒传》人物）风雪山神庙、宋江（《水浒传》人物）义释晁盖（《水浒传》人物）四个经典情节，小型张再现智取生辰纲场景，形成从人物到群像的叙事开篇。",
+        "quantity":  "史进习武1807.2万枚，鲁智深倒拔垂杨柳1068.8万枚，林冲风雪山神庙1148.25万枚，宋江义释晁盖879.1万枚，水浒传——智取生辰纲413.17万枚",
+        "needsReview":  true,
+        "localImageFolder":  "T123 《中国古典文学名著《水浒传》（第一组）》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "史进习武",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1987/T123-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "鲁智深倒拔垂杨柳",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1987/T123-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "林冲风雪山神庙",
+                           "denomination":  "30分",
+                           "image":  "/images/stamps/1987/T123-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "宋江义释晁盖",
+                           "denomination":  "50分",
+                           "image":  "/images/stamps/1987/T123-4.jpg"
+                       },
+                       {
+                           "sn":  5,
+                           "format":  "小型张",
+                           "name":  "水浒传——智取生辰纲",
+                           "denomination":  "2元",
+                           "image":  "/images/stamps/1987/T123-5.jpg"
+                       }
+                   ]
+    }
+]

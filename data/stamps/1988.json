@@ -1,0 +1,888 @@
+[
+    {
+        "id":  "T124",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "戊辰年",
+        "issueDate":  "1988-01-05",
+        "year":  1988,
+        "themes":  [
+                       "生肖",
+                       "生肖龙"
+                   ],
+        "designer":  "祖天丽",
+        "totalStamps":  1,
+        "extras":  [
+
+                   ],
+        "description":  "戊辰年对应农历龙年。龙在中国传统文化中象征祥瑞、力量与民族认同，民间常以\"龙的传人\"自称。邮票采用红色团龙造型，口含灵芝、身绘四季花卉，黑色底衬使龙形更显醒目，既有生肖贺岁的喜庆，也有传统装饰图案的庄重感。",
+        "quantity":  "12391.65万套",
+        "needsReview":  true,
+        "localImageFolder":  "T124 《戊辰年》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "戊辰年",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/T124-1.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J145",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "蔡元培诞生一百二十周年",
+        "issueDate":  "1988-01-11",
+        "year":  1988,
+        "themes":  [
+                       "人物",
+                       "现代人"
+                   ],
+        "designer":  "颜宝臻",
+        "totalStamps":  2,
+        "extras":  [
+
+                   ],
+        "description":  "**蔡元培**（1868-1940）是中国近代民主革命家、教育家，曾任**北京大学**校长，提倡\"思想自由、兼容并包\"的办学方针，对中国现代教育转型产生深远影响。邮票两枚分别以正面像和侧面像表现人物，画面庄重克制，突出其教育家和思想启蒙者的精神气质。",
+        "quantity":  "1212.6万套",
+        "needsReview":  true,
+        "localImageFolder":  "J145 《蔡元培诞生一百二十周年》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "学界泰斗",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/J145-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "人世楷模",
+                           "denomination":  "70分",
+                           "image":  "/images/stamps/1988/J145-2.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J146",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "陶铸同志诞生八十周年",
+        "issueDate":  "1988-01-16",
+        "year":  1988,
+        "themes":  [
+                       "共产党人",
+                       "老一辈革命家"
+                   ],
+        "designer":  "刘向平",
+        "totalStamps":  2,
+        "extras":  [
+
+                   ],
+        "description":  "**陶铸**（1908-1969）是中国共产党和国家重要领导人，久经考验的无产阶级革命战士，曾任国务院副总理、中央政治局常委等职。邮票以肖像和工作场景两种方式表现人物：一枚突出庄重形象，一枚表现伏案工作的状态，传达其投身革命和建设事业的实干品格。",
+        "quantity":  "1069万套",
+        "needsReview":  true,
+        "localImageFolder":  "J146 《陶铸同志诞生八十周年》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "陶铸像",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/J146-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "心底无私天地宽",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1988/J146-2.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T125",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "农村风情",
+        "issueDate":  "1988-02-10",
+        "year":  1988,
+        "themes":  [
+                       "历史事件",
+                       "农村"
+                   ],
+        "designer":  "吕胜中",
+        "totalStamps":  4,
+        "extras":  [
+
+                   ],
+        "description":  "党的十一届三中全会后，农村改革调动了农民积极性，乡镇企业发展，农民生活逐步改善。邮票运用传统年画形式，把丰收、喜庆、学习、安居等题材融入鲜明色彩和热闹构图之中。画面不是写实记录，而是借年画的吉祥语汇表现改革后农村生活的新气象。",
+        "quantity":  "727.15万套",
+        "needsReview":  true,
+        "localImageFolder":  "T125 《农村风情》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "丰歌高奏 喜乐长鸣",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/T125-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "各显神通 吉庆有余",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1988/T125-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "知识闪光 龙腾凤飞",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1988/T125-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "丰衣足食 安居乐业",
+                           "denomination":  "30分",
+                           "image":  "/images/stamps/1988/T125-4.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J147",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "中华人民共和国第七届全国人民代表大会",
+        "issueDate":  "1988-03-25",
+        "year":  1988,
+        "themes":  [
+                       "历史事件",
+                       "人大"
+                   ],
+        "designer":  "李跃义",
+        "totalStamps":  1,
+        "extras":  [
+
+                   ],
+        "description":  "第七届全国人民代表大会于1988年3月25日在**北京**召开。邮票以**人民大会堂**和红旗为主要视觉元素，建筑象征国家政治生活的庄严场所，红旗象征人民代表大会制度的政治方向。简洁构图把会议纪念题材转化为\"人民当家作主\"的视觉表达。",
+        "quantity":  "中华人民共和国第七届全国人民代表大会3827.25万枚",
+        "needsReview":  true,
+        "localImageFolder":  "J147 《中华人民共和国第七届全国人民代表大会》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "中华人民共和国第七届全国人民代表大会",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/J147-1.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J148",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "海南建省",
+        "issueDate":  "1988-04-20",
+        "year":  1988,
+        "themes":  [
+                       "历史事件",
+                       "海南建省"
+                   ],
+        "designer":  "吴建坤",
+        "totalStamps":  4,
+        "extras":  [
+
+                   ],
+        "description":  "1988年4月13日，第七届全国人大一次会议批准设立**海南省**，同时建立**海南经济特区**，成为中国改革开放进程中的重要节点。邮票选取**五指山**和**天涯海角**两大标志景观：前者代表海南岛的山地自然风貌，后者承载海岛边疆和旅游文化意象，以风景表现建省和开放的新起点。",
+        "quantity":  "1759.15万套",
+        "needsReview":  true,
+        "localImageFolder":  "J148 《海南建省》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "五指山",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/J148-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "万泉河",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1988/J148-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "天涯海角",
+                           "denomination":  "30分",
+                           "image":  "/images/stamps/1988/J148-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "鹿回头",
+                           "denomination":  "1.10元",
+                           "image":  "/images/stamps/1988/J148-4.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J149",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "中国现代科学家（第一组）",
+        "issueDate":  "1988-04-28",
+        "year":  1988,
+        "themes":  [
+                       "人物",
+                       "现代人",
+                       "中国现代科学家"
+                   ],
+        "designer":  "邹建军",
+        "totalStamps":  4,
+        "extras":  [
+
+                   ],
+        "description":  "此套邮票是中国现代科学家系列第一组，展现四位杰出科学家：**李四光**（1889-1971）创立地质力学理论，**竺可桢**（1890-1974）是中国现代气象学奠基人，**吴有训**（1897-1977）在X射线散射研究方面成就卓著，**华罗庚**（1910-1985）是享誉世界的数学家。",
+        "quantity":  "1419.65万套",
+        "needsReview":  true,
+        "localImageFolder":  "J149 《中国现代科学家（第一组）》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "地质学家李四光",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/J149-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "气象地理学家竺可桢",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1988/J149-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "物理学家吴有训",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1988/J149-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "数学家华罗庚",
+                           "denomination":  "30分",
+                           "image":  "/images/stamps/1988/J149-4.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T126",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "敦煌壁画（第二组）",
+        "issueDate":  "1988-05-25",
+        "year":  1988,
+        "themes":  [
+                       "绘画艺术",
+                       "古画",
+                       "敦煌壁画"
+                   ],
+        "designer":  "吴建坤、任宇",
+        "totalStamps":  4,
+        "extras":  [
+
+                   ],
+        "description":  "这组邮票延续**敦煌莫高窟**壁画题材，选取西魏和北周时期的壁画精品。西魏画面多显飘逸洒脱，北周线条则更粗犷有力，体现早期敦煌艺术由清秀向雄健变化的面貌。\"狩猎\"和\"战斗\"呈现古代社会生活场景，\"农耕\"和\"建塔\"则把生产劳动与佛教活动放在同一组图像中观察。",
+        "quantity":  "960万套",
+        "needsReview":  true,
+        "localImageFolder":  "T126 《敦煌壁画（第二组）》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "西魏·狩猎",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/T126-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "西魏·战斗",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1988/T126-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "北周·农耕",
+                           "denomination":  "30分",
+                           "image":  "/images/stamps/1988/T126-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "北周·建塔",
+                           "denomination":  "50分",
+                           "image":  "/images/stamps/1988/T126-4.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T127",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "环境保护",
+        "issueDate":  "1988-06-05",
+        "year":  1988,
+        "themes":  [
+                       "历史事件",
+                       "环保"
+                   ],
+        "designer":  "张安朴、徐逸涛",
+        "totalStamps":  4,
+        "extras":  [
+
+                   ],
+        "description":  "世界环境日由联合国设立，1988年正值第十五个世界环境日。邮票分别以土壤、大气、水和噪声为主题，用地球和人类双手作为共同元素，把看不见的污染问题转化为直观图像。四枚连在一起，形成从自然基础到人类行动的提示：环境保护不是单一议题，而是关乎生态平衡和日常生活的整体责任。",
+        "quantity":  "1150万套",
+        "needsReview":  true,
+        "localImageFolder":  "T127 《环境保护》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "保护土壤环境",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/T127-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "保护大气环境",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1988/T127-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "保护水环境",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1988/T127-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "防治噪声污染",
+                           "denomination":  "30分",
+                           "image":  "/images/stamps/1988/T127-4.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J150",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "中国大龙邮票发行110周年",
+        "issueDate":  "1988-07-02",
+        "year":  1988,
+        "themes":  [
+                       "文化",
+                       "集邮"
+                   ],
+        "designer":  "王虎鸣",
+        "totalStamps":  0,
+        "extras":  [
+                       "小型张"
+                   ],
+        "description":  "1878年清政府海关试办邮政发行大龙邮票，这是中国第一套邮票，也是中国近代邮政史的开端。小型张以三枚大龙邮票为主图，边框配海水江牙纹饰，既呼应清代官方图像语言，也把早期邮政文物置于纪念性画面中央。对集邮者来说，大龙邮票不仅是邮票实物，更是中国邮政现代化起步的象征。",
+        "quantity":  "623.07万枚",
+        "needsReview":  true,
+        "localImageFolder":  "J150 《中国大龙邮票发行110周年》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "format":  "小型张",
+                           "name":  "中国大龙邮票发行110周年",
+                           "denomination":  "3元",
+                           "image":  "/images/stamps/1988/J150-1.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J151",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "北京第十一届亚洲运动会（一）",
+        "issueDate":  "1988-07-20",
+        "year":  1988,
+        "themes":  [
+                       "体育",
+                       "亚运会"
+                   ],
+        "designer":  "王虎鸣",
+        "totalStamps":  2,
+        "extras":  [
+
+                   ],
+        "description":  "第十一届亚洲运动会将于1990年在**北京**举行，这是中国首次承办大型国际综合性运动会。邮票作为亚运会系列第一组，分别表现会徽和吉祥物熊猫\"盼盼\"。会徽凝练赛事身份，熊猫形象亲切明快，既表达东道主的欢迎，也提前营造全民期待亚运的社会氛围。",
+        "quantity":  "1819.4万套",
+        "needsReview":  true,
+        "localImageFolder":  "J151 《北京第十一届亚洲运动会（一）》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "亚运会会徽",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/J151-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "亚运会吉祥物",
+                           "denomination":  "30分",
+                           "image":  "/images/stamps/1988/J151-2.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "普24",
+        "series":  "普",
+        "type":  "普通邮票",
+        "title":  "中国石窟艺术普通邮票",
+        "issueDate":  "1988-08-10",
+        "year":  1988,
+        "themes":  [
+                       "普票",
+                       "中国石窟艺术"
+                   ],
+        "designer":  "群峰",
+        "totalStamps":  4,
+        "extras":  [
+
+                   ],
+        "description":  "**云冈石窟**位于**山西大同**西郊武周山南麓，依山开凿，始凿于北魏和平元年（460年）。第20窟释迦牟尼坐像面部丰满、薄唇高鼻、神情肃穆，是云冈石窟代表作。**龙门石窟**位于**河南洛阳**伊河两岸，奉先寺力士像刀法纯熟流畅。**麦积山石窟**位于**甘肃天水**东南，第127窟西魏菩萨造像低眉含笑，线条流畅优美。**大足石刻**分布于**四川大足**附近山中，宝顶山\"养鸡女\"以南宋农村妇女为原型，具有写实特点。邮票以单色雕刻为主，借精细刀法呈现石窟艺术的庄重古朴。",
+        "quantity":  "普通邮票为长期多次印刷，官方未公布单枚发行量",
+        "needsReview":  true,
+        "localImageFolder":  "普24 《中国石窟艺术普通邮票》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "云冈石窟·北魏·大佛",
+                           "denomination":  "2元",
+                           "image":  "/images/stamps/1988/普24-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "龙门石窟·唐代·力士",
+                           "denomination":  "5元",
+                           "image":  "/images/stamps/1988/普24-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "麦积山石窟·西魏·菩萨",
+                           "denomination":  "10元",
+                           "image":  "/images/stamps/1988/普24-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "大足石刻·宋代·养鸡女",
+                           "denomination":  "20元",
+                           "image":  "/images/stamps/1988/普24-4.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J152",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "中日和平友好条约缔结十周年",
+        "issueDate":  "1988-08-12",
+        "year":  1988,
+        "themes":  [
+                       "历史事件",
+                       "中日关系"
+                   ],
+        "designer":  "孙志钧",
+        "totalStamps":  2,
+        "extras":  [
+
+                   ],
+        "description":  "1978年《中日和平友好条约》签订，为两国关系发展奠定法律基础。邮票采用连印形式，一枚绘中国牡丹，一枚绘日本樱花，以两国具有代表性的花卉象征民间友好和文化互赏。花卉题材避免了宏大叙事的生硬感，把外交纪念转化为温和、易读的视觉语言。",
+        "quantity":  "1115万套",
+        "needsReview":  true,
+        "localImageFolder":  "J152 《中日和平友好条约缔结十周年》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "牡丹",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/J152-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "樱花",
+                           "denomination":  "70分",
+                           "image":  "/images/stamps/1988/J152-2.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T128",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "社会主义建设成就（第一组）",
+        "issueDate":  "1988-09-02",
+        "year":  1988,
+        "themes":  [
+                       "科技",
+                       "建设成就"
+                   ],
+        "designer":  "陈晓聪",
+        "totalStamps":  4,
+        "extras":  [
+
+                   ],
+        "description":  "这组邮票以改革开放时期的重点工程展示社会主义建设成就。**秦皇岛港**煤码头体现能源运输能力，**齐鲁乙烯**代表石化工业发展，**上海宝山钢铁总厂**是现代化钢铁企业建设的标志，**中央电视台**则象征广播电视事业和公共文化传播能力的提升。四个题材合在一起，呈现工业、交通和传媒基础设施的现代化图景。",
+        "quantity":  "1124.45万套",
+        "needsReview":  true,
+        "localImageFolder":  "T128 《社会主义建设成就（第一组）》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "秦皇岛港煤码头",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/T128-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "齐鲁三十万吨乙烯",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1988/T128-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "上海宝山钢铁总厂",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1988/T128-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "中央电视台",
+                           "denomination":  "30分",
+                           "image":  "/images/stamps/1988/T128-4.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T130",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "泰山",
+        "issueDate":  "1988-09-14",
+        "year":  1988,
+        "themes":  [
+                       "山水风光",
+                       "山",
+                       "五岳"
+                   ],
+        "designer":  "张济平",
+        "totalStamps":  4,
+        "extras":  [
+
+                   ],
+        "description":  "**泰山**位于**山东**中部，为五岳之首，自古被视为社稷稳定、国家昌盛的象征。邮票选取岱庙、十八盘、大观峰和日观峰四处景观：岱庙显礼制庄严，十八盘见登山险峻，大观峰聚碑刻人文，日观峰则承载观日出胜景。影雕套印工艺强化山石层次和古迹质感，表现泰山雄浑厚重的气势。",
+        "quantity":  "912.84万套",
+        "needsReview":  true,
+        "localImageFolder":  "T130 《泰山》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "岱庙晴雪",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/T130-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "盘道通天",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1988/T130-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "大观雄峰",
+                           "denomination":  "30分",
+                           "image":  "/images/stamps/1988/T130-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "云海日出",
+                           "denomination":  "50分",
+                           "image":  "/images/stamps/1988/T130-4.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J153",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "廖承志诞生八十周年",
+        "issueDate":  "1988-09-25",
+        "year":  1988,
+        "themes":  [
+                       "人物",
+                       "现代人",
+                       "爱国民主人士"
+                   ],
+        "designer":  "李印清",
+        "totalStamps":  2,
+        "extras":  [
+
+                   ],
+        "description":  "**廖承志**（1908-1983）是党和国家优秀领导人、杰出的社会活动家，长期从事统一战线、侨务和对外友好工作，为中日邦交正常化和祖国统一大业作出重要贡献。邮票两枚分别表现肖像和工作场景，前者强调人物气质，后者呈现其奔走事务、联系各方的工作状态。",
+        "quantity":  "1229万套",
+        "needsReview":  true,
+        "localImageFolder":  "J153 《廖承志诞生八十周年》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "廖承志同志像",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/J153-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "廖承志同志在工作",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1988/J153-2.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J154",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "第一届全国农民运动会",
+        "issueDate":  "1988-10-09",
+        "year":  1988,
+        "themes":  [
+                       "体育",
+                       "农民运动会"
+                   ],
+        "designer":  "刘长春、吕胜中",
+        "totalStamps":  2,
+        "extras":  [
+
+                   ],
+        "description":  "第一届全国农民运动会于1988年10月在**北京**举行，是中国首次举办以农民为主体的全国性体育赛事。邮票选取自行车载重和武术两个项目：前者带有鲜明劳动生活气息，后者体现乡土体育和传统技艺。体育题材在这里不只表现竞技，也表现改革开放后农民精神面貌和乡村文化活力。",
+        "quantity":  "1141万套",
+        "needsReview":  true,
+        "localImageFolder":  "J154 《第一届全国农民运动会》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "自行车载重比赛",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/J154-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "武术",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1988/J154-2.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J155",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "彭德怀同志诞生九十周年",
+        "issueDate":  "1988-10-24",
+        "year":  1988,
+        "themes":  [
+                       "解放军",
+                       "十大元帅"
+                   ],
+        "designer":  "马刚",
+        "totalStamps":  2,
+        "extras":  [
+
+                   ],
+        "description":  "**彭德怀**（1898-1974）是中国人民解放军元帅，杰出的无产阶级革命家、军事家。抗日战争中指挥百团大战，抗美援朝中任志愿军司令员。**毛泽东**（1893-1976）赞誉\"谁敢横刀立马，唯我彭大将军\"。",
+        "quantity":  "1154万套",
+        "needsReview":  true,
+        "localImageFolder":  "J155 《彭德怀同志诞生九十周年》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "彭德怀同志肖像",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/J155-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "彭德怀同志在战场上",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1988/J155-2.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T131",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "中国古典文学名著《三国演义》（第一组）",
+        "issueDate":  "1988-11-25",
+        "year":  1988,
+        "themes":  [
+                       "文学名著",
+                       "三国演义"
+                   ],
+        "designer":  "陈全胜",
+        "totalStamps":  4,
+        "extras":  [
+                       "小型张"
+                   ],
+        "description":  "这套邮票是《三国演义》系列第一组，选取四个经典故事：桃园三结义表现**刘备**（161-223）、**关羽**（？-220）、**张飞**（？-221）义结金兰；三英战**吕布**（？-199）描绘虎牢关激战；凤仪亭刻画吕布与**貂蝉**（文学人物）的戏剧冲突；煮酒论英雄表现**曹操**（155-220）与刘备暗中较量。小型张为\"千里走单骑\"，把关羽忠义形象推到画面中心。",
+        "quantity":  "1181.65万套",
+        "needsReview":  true,
+        "localImageFolder":  "T131 《中国古典文学名著——《三国演义》（第一组）》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "桃园三结义",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/T131-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "三英战吕布",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/T131-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "凤仪亭",
+                           "denomination":  "30分",
+                           "image":  "/images/stamps/1988/T131-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "煮酒论英雄",
+                           "denomination":  "50分",
+                           "image":  "/images/stamps/1988/T131-4.jpg"
+                       },
+                       {
+                           "sn":  5,
+                           "format":  "小型张",
+                           "name":  "千里走单骑",
+                           "denomination":  "3元",
+                           "image":  "/images/stamps/1988/T131-5.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "J156",
+        "series":  "J",
+        "type":  "纪念邮票",
+        "title":  "国际志愿人员日",
+        "issueDate":  "1988-12-05",
+        "year":  1988,
+        "themes":  [
+                       "节日",
+                       "现代节日"
+                   ],
+        "designer":  "张磊",
+        "totalStamps":  1,
+        "extras":  [
+
+                   ],
+        "description":  "1985年联合国大会确定每年12月5日为国际志愿人员日，旨在表彰志愿者对社会发展的贡献。邮票以环绕地球的手和鸽子为图案，手象征服务与互助，鸽子象征和平，地球则把志愿行动放在全球共同体的尺度中理解。画面简洁而富有公益感，强调个人善意也能汇入社会发展的力量。",
+        "quantity":  "国际志愿人员日3227万枚",
+        "needsReview":  true,
+        "localImageFolder":  "J156 《国际志愿人员日》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "国际志愿人员日",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1988/J156-1.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T132",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "麋鹿",
+        "issueDate":  "1988-12-20",
+        "year":  1988,
+        "themes":  [
+                       "动物",
+                       "国家重点保护野生动物",
+                       "濒危动物"
+                   ],
+        "designer":  "许彦博",
+        "totalStamps":  2,
+        "extras":  [
+
+                   ],
+        "description":  "麋鹿俗称\"四不像\"，是中国特产珍稀动物，原产中国东部，野生种群曾在19世纪灭绝。1985年，从英国乌邦寺引回的麋鹿在**北京南海子**安家，成为中国麋鹿种群重建的重要起点。邮票以个体和鹿群表现这种动物从濒危到回归的过程，也让珍稀动物保护成为可被公众看见的主题。",
+        "quantity":  "976.9万套",
+        "needsReview":  true,
+        "localImageFolder":  "T132 《麋鹿》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "麋鹿",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/T132-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "麋鹿群",
+                           "denomination":  "40分",
+                           "image":  "/images/stamps/1988/T132-2.jpg"
+                       }
+                   ]
+    },
+    {
+        "id":  "T129",
+        "series":  "T",
+        "type":  "特种邮票",
+        "title":  "中国兰花",
+        "issueDate":  "1988-12-25",
+        "year":  1988,
+        "themes":  [
+                       "植物花卉",
+                       "花卉"
+                   ],
+        "designer":  "龚文桢",
+        "totalStamps":  4,
+        "extras":  [
+                       "小型张"
+                   ],
+        "description":  "兰花是中国传统名花，被誉为\"花中君子\"，与梅竹菊并称\"四君子\"。邮票选取龙字、大一品、大凤尾、银边墨兰四种名品，以工笔技法精心绘制。此套邮票被评为1988年最佳邮票之一。小型张以红莲瓣为主图。",
+        "quantity":  "1001.05万套",
+        "needsReview":  true,
+        "localImageFolder":  "T129 《中国兰花》",
+        "stamps":  [
+                       {
+                           "sn":  1,
+                           "name":  "龙字",
+                           "denomination":  "8分",
+                           "image":  "/images/stamps/1988/T129-1.jpg"
+                       },
+                       {
+                           "sn":  2,
+                           "name":  "大一品",
+                           "denomination":  "10分",
+                           "image":  "/images/stamps/1988/T129-2.jpg"
+                       },
+                       {
+                           "sn":  3,
+                           "name":  "大凤尾",
+                           "denomination":  "20分",
+                           "image":  "/images/stamps/1988/T129-3.jpg"
+                       },
+                       {
+                           "sn":  4,
+                           "name":  "银边墨兰",
+                           "denomination":  "50分",
+                           "image":  "/images/stamps/1988/T129-4.jpg"
+                       },
+                       {
+                           "sn":  5,
+                           "format":  "小型张",
+                           "name":  "红莲瓣",
+                           "denomination":  "2元",
+                           "image":  "/images/stamps/1988/T129-5.jpg"
+                       }
+                   ]
+    }
+]

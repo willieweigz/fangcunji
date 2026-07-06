@@ -1,0 +1,899 @@
+[
+  {
+    "id": "T133",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "己巳年",
+    "issueDate": "1989-01-05",
+    "year": 1989,
+    "themes": [
+      "生肖",
+      "生肖蛇"
+    ],
+    "designer": "吕胜中",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "己巳年对应农历蛇年，是首轮生肖邮票第十套。蛇在传统民俗中兼具灵动、机警和生命循环的象征意味，常与祥瑞纹样结合。邮票采用圆形盘蛇图案，蛇身绘四季花卉，口含灵芝，尾部近似鱼形，把\"四季平安\"、\"年年有余\"等吉祥寓意压缩进一枚小票的装饰构图中。",
+    "quantity": "12602.05万套",
+    "needsReview": true,
+    "localImageFolder": "T133 《己巳年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "己巳年",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/T133-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J157",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "瞿秋白同志诞生九十周年",
+    "issueDate": "1989-01-29",
+    "year": 1989,
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "designer": "颜宝臻",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**瞿秋白**（1899-1935）是中国共产党早期主要领导人、马克思主义理论家和文学活动家，曾主持八七会议，推动确立武装反抗国民党反动派的方针。邮票以肖像和写作场景表现人物，既突出其政治生涯，也呈现他作为理论家、译介者和文字工作者的一面。",
+    "quantity": "1278万套",
+    "needsReview": true,
+    "localImageFolder": "J157 《瞿秋白同志诞生九十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "瞿秋白",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/J157-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "江南第一燕",
+        "denomination": "20分",
+        "image": "/images/stamps/1989/J157-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T134",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "褐马鸡",
+    "issueDate": "1989-02-21",
+    "year": 1989,
+    "themes": [
+      "动物",
+      "国家重点保护野生动物",
+      "濒危动物"
+    ],
+    "designer": "万一",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "褐马鸡是中国特有珍稀鸟类，属国家一级保护动物，主要分布于**河北**、**山西**等地的深山密林。雄鸟尾羽长而华美，古代曾以其尾羽装饰武将头盔，因而带有勇武意象。邮票以褐马鸡个体和自然姿态为主，既展示羽色与尾形之美，也提示珍稀动物保护的现实意义。",
+    "quantity": "1568万套",
+    "needsReview": true,
+    "localImageFolder": "T134 《褐马鸡》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "英姿",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/T134-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "双栖",
+        "denomination": "50分",
+        "image": "/images/stamps/1989/T134-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "普25",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "民居",
+    "issueDate": "1989-03-10",
+    "year": 1989,
+    "themes": [
+      "普票",
+      "民居"
+    ],
+    "designer": "陈汉民、华健心、何洁",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "普25《民居》是民居系列普通邮票的第二组。邮票图案分别描绘**青海**民居和**贵州**民居的地方建筑特色。青海民居以青海东部农业区常见的庄廓式土木建筑为原型，外墙高厚、院落紧凑，适应高原寒冷干燥的气候特点。贵州民居则以**黔东南**苗侗地区的干栏式吊脚楼为原型，依山傍水而建，底层架空、二层住人，既防潮又便于山地生活。民居系列借普通邮票展示不同地域和民族的建筑风格与生活文化。",
+    "quantity": "普通邮票为长期多次印刷，官方未公布单枚发行量",
+    "needsReview": true,
+    "localImageFolder": "普25 《民居》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "青海民居",
+        "denomination": "1.30元",
+        "image": "/images/stamps/1989/普25-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "贵州民居",
+        "denomination": "1.60元",
+        "image": "/images/stamps/1989/普25-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T135",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "马王堆汉墓帛画",
+    "issueDate": "1989-03-25",
+    "year": 1989,
+    "themes": [
+      "文物古迹",
+      "汉代文物"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 3,
+    "extras": [
+      "小型张"
+    ],
+    "description": "1972年，**湖南长沙**马王堆一号汉墓出土T形帛画，这是研究汉代丧葬观念、神话想象和绘画艺术的重要实物。帛画纵向展开天上、人间、地下三界：上部有日月神灵，中部表现墓主人升仙，下部呈现地下世界和承托图像。邮票将帛画分段表现，使观众能从方寸之间看到汉代宇宙观的层次。",
+    "quantity": "1413万套",
+    "needsReview": true,
+    "localImageFolder": "T135 《马王堆汉墓帛画》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "天上",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/T135-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "人间",
+        "denomination": "20分",
+        "image": "/images/stamps/1989/T135-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "地下",
+        "denomination": "40分",
+        "image": "/images/stamps/1989/T135-3.jpg"
+      },
+      {
+        "sn": 4,
+        "format": "小型张",
+        "name": "马王堆汉墓帛画",
+        "denomination": "5元",
+        "image": "/images/stamps/1989/T135-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T136",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "群策群力，攻克癌症",
+    "issueDate": "1989-04-07",
+    "year": 1989,
+    "themes": [
+      "历史事件",
+      "医学"
+    ],
+    "designer": "陈幼林",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "癌症长期严重威胁人类健康，这套邮票把医学公共议题转化为社会动员主题。\"群策群力\"强调科研、医疗与公众共同参与，\"攻克癌症\"则表达对科学防治的期待。画面以简洁象征方式传达抗癌理念，重点不在具体病理知识，而在呼吁社会关注、早防早治和支持医学研究。",
+    "quantity": "1514万套",
+    "needsReview": true,
+    "localImageFolder": "T136 《群策群力，攻克癌症》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "抗癌防癌",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/T136-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "热图像诊断癌症",
+        "denomination": "20分",
+        "image": "/images/stamps/1989/T136-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J158",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "“五四”运动七十周年",
+    "issueDate": "1989-05-04",
+    "year": 1989,
+    "themes": [
+      "历史事件",
+      "五四运动"
+    ],
+    "designer": "何洁、李跃义",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1919年5月4日，**北京**学生爱国运动爆发，推动新文化运动向反帝反封建的群众运动发展，被视为中国新民主主义革命的开端。邮票取材**人民英雄纪念碑**浮雕，以群像表现青年学生和民众的抗争姿态。纪念碑浮雕本身是国家记忆的公共图像，移入邮票后强化了五四运动的历史分量。",
+    "quantity": "3673万套",
+    "needsReview": true,
+    "localImageFolder": "J158 《“五四”运动七十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "“五四”运动七十周年",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/J158-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T137",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "儿童生活（附捐邮票）",
+    "issueDate": "1989-06-01",
+    "year": 1989,
+    "themes": [
+      "6.1儿童邮票",
+      "儿童生活"
+    ],
+    "designer": "中国儿童少年活动中心美术组",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "这套附捐邮票以儿童画为素材，画面保留孩子笔触中天真、直接的表达方式。\"我的好朋友\"、\"亲切\"、\"问候\"、\"节日快乐\"四个题材围绕友爱、关怀和节日喜悦展开，和六一儿童节的发行节点相呼应。附捐邮票把邮资使用和公益捐助结合在一起，使儿童福利主题通过日常通信被更多人看见。",
+    "quantity": "1445万套",
+    "needsReview": true,
+    "localImageFolder": "T137 《儿童生活（附捐邮票）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "我们的好朋友",
+        "denomination": "8+4分",
+        "image": "/images/stamps/1989/T137-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "企鹅，你好",
+        "denomination": "8+4分",
+        "image": "/images/stamps/1989/T137-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "我的鸟",
+        "denomination": "8+4分",
+        "image": "/images/stamps/1989/T137-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "拍球",
+        "denomination": "8+4分",
+        "image": "/images/stamps/1989/T137-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J159",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "各国议会联盟成立一百周年",
+    "issueDate": "1989-06-29",
+    "year": 1989,
+    "themes": [
+      "历史事件",
+      "国际会议"
+    ],
+    "designer": "何洁",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "各国议会联盟成立于1889年，是各国议会之间开展交流与合作的国际组织，中国于1983年加入。邮票以联盟标志和地球为核心元素，把议会外交、国际理解与和平合作浓缩成简洁图形。地球意象强调跨国沟通，联盟标志则指向通过议会渠道促进对话的制度性平台。",
+    "quantity": "3783万套",
+    "needsReview": true,
+    "localImageFolder": "J159 《各国议会联盟成立一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "各国议会联盟成立一百周年",
+        "denomination": "20分",
+        "image": "/images/stamps/1989/J159-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T138",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "中国古典文学名著——《水浒传》（第二组）",
+    "issueDate": "1989-07-25",
+    "year": 1989,
+    "themes": [
+      "文学名著",
+      "水浒传"
+    ],
+    "designer": "周峰",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "这是《水浒传》邮票系列第二组，继续选取梁山人物的经典情节。**武松**（《水浒传》人物）打虎突出勇武，**秦明**（《水浒传》人物）夜走瓦砾场表现刚烈性格，**花荣**（《水浒传》人物）射雁展示神箭手本领，**张顺**（《水浒传》人物）与**李逵**（《水浒传》人物）水中激战则把人物性情和动作场面结合起来。四枚邮票以戏剧化瞬间串联起梁山群像。",
+    "quantity": "1895万套",
+    "needsReview": true,
+    "localImageFolder": "T138 《中国古典文学名著——《水浒传》（第二组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "武松打虎",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/T138-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "秦明夜走瓦砾场",
+        "denomination": "10分",
+        "image": "/images/stamps/1989/T138-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "花荣梁山射雁",
+        "denomination": "20分",
+        "image": "/images/stamps/1989/T138-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "黑旋风斗浪里白条",
+        "denomination": "30分",
+        "image": "/images/stamps/1989/T138-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J160",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "亚洲-太平洋地区电信组织成立十周年",
+    "issueDate": "1989-08-04",
+    "year": 1989,
+    "themes": [
+      "历史事件",
+      "国际组织"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "亚洲-太平洋地区电信组织成立于1979年，中国是创始成员国之一。邮票以电信信号和地球为视觉元素，表现跨区域通信网络把亚太各地连接起来。电信题材在这里不只是技术纪念，也指向现代化建设中信息沟通、国际协作和基础设施互联的重要性。",
+    "quantity": "1482万套",
+    "needsReview": true,
+    "localImageFolder": "J160 《亚洲-太平洋地区电信组织成立十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "亚太电信组织成立十周年",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/J160-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T139",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "社会主义建设成就（第二组）",
+    "issueDate": "1989-08-10",
+    "year": 1989,
+    "themes": [
+      "科技",
+      "建设成就"
+    ],
+    "designer": "陈晓聪",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "建设成就系列第二组聚焦通信、能源、交通等基础设施。**北京国际电信局**代表国际通信能力提升，**山西古交西曲煤矿**体现现代化采煤建设，**青海龙羊峡水电站**是黄河上游重要水电工程，**大瑶山隧道**则是衡广复线关键工程。四个题材合在一起，呈现20世纪80年代中国基础设施现代化的多个侧面。",
+    "quantity": "1693.90万套",
+    "needsReview": true,
+    "localImageFolder": "T139 《社会主义建设成就（第二组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "北京国际电信局",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/T139-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "山西古交西曲煤矿",
+        "denomination": "10分",
+        "image": "/images/stamps/1989/T139-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "青海龙羊峡水电站",
+        "denomination": "20分",
+        "image": "/images/stamps/1989/T139-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "衡广复线大瑶山隧道",
+        "denomination": "30分",
+        "image": "/images/stamps/1989/T139-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T140",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "华山",
+    "issueDate": "1989-08-25",
+    "year": 1989,
+    "themes": [
+      "山水风光",
+      "山",
+      "五岳"
+    ],
+    "designer": "杨文清",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**华山**为五岳之西岳，位于**陕西华阴**，自古以险峻著称。邮票选取西岳庙、远眺全景、千尺幢和苍龙岭四个视角：西岳庙体现祭祀文化，远眺展现山势，全景中的千尺幢突出登山险道，苍龙岭则以狭长山脊如龙背而得名。影雕套印强化山体纹理，使华山的峭拔气势更有层次。",
+    "quantity": "1689.15万套",
+    "needsReview": true,
+    "localImageFolder": "T140 《华山》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "西岳华山",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/T140-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "华山远眺",
+        "denomination": "10分",
+        "image": "/images/stamps/1989/T140-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "千尺幢",
+        "denomination": "20分",
+        "image": "/images/stamps/1989/T140-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "苍龙岭",
+        "denomination": "40分",
+        "image": "/images/stamps/1989/T140-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T141",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "当代美术作品选（第一组）",
+    "issueDate": "1989-09-01",
+    "year": 1989,
+    "themes": [
+      "绘画艺术",
+      "现代画",
+      "当代美术作品选"
+    ],
+    "designer": "",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "这组邮票选取三位当代画家的代表作：**叶浅予**（1907-1995）《白蛇传》以流动线条表现戏曲人物的身段和神采；**李可染**（1907-1989）《细雨漓江》用浓墨写出**漓江**烟雨迷蒙的山水气象；**吴作人**（1908-1997）《齐白石像》以油画方式描绘**齐白石**（1864-1957），呈现中国画坛前辈的精神面貌。三枚合看，像一组小型现代美术展。",
+    "quantity": "905万套",
+    "needsReview": true,
+    "localImageFolder": "T141 《当代美术作品选（第一组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "叶浅予《白蛇传》",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/T141-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "李可染《细雨漓江》",
+        "denomination": "20分",
+        "image": "/images/stamps/1989/T141-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "吴作人《齐白石像》",
+        "denomination": "40分",
+        "image": "/images/stamps/1989/T141-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T142",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "摄影诞生一百五十年",
+    "issueDate": "1989-09-15",
+    "year": 1989,
+    "themes": [
+      "文化",
+      "摄影"
+    ],
+    "designer": "陈栋玲",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1839年，法国人**达盖尔**（1787-1851）公布银版摄影术，摄影由此走向公开应用。邮票以照相机和人物形象为主要元素，纪念摄影术诞生一百五十年。照相机象征技术发明，人物则提示摄影改变了人类记录自身、保存记忆和传播视觉信息的方式。",
+    "quantity": "4142.85万套",
+    "needsReview": true,
+    "localImageFolder": "T142 《摄影诞生一百五十年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "摄影诞生一百五十年",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/T142-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J161",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中华人民共和国政治协商会议召开四十周年",
+    "issueDate": "1989-09-21",
+    "year": 1989,
+    "themes": [
+      "周年纪念",
+      "政协"
+    ],
+    "designer": "",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1949年9月，中国人民政治协商会议第一届全体会议在**北京**召开，代行全国人民代表大会职权，通过《中国人民政治协商会议共同纲领》等重要文件。邮票以政协会徽为核心元素，借齿轮、麦穗、红星等图案传达人民民主统一战线的象征意义。简洁构图突出政协制度在新中国政治生活中的历史起点。",
+    "quantity": "3683万套",
+    "needsReview": true,
+    "localImageFolder": "J161 《中华人民共和国政治协商会议召开四十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "政协召开四十周年",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/J161-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J162",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "孔子诞生二千五百四十周年",
+    "issueDate": "1989-09-28",
+    "year": 1989,
+    "themes": [
+      "人物",
+      "古代人",
+      "古代思想家"
+    ],
+    "designer": "陈全胜、孙爱国",
+    "totalStamps": 2,
+    "extras": [
+      "小型张"
+    ],
+    "description": "**孔子**（前551-前479）是中国古代思想家、教育家，儒家学派创始人。邮票选取\"杏坛讲学\"和\"周游列国\"两个主题：前者表现其有教无类、传道授业的教育形象，后者表现其携弟子奔走诸国、推行政治理想的经历。小型张为孔子行教像，将思想家、教育家和文化象征三重身份集中呈现。",
+    "quantity": "2006.25万套",
+    "needsReview": true,
+    "localImageFolder": "J162 《孔子诞生二千五百四十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "杏坛讲学",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/J162-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "周游列国",
+        "denomination": "80分",
+        "image": "/images/stamps/1989/J162-2.jpg"
+      },
+      {
+        "sn": 3,
+        "format": "小型张",
+        "name": "孔子像",
+        "denomination": "3元",
+        "image": "/images/stamps/1989/J162-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J163",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中华人民共和国成立四十周年",
+    "issueDate": "1989-10-01",
+    "year": 1989,
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "designer": "",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "中华人民共和国成立四十周年邮票以**天安门**、繁花、五星和建设场景组成庆典图像。天安门象征国家记忆，繁花寓意欣欣向荣，五星呼应国旗意象，建设场景则指向改革开放后社会发展的现实成果。小型张把国旗和建设成就结合起来，形成庄重而热烈的周年纪念画面。",
+    "quantity": "1858.9万套",
+    "needsReview": true,
+    "localImageFolder": "J163 《中华人民共和国成立四十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "天安门",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/J163-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "繁花",
+        "denomination": "10分",
+        "image": "/images/stamps/1989/J163-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "五星",
+        "denomination": "20分",
+        "image": "/images/stamps/1989/J163-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "建设",
+        "denomination": "30分",
+        "image": "/images/stamps/1989/J163-4.jpg"
+      },
+      {
+        "sn": 5,
+        "format": "小型张",
+        "name": "中华人民共和国成立四十周年",
+        "denomination": "3元",
+        "image": "/images/stamps/1989/J163-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "普24甲",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "中华全国集邮展览'89·北京",
+    "issueDate": "1989-10-12",
+    "year": 1989,
+    "themes": [
+      "文化",
+      "集邮",
+      "全国集邮展览"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 0,
+    "extras": [
+      "小型张"
+    ],
+    "description": "1989年10月12日，中华全国集邮联合会在**北京**举办\"中华全国集邮展览'89\"，这是继1983年第一届之后的第二届全国性集邮展览。小型张以普24第3图《麦积山石窟·西魏·菩萨》为主图加字发行，红底背上印有\"中华全国集邮展览'89·北京\"金字，边框饰以紫红色，俗称\"红佛\"张。它既是展览纪念品，也反映了集邮文化在当时的组织化和公众参与热度。",
+    "quantity": "130万枚",
+    "needsReview": true,
+    "localImageFolder": "普24甲 《中华全国集邮展览’89北京》",
+    "stamps": [
+      {
+        "sn": 1,
+        "format": "小型张",
+        "name": "麦积山石窟·西魏·菩萨",
+        "denomination": "10元",
+        "image": "/images/stamps/1989/普24甲-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J164",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "李大钊同志诞生一百周年",
+    "issueDate": "1989-10-29",
+    "year": 1989,
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "designer": "何家英",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**李大钊**（1889-1927）是中国共产主义运动先驱、中国共产党主要创始人之一，也是最早在中国系统传播马克思主义的重要人物。邮票以肖像和\"大义凛然\"场景表现其思想传播者与革命者的双重形象。1927年，李大钊在**北京**英勇就义，其精神成为中国革命史中的重要记忆。",
+    "quantity": "1315万套",
+    "needsReview": true,
+    "localImageFolder": "J164 《李大钊同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "李大钊像",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/J164-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "大义凛然",
+        "denomination": "20分",
+        "image": "/images/stamps/1989/J164-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T145",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "北京正负电子对撞机",
+    "issueDate": "1989-11-01",
+    "year": 1989,
+    "themes": [
+      "科技",
+      "高能物理",
+      "北京正负电子对撞机"
+    ],
+    "designer": "陈幼林",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**北京正负电子对撞机**是中国高能物理领域的重要科学工程，1988年10月建成。它由直线加速器、储存环和探测装置等系统组成，通过电子与正电子对撞研究微观粒子结构。邮票以工程设施为题材，表现中国在大型科学装置和基础研究能力上的突破，是科技题材邮票中颇具时代感的一枚。",
+    "quantity": "3460.4万套",
+    "needsReview": true,
+    "localImageFolder": "T145 《北京正负电子对撞机》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "北京正负电子对撞机",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/T145-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T143",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "国防建设——导弹核武器",
+    "issueDate": "1989-11-15",
+    "year": 1989,
+    "themes": [
+      "科技",
+      "国防科技"
+    ],
+    "designer": "杨奕",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "这组邮票以火箭导弹部队为主题，按开进、检测、发射、飞行的顺序组织画面，形成完整的任务流程。题材强调现代国防建设中的技术装备、组织纪律和战略防卫能力。四枚连续观看，像一段压缩的军事行动叙事，从机动部署到腾空飞行，表现国防现代化的力量感。",
+    "quantity": "1982.65万套",
+    "needsReview": true,
+    "localImageFolder": "T143 《国防建设——导弹核武器》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "开进",
+        "denomination": "4分",
+        "image": "/images/stamps/1989/T143-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "检测",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/T143-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "发射",
+        "denomination": "10分",
+        "image": "/images/stamps/1989/T143-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "飞行",
+        "denomination": "20分",
+        "image": "/images/stamps/1989/T143-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T144",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "杭州西湖",
+    "issueDate": "1989-11-25",
+    "year": 1989,
+    "themes": [
+      "山水风光",
+      "西湖"
+    ],
+    "designer": "刘向平",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "**杭州西湖**是中国著名风景名胜，山水、园林、传说和诗文长期交织在一起。邮票选取苏堤春晓、曲院风荷、三潭印月、断桥残雪四景，分别对应春、夏、秋、冬的审美意象。小型张展现西湖全景，碧波、远山与湖岸景致铺展开来，把\"西湖十景\"式的传统观景经验浓缩进方寸画面。",
+    "quantity": "2049.15万套",
+    "needsReview": true,
+    "localImageFolder": "T144 《杭州西湖》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "苏堤春晓",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/T144-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "曲院风荷",
+        "denomination": "10分",
+        "image": "/images/stamps/1989/T144-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "三潭印月",
+        "denomination": "30分",
+        "image": "/images/stamps/1989/T144-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "断桥残雪",
+        "denomination": "40分",
+        "image": "/images/stamps/1989/T144-4.jpg"
+      },
+      {
+        "sn": 5,
+        "format": "小型张",
+        "name": "杭州西湖",
+        "denomination": "5元",
+        "image": "/images/stamps/1989/T144-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J165",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "1990·北京第十一届亚洲运动会（第二组）",
+    "issueDate": "1989-12-15",
+    "year": 1989,
+    "themes": [
+      "体育",
+      "亚运会"
+    ],
+    "designer": "张磊、王茵茵、何洁、孙艺",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "第11届亚洲运动会于1990年9月在**北京**举办，这是中国首次承办大型综合性国际体育盛会。中国从1988年起连续三年发行亚运会纪念邮票，本套为第二组，选取**北京大学生体育馆**、**北郊游泳馆**、**北京工人体育场**和**朝阳体育馆**四座代表性场馆为图案。北京工人体育场是亚运会主会场，承担开幕式和闭幕式。四枚采用统一俯视角度，突出场馆外貌和城市建设为亚运服务的时代面貌。",
+    "quantity": "北京大学生体育馆2414.15万枚，北郊游泳馆2274.15万枚，北京工人体育场2259.15万枚，朝阳体育馆2214.15万枚",
+    "needsReview": true,
+    "localImageFolder": "J165 《1990 北京第十一届亚洲运动会（第二组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "北京大学生体育馆",
+        "denomination": "8分",
+        "image": "/images/stamps/1989/J165-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "北郊游泳馆",
+        "denomination": "10分",
+        "image": "/images/stamps/1989/J165-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "北京工人体育场",
+        "denomination": "30分",
+        "image": "/images/stamps/1989/J165-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "朝阳体育馆",
+        "denomination": "1.60元",
+        "image": "/images/stamps/1989/J165-4.jpg"
+      }
+    ]
+  }
+]

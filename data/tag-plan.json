@@ -8845,248 +8845,386 @@
   {
     "id": "J1",
     "title": "万国邮政联盟成立一百周年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "邮政",
+      "万国邮政联盟"
+    ],
+    "status": "manual"
   },
   {
     "id": "J10",
     "title": "到大江大海去锻炼",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "青年"
+    ],
+    "status": "manual"
   },
   {
     "id": "J100",
     "title": "任弼时同志诞辰八十周年（第一组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J101",
     "title": "任弼时同志诞辰八十周年（第二组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J102",
     "title": "中国红十字会成立八十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "红十字会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J103",
     "title": "第二十三届奥林匹克运动会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "奥运会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J104",
     "title": "中日青年友好联欢",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "中日关系",
+      "青年"
+    ],
+    "status": "manual"
   },
   {
     "id": "J105",
     "title": "中华人民共和国成立三十五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "J106",
     "title": "陈嘉庚诞辰一百一十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "爱国民主人士"
+    ],
+    "status": "manual"
   },
   {
     "id": "J107",
     "title": "遵义会议五十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "党史",
+      "长征"
+    ],
+    "status": "manual"
   },
   {
     "id": "J108",
     "title": "联合国妇女十年·1976~1985",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "联合国",
+      "妇女"
+    ],
+    "status": "manual"
   },
   {
     "id": "J109",
     "title": "中华全国总工会成立六十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "中华全国总工会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J11",
     "title": "纪念中国文化革命的主将鲁迅",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代文学家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J110",
     "title": "国际青年节·1985",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "青年"
+    ],
+    "status": "manual"
   },
   {
     "id": "J111",
     "title": "冼星海诞生八十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代音乐家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J112",
     "title": "中国人民之友",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "外国友人"
+    ],
+    "status": "manual"
   },
   {
     "id": "J113",
     "title": "郑和下西洋五百八十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "郑和下西洋"
+    ],
+    "status": "manual"
   },
   {
     "id": "J114",
     "title": "徐悲鸿诞生九十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "美术家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J115",
     "title": "林则徐诞生二百周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "禁毒"
+    ],
+    "status": "manual"
   },
   {
     "id": "J116",
     "title": "西藏自治区成立二十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "自治区成立",
+      "西藏"
+    ],
+    "status": "manual"
   },
   {
     "id": "J117",
     "title": "抗日战争和世界反法西斯战争胜利四十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "抗战胜利"
+    ],
+    "status": "manual"
   },
   {
     "id": "J118",
     "title": "第二届全国工人运动会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "综合运动会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J119",
     "title": "新疆维吾尔自治区成立三十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "自治区成立",
+      "新疆"
+    ],
+    "status": "manual"
   },
   {
     "id": "J12",
     "title": "纪念刘胡兰烈士英勇就义三十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "英模"
+    ],
+    "status": "manual"
   },
   {
     "id": "J120",
     "title": "故宫博物院建院六十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "故宫博物院"
+    ],
+    "status": "manual"
   },
   {
     "id": "J121",
     "title": "第一届全国青少年运动会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "综合运动会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J122",
     "title": "邹韬奋诞生九十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人"
+    ],
+    "status": "manual"
   },
   {
     "id": "J123",
     "title": "董必武同志诞生一百周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J124",
     "title": "林伯渠同志诞生一百周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J125",
     "title": "“一二·九”运动五十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "党史",
+      "一二九运动"
+    ],
+    "status": "manual"
   },
   {
     "id": "J126",
     "title": "贺龙同志诞生九十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "解放军",
+      "十大元帅"
+    ],
+    "status": "manual"
   },
   {
     "id": "J127",
     "title": "李维汉同志诞生九十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J128",
     "title": "国际和平年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "和平"
+    ],
+    "status": "manual"
   },
   {
     "id": "J129",
     "title": "茅盾同志诞生九十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代文学家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J13",
     "title": "中国人民伟大的革命家、杰出的战士周恩来逝世一周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "领袖"
+    ],
+    "status": "manual"
   },
   {
     "id": "J130",
     "title": "王稼祥诞生八十五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J131",
     "title": "教师节",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "status": "manual"
   },
   {
     "id": "J132",
     "title": "辛亥革命著名领导人",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "辛亥革命"
+    ],
+    "status": "manual"
   },
   {
     "id": "J133",
     "title": "孙中山诞生一百二十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "辛亥革命"
+    ],
+    "status": "manual"
   },
   {
     "id": "J134",
     "title": "朱德同志诞生一百周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "领袖"
+    ],
+    "status": "manual"
   },
   {
     "id": "J135",
     "title": "中华全国集邮联合会第二次代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "集邮",
+      "中华全国集邮联合会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J136",
@@ -9128,8 +9266,11 @@
   {
     "id": "J14",
     "title": "台湾省人民“二.二八”起义三十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "台湾"
+    ],
+    "status": "manual"
   },
   {
     "id": "J140",
@@ -9226,8 +9367,12 @@
   {
     "id": "J15",
     "title": "全国工业学大庆会议",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "工业",
+      "学大庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "J150",
@@ -9323,8 +9468,12 @@
   {
     "id": "J16",
     "title": "内蒙古自治区成立三十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "自治区成立",
+      "内蒙古"
+    ],
+    "status": "manual"
   },
   {
     "id": "J160",
@@ -9420,8 +9569,11 @@
   {
     "id": "J17",
     "title": "罗马尼亚独立一百周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "罗马尼亚"
+    ],
+    "status": "manual"
   },
   {
     "id": "J170",
@@ -9518,8 +9670,11 @@
   {
     "id": "J18",
     "title": "纪念《在延安文艺座谈会上的的讲话》发表三十五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "延安文艺座谈会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J180",
@@ -9578,548 +9733,861 @@
   {
     "id": "J19",
     "title": "中国人民伟大的无产阶级革命家朱德同志逝世一周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "领袖"
+    ],
+    "status": "manual"
   },
   {
     "id": "J2",
     "title": "中国人民共和国成立二十五周年（第一组）-团结起来，争取更大胜利",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "J20",
     "title": "中国人民解放军建军五十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "解放军",
+      "建军"
+    ],
+    "status": "manual"
   },
   {
     "id": "J21",
     "title": "伟大的领袖和导师毛泽东主席逝世一周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "毛泽东",
+      "领袖"
+    ],
+    "status": "manual"
   },
   {
     "id": "J22",
     "title": "伟大的领袖和导师毛泽东主席纪念堂",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "纪念建筑",
+      "毛泽东"
+    ],
+    "status": "manual"
   },
   {
     "id": "J23",
     "title": "中国共产党第十一次全国代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "党史",
+      "十一大"
+    ],
+    "status": "manual"
   },
   {
     "id": "J24",
     "title": "中华人民共和国第五届全国人民代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "人大"
+    ],
+    "status": "manual"
   },
   {
     "id": "J25",
     "title": "全国科学大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "科技大会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J26",
     "title": "向雷锋同志学习",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "解放军",
+      "雷锋"
+    ],
+    "status": "manual"
   },
   {
     "id": "J27",
     "title": "中国妇女的光辉榜样",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "妇女"
+    ],
+    "status": "manual"
   },
   {
     "id": "J28",
     "title": "全国财贸学大庆学大寨会议",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "学大庆",
+      "学大寨"
+    ],
+    "status": "manual"
   },
   {
     "id": "J29",
     "title": "宁夏回族自治区成立二十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "自治区成立",
+      "宁夏"
+    ],
+    "status": "manual"
   },
   {
     "id": "J3",
     "title": "中华人民共和国成立二十五周年（第二组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "J30",
     "title": "中国妇女第四次全国代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "妇女"
+    ],
+    "status": "manual"
   },
   {
     "id": "J31",
     "title": "中国工会第九次全国代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "工人运动"
+    ],
+    "status": "manual"
   },
   {
     "id": "J32",
     "title": "中国共产主义青年团第十次全国代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "共青团"
+    ],
+    "status": "manual"
   },
   {
     "id": "J33",
     "title": "广西壮族自治区成立二十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "自治区成立",
+      "广西"
+    ],
+    "status": "manual"
   },
   {
     "id": "J34",
     "title": "中日和平友好条约签订",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "中日关系"
+    ],
+    "status": "manual"
   },
   {
     "id": "J35",
     "title": "纪念“五一”国际劳动节九十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "status": "manual"
   },
   {
     "id": "J36",
     "title": "纪念爱因斯坦诞辰一百周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "科学家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J37",
     "title": "纪念“五·四”运动六十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "五四运动"
+    ],
+    "status": "manual"
   },
   {
     "id": "J38",
     "title": "国际儿童年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "青少年"
+    ],
+    "status": "manual"
   },
   {
     "id": "J39",
     "title": "中国文学艺术工作者第四次代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "文艺"
+    ],
+    "status": "manual"
   },
   {
     "id": "J4",
     "title": "阿尔巴尼亚解放三十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "阿尔巴尼亚"
+    ],
+    "status": "manual"
   },
   {
     "id": "J40",
     "title": "全国青少年科技作品展览",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "青少年",
+      "科技创新"
+    ],
+    "status": "manual"
   },
   {
     "id": "J41",
     "title": "里乔内第31届国际邮票博览会-加字",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "集邮",
+      "国际邮展"
+    ],
+    "status": "manual"
   },
   {
     "id": "J42",
     "title": "中华人民共和国邮票展览·香港-加字",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "集邮",
+      "香港"
+    ],
+    "status": "manual"
   },
   {
     "id": "J43",
     "title": "中华人民共和国第四届运动会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "全运会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J44",
     "title": "中华人民共和国成立三十周年（第一组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "J45",
     "title": "中华人民共和国成立三十周年（第二组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "J46",
     "title": "中华人民共和国成立三十周年（第三组）-国歌",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "J47",
     "title": "中华人民共和国成立三十周年（第四组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "J48",
     "title": "中华人民共和国成立三十周年（第五组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "J49",
     "title": "约·维·斯大林诞生一百周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "J5",
     "title": "中国人民共和国第四届全国人民代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "人大"
+    ],
+    "status": "manual"
   },
   {
     "id": "J50",
     "title": "诺尔曼·白求恩逝世四十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "国际主义战士"
+    ],
+    "status": "manual"
   },
   {
     "id": "J51",
     "title": "国际档案周",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日",
+      "档案"
+    ],
+    "status": "manual"
   },
   {
     "id": "J52",
     "title": "中国科学技术协会第二次全国代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "学术会议",
+      "中国科学技术协会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J53",
     "title": "“三八”国际劳动妇女节七十周年-蔡特金像",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "status": "manual"
   },
   {
     "id": "J54",
     "title": "第十三届冬季奥林匹克运动会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "奥运会",
+      "冬奥会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J55",
     "title": "鉴真大师像回国巡展",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "古代人",
+      "佛教"
+    ],
+    "status": "manual"
   },
   {
     "id": "J56",
     "title": "提高健康水平，提倡戒烟",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "status": "manual"
   },
   {
     "id": "J57",
     "title": "弗·伊·列宁诞辰一百一十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "J58",
     "title": "中国古代科学家（第三组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "古代人",
+      "中国古代科学家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J59",
     "title": "中华人民共和国展览会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "展会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J6",
     "title": "中华人民共和国第三届运动会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "全运会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J60",
     "title": "联合国教科文组织中国绘画艺术展览纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "绘画艺术",
+      "展会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J61",
     "title": "罗马尼亚历史上第一个中央集权和独立的达契亚国建立二〇五〇周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "罗马尼亚"
+    ],
+    "status": "manual"
   },
   {
     "id": "J62",
     "title": "中国重返国际奥委会一周年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "奥运会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J63",
     "title": "中华人民共和国邮票展览.日本",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "集邮",
+      "日本"
+    ],
+    "status": "manual"
   },
   {
     "id": "J64",
     "title": "中国共产党成立六十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "党史",
+      "建党"
+    ],
+    "status": "manual"
   },
   {
     "id": "J65",
     "title": "全国安全月",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日",
+      "安全生产"
+    ],
+    "status": "manual"
   },
   {
     "id": "J66",
     "title": "质量月",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日",
+      "质量"
+    ],
+    "status": "manual"
   },
   {
     "id": "J67",
     "title": "鲁迅诞辰一百周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代文学家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J68",
     "title": "辛亥革命七十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "辛亥革命"
+    ],
+    "status": "manual"
   },
   {
     "id": "J69",
     "title": "世界电信日──电信与卫生",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日",
+      "通信"
+    ],
+    "status": "manual"
   },
   {
     "id": "J7",
     "title": "全国农业学大寨会议",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "农业",
+      "学大寨"
+    ],
+    "status": "manual"
   },
   {
     "id": "J70",
     "title": "传邮万里，国脉所系",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "邮政"
+    ],
+    "status": "manual"
   },
   {
     "id": "J71",
     "title": "中国乒乓球队荣获七项世界冠军纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
+    "status": "manual"
   },
   {
     "id": "J72",
     "title": "国际残疾人年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "民生",
+      "残疾人"
+    ],
+    "status": "manual"
   },
   {
     "id": "J73",
     "title": "亚州议员人口和发展会议",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国际会议",
+      "人口"
+    ],
+    "status": "manual"
   },
   {
     "id": "J74",
     "title": "罗伯特·科赫发现结核杆菌一百周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "科学家",
+      "医学"
+    ],
+    "status": "manual"
   },
   {
     "id": "J75",
     "title": "人民音乐家聂耳诞生七十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代音乐家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J76",
     "title": "中国女排获得第三届世界杯冠军",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "排球"
+    ],
+    "status": "manual"
   },
   {
     "id": "J77",
     "title": "国际饮水供应和环境卫生十年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "民生",
+      "环保"
+    ],
+    "status": "manual"
   },
   {
     "id": "J78",
     "title": "中国人口普查",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "民生"
+    ],
+    "status": "manual"
   },
   {
     "id": "J79",
     "title": "中国地质学会成立六十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "中国地质学会",
+      "地质"
+    ],
+    "status": "manual"
   },
   {
     "id": "J8",
     "title": "胜利完成第四个五年计划",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "建设成就"
+    ],
+    "status": "manual"
   },
   {
     "id": "J80",
     "title": "世界粮食日",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日",
+      "粮食"
+    ],
+    "status": "manual"
   },
   {
     "id": "J81",
     "title": "第二次联合国探索及和平利用外层空间会议",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国际会议",
+      "航天"
+    ],
+    "status": "manual"
   },
   {
     "id": "J82",
     "title": "中华人民共和国名誉主席宋庆龄同志逝世一周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J83",
     "title": "柯隶华逝世四十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "国际主义战士"
+    ],
+    "status": "manual"
   },
   {
     "id": "J84",
     "title": "中日邦交正常化十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "建交",
+      "联合发行",
+      "日本"
+    ],
+    "status": "manual"
   },
   {
     "id": "J85",
     "title": "中华全国集邮联合会第一次代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "集邮",
+      "中华全国集邮联合会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J86",
     "title": "中国共产党第十二次全国代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "党史",
+      "十二大"
+    ],
+    "status": "manual"
   },
   {
     "id": "J87",
     "title": "郭沫若同志诞辰九十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代文学家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J88",
     "title": "中国共产主义青年团第十一次全国代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "共青团"
+    ],
+    "status": "manual"
   },
   {
     "id": "J89",
     "title": "京汉铁路工人“二七”大罢工六十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "工人运动",
+      "二七大罢工"
+    ],
+    "status": "manual"
   },
   {
     "id": "J9",
     "title": "“五七”干校",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "政治运动",
+      "五七干校"
+    ],
+    "status": "manual"
   },
   {
     "id": "J90",
     "title": "马克思逝世一百周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "J91",
     "title": "世界通信年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "通信"
+    ],
+    "status": "manual"
   },
   {
     "id": "J92",
     "title": "中国古代文学家（第一组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "古代人",
+      "中国古代文学家"
+    ],
+    "status": "manual"
   },
   {
     "id": "J93",
     "title": "中华人民共和国第五届运动会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "全运会"
+    ],
+    "status": "manual"
   },
   {
     "id": "J94",
     "title": "中华人民共和国第六届全国人民代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "人大"
+    ],
+    "status": "manual"
   },
   {
     "id": "J95",
     "title": "中国妇女第五次全国代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "妇女"
+    ],
+    "status": "manual"
   },
   {
     "id": "J96",
     "title": "刘少奇同志诞辰八十五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "领袖"
+    ],
+    "status": "manual"
   },
   {
     "id": "J97",
     "title": "毛泽东同志诞辰九十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "毛泽东",
+      "领袖"
+    ],
+    "status": "manual"
   },
   {
     "id": "J98",
     "title": "中国工会第十次全国代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "工人运动"
+    ],
+    "status": "manual"
   },
   {
     "id": "J99",
     "title": "中华全国集邮展览·1983·北京",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "集邮",
+      "全国集邮展览"
+    ],
+    "status": "manual"
   },
   {
     "id": "T1",
     "title": "体操运动",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "体操"
+    ],
+    "status": "manual"
   },
   {
     "id": "T10",
     "title": "女民兵",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "解放军",
+      "民兵"
+    ],
+    "status": "manual"
   },
   {
     "id": "T100",
@@ -10134,8 +10602,12 @@
   {
     "id": "T101",
     "title": "中国保险",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "民生",
+      "保险"
+    ],
+    "status": "manual"
   },
   {
     "id": "T102",
@@ -10144,31 +10616,47 @@
       "生肖",
       "生肖牛"
     ],
-    "status": "auto"
+    "status": "manual"
   },
   {
     "id": "T103",
     "title": "梅花",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "植物花卉",
+      "花卉",
+      "梅花"
+    ],
+    "status": "manual"
   },
   {
     "id": "T104",
     "title": "花灯",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "民间工艺",
+      "花灯"
+    ],
+    "status": "manual"
   },
   {
     "id": "T105",
     "title": "中国残疾人",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "民生",
+      "残疾人"
+    ],
+    "status": "manual"
   },
   {
     "id": "T106",
     "title": "熊猫",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "濒危动物",
+      "熊猫"
+    ],
+    "status": "manual"
   },
   {
     "id": "T107",
@@ -10177,37 +10665,56 @@
       "生肖",
       "生肖虎"
     ],
-    "status": "auto"
+    "status": "manual"
   },
   {
     "id": "T108",
     "title": "航天",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "航天"
+    ],
+    "status": "manual"
   },
   {
     "id": "T109",
     "title": "哈雷彗星回归",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "天文",
+      "哈雷彗星"
+    ],
+    "status": "manual"
   },
   {
     "id": "T11",
     "title": "革命纪念地—韶山",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "革命纪念地",
+      "韶山"
+    ],
+    "status": "manual"
   },
   {
     "id": "T110",
     "title": "白鹤",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "鸟类",
+      "白鹤"
+    ],
+    "status": "manual"
   },
   {
     "id": "T111",
     "title": "珍稀濒危木兰科植物",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "植物花卉",
+      "树木",
+      "木兰科"
+    ],
+    "status": "manual"
   },
   {
     "id": "T112",
@@ -10221,8 +10728,11 @@
   {
     "id": "T113",
     "title": "中国古代体育",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "中国古代体育"
+    ],
+    "status": "manual"
   },
   {
     "id": "T114",
@@ -10282,8 +10792,11 @@
   {
     "id": "T12",
     "title": "医疗卫生科学新成就",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "医疗卫生"
+    ],
+    "status": "manual"
   },
   {
     "id": "T120",
@@ -10380,8 +10893,12 @@
   {
     "id": "T13",
     "title": "农业机械化",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "农业",
+      "农业机械化"
+    ],
+    "status": "manual"
   },
   {
     "id": "T130",
@@ -10479,8 +10996,11 @@
   {
     "id": "T14",
     "title": "新中国儿童",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "6.1儿童邮票",
+      "儿童生活"
+    ],
+    "status": "manual"
   },
   {
     "id": "T140",
@@ -10578,8 +11098,12 @@
   {
     "id": "T15",
     "title": "中国登山队再次登上珠穆朗玛峰",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "登山",
+      "珠峰"
+    ],
+    "status": "manual"
   },
   {
     "id": "T150",
@@ -10678,8 +11202,11 @@
   {
     "id": "T16",
     "title": "带电作业",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "电力"
+    ],
+    "status": "manual"
   },
   {
     "id": "T160",
@@ -10768,194 +11295,304 @@
   {
     "id": "T17",
     "title": "在广阔天地里",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "知识青年"
+    ],
+    "status": "manual"
   },
   {
     "id": "T18",
     "title": "工农兵上大学",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "教育"
+    ],
+    "status": "manual"
   },
   {
     "id": "T19",
     "title": "发展中的石油工业",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "能源",
+      "石油"
+    ],
+    "status": "manual"
   },
   {
     "id": "T2",
     "title": "杂技",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "杂技"
+    ],
+    "status": "manual"
   },
   {
     "id": "T20",
     "title": "开发矿业",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "矿业"
+    ],
+    "status": "manual"
   },
   {
     "id": "T21",
     "title": "从小锻炼为革命",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "6.1儿童邮票",
+      "儿童体育"
+    ],
+    "status": "manual"
   },
   {
     "id": "T22",
     "title": "普及大寨县",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "农业",
+      "学大寨"
+    ],
+    "status": "manual"
   },
   {
     "id": "T23",
     "title": "军民一家人",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "解放军",
+      "军民团结"
+    ],
+    "status": "manual"
   },
   {
     "id": "T24",
     "title": "气象",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "气象"
+    ],
+    "status": "manual"
   },
   {
     "id": "T25",
     "title": "化学纤维",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "化纤"
+    ],
+    "status": "manual"
   },
   {
     "id": "T26",
     "title": "钢铁工业",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "钢铁"
+    ],
+    "status": "manual"
   },
   {
     "id": "T27",
     "title": "牧业学大寨，建设新牧区",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "农业",
+      "畜牧业"
+    ],
+    "status": "manual"
   },
   {
     "id": "T28",
     "title": "奔马",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "绘画艺术",
+      "现代画",
+      "马"
+    ],
+    "status": "manual"
   },
   {
     "id": "T29",
     "title": "工艺美术",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "工艺美术"
+    ],
+    "status": "manual"
   },
   {
     "id": "T3",
     "title": "户县农民画",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "绘画艺术",
+      "现代画",
+      "农民画"
+    ],
+    "status": "manual"
   },
   {
     "id": "T30",
     "title": "药用植物",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "植物花卉",
+      "药用植物"
+    ],
+    "status": "manual"
   },
   {
     "id": "T31",
     "title": "公路拱桥",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "桥梁"
+    ],
+    "status": "manual"
   },
   {
     "id": "T32",
     "title": "向硬骨头六连学习",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "解放军",
+      "硬骨头六连"
+    ],
+    "status": "manual"
   },
   {
     "id": "T33",
     "title": "中国绘画·长沙楚墓帛画",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "绘画艺术",
+      "古画",
+      "长沙楚墓帛画"
+    ],
+    "status": "manual"
   },
   {
     "id": "T34",
     "title": "水乡新貌",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "山水风光",
+      "江南",
+      "水乡"
+    ],
+    "status": "manual"
   },
   {
     "id": "T35",
     "title": "金鸡",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "鸟类",
+      "鸡"
+    ],
+    "status": "manual"
   },
   {
     "id": "T36",
     "title": "铁路建设",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "铁路"
+    ],
+    "status": "manual"
   },
   {
     "id": "T37",
     "title": "云南山茶花",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "植物花卉",
+      "花卉",
+      "山茶花"
+    ],
+    "status": "manual"
   },
   {
     "id": "T38",
     "title": "万里长城",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "世界文化遗产",
+      "长城"
+    ],
+    "status": "manual"
   },
   {
     "id": "T39",
     "title": "人民公社五业兴旺",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "农业",
+      "人民公社"
+    ],
+    "status": "manual"
   },
   {
     "id": "T4",
     "title": "大庆红旗",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "工业",
+      "学大庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "T40",
     "title": "东北虎",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "濒危动物",
+      "虎"
+    ],
+    "status": "manual"
   },
   {
     "id": "T41",
     "title": "从小爱科学",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "6.1儿童邮票",
+      "青少年",
+      "科学教育"
+    ],
+    "status": "manual"
   },
   {
     "id": "T42",
     "title": "台湾风光",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "山水风光",
+      "台湾"
+    ],
+    "status": "manual"
   },
   {
     "id": "T43",
     "title": "中国古典小说—西游记",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文学名著",
+      "西游记"
+    ],
+    "status": "manual"
   },
   {
     "id": "T44",
     "title": "齐白石作品选",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "绘画艺术",
+      "现代画"
+    ],
+    "status": "manual"
   },
   {
     "id": "T45",
     "title": "京剧脸谱",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "戏曲",
+      "京剧"
+    ],
+    "status": "manual"
   },
   {
     "id": "T46",
@@ -10964,79 +11601,120 @@
       "生肖",
       "生肖猴"
     ],
-    "status": "auto"
+    "status": "manual"
   },
   {
     "id": "T47",
     "title": "首都国际机场",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "机场"
+    ],
+    "status": "manual"
   },
   {
     "id": "T48",
     "title": "植树造林，绿化祖国",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "环保"
+    ],
+    "status": "manual"
   },
   {
     "id": "T49",
     "title": "邮政运输",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "邮政"
+    ],
+    "status": "manual"
   },
   {
     "id": "T5",
     "title": "大寨红旗",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "农业",
+      "学大寨"
+    ],
+    "status": "manual"
   },
   {
     "id": "T50",
     "title": "风筝",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "风筝"
+    ],
+    "status": "manual"
   },
   {
     "id": "T51",
     "title": "童话—“咕咚”",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "6.1儿童邮票",
+      "童话"
+    ],
+    "status": "manual"
   },
   {
     "id": "T52",
     "title": "梅花鹿",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "鹿"
+    ],
+    "status": "manual"
   },
   {
     "id": "T53",
     "title": "桂林山水",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "山水风光",
+      "山",
+      "桂林"
+    ],
+    "status": "manual"
   },
   {
     "id": "T54",
     "title": "荷花",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "植物花卉",
+      "花卉",
+      "荷花"
+    ],
+    "status": "manual"
   },
   {
     "id": "T55",
     "title": "西双版纳风光",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "山水风光",
+      "西双版纳"
+    ],
+    "status": "manual"
   },
   {
     "id": "T56",
     "title": "苏州园林—留园",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "园林",
+      "苏州园林"
+    ],
+    "status": "manual"
   },
   {
     "id": "T57",
     "title": "白鱀豚",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "濒危动物",
+      "白鱀豚"
+    ],
+    "status": "manual"
   },
   {
     "id": "T58",
@@ -11045,85 +11723,130 @@
       "生肖",
       "生肖鸡"
     ],
-    "status": "auto"
+    "status": "manual"
   },
   {
     "id": "T59",
     "title": "寓言—刻舟求剑",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "成语典故"
+    ],
+    "status": "manual"
   },
   {
     "id": "T6",
     "title": "中国出口商品交易会（新馆）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "经贸"
+    ],
+    "status": "manual"
   },
   {
     "id": "T60",
     "title": "宫灯",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "民间工艺",
+      "宫灯"
+    ],
+    "status": "manual"
   },
   {
     "id": "T61",
     "title": "盆景艺术",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "盆景"
+    ],
+    "status": "manual"
   },
   {
     "id": "T62",
     "title": "中国陶瓷—磁州窑系",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "陶瓷"
+    ],
+    "status": "manual"
   },
   {
     "id": "T63",
     "title": "畜牧业—牛",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "农业",
+      "畜牧业"
+    ],
+    "status": "manual"
   },
   {
     "id": "T64",
     "title": "石林",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "山水风光",
+      "喀斯特",
+      "石林"
+    ],
+    "status": "manual"
   },
   {
     "id": "T65",
     "title": "中国古代钱币（第一组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "中国古代钱币"
+    ],
+    "status": "manual"
   },
   {
     "id": "T66",
     "title": "食用菌",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "植物花卉",
+      "菌类",
+      "食用菌"
+    ],
+    "status": "manual"
   },
   {
     "id": "T67",
     "title": "庐山风景",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "山水风光",
+      "山",
+      "庐山"
+    ],
+    "status": "manual"
   },
   {
     "id": "T68",
     "title": "紫貂",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "国家重点保护野生动物",
+      "紫貂"
+    ],
+    "status": "manual"
   },
   {
     "id": "T69",
     "title": "红楼梦",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文学名著",
+      "红楼梦"
+    ],
+    "status": "manual"
   },
   {
     "id": "T7",
     "title": "武术",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "武术"
+    ],
+    "status": "manual"
   },
   {
     "id": "T70",
@@ -11132,67 +11855,102 @@
       "生肖",
       "生肖狗"
     ],
-    "status": "auto"
+    "status": "manual"
   },
   {
     "id": "T71",
     "title": "中国古代钱币（第二组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "中国古代钱币"
+    ],
+    "status": "manual"
   },
   {
     "id": "T72",
     "title": "药用植物（第二组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "植物花卉",
+      "药用植物"
+    ],
+    "status": "manual"
   },
   {
     "id": "T73",
     "title": "矿物",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "地质",
+      "矿物"
+    ],
+    "status": "manual"
   },
   {
     "id": "T74",
     "title": "辽代彩塑",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "彩塑"
+    ],
+    "status": "manual"
   },
   {
     "id": "T75",
     "title": "西周青铜器",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "青铜器"
+    ],
+    "status": "manual"
   },
   {
     "id": "T76",
     "title": "消防",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "民生",
+      "消防"
+    ],
+    "status": "manual"
   },
   {
     "id": "T77",
     "title": "明、清扇面画",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "绘画艺术",
+      "古画",
+      "扇面画"
+    ],
+    "status": "manual"
   },
   {
     "id": "T78",
     "title": "九星会聚",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "天文"
+    ],
+    "status": "manual"
   },
   {
     "id": "T79",
     "title": "益鸟",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "鸟类",
+      "益鸟"
+    ],
+    "status": "manual"
   },
   {
     "id": "T8",
     "title": "把批林批孔运动普及、深入、持久地进行下去",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "政治运动",
+      "批林批孔"
+    ],
+    "status": "manual"
   },
   {
     "id": "T80",
@@ -11201,55 +11959,83 @@
       "生肖",
       "生肖猪"
     ],
-    "status": "auto"
+    "status": "manual"
   },
   {
     "id": "T81",
     "title": "民族乐器—拨弦乐器",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "民族乐器"
+    ],
+    "status": "manual"
   },
   {
     "id": "T82",
     "title": "西厢记",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文学名著",
+      "西厢记"
+    ],
+    "status": "manual"
   },
   {
     "id": "T83",
     "title": "天鹅",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "鸟类",
+      "天鹅"
+    ],
+    "status": "manual"
   },
   {
     "id": "T84",
     "title": "黄帝陵",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "陵墓",
+      "黄帝陵"
+    ],
+    "status": "manual"
   },
   {
     "id": "T85",
     "title": "扬子鳄",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "濒危动物",
+      "扬子鳄"
+    ],
+    "status": "manual"
   },
   {
     "id": "T86",
     "title": "儿童画选",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "6.1儿童邮票",
+      "儿童画",
+      "儿童作品"
+    ],
+    "status": "manual"
   },
   {
     "id": "T87",
     "title": "京剧旦角",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "戏曲",
+      "京剧"
+    ],
+    "status": "manual"
   },
   {
     "id": "T88",
     "title": "秦始皇陵兵马俑",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "兵马俑"
+    ],
+    "status": "manual"
   },
   {
     "id": "T89",
@@ -11260,8 +12046,12 @@
   {
     "id": "T9",
     "title": "乡村女教师",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "教育"
+    ],
+    "status": "manual"
   },
   {
     "id": "T90",
@@ -11270,175 +12060,280 @@
       "生肖",
       "生肖鼠"
     ],
-    "status": "auto"
+    "status": "manual"
   },
   {
     "id": "T91",
     "title": "计划生育",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "民生"
+    ],
+    "status": "manual"
   },
   {
     "id": "T92",
     "title": "儿童",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "6.1儿童邮票",
+      "儿童生活"
+    ],
+    "status": "manual"
   },
   {
     "id": "T93",
     "title": "月季花",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "植物花卉",
+      "花卉",
+      "月季"
+    ],
+    "status": "manual"
   },
   {
     "id": "T94",
     "title": "朱鹮",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "鸟类",
+      "朱鹮"
+    ],
+    "status": "manual"
   },
   {
     "id": "T95",
     "title": "长江葛洲坝水利枢纽工程",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "水利",
+      "葛洲坝"
+    ],
+    "status": "manual"
   },
   {
     "id": "T96",
     "title": "苏州园林—拙政园",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "园林",
+      "苏州园林"
+    ],
+    "status": "manual"
   },
   {
     "id": "T97",
     "title": "引滦入津工程",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "水利",
+      "引滦入津"
+    ],
+    "status": "manual"
   },
   {
     "id": "T98",
     "title": "吴昌硕作品选",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "绘画艺术",
+      "吴昌硕"
+    ],
+    "status": "manual"
   },
   {
     "id": "T99",
     "title": "中国古典文学名著—《牡丹亭》",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文学名著",
+      "牡丹亭"
+    ],
+    "status": "manual"
   },
   {
     "id": "文1",
     "title": "战无不胜的毛泽东思想万岁",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "毛泽东",
+      "领袖"
+    ],
+    "status": "manual"
   },
   {
     "id": "文10",
     "title": "毛主席最新指示",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "毛泽东",
+      "领袖"
+    ],
+    "status": "manual"
   },
   {
     "id": "文11",
     "title": "林彪1965年7月26日为邮电部发行中国人民解放军特种邮票题词",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "解放军",
+      "林彪题词"
+    ],
+    "status": "manual"
   },
   {
     "id": "文12",
     "title": "毛主席去安源",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "绘画艺术",
+      "现代画",
+      "毛泽东"
+    ],
+    "status": "manual"
   },
   {
     "id": "文13",
     "title": "毛主席最新指示",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "毛泽东",
+      "领袖"
+    ],
+    "status": "manual"
   },
   {
     "id": "文14",
     "title": "南京长江大桥",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "桥梁",
+      "南京长江大桥"
+    ],
+    "status": "manual"
   },
   {
     "id": "文15",
     "title": "热烈欢呼中国共产党的八届十二中全会（扩大）公报发表-高举毛泽东选集",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "党史",
+      "毛泽东思想"
+    ],
+    "status": "manual"
   },
   {
     "id": "文16",
     "title": "钢琴伴唱《红灯记》",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "戏曲",
+      "京剧",
+      "样板戏"
+    ],
+    "status": "manual"
   },
   {
     "id": "文17",
     "title": "知识青年在农村",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "知识青年"
+    ],
+    "status": "manual"
   },
   {
     "id": "文18",
     "title": "用毛泽东思想武装起来的中国人民是不可战胜的",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "毛泽东",
+      "领袖"
+    ],
+    "status": "manual"
   },
   {
     "id": "文19",
     "title": "革命青年的榜样-白水版",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "模范人物"
+    ],
+    "status": "manual"
   },
   {
     "id": "文2",
     "title": "我们伟大的导师、伟大的领袖、伟大的统帅、伟大的舵手毛主席万岁",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "毛泽东",
+      "领袖"
+    ],
+    "status": "manual"
   },
   {
     "id": "文3",
     "title": "《在延安文艺座谈会上的讲话》发表二十五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "延安文艺座谈会"
+    ],
+    "status": "manual"
   },
   {
     "id": "文4",
     "title": "祝毛主席万寿无疆",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "毛泽东",
+      "领袖"
+    ],
+    "status": "manual"
   },
   {
     "id": "文5",
     "title": "毛主席的革命文艺路线胜利万岁",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "毛泽东",
+      "文艺"
+    ],
+    "status": "manual"
   },
   {
     "id": "文6",
     "title": "毛主席与世界人民",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "毛泽东",
+      "国际关系"
+    ],
+    "status": "manual"
   },
   {
     "id": "文7",
     "title": "毛主席诗词",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "诗词",
+      "毛泽东"
+    ],
+    "status": "manual"
   },
   {
     "id": "文8",
     "title": "大海航行靠舵手，干革命靠毛泽东思想-林彪为中国人民解放军海军首次学习毛主席著作积极分子代表大会题词",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "解放军",
+      "毛泽东",
+      "林彪题词"
+    ],
+    "status": "manual"
   },
   {
     "id": "文9",
     "title": "毛主席支持美国黑人抗暴斗争的声明",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国际声援",
+      "美国黑人运动"
+    ],
+    "status": "manual"
   },
   {
     "id": "普28",
@@ -11452,1220 +12347,1898 @@
   {
     "id": "特1",
     "title": "国徽",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "国徽"
+    ],
+    "status": "manual"
   },
   {
     "id": "特10",
     "title": "无缝钢管厂及大型轧钢厂",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "钢铁"
+    ],
+    "status": "manual"
   },
   {
     "id": "特11",
     "title": "技术革新",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "科技创新"
+    ],
+    "status": "manual"
   },
   {
     "id": "特12",
-    "title": "新建22万伏超高压送电线路（一九五四）-高压送电线路",
-    "themes": [],
-    "status": "todo"
+    "title": "新建22万伏超高压送电线路（一九五四）",
+    "themes": [
+      "科技",
+      "电力"
+    ],
+    "status": "manual"
   },
   {
     "id": "特13",
     "title": "努力完成第一个五年建设计划",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "建设成就",
+      "一五计划"
+    ],
+    "status": "manual"
   },
   {
     "id": "特14",
     "title": "康藏、青藏公路",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "交通"
+    ],
+    "status": "manual"
   },
   {
     "id": "特15",
     "title": "首都名胜",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "北京"
+    ],
+    "status": "manual"
   },
   {
     "id": "特16",
     "title": "东汉画像砖",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "画像砖"
+    ],
+    "status": "manual"
   },
   {
     "id": "特17",
     "title": "储蓄",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "金融"
+    ],
+    "status": "manual"
   },
   {
     "id": "特18",
     "title": "儿童",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "6.1儿童邮票",
+      "儿童生活"
+    ],
+    "status": "manual"
   },
   {
     "id": "特19",
     "title": "治理黄河",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "水利",
+      "黄河"
+    ],
+    "status": "manual"
   },
   {
     "id": "特2",
     "title": "土地改革",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "土地改革"
+    ],
+    "status": "manual"
   },
   {
     "id": "特20",
     "title": "农业合作化",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "农业"
+    ],
+    "status": "manual"
   },
   {
     "id": "特21",
     "title": "中国古塔建筑艺术",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "古塔"
+    ],
+    "status": "manual"
   },
   {
     "id": "特22",
     "title": "中国古生物",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "古生物"
+    ],
+    "status": "manual"
   },
   {
     "id": "特23",
     "title": "北京天文馆",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "天文"
+    ],
+    "status": "manual"
   },
   {
     "id": "特24",
     "title": "气象",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "气象"
+    ],
+    "status": "manual"
   },
   {
     "id": "特25",
     "title": "苏联人造地球卫星",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "航天",
+      "人造卫星"
+    ],
+    "status": "manual"
   },
   {
     "id": "特26",
     "title": "十三陵水库",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "水利"
+    ],
+    "status": "manual"
   },
   {
     "id": "特27",
     "title": "林业建设",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "林业"
+    ],
+    "status": "manual"
   },
   {
     "id": "特28",
     "title": "我国第一个原子反应堆和回旋加速器",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "核工业"
+    ],
+    "status": "manual"
   },
   {
     "id": "特29",
     "title": "航空体育运动",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "航空体育"
+    ],
+    "status": "manual"
   },
   {
     "id": "特3",
     "title": "伟大的祖国—敦煌壁画（第一组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "绘画艺术",
+      "古画",
+      "敦煌壁画"
+    ],
+    "status": "manual"
   },
   {
     "id": "特30",
     "title": "剪纸",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "非物质文化遗产",
+      "剪纸"
+    ],
+    "status": "manual"
   },
   {
     "id": "特31",
     "title": "中央自然博物馆",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "博物馆建设"
+    ],
+    "status": "manual"
   },
   {
     "id": "特32",
-    "title": "中国制造第一艘万吨远洋货轮-远洋货轮",
-    "themes": [],
-    "status": "todo"
+    "title": "中国制造第一艘万吨远洋货轮",
+    "themes": [
+      "科技",
+      "交通",
+      "船舶"
+    ],
+    "status": "manual"
   },
   {
     "id": "特33",
     "title": "苏联宇宙火箭-宇宙火箭在运行",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "航天"
+    ],
+    "status": "manual"
   },
   {
     "id": "特34",
     "title": "首都机场",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "机场"
+    ],
+    "status": "manual"
   },
   {
     "id": "特35",
     "title": "人民公社",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "农业",
+      "人民公社"
+    ],
+    "status": "manual"
   },
   {
     "id": "特36",
     "title": "民族文化宫",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "民族建筑"
+    ],
+    "status": "manual"
   },
   {
     "id": "特37",
     "title": "全国农业博物馆",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "博物馆建设"
+    ],
+    "status": "manual"
   },
   {
     "id": "特38",
     "title": "金鱼",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "鱼类",
+      "金鱼"
+    ],
+    "status": "manual"
   },
   {
     "id": "特39",
     "title": "苏联月球火箭及星际站",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "航天"
+    ],
+    "status": "manual"
   },
   {
     "id": "特4",
     "title": "广播体操",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "群众体育"
+    ],
+    "status": "manual"
   },
   {
     "id": "特40",
     "title": "养猪",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "农业",
+      "畜牧业"
+    ],
+    "status": "manual"
   },
   {
     "id": "特41",
     "title": "人民大会堂",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "现代建筑",
+      "人民大会堂"
+    ],
+    "status": "manual"
   },
   {
     "id": "特42",
     "title": "北京铁路车站",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "铁路"
+    ],
+    "status": "manual"
   },
   {
     "id": "特43",
     "title": "爱国卫生运动",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "公共卫生"
+    ],
+    "status": "manual"
   },
   {
     "id": "特44",
     "title": "菊花",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "植物花卉",
+      "花卉",
+      "菊花"
+    ],
+    "status": "manual"
   },
   {
     "id": "特45",
     "title": "中国人民革命军事博物馆",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "博物馆建设"
+    ],
+    "status": "manual"
   },
   {
     "id": "特46",
     "title": "唐三彩",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "陶器",
+      "唐三彩"
+    ],
+    "status": "manual"
   },
   {
     "id": "特47",
     "title": "西藏人民的新生",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "西藏"
+    ],
+    "status": "manual"
   },
   {
     "id": "特48",
     "title": "丹顶鹤",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "鸟类",
+      "丹顶鹤"
+    ],
+    "status": "manual"
   },
   {
     "id": "特49",
     "title": "中国民间舞蹈（第一组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "民间舞蹈"
+    ],
+    "status": "manual"
   },
   {
     "id": "特5",
     "title": "伟大的祖国—建设（第二组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "建设成就"
+    ],
+    "status": "manual"
   },
   {
     "id": "特50",
     "title": "中国古代建筑—桥",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "桥梁"
+    ],
+    "status": "manual"
   },
   {
     "id": "特51",
     "title": "支持英雄的古巴",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "古巴",
+      "国际声援"
+    ],
+    "status": "manual"
   },
   {
     "id": "特52",
     "title": "支持阿尔及利亚民族解放斗争",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "阿尔及利亚",
+      "国际声援"
+    ],
+    "status": "manual"
   },
   {
     "id": "特53",
     "title": "中国民间舞蹈（第二组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "民间舞蹈"
+    ],
+    "status": "manual"
   },
   {
     "id": "特54",
     "title": "儿童生活",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "6.1儿童邮票",
+      "儿童生活"
+    ],
+    "status": "manual"
   },
   {
     "id": "特55",
     "title": "中国民间舞蹈（第三组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "民间舞蹈"
+    ],
+    "status": "manual"
   },
   {
     "id": "特56",
     "title": "蝴蝶",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "昆虫",
+      "蝴蝶"
+    ],
+    "status": "manual"
   },
   {
     "id": "特57",
     "title": "黄山风景",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "山水风光",
+      "山",
+      "黄山"
+    ],
+    "status": "manual"
   },
   {
     "id": "特58",
     "title": "民间玩具",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "民间玩具"
+    ],
+    "status": "manual"
   },
   {
     "id": "特59",
     "title": "熊猫",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "濒危动物",
+      "熊猫"
+    ],
+    "status": "manual"
   },
   {
     "id": "特6",
     "title": "伟大的祖国—敦煌壁画（第三组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "绘画艺术",
+      "古画",
+      "敦煌壁画"
+    ],
+    "status": "manual"
   },
   {
     "id": "特60",
     "title": "金丝猴",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "濒危动物",
+      "金丝猴"
+    ],
+    "status": "manual"
   },
   {
     "id": "特61",
     "title": "牡丹",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "植物花卉",
+      "花卉",
+      "牡丹"
+    ],
+    "status": "manual"
   },
   {
     "id": "特62",
     "title": "工业新产品",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "工业产品"
+    ],
+    "status": "manual"
   },
   {
     "id": "特63",
     "title": "殷代铜器",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "青铜器"
+    ],
+    "status": "manual"
   },
   {
     "id": "特64",
     "title": "人民公社女社员",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "妇女"
+    ],
+    "status": "manual"
   },
   {
     "id": "特65",
     "title": "革命圣地—延安",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "革命纪念地",
+      "延安"
+    ],
+    "status": "manual"
   },
   {
     "id": "特66",
     "title": "知识青年在农村",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "知识青年"
+    ],
+    "status": "manual"
   },
   {
     "id": "特67",
     "title": "石油工业",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "能源",
+      "石油"
+    ],
+    "status": "manual"
   },
   {
     "id": "特68",
     "title": "新安江水电站",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "水电"
+    ],
+    "status": "manual"
   },
   {
     "id": "特69",
     "title": "化学工业",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "化学工业"
+    ],
+    "status": "manual"
   },
   {
     "id": "特7",
     "title": "伟大的祖国—古代文明（第四组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "古代文明"
+    ],
+    "status": "manual"
   },
   {
     "id": "特70",
     "title": "中国登山运动",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "登山"
+    ],
+    "status": "manual"
   },
   {
     "id": "特71",
     "title": "工业战线上的妇女",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "妇女"
+    ],
+    "status": "manual"
   },
   {
     "id": "特72",
     "title": "少年儿童体育运动",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "6.1儿童邮票",
+      "儿童体育"
+    ],
+    "status": "manual"
   },
   {
     "id": "特73",
     "title": "革命摇篮—井冈山",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "革命纪念地",
+      "井冈山"
+    ],
+    "status": "manual"
   },
   {
     "id": "特74",
     "title": "中国人民解放军",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "解放军",
+      "军队建设"
+    ],
+    "status": "manual"
   },
   {
     "id": "特75",
     "title": "特服务行业中的妇女",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "妇女"
+    ],
+    "status": "manual"
   },
   {
     "id": "特8",
     "title": "经济建设",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "建设成就"
+    ],
+    "status": "manual"
   },
   {
     "id": "特9",
     "title": "伟大的祖国—古代文物（第五组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "古代文物"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪1",
     "title": "庆祝中国人民政治协商会议第一届全体会议",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "政协"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪10",
     "title": "保卫世界和平（第二组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "世界和平"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪100",
     "title": "第一届新兴力量运动会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "综合运动会"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪101",
     "title": "支持越南南方人民解放运动",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "越南",
+      "国际声援"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪102",
     "title": "庆祝古巴解放五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "古巴"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪103",
     "title": "庆祝非洲自由日",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪104",
     "title": "全世界无产者联合起来",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪105",
     "title": "英勇的越南南方人民必胜-地球、越南地图、越南南方民族解放阵线旗帜",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "越南",
+      "国际声援"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪106",
     "title": "中华人民共和国成立十五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪107",
-    "title": "第一国际成立一百周年-马克思、恩格斯像、红旗、伦敦圣马丁堂外景",
-    "themes": [],
-    "status": "todo"
+    "title": "第一国际成立一百周年",
+    "themes": [
+      "周年纪念",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪108",
     "title": "庆祝阿尔巴尼亚解放二十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "阿尔巴尼亚"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪109",
     "title": "遵义会议三十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "党史",
+      "长征"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪11",
     "title": "鲁迅逝世十五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代文学家"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪110",
     "title": "万隆会议十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国际会议",
+      "万隆会议"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪111",
     "title": "弗·伊·列宁诞生九十五周年-伟大的革命导师， 弗·伊·列宁",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪112",
     "title": "第28届世界乒乓球锦标赛",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪113",
     "title": "第六次社会主义国家邮电部长会议-在马克思、列宁主义旗帜下前进",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "邮政",
+      "国际会议"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪114",
     "title": "中日青年友好大联欢",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "中日关系",
+      "青年"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪115",
     "title": "纪念抗日战争胜利二十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "抗战胜利"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪116",
     "title": "中华人民共和国第二届运动会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "全运会"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪117",
     "title": "支持越南人民抗美爱国正义斗争",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "越南",
+      "国际声援"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪118",
     "title": "高举毛泽东思想伟大红旗为实现第三个五年计划而奋斗",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "毛泽东思想",
+      "建设成就"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪119",
     "title": "亚非作家紧急会议",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国际会议",
+      "文学"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪12",
     "title": "太平天国金田起义百年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "农民起义"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪120",
     "title": "孙中山诞生一百周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "辛亥革命"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪121",
     "title": "第一届亚洲新兴力量运动会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "综合运动会"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪122",
     "title": "纪念我们的文化革命先驱—鲁迅",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代文学家"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪123",
     "title": "毛主席的好战士—刘英俊",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "解放军",
+      "英模"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪124",
     "title": "向32111英雄钻井队学习",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "工业",
+      "英模"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪13",
     "title": "和平解放西藏",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "西藏"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪14",
     "title": "国际保卫儿童会议",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国际会议",
+      "青少年"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪15",
     "title": "国际劳动节",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪16",
     "title": "抗日战争十五周年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "抗战胜利"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪17",
     "title": "中国人民解放军建军二十五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "解放军",
+      "建军"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪18",
     "title": "庆祝亚洲及太平洋区域和平会议",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国际会议",
+      "世界和平"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪19",
     "title": "中国人民志愿军出国作战二周年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "抗美援朝"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪2",
     "title": "中国人民政治协商会议纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "政协"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪20",
     "title": "伟大的十月革命三十五周年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "十月革命"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪21",
     "title": "庆祝“三·八”国际妇女节",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪22",
     "title": "马克思诞生一三五周年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪23",
     "title": "中国工会第七次全国代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "工人运动"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪24",
     "title": "保卫世界和平（第三组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "世界和平"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪25",
     "title": "世界文化名人",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "文化名人"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪26",
     "title": "弗·伊·列宁逝世三十周年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪27",
     "title": "约·维·斯大林逝世一周年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪28",
     "title": "北京苏联经济及文化建设成就展览会开幕纪念-苏联展览馆",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "展会",
+      "苏联"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪29",
     "title": "中华人民共和国第一届全国人民代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "人大"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪3",
     "title": "世界工联亚洲澳洲工会会议纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "工人运动",
+      "国际会议"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪30",
     "title": "中华人民共和国宪法",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "宪法"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪31",
     "title": "中国红十字会成立五十周年纪念-工人学习卫生常识参加救护训练",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "中国红十字会"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪32",
     "title": "中苏友好同盟互助条约签订五周年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "苏联"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪33",
     "title": "中国古代科学家（第一组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "古代人",
+      "中国古代科学家"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪34",
     "title": "弗·伊·列宁诞生八十五周年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪35",
     "title": "恩格斯诞生一三五周年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪36",
     "title": "中国工农红军胜利完成二万五千里长征二十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "党史",
+      "长征"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪37",
     "title": "中国共产党第八次全国代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "党史",
+      "八大"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪38",
     "title": "孙中山诞生九十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "辛亥革命"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪39",
     "title": "全国第一届工人体育运动大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "综合运动会",
+      "工人运动"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪4",
     "title": "中华人民共和国开国纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪40",
     "title": "我国自制汽车出厂纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "汽车"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪41",
     "title": "中国人民解放军建军三十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "解放军",
+      "建军"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪42",
     "title": "世界工会第四次代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "工人运动",
+      "国际会议"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪43",
     "title": "武汉长江大桥",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "桥梁"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪44",
     "title": "伟大的十月社会主义革命四十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "十月革命"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪45",
     "title": "胜利超额完成第一个五年计划",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "建设成就",
+      "一五计划"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪46",
     "title": "马克思诞生140周年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪47",
     "title": "人民英雄纪念碑",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "建筑",
+      "纪念建筑"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪48",
     "title": "中国工会第八次全国代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "工人运动"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪49",
     "title": "国际民主妇女联合会第四届代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "妇女",
+      "国际组织"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪5",
     "title": "保卫世界和平（第一组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "世界和平"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪50",
     "title": "关汉卿戏剧创作七百年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "戏曲",
+      "关汉卿"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪51",
     "title": "共产党宣言发表110周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪52",
     "title": "莫斯科社会主义国家邮电部长会议",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "邮政",
+      "国际会议"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪53",
     "title": "裁军和国际合作大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国际会议",
+      "世界和平"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪54",
     "title": "国际学联第五届代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国际会议",
+      "青少年"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪55",
     "title": "全国工业交通展览会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "展会",
+      "工业"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪56",
     "title": "北京电报大楼落成纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "通信"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪57",
     "title": "中国人民志愿军凯旋归国纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "抗美援朝"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪58",
     "title": "一九五八年钢铁生产大跃进",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "工业",
+      "钢铁"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪59",
     "title": "“三·八”国际妇女节",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪6",
     "title": "中华人民共和国开国一周年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪60",
     "title": "一九五八年农业丰收",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "农业"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪61",
     "title": "国际劳动节",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪62",
     "title": "“五·四”运动四十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "五四运动"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪63",
     "title": "世界和平运动",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "世界和平"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪64",
     "title": "中国少年先锋队建队十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "少先队"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪65",
     "title": "中捷邮电技术合作-北京邮票厂",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "邮政",
+      "捷克斯洛伐克"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪66",
     "title": "第25届世界兵乓球锦标赛",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪67",
     "title": "中华人民共和国成立十周年（第一组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪68",
     "title": "中华人民共和国成立十周年（第二组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪69",
     "title": "中华人民共和国成立十周年（第三组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪7",
     "title": "第一届全国邮政会议纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "邮政"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪70",
     "title": "中华人民共和国成立十周年（第四组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪71",
     "title": "中华人民共和国成立十周年（第五组）-开国大典",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪72",
     "title": "第一届全国运动会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "全运会"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪73",
     "title": "全国工业交通展览会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "展会",
+      "工业"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪74",
     "title": "遵义会议二十五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "党史",
+      "长征"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪75",
     "title": "中苏友好同盟互助条约签订十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "苏联"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪76",
     "title": "“三·八”国际劳动妇女节五十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪77",
     "title": "弗·伊·列宁诞生九十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪78",
     "title": "庆祝匈牙利解放十五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "匈牙利"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪79",
     "title": "庆祝捷克斯洛伐克解放十五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "捷克斯洛伐克"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪8",
     "title": "中苏友好同盟互助条约签订纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "中苏关系"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪80",
     "title": "恩格斯诞生一四零周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪81",
     "title": "中国文学艺术工作者第三次代表大会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "文艺"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪82",
     "title": "庆祝朝鲜解放十五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "朝鲜"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪83",
     "title": "庆祝越南民主共和国成立十五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "越南"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪84",
     "title": "诺尔曼·白求恩",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "国际主义战士"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪85",
     "title": "巴黎公社九十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "巴黎公社"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪86",
     "title": "第26届世界乒乓球锦标赛",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪87",
     "title": "詹天佑诞生一百周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "铁路"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪88",
     "title": "中国共产党成立四十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "党史",
+      "建党"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪89",
     "title": "庆祝蒙古人民革命四十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "蒙古"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪9",
     "title": "中国共产党三十周年纪念",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "党史",
+      "建党"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪90",
     "title": "辛亥革命五十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "辛亥革命"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪91",
     "title": "鲁迅诞生八十周年-鲁迅雕塑像",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代文学家"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪92",
     "title": "中国古代科学家（第二组）",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "古代人",
+      "中国古代科学家"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪93",
     "title": "杜甫诞生一二五零周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "古代人",
+      "中国古代文学家"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪94",
     "title": "梅兰芳舞台艺术",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "戏曲",
+      "京剧",
+      "梅兰芳"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪95",
     "title": "伟大的十月社会主义革命四十五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "十月革命"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪96",
     "title": "阿尔巴尼亚独立五十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "阿尔巴尼亚"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪97",
     "title": "革命的社会主义的古巴万岁",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "古巴"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪98",
     "title": "马克思诞生一四五周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "status": "manual"
   },
   {
     "id": "纪99",
     "title": "第27届世界乒乓球锦标赛",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号1-6",
     "title": "革命现代京剧《智取威虎山》",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "戏曲",
+      "京剧",
+      "样板戏"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号12-20",
     "title": "庆祝中国共产党成立五十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "党史",
+      "建党"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号21-24",
     "title": "亚非乒乓球友好邀请赛",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号25-28",
     "title": "庆祝阿尔巴尼亚劳动党成立三十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "阿尔巴尼亚"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号29",
@@ -12676,98 +14249,152 @@
   {
     "id": "编号33-38",
     "title": "纪念《在延安文艺座谈会上的讲话》发表三十周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "周年纪念",
+      "延安文艺座谈会"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号39-43",
     "title": "发展体育运动",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "群众体育"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号44",
     "title": "中国工人阶级的先锋战士-铁人王进喜",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "模范人物"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号45-48",
     "title": "第一届亚洲乒乓球锦标赛",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号49-52",
     "title": "红旗渠",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "水利",
+      "红旗渠"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号53-56",
     "title": "革命现代舞剧《白毛女》",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文化",
+      "舞剧",
+      "样板戏"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号57-62",
     "title": "熊猫",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "动物",
+      "濒危动物",
+      "熊猫"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号63-65",
     "title": "中国妇女",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "人物",
+      "现代人",
+      "妇女"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号66-77",
     "title": "文化大革命期间出土文物",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "文物古迹",
+      "出土文物"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号7",
     "title": "严惩入侵之敌",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "解放军",
+      "国防"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号78-81",
     "title": "工业产品",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "科技",
+      "工业产品"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号8-11",
     "title": "纪念巴黎公社一百周年",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "巴黎公社"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号82-85",
     "title": "赤脚医生",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "医疗卫生",
+      "赤脚医生"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号86-90",
     "title": "儿童歌舞",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "6.1儿童邮票",
+      "儿童歌舞"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号91-94",
     "title": "亚非拉乒乓球友好邀请赛",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
+    "status": "manual"
   },
   {
     "id": "编号95",
     "title": "中国出口商品交易会",
-    "themes": [],
-    "status": "todo"
+    "themes": [
+      "历史事件",
+      "经贸"
+    ],
+    "status": "manual"
   },
   {
     "id": "贺1",
@@ -12899,6 +14526,15 @@
     "status": "auto"
   },
   {
+    "id": "普23",
+    "title": "民居",
+    "themes": [
+      "普票",
+      "民居"
+    ],
+    "status": "manual"
+  },
+  {
     "id": "普24",
     "title": "中国石窟艺术普通邮票",
     "themes": [
@@ -13024,5 +14660,268 @@
       "美丽中国"
     ],
     "status": "confirmed"
+  },
+  {
+    "id": "普19",
+    "title": "北京长话大楼",
+    "themes": [
+      "普票",
+      "北京长话大楼"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普21",
+    "title": "祖国风光（雕刻版）",
+    "themes": [
+      "普票",
+      "祖国风光"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普22",
+    "title": "祖国风光（影写版）",
+    "themes": [
+      "普票",
+      "祖国风光"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普22甲",
+    "title": "祖国风光（磷光版）",
+    "themes": [
+      "普票",
+      "祖国风光"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普18",
+    "title": "工农业生产建设图案普通邮票",
+    "themes": [
+      "普票",
+      "工农业生产"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普20",
+    "title": "北京风景图案普通邮票",
+    "themes": [
+      "普票",
+      "北京风景"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普14",
+    "title": "革命圣地图案普通邮票（第三版）",
+    "themes": [
+      "普票",
+      "革命圣地"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "编号29-32",
+    "title": "轮船",
+    "themes": [
+      "科技",
+      "交通",
+      "船舶"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普15",
+    "title": "交通运输图案普通邮票",
+    "themes": [
+      "普票",
+      "交通运输"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普16",
+    "title": "革命圣地图案普通邮票（第四版）",
+    "themes": [
+      "普票",
+      "革命圣地"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普17",
+    "title": "北京建筑图案普通邮票",
+    "themes": [
+      "普票",
+      "北京建筑"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "特",
+    "title": "全国山河一片红",
+    "themes": [
+      "历史事件",
+      "政治运动",
+      "全国山河一片红"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "1969-普无号",
+    "title": "文革普通邮票",
+    "themes": [
+      "普票",
+      "文革普通邮票"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普11",
+    "title": "革命圣地图案普通邮票（第一版）",
+    "themes": [
+      "普票",
+      "革命圣地"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普12",
+    "title": "革命圣地图案普通邮票（第二版）",
+    "themes": [
+      "普票",
+      "革命圣地"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普13",
+    "title": "北京建筑普通邮票",
+    "themes": [
+      "普票",
+      "北京建筑"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普1",
+    "title": "天安门图案普通邮票（第一版）",
+    "themes": [
+      "普票",
+      "天安门"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普2",
+    "title": "天安门图案普通邮票（第二版）",
+    "themes": [
+      "普票",
+      "天安门"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普3",
+    "title": "天安门图案普通邮票（第三版）",
+    "themes": [
+      "普票",
+      "天安门"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普4",
+    "title": "天安门图案普通邮票（第四版）",
+    "themes": [
+      "普票",
+      "天安门"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普东1",
+    "title": "天安门图案普通邮票",
+    "themes": [
+      "普票",
+      "天安门"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普东2",
+    "title": "天安门图案普通邮票（第二版）",
+    "themes": [
+      "普票",
+      "天安门"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普旅1",
+    "title": "天安门图案普通邮票",
+    "themes": [
+      "普票",
+      "天安门"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普5",
+    "title": "天安门图案普通邮票（第五版）",
+    "themes": [
+      "普票",
+      "天安门"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普6",
+    "title": "不同图案普通邮票",
+    "themes": [
+      "普票",
+      "不同图案"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普7",
+    "title": "天安门图案普通邮票（第六版）",
+    "themes": [
+      "普票",
+      "天安门"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普8",
+    "title": "工农兵图案普通邮票",
+    "themes": [
+      "普票",
+      "工农兵"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普9",
+    "title": "天安门图案普通邮票（第七版）",
+    "themes": [
+      "普票",
+      "天安门"
+    ],
+    "status": "manual"
+  },
+  {
+    "id": "普10",
+    "title": "花卉普通邮票",
+    "themes": [
+      "普票",
+      "花卉"
+    ],
+    "status": "manual"
   }
 ]

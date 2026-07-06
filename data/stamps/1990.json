@@ -1,0 +1,898 @@
+[
+  {
+    "id": "T146",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "庚午年",
+    "issueDate": "1990-01-05",
+    "year": 1990,
+    "themes": [
+      "生肖",
+      "生肖马"
+    ],
+    "designer": "邹建军",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "庚午年为农历马年，此套邮票是第一轮生肖邮票的倒数第二套。邮票图案以白色衬托一匹黑马，姿态矫健，线条简洁有力，具有民间剪纸艺术的装饰意味，也延续了第一轮生肖票以民俗形象寄托新年祝福的风格。",
+    "quantity": "13117.65万套",
+    "needsReview": true,
+    "localImageFolder": "T146 《庚午年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "马",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/T146-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T147",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "水仙花",
+    "issueDate": "1990-02-10",
+    "year": 1990,
+    "themes": [
+      "植物花卉",
+      "花卉"
+    ],
+    "designer": "万维生",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "水仙花是中国传统观赏花卉，素有“凌波仙子”之称，春节前后开花，常被视作清雅、高洁与吉祥的象征。邮票展现四种水仙名品，从金盏银台的素雅到玉蕊满堂的繁复，呈现中国传统花卉栽培与赏花文化的细腻意趣。",
+    "quantity": "金盏银台2211.15万枚，千瓣素影2060.40万枚，瀑布迎春2121.65万枚，玉蕊满堂1872.90万枚",
+    "needsReview": true,
+    "localImageFolder": "T147 《水仙花》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "金盏银台",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/T147-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "千瓣素影",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/T147-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "瀑布迎春",
+        "denomination": "30分",
+        "image": "/images/stamps/1990/T147-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "玉蕊满堂",
+        "denomination": "160分",
+        "image": "/images/stamps/1990/T147-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J166",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "诺尔曼·白求恩诞生一百周年",
+    "issueDate": "1990-03-03",
+    "year": 1990,
+    "themes": [
+      "人物",
+      "国际主义战士"
+    ],
+    "designer": "刘向平、让·莫兰旺达、莱维卡",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**诺尔曼·白求恩**（1890-1939）是加拿大共产党员、国际主义战士，1938年率医疗队来华援助中国抗日战争，1939年因手术感染殉职。毛泽东撰写《纪念白求恩》一文，号召学习其毫不利己、专门利人的精神。两枚邮票连印，分别表现白求恩肖像和在中国救治伤员的场景。",
+    "quantity": "1603万套",
+    "needsReview": true,
+    "localImageFolder": "J166 《诺尔曼·白求恩诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "白求恩像",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/J166-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "白求恩在手术中",
+        "denomination": "70分",
+        "image": "/images/stamps/1990/J166-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J167",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "“三八”国际劳动妇女节八十周年",
+    "issueDate": "1990-03-08",
+    "year": 1990,
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "designer": "许洪茹",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1910年哥本哈根国际社会主义妇女代表大会倡议设立国际劳动妇女节，后来逐渐成为纪念妇女争取平等权利与社会参与的重要节日。1990年适逢“三八”国际劳动妇女节八十周年，邮票以女性形象为主体，表现中国妇女在社会主义建设和社会生活中的积极作用。",
+    "quantity": "3723万枚",
+    "needsReview": true,
+    "localImageFolder": "J167 《“三八”国际劳动妇女节八十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "“三八”国际劳动妇女节八十周年",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/J167-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T148",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "绿化祖国",
+    "issueDate": "1990-03-12",
+    "year": 1990,
+    "themes": [
+      "历史事件",
+      "环保"
+    ],
+    "designer": "孙敬忠",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1979年全国人大常委会决定每年3月12日为中国植树节，1981年邓小平倡导开展全民义务植树运动。此套邮票在植树节当天发行，四枚图案均印有“中国植树节”徽志，分别表现义务植树、城市绿化、防护林建设和农林并举，记录了20世纪末中国生态建设意识的普及。",
+    "quantity": "2052.65万套",
+    "needsReview": true,
+    "localImageFolder": "T148 《绿化祖国》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "全民义务植树",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/T148-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "城市绿化美化",
+        "denomination": "10分",
+        "image": "/images/stamps/1990/T148-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "建设绿色长城",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/T148-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "林茂粮丰",
+        "denomination": "30分",
+        "image": "/images/stamps/1990/T148-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T149",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "彩陶",
+    "issueDate": "1990-04-10",
+    "year": 1990,
+    "themes": [
+      "文物古迹",
+      "陶器"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "彩陶是新石器时代最具代表性的文化遗存之一，反映远古先民的制陶技术、纹样审美与社会生活。邮票选取半坡、庙底沟、马家窑、马厂四个典型类型，图案涵盖人面鱼纹盆、花瓣纹钵、旋涡纹壶和蛙纹壶，串联起黄河流域史前彩陶艺术的发展脉络。",
+    "quantity": "半坡类型2252万枚，庙底沟类型2147万枚，马家窑类型2010万枚，马厂类型1925万枚",
+    "needsReview": true,
+    "localImageFolder": "T149 《彩陶》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "半坡类型",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/T149-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "庙底沟类型",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/T149-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "马家窑类型",
+        "denomination": "30分",
+        "image": "/images/stamps/1990/T149-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "马厂类型",
+        "denomination": "50分",
+        "image": "/images/stamps/1990/T149-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J168",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "李富春同志诞生九十周年",
+    "issueDate": "1990-05-22",
+    "year": 1990,
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "designer": "刘向平",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**李富春**（1900-1975）是中国共产党早期领导人之一，长期参与党和国家经济工作，曾任国务院副总理兼国家计划委员会主任，是新中国经济计划建设的重要组织者。邮票两枚分别表现其肖像和工作场景，纪念他在中国革命与社会主义建设中的贡献。",
+    "quantity": "1516万套",
+    "needsReview": true,
+    "localImageFolder": "J168 《李富春同志诞生九十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "李富春同志肖像",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/J168-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "李富春同志在工作",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/J168-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T151",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "秦始皇陵铜车马",
+    "issueDate": "1990-06-20",
+    "year": 1990,
+    "themes": [
+      "文物古迹",
+      "秦始皇陵"
+    ],
+    "designer": "王虎鸣、刘立军",
+    "totalStamps": 2,
+    "extras": [
+      "小型张"
+    ],
+    "description": "1980年在**陕西临潼**秦始皇陵封土西侧出土两乘大型彩绘铜车马，被誉为“青铜之冠”。铜车马按真车真马约二分之一比例制作，构件繁复、装饰精细，是研究秦代车制、金属铸造和皇家仪仗制度的重要实物。小型张展现铜车马全貌，强化其文物整体气势。",
+    "quantity": "御官俑头像2099.4万枚，铜马头1789.15万枚，小型张962.82万枚",
+    "needsReview": true,
+    "localImageFolder": "T151 《秦始皇陵铜车马》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "御官俑头像",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/T151-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "铜马头",
+        "denomination": "50分",
+        "image": "/images/stamps/1990/T151-2.jpg"
+      },
+      {
+        "sn": 3,
+        "format": "小型张",
+        "name": "秦始皇陵铜车马",
+        "denomination": "5元",
+        "image": "/images/stamps/1990/T151-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T152",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "社会主义建设成就（第三组）",
+    "issueDate": "1990-06-30",
+    "year": 1990,
+    "themes": [
+      "科技",
+      "建设成就"
+    ],
+    "designer": "陈晓聪",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "此套邮票展示四项社会主义建设工程：第二汽车制造厂在**湖北十堰**建成投产，标志中国汽车工业发展新阶段；仪征化纤是当时中国大型涤纶短纤维生产基地；胜利油田是重要石油工业基地；秦山核电站则是中国自行设计建造的第一座核电站。",
+    "quantity": "1791.45万套",
+    "needsReview": true,
+    "localImageFolder": "T152 《社会主义建设成就（第三组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "第二汽车制造厂",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/T152-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "仪征化纤联合公司",
+        "denomination": "10分",
+        "image": "/images/stamps/1990/T152-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "胜利油田",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/T152-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "秦山核电站",
+        "denomination": "30分",
+        "image": "/images/stamps/1990/T152-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T150",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "敦煌壁画（第三组）",
+    "issueDate": "1990-07-10",
+    "year": 1990,
+    "themes": [
+      "绘画艺术",
+      "古画",
+      "敦煌壁画"
+    ],
+    "designer": "吴建坤、任宇",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "此套邮票是敦煌壁画系列第三组，选取**敦煌莫高窟**隋代壁画精品。隋代虽历时短暂，却在莫高窟新建百余窟，壁画艺术承前启后。“飞天”表现佛教天界乐舞，“供养菩萨”体现礼佛信仰，“观音济难”取材法华经变，“帝释天”描绘护法神形象。",
+    "quantity": "隋·飞天2178.9万枚，隋·供养菩萨2037.4万枚，隋·观音济难2004.4万枚，隋·帝释天1553.9万枚",
+    "needsReview": true,
+    "localImageFolder": "T150 《敦煌壁画（第三组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "隋·飞天",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/T150-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "隋·供养菩萨",
+        "denomination": "10分",
+        "image": "/images/stamps/1990/T150-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "隋·观音济难",
+        "denomination": "30分",
+        "image": "/images/stamps/1990/T150-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "隋·帝释天",
+        "denomination": "50分",
+        "image": "/images/stamps/1990/T150-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T153",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "雪豹",
+    "issueDate": "1990-07-20",
+    "year": 1990,
+    "themes": [
+      "动物",
+      "国家重点保护野生动物",
+      "濒危动物"
+    ],
+    "designer": "许彦博",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "雪豹生活在海拔3000至5000米的高山地带，是适应严寒、陡峭岩坡环境的珍稀猫科动物，被列为国家一级保护动物。中国是雪豹的重要分布国之一。邮票以卧豹和立豹两种姿态表现雪豹的矫健、警觉与高原生境中的野性气质。",
+    "quantity": "1922.85万套",
+    "needsReview": true,
+    "localImageFolder": "T153 《雪豹》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "卧豹",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/T153-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "立豹",
+        "denomination": "50分",
+        "image": "/images/stamps/1990/T153-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "普26",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "民居",
+    "issueDate": "1990-07-31",
+    "year": 1990,
+    "themes": [
+      "普票",
+      "民居"
+    ],
+    "designer": "陈汉民、华健心、何洁",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "此套邮票是《民居》普通邮票系列的一组，展现中国不同地域与民族的传统居住形态。广西民居体现中国南部壮族传统建筑风貌；宁夏民居展示西北回族聚居区的民居特色；山西民居描绘黄土高原地区的传统住宅。三枚邮票共同呈现中国民居文化的多样性。",
+    "quantity": "",
+    "needsReview": true,
+    "localImageFolder": "普26 《民居》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "广西民居",
+        "denomination": "15分",
+        "image": "/images/stamps/1990/普26-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "宁夏民居",
+        "denomination": "25分",
+        "image": "/images/stamps/1990/普26-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "山西民居",
+        "denomination": "80分",
+        "image": "/images/stamps/1990/普26-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J169",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中国人民革命战争时期邮票六十周年",
+    "issueDate": "1990-08-01",
+    "year": 1990,
+    "themes": [
+      "历史事件",
+      "革命根据地"
+    ],
+    "designer": "李庆发、姜伟杰",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1930年闽西交通总局发行苏区邮票“赤色邮花”，被视为人民邮政早期重要实物。此套邮票采用票中票形式，分别再现闽西交通总局“赤色邮花”和中华苏维埃邮政战士图邮票，纪念中国人民革命战争时期邮票发行六十周年，也呈现革命根据地邮政通信的历史记忆。",
+    "quantity": "2049万套",
+    "needsReview": true,
+    "localImageFolder": "J169 《中国人民革命战争时期邮票六十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "闽西交通总局赤色邮花",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/J169-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中华苏维埃邮政邮票战士图",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/J169-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J170",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "张闻天同志诞生九十周年",
+    "issueDate": "1990-08-30",
+    "year": 1990,
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "designer": "殷会利",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**张闻天**（1900-1976）是中国共产党早期重要领导人，在遵义会议期间支持毛泽东的正确主张，对中国革命转折具有重要作用。新中国成立后，他曾任外交部副部长等职，继续参与国家建设与外交工作。邮票两枚分别表现肖像和遵义会议期间的历史场景。",
+    "quantity": "1525万套",
+    "needsReview": true,
+    "localImageFolder": "J170 《张闻天同志诞生九十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "张闻天同志肖像",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/J170-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "张闻天同志在遵义会议上",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/J170-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J171",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "国际扫盲年",
+    "issueDate": "1990-09-08",
+    "year": 1990,
+    "themes": [
+      "历史事件",
+      "教育"
+    ],
+    "designer": "万维生",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1987年联合国大会宣布1990年为国际扫盲年，倡导各国推动基础教育和成人识字工作。中国人口基数大，扫盲工作对提升国民文化素质和社会发展具有现实意义。邮票以书本和人物形象构成画面，象征知识启蒙与教育公平。",
+    "quantity": "3761万枚",
+    "needsReview": true,
+    "localImageFolder": "J171 《国际扫盲年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "国际扫盲年",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/J171-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T154",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "中国电影",
+    "issueDate": "1990-09-21",
+    "year": 1990,
+    "themes": [
+      "文化",
+      "电影"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1990年是中国电影诞生八十五周年。邮票图案以电影胶片和银幕为核心元素，概括中国电影从早期无声片到有声片、从黑白影像到彩色银幕的发展历程。它既纪念中国电影艺术的成长，也致意几代电影工作者对民族电影事业的积累与创造。",
+    "quantity": "3691.15万枚",
+    "needsReview": true,
+    "localImageFolder": "T154 《中国电影》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国电影",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/T154-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "普无号",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "第十一届亚洲运动会国际体育集邮展览-小型张",
+    "issueDate": "1990-09-21",
+    "year": 1990,
+    "themes": [
+      "体育",
+      "亚运会"
+    ],
+    "designer": "姜伟杰、李庆发",
+    "totalStamps": 0,
+    "extras": [
+      "小型张"
+    ],
+    "description": "此枚小型张为第十一届亚洲运动会国际体育集邮展览募资发行，主图为亚运会吉祥物熊猫“盼盼”，邮界俗称“盼盼”张。该张发行时未编定志号，是中国第一枚无编号小型张，内供集邮协会会员集藏。第十一届亚运会于1990年9月在**北京**举行，是中国首次举办的大型国际综合性运动会。",
+    "quantity": "182.8万枚",
+    "needsReview": true,
+    "localImageFolder": "普无号 《第十一届亚洲运动会国际体育集邮展览-小型张》",
+    "stamps": [
+      {
+        "sn": 1,
+        "format": "小型张",
+        "name": "第十一届亚洲运动会国际体育集邮展览",
+        "denomination": "10元",
+        "image": "/images/stamps/1990/普无号-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J172",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "1990·北京第十一届亚洲运动会（第三组）",
+    "issueDate": "1990-09-22",
+    "year": 1990,
+    "themes": [
+      "体育",
+      "亚运会"
+    ],
+    "designer": "卢德辉、刘波",
+    "totalStamps": 6,
+    "extras": [
+      "小全张"
+    ],
+    "description": "第十一届亚洲运动会于1990年9月在**北京**举行，是中国首次举办的大型国际综合性运动会。此套邮票为亚运会系列第三组，展现田径、体操、武术、排球、游泳、射击六个项目，其中武术首次作为正式比赛项目出现在亚运会中。小全张以吉祥物熊猫“盼盼”为主图，强化赛事纪念性。",
+    "quantity": "套票2040.4万套，小全张748万枚",
+    "needsReview": true,
+    "localImageFolder": "J172 《1990·北京第十一届亚洲运动会（第三组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "田径运动",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/J172-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "体操",
+        "denomination": "10分",
+        "image": "/images/stamps/1990/J172-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "武术",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/J172-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "排球",
+        "denomination": "30分",
+        "image": "/images/stamps/1990/J172-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "游泳",
+        "denomination": "40分",
+        "image": "/images/stamps/1990/J172-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "射击",
+        "denomination": "50分",
+        "image": "/images/stamps/1990/J172-6.jpg"
+      },
+      {
+        "sn": 7,
+        "format": "小全张",
+        "name": "第十一届亚洲运动会",
+        "denomination": "2元",
+        "image": "/images/stamps/1990/J172-7.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J173",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中国现代科学家（第二组）",
+    "issueDate": "1990-10-10",
+    "year": 1990,
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代科学家"
+    ],
+    "designer": "杨谷昌、刘向平",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "此套邮票是中国现代科学家系列第二组，纪念四位杰出科学家：**林巧稚**（1901-1983）是中国现代妇产科学奠基人，**张钰哲**（1902-1986）是中国现代天文学重要开拓者，**侯德榜**（1890-1974）发明侯氏制碱法，**丁颖**（1888-1964）是中国稻作科学的重要奠基人。",
+    "quantity": "1814万套",
+    "needsReview": true,
+    "localImageFolder": "J173 《中国现代科学家（第二组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "医学科学家林巧稚",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/J173-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "天文科学家张钰哲",
+        "denomination": "10分",
+        "image": "/images/stamps/1990/J173-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "化学工业科学家侯德榜",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/J173-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "农业科学家丁颖",
+        "denomination": "30分",
+        "image": "/images/stamps/1990/J173-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T155",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "衡山",
+    "issueDate": "1990-11-05",
+    "year": 1990,
+    "themes": [
+      "山水风光",
+      "山",
+      "五岳"
+    ],
+    "designer": "李德福、杨文清",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**衡山**为五岳中的南岳，位于**湖南衡阳**，素有“五岳独秀”之誉。邮票四枚分别展现南岳大庙的巍峨气象、山势如飞的远景、衡山独秀的山体风貌和祝融峰的雄奇景观。影雕套印工艺增强了山岳层次与建筑线条的质感。",
+    "quantity": "1616.5万套",
+    "needsReview": true,
+    "localImageFolder": "T155 《衡山》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "大庙巍峨",
+        "denomination": "8分",
+        "image": "/images/stamps/1990/T155-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "南岳如飞",
+        "denomination": "10分",
+        "image": "/images/stamps/1990/T155-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "衡山独秀",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/T155-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "祝融雄峰",
+        "denomination": "50分",
+        "image": "/images/stamps/1990/T155-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J174",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中华全国集邮联合会第三次代表大会",
+    "issueDate": "1990-11-28",
+    "year": 1990,
+    "themes": [
+      "文化",
+      "集邮",
+      "中华全国集邮联合会"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 0,
+    "extras": [
+      "小型张"
+    ],
+    "description": "中华全国集邮联合会第三次代表大会于1990年11月26日在**北京人民大会堂**召开。此套邮票仅发行小型张，图案为**苏州**古代驿站横塘驿亭，四周饰以古代铜器上的鱼形铭文，寓意邮政通信源远流长，也把集邮活动与中国邮驿文化传统相连接。",
+    "quantity": "904.8万枚",
+    "needsReview": true,
+    "localImageFolder": "J174 《中华全国集邮联合会第三次代表大会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "format": "小型张",
+        "name": "横塘驿亭",
+        "denomination": "2元",
+        "image": "/images/stamps/1990/J174-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T157",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "中国古典文学名著——《三国演义》（第二组）",
+    "issueDate": "1990-12-10",
+    "year": 1990,
+    "themes": [
+      "文学名著",
+      "三国演义"
+    ],
+    "designer": "陈全胜",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "此套邮票是《三国演义》系列第二组，选取四个经典故事：夜袭乌巢表现曹操火烧袁绍粮草的关键战役，三顾茅庐描绘刘备诚邀诸葛亮出山，单骑救主表现赵云长坂坡护幼主突围，大闹长坂桥刻画张飞据水断桥的威猛气概。四枚画面人物众多而层次清晰，延续古典文学题材邮票的叙事性。",
+    "quantity": "夜袭乌巢2177.40万枚，三顾茅庐2076.65万枚，单骑救主1787.90万枚，大闹长坂桥1565.95万枚",
+    "needsReview": true,
+    "localImageFolder": "T157 《中国古典文学名著——《三国演义》（第二组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "夜袭乌巢",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/T157-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "三顾茅庐",
+        "denomination": "20分",
+        "image": "/images/stamps/1990/T157-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "单骑救主",
+        "denomination": "30分",
+        "image": "/images/stamps/1990/T157-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "大闹长坂桥",
+        "denomination": "50分",
+        "image": "/images/stamps/1990/T157-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T158",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "韩熙载夜宴图",
+    "issueDate": "1990-12-20",
+    "year": 1990,
+    "themes": [
+      "绘画艺术",
+      "古画"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "《韩熙载夜宴图》为五代南唐画家**顾闳中**所绘传世名画，现藏**故宫博物院**。原作以连环长卷方式描摹南唐重臣**韩熙载**家宴行乐场景，分为听乐、观舞、休息、清吹、送别五段，人物神态各异、线条细腻流畅。邮票五枚连印，完整再现这幅名画的叙事结构。",
+    "quantity": "1706.85万套",
+    "needsReview": true,
+    "localImageFolder": "T158 《韩熙载夜宴图》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "五代南唐韩熙载夜宴图·听乐",
+        "denomination": "50分",
+        "image": "/images/stamps/1990/T158-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "五代南唐韩熙载夜宴图·观舞",
+        "denomination": "50分",
+        "image": "/images/stamps/1990/T158-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "五代南唐韩熙载夜宴图·休息",
+        "denomination": "50分",
+        "image": "/images/stamps/1990/T158-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "五代南唐韩熙载夜宴图·清吹",
+        "denomination": "50分",
+        "image": "/images/stamps/1990/T158-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "五代南唐韩熙载夜宴图·送别",
+        "denomination": "50分",
+        "image": "/images/stamps/1990/T158-5.jpg"
+      }
+    ]
+  }
+]
