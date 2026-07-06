@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "1996-1",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "丙子年",
+    "issueDate": "1996-01-05",
+    "year": 1996,
+    "themes": [
+      "生肖",
+      "生肖鼠"
+    ],
+    "designer": "吕胜中",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1996 年为农历丙子鼠年，此套邮票是第二轮生肖邮票第五组。“万家灯火 光明前景”以民间意象表现新岁开启后的光明前程；“鼠咬天开 普天同庆”取自老鼠咬开天地的民间传说，寓意辞旧迎新、普天同庆。",
+    "quantity": "20分9009.9万枚，50分20400.1万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-1 《丙子年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "万家灯火 光明前景",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-1-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "鼠咬天开 普天同庆",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-1-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-2",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "第三届亚洲冬季运动会",
+    "issueDate": "1996-02-04",
+    "year": 1996,
+    "themes": [
+      "体育",
+      "亚运会"
+    ],
+    "designer": "赵明晶、王亚非、李建国、冯晓宏",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "第三届亚洲冬季运动会于 1996 年 2 月在**哈尔滨**举行，这是中国首次举办亚洲冬季运动会。邮票选取速度滑冰、冰球、花样滑冰和高山滑雪四个项目，呈现冰雪竞技运动的速度、对抗、技巧与山地滑行特色。",
+    "quantity": "速度滑冰2079.4万枚，冰球2083.7万枚，花样滑冰1831.8万枚，高山滑雪1836.7万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-2 《第三届亚洲冬季运动会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "速度滑冰",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-2-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "冰球",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-2-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "花样滑冰",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-2-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "高山滑雪",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-2-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-3",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "沈阳故宫",
+    "issueDate": "1996-03-18",
+    "year": 1996,
+    "themes": [
+      "文物古迹",
+      "宫殿"
+    ],
+    "designer": "王岚、刘庸之",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "沈阳故宫位于**辽宁沈阳**，又称盛京皇宫，是清朝入关前的重要宫殿建筑群。两枚邮票分别表现西部大政殿建筑群和东部十王亭建筑群，展现满族宫廷建筑与早期清代政治空间的历史面貌。",
+    "quantity": "各枚2089.5万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-3 《沈阳故宫》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "西部建筑",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-3-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "东部建筑",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-3-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-4",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国邮政开办一百周年",
+    "issueDate": "1996-03-20",
+    "year": 1996,
+    "themes": [
+      "周年纪念",
+      "邮政"
+    ],
+    "designer": "李庆发、姜伟杰",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "1896 年 3 月 20 日，清代国家邮政正式开办，至 1996 年已有一百周年。邮票以清代天津邮政津局旧址、北京邮务管理局旧址、中华苏维埃共和国邮政总局旧址和北京邮政枢纽，串联中国邮政从近代开办到现代枢纽建设的发展轨迹。小型张以大清邮政旧票为主体，强化百年邮政纪念主题。",
+    "quantity": "套票各枚2408.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-4 《中国邮政开办一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "清·天津邮政津局旧址",
+        "denomination": "10分",
+        "image": "/images/stamps/1996/1996-4-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "北京邮务管理局旧址",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-4-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "中华苏维埃共和国邮政总局旧址",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-4-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "北京邮政枢纽",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-4-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "中国邮政开办一百周年",
+        "denomination": "500分",
+        "image": "/images/stamps/1996/1996-4-5.jpg",
+        "format": "小型张"
+      }
+    ]
+  },
+  {
+    "id": "1996-5",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "黄宾虹作品选",
+    "issueDate": "1996-04-05",
+    "year": 1996,
+    "themes": [
+      "绘画艺术",
+      "现代画"
+    ],
+    "designer": "阎炳武、李庆发",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "**黄宾虹**（1865-1955）是中国近现代重要画家、学者，擅长山水画，晚年形成浑厚华滋的笔墨风格。此套邮票选取其书法与山水、花卉作品：《书法》见其金石书风，《山水》和《设色山水》重在层层积墨，《青城山中坐雨》写**青城山**雨意苍茫，《西泠远望》取**杭州西泠**湖山远景，《点染写花》则见其笔墨在花卉题材中的清润变化。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-5 《黄宾虹作品选》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "书法",
+        "denomination": "10分",
+        "image": "/images/stamps/1996/1996-5-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "山水",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-5-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "青城山中坐雨",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-5-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "西泠远望",
+        "denomination": "40分",
+        "image": "/images/stamps/1996/1996-5-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "设色山水",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-5-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "点染写花",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-5-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-6",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "山水盆景",
+    "issueDate": "1996-04-15",
+    "year": 1996,
+    "themes": [
+      "文化",
+      "盆景"
+    ],
+    "designer": "朱友麟",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "山水盆景是中国传统盆景艺术的重要类型，以山石为主，配以植物、亭桥和人物等小件，在盆中营造微缩的自然山水。六枚邮票以漓江翠影、神峰争晖、雪融江溢、鹰嘴奇岩、岁月峥嵘和云山叠彩为题，展示盆景构图中的峰峦、水势与远近层次。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-6 《山水盆景》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "漓江翠影",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-6-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "神峰争晖",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-6-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "雪融江溢",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-6-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "鹰嘴奇岩",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-6-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "岁月峥嵘",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-6-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "云山叠彩",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-6-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-7",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "苏铁",
+    "issueDate": "1996-05-02",
+    "year": 1996,
+    "themes": [
+      "植物花卉",
+      "树木"
+    ],
+    "designer": "曾孝濂",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "苏铁是古老的裸子植物，因形态保留较多原始特征，常被称为植物界的“活化石”。此套邮票选取苏铁、攀枝花苏铁、蓖齿苏铁和多歧苏铁，展示中国苏铁属植物在叶形、株形和地域分布上的多样性。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-7 《苏铁》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "苏铁",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-7-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "攀枝花苏铁",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-7-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "蓖齿苏铁",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-7-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "多歧苏铁",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-7-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-8",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "古代建筑",
+    "issueDate": "1996-05-06",
+    "year": 1996,
+    "themes": [
+      "建筑",
+      "古建筑",
+      "联合发行"
+    ],
+    "designer": "李庆发、姜伟杰",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "《古代建筑》为中国与**圣马力诺**联合发行，选取**中国长城**和**圣马力诺**城堡两种古代防御建筑。长城体现中国古代边防工程的宏阔尺度，圣马力诺城堡依山而建，是欧洲山城防御体系的代表景观，二者共同呈现古代建筑在防御、地形和城市记忆中的作用。",
+    "quantity": "各枚5172.1万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-8 《古代建筑》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国长城",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-8-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "圣马力诺城堡",
+        "denomination": "420里拉",
+        "image": "/images/stamps/1996/1996-8-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-9",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国飞机",
+    "issueDate": "1996-04-17",
+    "year": 1996,
+    "themes": [
+      "科技",
+      "中国飞机"
+    ],
+    "designer": "王虎鸣、刘立军",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《中国飞机》集中展示 20 世纪中国航空工业和航空装备的代表机型。歼八是高空高速战斗机，体现国产喷气式战斗机的发展；强五是强击机，侧重对地攻击任务；运七为国产支线运输机，服务民航和运输需求；运十二是轻型多用途飞机，适合短途运输、通用航空和专业飞行。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-9 《中国飞机》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国飞机·歼八",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-9-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中国飞机·强五",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-9-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "中国飞机·运七",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-9-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "中国飞机·运十二",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-9-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-10",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "河姆渡遗址",
+    "issueDate": "1996-05-12",
+    "year": 1996,
+    "themes": [
+      "文物古迹",
+      "遗址"
+    ],
+    "designer": "任宇、董祖诒、叶雄",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "河姆渡遗址位于**浙江余姚**，距今约 7000 年，是中国南方新石器时代重要遗址。邮票以稻作农业、干栏建筑、划桨行舟和崇鸟敬日为题，呈现河姆渡文化在农业、居住、水上交通和原始信仰方面的代表性发现。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-10 《河姆渡遗址》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "稻作农业",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-10-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "干栏建筑",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-10-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "划桨行舟",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-10-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "崇鸟敬日",
+        "denomination": "150分",
+        "image": "/images/stamps/1996/1996-10-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-11",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国第九届亚洲国际集邮展览",
+    "issueDate": "1996-05-18",
+    "year": 1996,
+    "themes": [
+      "文化",
+      "集邮",
+      "亚洲国际集邮展览"
+    ],
+    "designer": "呼振源、吴建坤",
+    "totalStamps": 0,
+    "extras": [
+      "小型张"
+    ],
+    "description": "中国第九届亚洲国际集邮展览于 1996 年在**北京**举行。小型张以商代玉龙为主体，借古代玉器和纹饰表现中华文明的悠久历史，也呼应亚洲国际集邮展览的文化交流属性。图库另有无齿小型张版本，相关发行量待进一步核对。",
+    "quantity": "1819.6万枚",
+    "needsReview": true,
+    "localImageFolder": "1996-11 《中国第九届亚洲国际集邮展览》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国第九届亚洲国际集邮展览",
+        "denomination": "500分",
+        "image": "/images/stamps/1996/1996-11-1.jpg",
+        "format": "小型张"
+      },
+      {
+        "sn": 2,
+        "name": "中国第九届亚洲国际集邮展览（无齿）",
+        "denomination": "500分",
+        "image": "/images/stamps/1996/1996-11-2.jpg",
+        "format": "小型张"
+      }
+    ]
+  },
+  {
+    "id": "1996-12",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "儿童生活",
+    "issueDate": "1996-06-01",
+    "year": 1996,
+    "themes": [
+      "6.1儿童邮票",
+      "儿童生活"
+    ],
+    "designer": "张乐陆",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《儿童生活》为“六一”国际儿童节发行，以儿童视角表现日常生活与社会关怀。欢乐心声、助人为乐、南极考察和绿化家园四个主题，分别呈现艺术表达、互助品德、科学探索和环境意识。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-12 《儿童生活》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "欢乐心声",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-12-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "助人为乐",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-12-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "南极考察",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-12-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "绿化家园",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-12-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-13",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "奥运百年暨第二十六届奥运会",
+    "issueDate": "1996-07-07",
+    "year": 1996,
+    "themes": [
+      "体育",
+      "奥运会"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1996 年是现代奥林匹克运动一百周年，第二十六届夏季奥运会在美国**亚特兰大**举行。邮票以古希腊运动员形象为核心，回溯奥林匹克运动的源流，并纪念现代奥运百年历程。",
+    "quantity": "3611.65万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-13 《奥运百年暨第二十六届奥运会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "奥运百年暨第二十六届奥运会",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-13-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-14",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "珍惜土地",
+    "issueDate": "1996-06-25",
+    "year": 1996,
+    "themes": [
+      "节日",
+      "现代节日",
+      "环保"
+    ],
+    "designer": "黄里",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1996 年 6 月 25 日是第六个全国“土地日”。此套邮票以合理利用土地和保护耕地为主题，提醒人们关注土地资源约束、耕地保护和可持续利用，也反映 20 世纪 90 年代土地保护宣传的社会背景。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-14 《珍惜土地》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "合理利用土地",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-14-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "保护耕地",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-14-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-15",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "经略台真武阁",
+    "issueDate": "1996-07-15",
+    "year": 1996,
+    "themes": [
+      "建筑",
+      "古建筑",
+      "中国历代名楼"
+    ],
+    "designer": "何波",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "经略台真武阁位于**广西容县**，经略台相传始建于唐乾元二年，原为地方军政经略驻守、登临眺望的台基，后来成为真武阁的承托台座。明万历元年在台上改建真武阁，用以奉祀道教真武大帝。真武阁以不用铁钉、依靠木构杠杆受力的结构闻名，是中国古代楼阁建筑技艺的代表实例之一。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-15 《经略台真武阁》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "经略台",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-15-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "真武阁",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-15-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-16",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国汽车",
+    "issueDate": "1996-07-15",
+    "year": 1996,
+    "themes": [
+      "科技",
+      "汽车"
+    ],
+    "designer": "王虎鸣、刘立军",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《中国汽车》展现中国国产汽车工业的代表车型。红旗轿车长期承担高级公务和礼宾用车形象；东风中型载货汽车面向工农业和公路运输；解放轻型载货汽车延续“解放”品牌在货运车辆中的基础地位；北京轻型越野汽车适合复杂道路和野外通行，四枚共同记录国产汽车在轿车、载货车和越野车领域的阶段性成果。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-16 《中国汽车》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "红旗轿车",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-16-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "东风中型载货汽车",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-16-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "解放轻型载货汽车",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-16-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "北京轻型越野汽车",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-16-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-17",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "震后新唐山",
+    "issueDate": "1996-07-28",
+    "year": 1996,
+    "themes": [
+      "历史事件",
+      "城市建设"
+    ],
+    "designer": "李建国、赵明晶",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1976 年 7 月 28 日，**河北唐山**发生 7.8 级大地震。二十年后发行的《震后新唐山》以农舍、工厂、街景和海港为题，表现唐山灾后重建、工业恢复、城市更新和港口建设的成果。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-17 《震后新唐山》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "农舍",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-17-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "工厂",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-17-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "街景",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-17-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "海港",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-17-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-18",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "第三十届国际地质大会",
+    "issueDate": "1996-08-04",
+    "year": 1996,
+    "themes": [
+      "科技",
+      "地质"
+    ],
+    "designer": "许彦博",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "第三十届国际地质大会于 1996 年 8 月在**北京**举行，这是国际地质界高级别学术会议首次在中国召开。邮票以大会主题元素纪念地质科学交流，反映中国地质研究与国际学术合作的开放进程。",
+    "quantity": "3611.65万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-18 《第三十届国际地质大会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "第三十届国际地质大会",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-18-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-19",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "天山天池",
+    "issueDate": "1996-09-01",
+    "year": 1996,
+    "themes": [
+      "山水风光",
+      "湖泊"
+    ],
+    "designer": "李荣光、周林",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "天山天池位于**新疆阜康**境内，古称“瑶池”，是天山博格达峰下的高山湖泊。邮票以高峡平湖、悬泉飞瀑、湖屏雪峰和湖畔胜景为题，呈现雪峰、湖水、瀑布和林岸共同构成的高山湖泊景观。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-19 《天山天池》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "高峡平湖",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-19-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "悬泉飞瀑",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-19-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "湖屏雪峰",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-19-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "湖畔胜景",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-19-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-20",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "敦煌壁画（第六组）",
+    "issueDate": "1996-08-15",
+    "year": 1996,
+    "themes": [
+      "绘画艺术",
+      "敦煌壁画"
+    ],
+    "designer": "吴建坤、任宇",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "《敦煌壁画（第六组）》是敦煌壁画系列邮票的最后一组，选取五代、宋、西夏和元代壁画精品。《五台山图》以圣境山川和巡礼路线入画，于阗国王像体现西域供养人形象，宋代《观音济难》表现观音救苦信仰，西夏《供养菩萨》呈现庄严细密的菩萨造像，小型张《千手观音》以众手法器强化救度众生的宗教意涵，展现**敦煌**壁画跨时代延续的图像传统。",
+    "quantity": "套票各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-20 《敦煌壁画（第六组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "五代·五台山图",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-20-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "五代·于阗国王",
+        "denomination": "40分",
+        "image": "/images/stamps/1996/1996-20-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "宋·观音济难",
+        "denomination": "80分",
+        "image": "/images/stamps/1996/1996-20-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "西夏·供养菩萨",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-20-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "元·千手观音",
+        "denomination": "500分",
+        "image": "/images/stamps/1996/1996-20-5.jpg",
+        "format": "小型张"
+      }
+    ]
+  },
+  {
+    "id": "1996-21",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "西夏陵",
+    "issueDate": "1996-08-22",
+    "year": 1996,
+    "themes": [
+      "文物古迹",
+      "陵墓"
+    ],
+    "designer": "邹建军",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "西夏陵位于**宁夏银川**西郊，是西夏王朝皇家陵园，因夯土陵台形制独特而有“东方金字塔”之称。陵台是帝陵核心封土建筑，神门鸱吻原属陵园门阙屋脊装饰，碑亭石座承载纪功碑刻，寿陵残碑保留西夏文字和陵寝制度线索，四枚从建筑、构件和碑刻几个角度展示西夏陵园遗存。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-21 《西夏陵》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "陵台",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-21-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "神门鸱吻",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-21-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "碑亭石座",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-21-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "寿陵残碑",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-21-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-22",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "铁路建设",
+    "issueDate": "1996-09-01",
+    "year": 1996,
+    "themes": [
+      "科技",
+      "铁路"
+    ],
+    "designer": "李印清",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《铁路建设》展现 20 世纪 90 年代中国铁路建设的代表成果。大秦铁路服务煤炭运输，兰新铁路复线加强西北通道能力，京九铁路贯通南北，北京西站则代表大型现代化铁路客运枢纽的建设。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-22 《铁路建设》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "大秦铁路",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-22-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "兰新铁路复线",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-22-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "京九铁路",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-22-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "北京西站",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-22-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-23",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国古代档案珍藏",
+    "issueDate": "1996-09-02",
+    "year": 1996,
+    "themes": [
+      "文物古迹",
+      "档案"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《中国古代档案珍藏》展示中国档案载体的历史演变。商代龟甲代表甲骨档案，汉代木牍体现简牍文书，明代铁券属于金石档案，清代国书则反映纸质档案制度，四枚邮票共同呈现档案作为制度记忆和历史凭证的形态变化。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-23 《中国古代档案珍藏》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "甲骨档案·商代龟甲",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-23-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "简牍档案·汉代木牍",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-23-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "金石档案·明代铁券",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-23-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "纸质档案·清代国书",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-23-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-24",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "叶挺同志诞生一百周年",
+    "issueDate": "1996-09-10",
+    "year": 1996,
+    "themes": [
+      "解放军",
+      "军事家"
+    ],
+    "designer": "杨顺泰",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**叶挺**（1896-1946）是中国人民解放军创建时期的重要军事领导人之一，曾任新四军军长。此套邮票纪念叶挺同志诞生一百周年，一枚为肖像，一枚表现抗日战争时期的叶挺将军，突出其在中国革命和抗战历史中的地位。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-24 《叶挺同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "叶挺同志肖像",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-24-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "抗日战争时期的叶挺将军",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-24-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-25",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "各国议会联盟第96届大会",
+    "issueDate": "1996-09-16",
+    "year": 1996,
+    "themes": [
+      "历史事件",
+      "国际会议"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "各国议会联盟第 96 届大会于 1996 年 9 月在**北京**举行，这是中国首次承办议联大会。邮票纪念这一国际议会交流活动，体现中国参与多边议会合作和国际政治交流的时代背景。",
+    "quantity": "3611.65万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-25 《各国议会联盟第96届大会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "各国议会联盟第96届大会",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-25-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-26",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "上海浦东",
+    "issueDate": "1996-09-21",
+    "year": 1996,
+    "themes": [
+      "历史事件",
+      "区域发展"
+    ],
+    "designer": "李斌",
+    "totalStamps": 6,
+    "extras": [
+      "小型张"
+    ],
+    "description": "浦东开发开放是中国改革开放的重要举措。邮票以**上海浦东**的通信与交通、陆家嘴金融贸易区、金桥出口加工区、张江高科技园区、外高桥保税区和生活社区为题，展示浦东在产业、金融、科技、贸易和城市生活方面的建设成果；小型张呈现开发开放中的浦东全景。",
+    "quantity": "套票各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-26 《上海浦东》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "上海浦东的通信与交通",
+        "denomination": "10分",
+        "image": "/images/stamps/1996/1996-26-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "上海浦东陆家嘴金融贸易区",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-26-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "上海浦东金桥出口加工区",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-26-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "上海浦东张江高科技园区",
+        "denomination": "40分",
+        "image": "/images/stamps/1996/1996-26-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "上海浦东外高桥保税区",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-26-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "上海浦东生活社区",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-26-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "开发开放中的上海浦东",
+        "denomination": "500分",
+        "image": "/images/stamps/1996/1996-26-7.jpg",
+        "format": "小型张"
+      }
+    ]
+  },
+  {
+    "id": "1996-27",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "国际宇航大会第四十七届年会",
+    "issueDate": "1996-10-07",
+    "year": 1996,
+    "themes": [
+      "科技",
+      "航天"
+    ],
+    "designer": "杨竞、刘立军",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "国际宇航大会第四十七届年会于 1996 年 10 月在**北京**举行。两枚邮票分别表现中国长征运载火箭和中国通信卫星，展示中国航天发射能力与卫星通信技术，也纪念中国参与国际宇航交流的节点。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-27 《国际宇航大会第四十七届年会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国长征运载火箭",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-27-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中国通信卫星",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-27-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-28",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "城市风光",
+    "issueDate": "1996-10-09",
+    "year": 1996,
+    "themes": [
+      "建筑",
+      "城市风光",
+      "联合发行"
+    ],
+    "designer": "蒋智南、李荣宪",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "《城市风光》为中国与**新加坡**联合发行，展现**新加坡**景色和**苏州**盘门两座城市景观。新加坡景色体现现代滨海城市形象，苏州盘门则以水陆城门和古城格局见长，两枚邮票以城市风貌呈现中新文化交流。",
+    "quantity": "各枚5172.1万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-28 《城市风光》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "新加坡景色",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-28-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "苏州盘门",
+        "denomination": "130分",
+        "image": "/images/stamps/1996/1996-28-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-29",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国工农红军长征胜利六十周年",
+    "issueDate": "1996-10-22",
+    "year": 1996,
+    "themes": [
+      "历史事件",
+      "党史",
+      "长征"
+    ],
+    "designer": "刘向宇、袁学渊",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1936 年 10 月，中国工农红军三大主力在**甘肃会宁**会师，标志着长征胜利。此套邮票以红军过草地和三军大会师为主题，纪念长征胜利六十周年，突出艰苦转战与胜利会师两个关键历史意象。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-29 《中国工农红军长征胜利六十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "红军过草地",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-29-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "三军大会师",
+        "denomination": "80分",
+        "image": "/images/stamps/1996/1996-29-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-30",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "天津民间彩塑",
+    "issueDate": "1996-11-05",
+    "year": 1996,
+    "themes": [
+      "文化",
+      "非物质文化遗产",
+      "彩塑"
+    ],
+    "designer": "孟祥斌",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**天津**民间彩塑以“泥人张”彩塑最具代表性，始于清代道光年间，注重人物神态、衣纹和生活情趣的塑造。邮票选取和合二仙、吹糖人、渔归和惜春作画四组作品，呈现民间彩塑的题材广度与手工艺特色。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-30 《天津民间彩塑》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "和合二仙",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-30-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "吹糖人",
+        "denomination": "30分",
+        "image": "/images/stamps/1996/1996-30-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "渔归",
+        "denomination": "50分",
+        "image": "/images/stamps/1996/1996-30-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "惜春作画",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-30-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1996-31",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "香港经济建设",
+    "issueDate": "1996-12-19",
+    "year": 1996,
+    "themes": [
+      "历史事件",
+      "区域发展",
+      "香港"
+    ],
+    "designer": "阎炳武、杨文涛",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1997 年 7 月 1 日香港回归祖国前夕，发行《香港经济建设》展示**香港**的现代经济面貌。中银大厦、集装箱码头、启德机场和联合交易所，分别对应金融、贸易物流、航空交通和证券市场，概括香港作为国际城市的经济功能。",
+    "quantity": "各枚2099.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1996-31 《香港经济建设》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "香港中银大厦",
+        "denomination": "20分",
+        "image": "/images/stamps/1996/1996-31-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "香港集装箱码头",
+        "denomination": "40分",
+        "image": "/images/stamps/1996/1996-31-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "香港启德机场",
+        "denomination": "60分",
+        "image": "/images/stamps/1996/1996-31-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "香港联合交易所",
+        "denomination": "100分",
+        "image": "/images/stamps/1996/1996-31-4.jpg"
+      }
+    ]
+  }
+]

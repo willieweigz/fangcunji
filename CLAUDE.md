@@ -6,4 +6,9 @@
 - 本地邮票图库：`新中国邮票图片全集（1949年-2026年最新）/`（项目根目录下，约24GB，已在 .gitignore 排除，绝不提交/部署）；导入图片用 `python scripts/import_year_images.py <年份>`。
 - 启动: `npm run dev`（端口 3000）。项目在微云同步文件夹内，npm install 很慢属正常。
 - 视觉风格是"典雅集邮册风"（米色纸纹 + 印章红 #b23a2a + 邮政绿 #1f6b50），改样式时保持此基调。
-- **上线部署**：还没部署（本地开发阶段，无 git 仓库）。需要部署时严格按 `部署上线指南.md` 执行——账号/授权类步骤（注册 GitHub/Vercel、浏览器登录）必须站长本人做，AI 只做技术操作（git 命令、检查构建日志）。部署后日常更新流程是"改数据→体检→git push"，Vercel 自动构建，不需要手动登录操作。
+- **上线部署**：已上线，线上地址 https://fangcunji.vercel.app 。push 到 GitHub 后 Vercel 自动构建（1–2 分钟）。账号/授权类步骤（注册 GitHub/Vercel、浏览器登录）必须站长本人做，AI 只做技术操作（git 命令、检查构建日志），详见 `部署上线指南.md`。
+- **⚠️ 提交并推送到 GitHub（默认不做，必须站长同意或要求才执行）**：
+  - **不要顺手 push**：录完数据 / 改完代码 / 打完标签后，正常收尾是"跑体检 → 写交付说明"然后**停下**。**绝不因为"完成了一项工作"就自动 `git push`**。只有站长明确说"可以 push / 推一下 / 上线 / 同步一下"时，才做提交推送这个动作。
+  - 仓库位置：`G:\微云同步文件夹\邮票网站`（项目根目录本身就是 git 仓库）。远程 `origin` → `https://github.com/willieweigz/fangcunji.git`，分支 `main`。
+  - push 前**必须先 `git status --short`** 看清楚将提交哪些文件——多 AI / 多会话共用同一文件夹，历史上出过 24GB 图库、`.workbuddy/` 缓存、`nul` 文件被误加入暂存区的情况（这些已在 .gitignore，但仍要人工核一眼）。
+  - 标准动作：`git status --short` →（优先精确 add，不要无脑 `git add -A`）`git add <文件>` → `git commit -m "说明"` → `git push`。push 后 Vercel 自动构建，1–2 分钟线上生效。

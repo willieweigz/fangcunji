@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "1999-1",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "己卯年",
+    "issueDate": "1999-01-05",
+    "year": 1999,
+    "themes": [
+      "生肖",
+      "生肖兔"
+    ],
+    "designer": "王虎鸣、呼振源",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1999 年为农历己卯兔年，这套邮票是第二轮生肖邮票第八组。第一枚以“玉兔为月”表现月宫玉兔的传统意象，第二枚以三兔组合寓意吉祥如意，将民间年节祝福和生肖文化结合在一起。",
+    "needsReview": false,
+    "localImageFolder": "1999-1 《己卯年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "玉兔为月",
+        "denomination": "50分",
+        "image": "/images/stamps/1999/1999-1-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "吉祥如意",
+        "denomination": "150分",
+        "image": "/images/stamps/1999/1999-1-2.jpg"
+      }
+    ],
+    "quantity": "玉兔为月10209.95万枚，吉祥如意8369.65万枚"
+  },
+  {
+    "id": "1999-2",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "汉画像石",
+    "issueDate": "1999-03-16",
+    "year": 1999,
+    "themes": [
+      "文物古迹",
+      "画像石"
+    ],
+    "designer": "许彦博",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "汉画像石是汉代墓室、祠堂等建筑中的石刻图像，常见于**山东**、**江苏**等地。邮票选取牛耕、纺织、舞乐、车马出行、荆轲刺秦王和嫦娥奔月六类题材，呈现汉代社会生产、礼乐生活和神话历史叙事。",
+    "needsReview": false,
+    "localImageFolder": "1999-2 《汉画像石》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "牛耕",
+        "denomination": "30分",
+        "image": "/images/stamps/1999/1999-2-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "纺织",
+        "denomination": "30分",
+        "image": "/images/stamps/1999/1999-2-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "舞乐",
+        "denomination": "50分",
+        "image": "/images/stamps/1999/1999-2-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "车马出行",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-2-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "荆轲刺秦王",
+        "denomination": "100分",
+        "image": "/images/stamps/1999/1999-2-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "嫦娥奔月",
+        "denomination": "150分",
+        "image": "/images/stamps/1999/1999-2-6.jpg"
+      }
+    ],
+    "quantity": "各枚3249.35万枚"
+  },
+  {
+    "id": "1999-3",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国陶瓷—钧窑瓷器",
+    "issueDate": "1999-04-08",
+    "year": 1999,
+    "themes": [
+      "文物古迹",
+      "陶瓷"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "钧窑是宋代五大名窑之一，以窑变釉和绚丽釉色闻名，主要产地在**河南禹州**一带。邮票选取北宋出戟尊、北宋尊、元双耳炉和元双耳连座瓶，展现钧窑器在造型、釉色和时代风格上的代表面貌。",
+    "needsReview": false,
+    "localImageFolder": "1999-3 《中国陶瓷—钧窑瓷器》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "北宋·出戟尊",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-3-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "北宋·尊",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-3-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "元·双耳炉",
+        "denomination": "100分",
+        "image": "/images/stamps/1999/1999-3-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "元·双耳连座瓶",
+        "denomination": "200分",
+        "image": "/images/stamps/1999/1999-3-4.jpg"
+      }
+    ],
+    "quantity": "各枚3249.35万枚"
+  },
+  {
+    "id": "1999-4",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "昆明世界园艺博览会",
+    "issueDate": "1999-05-01",
+    "year": 1999,
+    "themes": [
+      "历史事件",
+      "世界园艺博览会"
+    ],
+    "designer": "张桂征",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1999 年昆明世界园艺博览会在**云南昆明**举行，主题强调人与自然和谐共生。邮票以“保护大自然”和“博览会场馆”为题，一枚表现生态理念，一枚呈现园博会建筑景观，记录中国首次举办 A1 类世界园艺博览会的节点。",
+    "needsReview": false,
+    "localImageFolder": "1999-4 《昆明世界园艺博览会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "保护大自然",
+        "denomination": "50分",
+        "image": "/images/stamps/1999/1999-4-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "博览会场馆",
+        "denomination": "100分",
+        "image": "/images/stamps/1999/1999-4-2.jpg"
+      }
+    ],
+    "quantity": "各枚3249.35万枚"
+  },
+  {
+    "id": "1999-5",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "马鹿",
+    "issueDate": "1999-05-18",
+    "year": 1999,
+    "themes": [
+      "动物",
+      "鹿"
+    ],
+    "designer": "殷会利",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "这套邮票由中国与俄罗斯联合发行，题材为马鹿。马鹿体形健壮、分布广泛，是欧亚大陆北方森林和草原生态中的代表性大型鹿类。两枚邮票以不同构图表现马鹿形态，兼具动物题材和中俄联合发行的纪念意义。",
+    "needsReview": false,
+    "localImageFolder": "1999-5 《马鹿》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "马鹿",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-5-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "马鹿",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-5-2.jpg"
+      }
+    ],
+    "quantity": "各枚3249.35万枚"
+  },
+  {
+    "id": "1999-6",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "普陀秀色",
+    "issueDate": "1999-06-03",
+    "year": 1999,
+    "themes": [
+      "山水风光",
+      "山",
+      "佛教"
+    ],
+    "designer": "范曾",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "普陀山位于**浙江舟山**，是中国佛教四大名山之一，以观音信仰和海天山色闻名。邮票选取普济寺、南天门、百步沙、磐陀石、梵音洞和法雨寺，串联寺院、海滨、奇石和洞景，呈现普陀山的宗教文化与自然景观。",
+    "needsReview": false,
+    "localImageFolder": "1999-6 《普陀秀色》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "普济寺",
+        "denomination": "30分",
+        "image": "/images/stamps/1999/1999-6-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "南天门",
+        "denomination": "40分",
+        "image": "/images/stamps/1999/1999-6-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "百步沙",
+        "denomination": "50分",
+        "image": "/images/stamps/1999/1999-6-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "磐陀石",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-6-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "梵音洞",
+        "denomination": "100分",
+        "image": "/images/stamps/1999/1999-6-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "法雨寺",
+        "denomination": "150分",
+        "image": "/images/stamps/1999/1999-6-6.jpg"
+      }
+    ],
+    "quantity": "各枚3249.35万枚"
+  },
+  {
+    "id": "1999-7",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国1999世界集邮展览",
+    "issueDate": "1999-08-21",
+    "year": 1999,
+    "themes": [
+      "文化",
+      "集邮",
+      "世界集邮展览"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 0,
+    "extras": [
+      "小型张"
+    ],
+    "description": "中国 1999 世界集邮展览在**北京**举行，是面向国际集邮界的重要展会。小型张取材清代宫廷画家**郎世宁**（1688-1766）相关文物题材，以“青花釉里红开光镂花罐”为视觉核心，将集邮展览、文物审美和中国传统工艺联系起来。",
+    "needsReview": false,
+    "localImageFolder": "1999-7 《中国1999世界集邮展览》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国1999世界集邮展览（小型张）",
+        "denomination": "800分",
+        "image": "/images/stamps/1999/1999-7-1.jpg",
+        "format": "小型张"
+      }
+    ],
+    "quantity": "中国1999世界集邮展览（小型张）2549.35万枚"
+  },
+  {
+    "id": "1999-8",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "方志敏同志诞生一百周年",
+    "issueDate": "1999-08-21",
+    "year": 1999,
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "designer": "朱振庚",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**方志敏**（1899-1935）是中国共产党早期领导人和革命烈士。邮票以方志敏像和“坚贞不屈”为主题，纪念其诞生一百周年，突出他在早期革命斗争中的理想信念和牺牲精神。",
+    "needsReview": false,
+    "localImageFolder": "1999-8 《方志敏同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "方志敏像",
+        "denomination": "60分",
+        "image": "/images/stamps/1999/1999-8-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "坚贞不屈",
+        "denomination": "200分",
+        "image": "/images/stamps/1999/1999-8-2.jpg"
+      }
+    ],
+    "quantity": "各枚3249.35万枚"
+  },
+  {
+    "id": "1999-9",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "第二十二届万国邮政联盟大会",
+    "issueDate": "1999-08-23",
+    "year": 1999,
+    "themes": [
+      "历史事件",
+      "邮政"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 2,
+    "extras": [
+      "小型张"
+    ],
+    "description": "第 22 届万国邮政联盟大会于 1999 年在**北京**举行。邮票以第一届大会会址和第二十二届大会会址形成历史对照，小型张表现万国邮政联盟纪念碑，体现国际邮政合作从近代通信制度走向全球协作网络的延续。",
+    "needsReview": false,
+    "localImageFolder": "1999-9 《第二十二届万国邮政联盟大会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "第一届万国邮政联盟大会会址",
+        "denomination": "60分",
+        "image": "/images/stamps/1999/1999-9-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "第二十二届万国邮政联盟大会会址",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-9-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "万国邮政联盟纪念碑",
+        "denomination": "800分",
+        "image": "/images/stamps/1999/1999-9-3.jpg",
+        "format": "小型张"
+      }
+    ],
+    "quantity": "各枚3249.35万枚"
+  },
+  {
+    "id": "1999-10",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "万国邮政联盟成立一百二十五周年",
+    "issueDate": "1999-09-07",
+    "year": 1999,
+    "themes": [
+      "周年纪念",
+      "邮政",
+      "万国邮政联盟"
+    ],
+    "designer": "于万财、李建国",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "万国邮政联盟成立于 1874 年，是协调国际邮政事务的重要组织。此票纪念其成立一百二十五周年，以邮政主题图形凝聚跨国通信、邮件交换和国际标准协作的意义，也与同年在**北京**举行的第 22 届万国邮联大会形成呼应。",
+    "needsReview": false,
+    "localImageFolder": "1999-10 《万国邮政联盟成立一百二十五周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "万国邮政联盟成立一百二十五周年",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-10-1.jpg"
+      }
+    ],
+    "quantity": "万国邮政联盟成立一百二十五周年3249.35万枚"
+  },
+  {
+    "id": "1999-11",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中华人民共和国成立五十周年-民族大团结",
+    "issueDate": "1999-10-01",
+    "year": 1999,
+    "themes": [
+      "历史事件",
+      "国庆",
+      "民族团结"
+    ],
+    "designer": "周秀青、金向",
+    "totalStamps": 56,
+    "extras": [],
+    "description": "1999 年是中华人民共和国成立五十周年。此套邮票以 56 个民族为主题，56 枚连印，是中国邮票史上枚数最多的一套邮票之一。每枚表现一个民族的人物形象与服饰特征，以长卷式阵列表达民族团结和国家共同体意识。",
+    "needsReview": false,
+    "localImageFolder": "1999-11 《中华人民共和国成立五十周年-民族大团结》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "汉族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "蒙古族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "回族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "藏族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "维吾尔族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "苗族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "彝族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "壮族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "布依族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "朝鲜族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "满族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-11.jpg"
+      },
+      {
+        "sn": 12,
+        "name": "侗族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-12.jpg"
+      },
+      {
+        "sn": 13,
+        "name": "瑶族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-13.jpg"
+      },
+      {
+        "sn": 14,
+        "name": "白族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-14.jpg"
+      },
+      {
+        "sn": 15,
+        "name": "土家族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-15.jpg"
+      },
+      {
+        "sn": 16,
+        "name": "哈尼族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-16.jpg"
+      },
+      {
+        "sn": 17,
+        "name": "哈萨克族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-17.jpg"
+      },
+      {
+        "sn": 18,
+        "name": "傣族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-18.jpg"
+      },
+      {
+        "sn": 19,
+        "name": "黎族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-19.jpg"
+      },
+      {
+        "sn": 20,
+        "name": "傈僳族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-20.jpg"
+      },
+      {
+        "sn": 21,
+        "name": "佤族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-21.jpg"
+      },
+      {
+        "sn": 22,
+        "name": "畲族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-22.jpg"
+      },
+      {
+        "sn": 23,
+        "name": "高山族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-23.jpg"
+      },
+      {
+        "sn": 24,
+        "name": "拉祜族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-24.jpg"
+      },
+      {
+        "sn": 25,
+        "name": "水族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-25.jpg"
+      },
+      {
+        "sn": 26,
+        "name": "东乡族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-26.jpg"
+      },
+      {
+        "sn": 27,
+        "name": "纳西族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-27.jpg"
+      },
+      {
+        "sn": 28,
+        "name": "景颇族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-28.jpg"
+      },
+      {
+        "sn": 29,
+        "name": "柯尔克孜族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-29.jpg"
+      },
+      {
+        "sn": 30,
+        "name": "土族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-30.jpg"
+      },
+      {
+        "sn": 31,
+        "name": "达斡尔族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-31.jpg"
+      },
+      {
+        "sn": 32,
+        "name": "仫佬族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-32.jpg"
+      },
+      {
+        "sn": 33,
+        "name": "羌族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-33.jpg"
+      },
+      {
+        "sn": 34,
+        "name": "布朗族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-34.jpg"
+      },
+      {
+        "sn": 35,
+        "name": "撒拉族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-35.jpg"
+      },
+      {
+        "sn": 36,
+        "name": "毛南族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-36.jpg"
+      },
+      {
+        "sn": 37,
+        "name": "仡佬族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-37.jpg"
+      },
+      {
+        "sn": 38,
+        "name": "锡伯族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-38.jpg"
+      },
+      {
+        "sn": 39,
+        "name": "阿昌族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-39.jpg"
+      },
+      {
+        "sn": 40,
+        "name": "普米族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-40.jpg"
+      },
+      {
+        "sn": 41,
+        "name": "塔吉克族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-41.jpg"
+      },
+      {
+        "sn": 42,
+        "name": "怒族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-42.jpg"
+      },
+      {
+        "sn": 43,
+        "name": "乌兹别克族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-43.jpg"
+      },
+      {
+        "sn": 44,
+        "name": "俄罗斯族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-44.jpg"
+      },
+      {
+        "sn": 45,
+        "name": "鄂温克族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-45.jpg"
+      },
+      {
+        "sn": 46,
+        "name": "德昂族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-46.jpg"
+      },
+      {
+        "sn": 47,
+        "name": "保安族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-47.jpg"
+      },
+      {
+        "sn": 48,
+        "name": "裕固族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-48.jpg"
+      },
+      {
+        "sn": 49,
+        "name": "京族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-49.jpg"
+      },
+      {
+        "sn": 50,
+        "name": "塔塔尔族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-50.jpg"
+      },
+      {
+        "sn": 51,
+        "name": "独龙族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-51.jpg"
+      },
+      {
+        "sn": 52,
+        "name": "鄂伦春族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-52.jpg"
+      },
+      {
+        "sn": 53,
+        "name": "赫哲族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-53.jpg"
+      },
+      {
+        "sn": 54,
+        "name": "门巴族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-54.jpg"
+      },
+      {
+        "sn": 55,
+        "name": "珞巴族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-55.jpg"
+      },
+      {
+        "sn": 56,
+        "name": "基诺族",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-11-56.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1999-12",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "国际老人年",
+    "issueDate": "1999-09-09",
+    "year": 1999,
+    "themes": [
+      "历史事件",
+      "民生"
+    ],
+    "designer": "于万财",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1999 年是**联合国**确定的国际老人年，主题关注老年人的尊严、参与和社会保障。邮票以尊老爱老为核心意象，记录人口老龄化进入公共议题后的国际倡议，也回应家庭、社区和社会共同关怀老年人的价值。",
+    "needsReview": false,
+    "localImageFolder": "1999-12 《国际老人年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "国际老人年",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-12-1.jpg"
+      }
+    ],
+    "quantity": "国际老人年3249.35万枚"
+  },
+  {
+    "id": "1999-13",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国人民政治协商会议成立五十周年",
+    "issueDate": "1999-09-21",
+    "year": 1999,
+    "themes": [
+      "周年纪念",
+      "政协"
+    ],
+    "designer": "杨莹",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "中国人民政治协商会议成立于 1949 年，是中国政治生活中的重要制度安排。邮票以政协一届会议在中南海举行和政协会议讨论通过国徽图案两个场景，回望新中国成立初期协商建国的重要历史时刻。",
+    "needsReview": false,
+    "localImageFolder": "1999-13 《中国人民政治协商会议成立五十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "政协一届会议在中南海举行",
+        "denomination": "60分",
+        "image": "/images/stamps/1999/1999-13-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "政协会议讨论通过国徽图案",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-13-2.jpg"
+      }
+    ],
+    "quantity": "各枚3249.35万枚"
+  },
+  {
+    "id": "1999-14",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "庐山和金刚山",
+    "issueDate": "1999-10-05",
+    "year": 1999,
+    "themes": [
+      "山水风光",
+      "山"
+    ],
+    "designer": "许彦博",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "这套邮票由中国与朝鲜联合发行，选取朝鲜金刚山和中国庐山两座名山。金刚山以奇峰峡谷和自然景致著称，庐山位于**江西九江**，兼具山水风光与人文传统。两枚并置呈现东北亚山岳景观的文化互赏。",
+    "needsReview": false,
+    "localImageFolder": "1999-14 《庐山和金刚山》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "金刚山",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-14-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "庐山",
+        "denomination": "160分",
+        "image": "/images/stamps/1999/1999-14-2.jpg"
+      }
+    ],
+    "quantity": "各枚3249.35万枚"
+  },
+  {
+    "id": "1999-15",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "希望工程实施十周年",
+    "issueDate": "1999-10-30",
+    "year": 1999,
+    "themes": [
+      "历史事件",
+      "教育"
+    ],
+    "designer": "陈雅丹",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "希望工程由中国青少年发展基金会于 1989 年发起，旨在帮助贫困地区儿童继续学业。邮票纪念希望工程实施十周年，以项目标志性形象表达教育公益、社会援助和乡村儿童求学机会之间的联系。",
+    "needsReview": false,
+    "localImageFolder": "1999-15 《希望工程实施十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "希望工程实施十周年",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-15-1.jpg"
+      }
+    ],
+    "quantity": "希望工程实施十周年3249.35万枚"
+  },
+  {
+    "id": "1999-16",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "科技成果",
+    "issueDate": "1999-11-01",
+    "year": 1999,
+    "themes": [
+      "科技",
+      "科技成果"
+    ],
+    "designer": "冯小红、杜利",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "《科技成果》选取四项具有代表性的中国科研成果：**云南澄江**寒武纪早期生物群、6000 米水下机器人、哥德巴赫猜想研究中的最佳结果和 2.16 米天文望远镜，展示古生物、深海、数学和天文观测领域的突破。",
+    "needsReview": false,
+    "localImageFolder": "1999-16 《科技成果》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "寒武纪早期澄江生物群",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-16-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "6000米水下机器人",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-16-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "哥德巴赫猜想的最佳结果",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-16-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "2.16米天文望远镜",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-16-4.jpg"
+      }
+    ],
+    "quantity": "各枚3249.35万枚"
+  },
+  {
+    "id": "1999-17",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "李立三同志诞生一百周年",
+    "issueDate": "1999-11-18",
+    "year": 1999,
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "designer": "王军",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**李立三**（1899-1967）是中国共产党早期领导人之一，也是工人运动的重要组织者。邮票以“早期工人运动领导人”和“建国初期的李立三”为题，纪念其诞生一百周年，呈现其革命经历与建国后的工作面貌。",
+    "needsReview": false,
+    "localImageFolder": "1999-17 《李立三同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "早期工人运动领导人",
+        "denomination": "60分",
+        "image": "/images/stamps/1999/1999-17-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "建国初期的李立三",
+        "denomination": "200分",
+        "image": "/images/stamps/1999/1999-17-2.jpg"
+      }
+    ],
+    "quantity": "各枚3249.35万枚"
+  },
+  {
+    "id": "1999-18",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "澳门回归祖国",
+    "issueDate": "1999-12-20",
+    "year": 1999,
+    "themes": [
+      "历史事件",
+      "澳门",
+      "澳门回归"
+    ],
+    "designer": "张磊、张新英",
+    "totalStamps": 2,
+    "extras": [
+      "小型张"
+    ],
+    "description": "1999 年 12 月 20 日，中国恢复对**澳门**行使主权，澳门回归祖国。邮票以中葡联合声明和《中华人民共和国澳门特别行政区基本法》为主题，小型张以**邓小平**（1904-1997）形象和澳门城市意象表现“一国两制”构想与历史回归。",
+    "needsReview": false,
+    "localImageFolder": "1999-18 《澳门回归祖国》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中葡联合声明",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-18-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中华人民共和国澳门特别行政区基本法",
+        "denomination": "160分",
+        "image": "/images/stamps/1999/1999-18-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "澳门回归祖国",
+        "denomination": "800分",
+        "image": "/images/stamps/1999/1999-18-3.jpg",
+        "format": "小型张"
+      },
+      {
+        "sn": 4,
+        "name": "澳门回归祖国（金箔）",
+        "denomination": "50元",
+        "image": "/images/stamps/1999/1999-18-4.jpg",
+        "format": "小型张"
+      }
+    ],
+    "quantity": "各枚3249.35万枚"
+  },
+  {
+    "id": "1999-19",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "聂荣臻同志诞生一百周年",
+    "issueDate": "1999-12-29",
+    "year": 1999,
+    "themes": [
+      "解放军",
+      "十大元帅"
+    ],
+    "designer": "殷会利、马刚",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**聂荣臻**（1899-1992）是中国人民解放军元帅，也是新中国科技事业的重要领导人。邮票以聂荣臻元帅和科技事业的卓越领导人为题，纪念其诞生一百周年，突出军事生涯与国防科技建设两条主线。",
+    "needsReview": false,
+    "localImageFolder": "1999-19 《聂荣臻同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "聂荣臻元帅",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-19-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "科技事业的卓越领导人",
+        "denomination": "160分",
+        "image": "/images/stamps/1999/1999-19-2.jpg"
+      }
+    ],
+    "quantity": "各枚3249.35万枚"
+  },
+  {
+    "id": "1999-20",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "世纪交替 千年更始–20世纪回顾",
+    "issueDate": "1999-12-31",
+    "year": 1999,
+    "themes": [
+      "历史事件",
+      "跨世纪"
+    ],
+    "designer": "张磊",
+    "totalStamps": 8,
+    "extras": [],
+    "description": "《世纪交替 千年更始-20世纪回顾》以跨世纪为背景，回望辛亥革命、五四运动、中共诞生、抗战胜利、开国大典、两弹一星、改革开放和港澳回归八个历史节点。邮票用连续叙事概括 20 世纪中国社会转折与国家发展。",
+    "needsReview": false,
+    "localImageFolder": "1999-20 《世纪交替 千年更始–20世纪回顾》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "辛亥革命",
+        "denomination": "60分",
+        "image": "/images/stamps/1999/1999-20-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "五四运动",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-20-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "中共诞生",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-20-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "抗战胜利",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-20-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "开国大典",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-20-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "两弹一星",
+        "denomination": "80分",
+        "image": "/images/stamps/1999/1999-20-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "改革开放",
+        "denomination": "200分",
+        "image": "/images/stamps/1999/1999-20-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "港澳回归",
+        "denomination": "260分",
+        "image": "/images/stamps/1999/1999-20-8.jpg"
+      }
+    ],
+    "quantity": "各枚3249.35万枚"
+  }
+]

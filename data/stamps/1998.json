@@ -1,0 +1,1330 @@
+[
+  {
+    "id": "1998-1",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "戊寅年",
+    "issueDate": "1998-01-05",
+    "year": 1998,
+    "themes": [
+      "生肖",
+      "生肖虎"
+    ],
+    "designer": "王虎鸣、马刚",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1998 年为农历戊寅虎年，这套邮票是第二轮生肖邮票第七组。第一枚以民间布老虎入画，借夸张造型表现虎虎生威的年节气氛；第二枚以草书“虎”字作主体，强调书法笔势中的腾跃力量，延续第二轮生肖票图文并重的设计特征。",
+    "quantity": "虎虎生威9347.3万枚，气贯长虹8082.1万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-1 《戊寅年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "虎虎生威",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-1-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "气贯长虹",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-1-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-2",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "岭南庭园",
+    "issueDate": "1998-01-18",
+    "year": 1998,
+    "themes": [
+      "建筑",
+      "园林"
+    ],
+    "designer": "郭承辉、阎炳武",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "岭南庭园是中国园林的重要流派，重视通透布局、水石花木和厅堂院落的生活气息。邮票选取**广东东莞**可园、**广东佛山**梁园、**广东顺德**清晖园和**广州番禺**余荫山房，呈现岭南私家园林在空间组织和地方审美上的代表面貌。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-2 《岭南庭园》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "可园",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-2-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "梁园",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-2-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "清晖园",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-2-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "余荫山房",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-2-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-3",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "邓小平同志逝世一周年",
+    "issueDate": "1998-02-19",
+    "year": 1998,
+    "themes": [
+      "共产党人",
+      "邓小平",
+      "领袖"
+    ],
+    "designer": "邹建军",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "**邓小平**（1904-1997）是中国改革开放和现代化建设的重要领导人。此套邮票以肖像和历史照片为线索，展现他在解放战争、中央军委工作、国庆庆典和 1992 年南方谈话等不同时期的形象，纪念其逝世一周年。",
+    "quantity": "各枚3641.75万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-3 《邓小平同志逝世一周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "邓小平同志像",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-3-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "解放战争时期的邓小平",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-3-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "和毛泽东同志在一起",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-3-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "中央军委主席邓小平",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-3-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "在建国三十五周年庆典上讲话",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-3-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "1992年视察南方发表重要谈话",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-3-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-4",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国人民警察",
+    "issueDate": "1998-02-28",
+    "year": 1998,
+    "themes": [
+      "历史事件",
+      "公安"
+    ],
+    "designer": "阎炳武、罗洪",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "中国人民警察承担维护社会治安、服务群众和保障公共安全等职责。邮票以盾牌、快速出击、警民联防、交通管理、防火灭火和国门卫士六个画面，概括公安警察在城市治理、消防安全、边防口岸和群众生活中的多重工作场景。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-4 《中国人民警察》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "金色盾牌",
+        "denomination": "20分",
+        "image": "/images/stamps/1998/1998-4-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "快速出击",
+        "denomination": "30分",
+        "image": "/images/stamps/1998/1998-4-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "警民联防",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-4-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "交通管理",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-4-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "防火灭火",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-4-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "国门卫士",
+        "denomination": "200分",
+        "image": "/images/stamps/1998/1998-4-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-5",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "周恩来同志诞生一百周年",
+    "issueDate": "1998-03-05",
+    "year": 1998,
+    "themes": [
+      "共产党人",
+      "领袖"
+    ],
+    "designer": "邹建军、魏楚孥",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**周恩来**（1898-1976）是中华人民共和国开国总理，也是新中国外交事业的重要奠基者。邮票以军事家、开国总理、外交家和人民公仆四个侧面组织画面，突出他在革命、建国、外交和为民服务中的代表性形象。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-5 《周恩来同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "军事家",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-5-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "开国总理",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-5-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "外交家",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-5-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "人民公仆",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-5-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-6",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "九寨沟",
+    "issueDate": "1998-03-26",
+    "year": 1998,
+    "themes": [
+      "山水风光",
+      "世界自然遗产"
+    ],
+    "designer": "许彦博",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "九寨沟位于**四川阿坝**，以高山湖泊、瀑布群、彩林和雪峰闻名，是世界自然遗产。邮票表现芳草海、五花海、树正瀑布和诺日朗瀑布，小型张取景长海，集中呈现九寨沟水色层次和山地景观的清澈灵动。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-6 《九寨沟》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "芳草海",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-6-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "五花海",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-6-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "树正瀑布",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-6-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "诺日朗瀑布",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-6-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "长海",
+        "denomination": "800分",
+        "image": "/images/stamps/1998/1998-6-5.jpg",
+        "format": "小型张"
+      }
+    ]
+  },
+  {
+    "id": "1998-7",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中华人民共和国第九届全国人民代表大会",
+    "issueDate": "1998-03-05",
+    "year": 1998,
+    "themes": [
+      "历史事件",
+      "人大"
+    ],
+    "designer": "张磊",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "第九届全国人民代表大会第一次会议于 1998 年在**北京**召开，是国家政治生活中的重要会议。邮票以人民大会堂和大会主题为核心，记录全国人大制度在国家治理中的代表性场景，突出庄重、集中和依法履职的纪念属性。",
+    "quantity": "中华人民共和国第九届全国人民代表大会4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-7 《中华人民共和国第九届全国人民代表大会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中华人民共和国第九届全国人民代表大会",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-7-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-8",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "傣族建筑",
+    "issueDate": "1998-04-12",
+    "year": 1998,
+    "themes": [
+      "建筑",
+      "民族建筑"
+    ],
+    "designer": "朱锷",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "傣族建筑多见于**云南西双版纳**等地，受气候、宗教和民族生活方式影响，形成竹楼、水井、亭、塔等富有地方特色的形态。邮票以楼、井、亭、塔四类建筑为题，展现傣族聚落空间和南方民族建筑的轻盈装饰感。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-8 《傣族建筑》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "楼",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-8-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "井",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-8-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "亭",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-8-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "塔",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-8-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-9",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "海南特区建设",
+    "issueDate": "1998-04-13",
+    "year": 1998,
+    "themes": [
+      "历史事件",
+      "区域发展"
+    ],
+    "designer": "邹建军",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1998 年是**海南**建省办经济特区十周年。邮票选取**海口**城市建设、洋浦经济开发区、**三亚**凤凰国际机场和亚龙湾国家旅游度假区，呈现海南在城市建设、港口开发、交通枢纽和旅游开放方面的发展面貌。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-9 《海南特区建设》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "海口城市建设",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-9-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "洋浦经济开发区",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-9-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "三亚凤凰国际机场",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-9-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "亚龙湾国家旅游度假区",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-9-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-10",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "古代书院",
+    "issueDate": "1998-04-29",
+    "year": 1998,
+    "themes": [
+      "文物古迹",
+      "书院"
+    ],
+    "designer": "李庆发、姜伟杰",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "中国古代书院兼具讲学、藏书、祭祀和学术交流功能，是传统教育的重要空间。邮票选取应天书院、嵩阳书院、岳麓书院和白鹿书院四处代表性书院，分别关联**河南商丘**、**河南登封**、**湖南长沙**和**江西庐山**的文化地理。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-10 《古代书院》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "应天书院",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-10-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "嵩阳书院",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-10-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "岳麓书院",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-10-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "白鹿书院",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-10-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-11",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "北京大学建校一百年",
+    "issueDate": "1998-05-04",
+    "year": 1998,
+    "themes": [
+      "周年纪念",
+      "大学建校"
+    ],
+    "designer": "余璐",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**北京大学**前身为 1898 年创办的京师大学堂，是中国近代高等教育的重要起点。邮票纪念北京大学建校一百年，以校庆主题凝聚新文化运动、现代学术传统和百年教育薪火，体现大学与近现代中国思想文化发展的联系。",
+    "quantity": "北京大学建校一百年4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-11 《北京大学建校一百年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "北京大学建校一百年",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-11-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-12",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "第22届万国邮政联盟大会会徽",
+    "issueDate": "1998-05-15",
+    "year": 1998,
+    "themes": [
+      "历史事件",
+      "邮政"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "第 22 届万国邮政联盟大会于 1999 年在**北京**举行，是国际邮政合作的重要会议。邮票以大会会徽为主体，记录中国承办这一全球性邮政会议的节点，也体现邮政在跨国通信、标准协作和文化交流中的桥梁作用。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-12 《第22届万国邮政联盟大会会徽》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "会徽",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-12-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "会徽",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-12-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-13",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "神农架",
+    "issueDate": "1998-06-06",
+    "year": 1998,
+    "themes": [
+      "山水风光",
+      "山"
+    ],
+    "designer": "许彦博",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "神农架位于**湖北西部**，以原始森林、峡谷地貌和丰富生物多样性著称。邮票以山峰、峡谷、原始森林和高原草甸四个画面展开，表现神农架从地貌到植被的层次，也呈现中国中部山地自然景观的神秘气质。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-13 《神农架》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "山峰",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-13-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "峡谷",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-13-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "原始森林",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-13-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "高原草甸",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-13-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-14",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "重庆风貌",
+    "issueDate": "1998-06-18",
+    "year": 1998,
+    "themes": [
+      "建筑",
+      "城市风光"
+    ],
+    "designer": "杨军",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**重庆**于 1997 年成为直辖市，城市发展进入新的阶段。邮票以重庆市人民大礼堂和重庆港为画面主体，一个体现城市公共建筑形象，一个指向长江上游航运枢纽，记录山城在直辖初期的城市风貌和交通地位。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-14 《重庆风貌》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "重庆市人民大礼堂",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-14-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "重庆港",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-14-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-15",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "何香凝国画作品",
+    "issueDate": "1998-06-27",
+    "year": 1998,
+    "themes": [
+      "绘画艺术",
+      "现代画"
+    ],
+    "designer": "王虎鸣、阎炳武",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "**何香凝**（1878-1972）是中国近现代女画家和社会活动家，擅长以花鸟动物寄寓气节与情怀。此套邮票选取虎、狮、梅三件国画作品，借猛兽与梅花意象表现其笔墨中的刚健精神和现代中国画的时代气息。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-15 《何香凝国画作品》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "虎",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-15-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "狮",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-15-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "梅",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-15-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-16",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "锡林郭勒草原",
+    "issueDate": "1998-07-09",
+    "year": 1998,
+    "themes": [
+      "山水风光",
+      "草原"
+    ],
+    "designer": "许彦博",
+    "totalStamps": 3,
+    "extras": [
+      "小型张"
+    ],
+    "description": "锡林郭勒草原位于**内蒙古中部**，是中国重要的天然草原区。邮票表现典型草原、草甸草原和杨桦混交林三类景观，小型张以锡林郭勒河曲展开辽阔视野，呈现草原水系、植被和游牧文化环境的整体风貌。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-16 《锡林郭勒草原》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "典型草原",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-16-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "草甸草原",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-16-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "杨桦混交林",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-16-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "锡林郭勒河曲",
+        "denomination": "800分",
+        "image": "/images/stamps/1998/1998-16-4.jpg",
+        "format": "小型张"
+      }
+    ]
+  },
+  {
+    "id": "1998-17",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "镜泊湖",
+    "issueDate": "1998-07-16",
+    "year": 1998,
+    "themes": [
+      "山水风光",
+      "湖泊"
+    ],
+    "designer": "邹建军",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "镜泊湖位于**黑龙江牡丹江**，由火山熔岩阻塞河道形成，湖区兼具湖泊、山岛和瀑布景观。邮票选取白石砬子、珍珠门、小孤山和吊水楼瀑布四处景点，表现镜泊湖清峻开阔的火山堰塞湖风光。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-17 《镜泊湖》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "白石砬子",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-17-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "珍珠门",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-17-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "小孤山",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-17-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "吊水楼瀑布",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-17-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-18",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国古典文学名著《三国演义》（第五组）",
+    "issueDate": "1998-08-15",
+    "year": 1998,
+    "themes": [
+      "文学名著",
+      "三国演义"
+    ],
+    "designer": "戴宏海",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "《三国演义》第五组是该系列邮票的收束篇，选取白帝托孤、孔明班师、秋风五丈原和三分归晋四个后期情节，表现蜀汉兴衰与三国归一的叙事走向。小型张为空城计，使系列在人物智谋与历史转折之间形成完整回环。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-18 《中国古典文学名著《三国演义》（第五组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "白帝托孤",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-18-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "孔明班师",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-18-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "秋风五丈原",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-18-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "三分归晋",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-18-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "空城计",
+        "denomination": "800分",
+        "image": "/images/stamps/1998/1998-18-5.jpg",
+        "format": "小型张"
+      }
+    ]
+  },
+  {
+    "id": "1998-19",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "承德普宁寺和维尔茨堡宫",
+    "issueDate": "1998-08-20",
+    "year": 1998,
+    "themes": [
+      "文物古迹",
+      "世界文化遗产"
+    ],
+    "designer": "肖玉田",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "这套邮票由中国与德国联合发行，选取**德国维尔茨堡**的维尔茨堡宫和**河北承德**普宁寺。两处建筑均与世界文化遗产相关，前者体现欧洲巴洛克宫殿艺术，后者融合汉藏建筑传统，形成东西方宗教与宫廷建筑的对照。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-19 《承德普宁寺和维尔茨堡宫》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "维尔茨堡宫",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-19-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "承德·普宁寺",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-19-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-20",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "故宫和卢浮宫",
+    "issueDate": "1998-09-12",
+    "year": 1998,
+    "themes": [
+      "文物古迹",
+      "世界文化遗产"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "这套邮票由中国与法国联合发行，选取**巴黎**卢浮宫和**北京**故宫太和殿。卢浮宫代表欧洲博物馆和王宫建筑传统，太和殿是明清宫殿建筑的核心空间，两枚并置呈现中法文化遗产在建筑尺度与文明记忆上的对话。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-20 《故宫和卢浮宫》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "卢浮宫",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-20-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "故宫·太和殿",
+        "denomination": "200分",
+        "image": "/images/stamps/1998/1998-20-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-21",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "贺兰山岩画",
+    "issueDate": "1998-09-23",
+    "year": 1998,
+    "themes": [
+      "文物古迹",
+      "岩画"
+    ],
+    "designer": "阎炳武",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "贺兰山岩画分布于**宁夏贺兰山**一带，是古代北方民族留下的石刻图像遗存。邮票选取人面、涉猎和公牛三个主题，呈现先民对信仰、狩猎和动物世界的记录，是研究史前艺术与草原文化的重要视觉材料。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-21 《贺兰山岩画》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "人面",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-21-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "涉猎",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-21-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "公牛",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-21-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-22",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国陶瓷–龙泉窖瓷器",
+    "issueDate": "1998-10-13",
+    "year": 1998,
+    "themes": [
+      "文物古迹",
+      "陶瓷"
+    ],
+    "designer": "任国恩",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "龙泉窑以青瓷闻名，核心产地在**浙江龙泉**，其釉色温润、造型典雅，是中国陶瓷史上的重要窑系。邮票选取北宋五管瓶、南宋凤耳瓶、元葫芦瓶和明刻花三果执壶，串联龙泉窑在宋元明时期的发展脉络。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-22 《中国陶瓷–龙泉窑瓷器》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "北宋·五管瓶",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-22-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "南宋·凤耳瓶",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-22-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "元·葫芦瓶",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-22-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "明·刻花三果执壶",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-22-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-23",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "炎帝陵",
+    "issueDate": "1998-10-28",
+    "year": 1998,
+    "themes": [
+      "文物古迹",
+      "陵墓"
+    ],
+    "designer": "李大玮",
+    "totalStamps": 3,
+    "extras": [
+      "小全张"
+    ],
+    "description": "炎帝陵位于**湖南株洲炎陵县**，是祭祀中华民族始祖炎帝神农氏的重要陵庙建筑群。邮票表现午门、行礼亭和陵墓三处空间，小全张将三枚邮票集中呈现，强化寻根祭祖和中华文明源流的纪念意味。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-23 《炎帝陵》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "午门",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-23-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "行礼亭",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-23-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "陵墓",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-23-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "炎帝陵",
+        "denomination": "50分+100分+150分",
+        "image": "/images/stamps/1998/1998-23-4.jpg",
+        "format": "小全张"
+      }
+    ]
+  },
+  {
+    "id": "1998-24",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "解放军三大战役纪念",
+    "issueDate": "1998-11-14",
+    "year": 1998,
+    "themes": [
+      "解放军",
+      "解放战争"
+    ],
+    "designer": "陈玉先、季乃仓、许向群、李明",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "辽沈、淮海、平津三大战役是解放战争后期具有决定意义的战略决战。邮票以运筹帷幄、攻克锦州、决战淮海、解放北平和支援前线五个画面，展现军事指挥、城市攻坚、人民支前和全国解放进程中的关键节点。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-24 《解放军三大战役纪念》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "运筹帷幄",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-24-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "攻克锦州",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-24-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "决战淮海",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-24-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "解放北平",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-24-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "支援前线",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-24-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-25",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "刘少奇同志诞生一百周年",
+    "issueDate": "1998-11-24",
+    "year": 1998,
+    "themes": [
+      "共产党人",
+      "领袖"
+    ],
+    "designer": "邓锡忠",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**刘少奇**（1898-1969）是党和国家重要领导人。此套邮票纪念其诞生一百周年，以天安门城楼、中共七大、中国人民的使者和办公室工作等场景，呈现他在革命、建国、外交和治国理政中的不同侧面。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-25 《刘少奇同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "在天安门城楼上",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-25-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "在中共七大会议上",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-25-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "中国人民的使者",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-25-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "在办公室工作",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-25-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-26",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "瘦西湖和莱芒湖",
+    "issueDate": "1998-11-25",
+    "year": 1998,
+    "themes": [
+      "山水风光",
+      "湖泊"
+    ],
+    "designer": "邹建军",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "这套邮票由中国与瑞士联合发行，选取**瑞士莱芒湖**畔的汐雍城堡和**江苏扬州**瘦西湖二十四桥。两枚以湖光水景和历史建筑相互映照，既呈现中欧园林与湖滨景观的差异，也体现联合发行中的文化互赏。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-26 《瘦西湖和莱芒湖》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "莱芒湖·汐雍城堡",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-26-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "瘦西湖·二十四桥",
+        "denomination": "110分",
+        "image": "/images/stamps/1998/1998-26-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-27",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "灵渠",
+    "issueDate": "1998-12-01",
+    "year": 1998,
+    "themes": [
+      "文物古迹",
+      "水利"
+    ],
+    "designer": "刘绍荟",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "灵渠位于**广西兴安**，始建于秦代，是沟通湘江与漓江水系的古代水利工程。邮票表现铧嘴及天平、秦堤和陡门等关键设施，展现灵渠分水、通航和调控水流的工程智慧，是中国古代水利史的重要遗存。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-27 《灵渠》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "铧嘴及天平",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-27-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "秦堤",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-27-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "陡门",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-27-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-28",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "澳门建筑",
+    "issueDate": "1998-12-12",
+    "year": 1998,
+    "themes": [
+      "建筑",
+      "澳门"
+    ],
+    "designer": "李庆发、姜伟杰",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**澳门**建筑融合中西城市景观，是回归前夕重要的地域文化符号。邮票选取南湾楼群、友谊大桥、澳门运动场和澳门国际机场，既有城市天际线与交通设施，也有公共空间，呈现澳门现代化建设和滨海城市特色。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-28 《澳门建筑》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "澳门南湾楼群",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-28-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "澳门友谊大桥",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-28-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "澳门运动场",
+        "denomination": "100分",
+        "image": "/images/stamps/1998/1998-28-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "澳门国际机场",
+        "denomination": "150分",
+        "image": "/images/stamps/1998/1998-28-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-29",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "海底世界·珊瑚礁观赏鱼",
+    "issueDate": "1998-12-01",
+    "year": 1998,
+    "themes": [
+      "动物",
+      "海洋生物"
+    ],
+    "designer": "曾孝濂",
+    "totalStamps": 8,
+    "extras": [
+      "小全张"
+    ],
+    "description": "珊瑚礁观赏鱼生活在热带海域珊瑚礁生态系统中，色彩鲜明、形态多样。邮票选取主刺盖鱼、蓝斑鳃棘鲈、蓝斑蝴蝶鱼、桔尾蝴蝶鱼等八种鱼类，小全张以过桥票形式连缀画面，呈现海底生物世界的丰富色彩。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-29 《海底世界·珊瑚礁观赏鱼》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "主刺盖鱼",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-29-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "蓝斑鳃棘鲈",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-29-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "蓝斑蝴蝶鱼",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-29-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "桔尾蝴蝶鱼",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-29-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "马夫鱼",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-29-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "千年笛鲷",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-29-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "圆斑拟鳞鲀",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-29-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "甲尻鱼",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-29-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "海底世界·珊瑚礁观赏鱼",
+        "denomination": "50分×8",
+        "image": "/images/stamps/1998/1998-29-9.jpg",
+        "format": "小全张"
+      }
+    ]
+  },
+  {
+    "id": "1998-30",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国共产党十一届三中全会二十周年",
+    "issueDate": "1998-12-18",
+    "year": 1998,
+    "themes": [
+      "历史事件",
+      "党史",
+      "改革开放"
+    ],
+    "designer": "苏海建",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1978 年 12 月召开的中国共产党十一届三中全会开启改革开放和社会主义现代化建设新时期。邮票以**邓小平**（1904-1997）在会议上的形象和“历史上的伟大转折”为主题，纪念这一影响当代中国发展道路的重要节点。",
+    "quantity": "各枚4149.9万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-30 《中国共产党十一届三中全会二十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "邓小平同志在十一届三中全会上",
+        "denomination": "50分",
+        "image": "/images/stamps/1998/1998-30-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "历史上的伟大转折",
+        "denomination": "80分",
+        "image": "/images/stamps/1998/1998-30-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1998-31",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "抗洪赈灾",
+    "issueDate": "1998-09-10",
+    "year": 1998,
+    "themes": [
+      "历史事件",
+      "抗灾"
+    ],
+    "designer": "李建国、袁学渊",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1998 年夏，中国多地遭遇严重洪涝灾害，抗洪抢险成为当年重要公共记忆。此票为附捐邮票，面值中含赈灾捐款，画面以抗洪救援为主题，记录军民协力抗灾、抢护堤防和支援灾区的社会动员场景。",
+    "quantity": "抗洪赈灾3000万枚",
+    "needsReview": false,
+    "localImageFolder": "1998-31 《抗洪赈灾》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "抗洪赈灾",
+        "denomination": "50分+30分",
+        "image": "/images/stamps/1998/1998-31-1.jpg"
+      }
+    ]
+  }
+]
