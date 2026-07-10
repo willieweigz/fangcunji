@@ -1,0 +1,749 @@
+[
+  {
+    "id": "T107",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "丙寅年",
+    "issueDate": "1986-01-05",
+    "year": 1986,
+    "themes": [
+      "生肖",
+      "生肖虎"
+    ],
+    "designer": "张国藩",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "“丙寅年”是第一轮生肖邮票中的第七套，对应农历虎年。图案以蓝紫色为底，突出眼、“王”字、股、尾等亮色部位，把民间剪纸式的质朴轮廓与装饰艺术色彩结合起来。虎的形象雄健威武，线条粗犷有力，延续了生肖邮票借动物形象寄寓新年气象的传统。",
+    "quantity": "虎12663.26万枚",
+    "needsReview": true,
+    "localImageFolder": "T107 《丙寅年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "虎",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/T107-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T108",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "航天",
+    "issueDate": "1986-02-01",
+    "year": 1986,
+    "themes": [
+      "科技",
+      "航天"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "《航天》是中国第一套集中反映航天事业发展的邮票，展现从“东方红一号”卫星到同步通信卫星的技术跨越。六枚分别表现人造卫星、返回式卫星、潜射火箭、静止轨道飞行、地面接收站和通信卫星，构成一条从发射、测控到应用的航天发展线索，也记录了中国航天在20世纪后半叶的关键成就。",
+    "quantity": "乐声环宇——东方红一号卫星2183.96万枚，天外归来——回收卫星2413.96万枚，雷霆海天——潜射火箭2656.26万枚，腾飞万里——飞向静止轨道1713.46万枚，天地同音——地面接收站1753.76万枚，玉宇明灯——同步通信卫星1155.46万枚",
+    "needsReview": true,
+    "localImageFolder": "T108 《航天》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "乐声环宇——东方红一号卫星",
+        "denomination": "4分",
+        "image": "/images/stamps/1986/T108-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "天外归来——回收卫星",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/T108-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "雷霆海天——潜射火箭",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/T108-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "腾飞万里——飞向静止轨道",
+        "denomination": "10分",
+        "image": "/images/stamps/1986/T108-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "天地同音——地面接收站",
+        "denomination": "20分",
+        "image": "/images/stamps/1986/T108-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "玉宇明灯——同步通信卫星",
+        "denomination": "70分",
+        "image": "/images/stamps/1986/T108-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J123",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "董必武同志诞生一百周年",
+    "issueDate": "1986-03-05",
+    "year": 1986,
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "designer": "李庆发",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**董必武**（1886-1975）是中国共产党的创始人之一，早年参加辛亥革命，1921年出席中国共产党第一次全国代表大会，后参加长征并长期从事党和国家领导工作。两枚邮票分别表现董必武肖像，以及1945年作为中国代表团成员在**旧金山**参加联合国制宪会议的历史场景，突出其革命经历与国际政治活动。",
+    "quantity": "董必武同志像1221万枚，董必武同志1945年在旧金山参加联合国制宪会议1217.25万枚",
+    "needsReview": true,
+    "localImageFolder": "J123 《董必武同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "董必武同志像",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/J123-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "董必武同志1945年在旧金山参加联合国制宪会议",
+        "denomination": "20分",
+        "image": "/images/stamps/1986/J123-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J124",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "林伯渠同志诞生一百周年",
+    "issueDate": "1986-03-20",
+    "year": 1986,
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "designer": "李大玮",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**林伯渠**（1886-1960）是中国共产党早期党员之一，曾参加辛亥革命和二万五千里长征，抗日战争时期任陕甘宁边区政府主席，新中国成立后任中央人民政府秘书长、全国人大常委会副委员长等职。邮票以肖像和延安时期形象入画，第二枚背景为**延安**宝塔山，强调其在陕甘宁边区建设中的历史贡献。",
+    "quantity": "林伯渠同志像1512.5万枚，林伯渠同志在延安1187.25万枚",
+    "needsReview": true,
+    "localImageFolder": "J124 《林伯渠同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "林伯渠同志像",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/J124-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "林伯渠同志在延安",
+        "denomination": "20分",
+        "image": "/images/stamps/1986/J124-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J126",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "贺龙同志诞生九十周年",
+    "issueDate": "1986-03-22",
+    "year": 1986,
+    "themes": [
+      "解放军",
+      "十大元帅"
+    ],
+    "designer": "杨力舟、王迎春",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**贺龙**（1896-1969）是中国人民解放军的创建者之一，1927年参加领导南昌起义，抗日战争时期任八路军一二〇师师长，1955年被授予元帅军衔。邮票一枚为贺龙身着元帅礼服的肖像，一枚表现红军时代战场上的形象，以影雕套印呈现人物的刚毅气质和军事生涯。",
+    "quantity": "贺龙元帅像1319万枚，战场上的贺龙同志1320.5万枚",
+    "needsReview": true,
+    "localImageFolder": "J126 《贺龙同志诞生九十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "贺龙元帅像",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/J126-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "战场上的贺龙同志",
+        "denomination": "20分",
+        "image": "/images/stamps/1986/J126-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "普23",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "民居",
+    "issueDate": "1986-04-01",
+    "year": 1986,
+    "themes": [
+      "普票",
+      "民居"
+    ],
+    "designer": "陈汉民、励忠发、华健心、何洁",
+    "totalStamps": 14,
+    "extras": [],
+    "description": "《民居》普通邮票自1986年起陆续发行，以中国各地代表性传统民居为图案。普23是其中枚数最多的一组，从**内蒙古**蒙古包、**西藏**碉房、**北京**四合院，到**云南**“一颗印”、**福建**土楼、**浙江**水乡民居，呈现地域、气候和民族生活方式对建筑形态的塑造。它们既是长期流通的邮资凭证，也是一组中国民居建筑艺术的微缩图册。",
+    "quantity": "普通邮票为长期多次印刷，官方未公布单枚发行量",
+    "needsReview": true,
+    "localImageFolder": "普23 《民居》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "内蒙古民居",
+        "denomination": "1分",
+        "image": "/images/stamps/1986/普23-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "西藏民居",
+        "denomination": "1.5分",
+        "image": "/images/stamps/1986/普23-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "东北民居",
+        "denomination": "2分",
+        "image": "/images/stamps/1986/普23-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "湖南民居",
+        "denomination": "3分",
+        "image": "/images/stamps/1986/普23-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "江苏民居",
+        "denomination": "4分",
+        "image": "/images/stamps/1986/普23-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "北京民居",
+        "denomination": "5分",
+        "image": "/images/stamps/1986/普23-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "云南民居",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/普23-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "上海民居",
+        "denomination": "10分",
+        "image": "/images/stamps/1986/普23-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "安徽民居",
+        "denomination": "20分",
+        "image": "/images/stamps/1986/普23-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "陕北民居",
+        "denomination": "40分",
+        "image": "/images/stamps/1986/普23-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "四川民居",
+        "denomination": "50分",
+        "image": "/images/stamps/1986/普23-11.jpg"
+      },
+      {
+        "sn": 12,
+        "name": "台湾民居",
+        "denomination": "90分",
+        "image": "/images/stamps/1986/普23-12.jpg"
+      },
+      {
+        "sn": 13,
+        "name": "福建民居",
+        "denomination": "1元",
+        "image": "/images/stamps/1986/普23-13.jpg"
+      },
+      {
+        "sn": 14,
+        "name": "浙江民居",
+        "denomination": "1.10元",
+        "image": "/images/stamps/1986/普23-14.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T109",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "哈雷彗星回归",
+    "issueDate": "1986-04-11",
+    "year": 1986,
+    "themes": [
+      "科技",
+      "天文",
+      "哈雷彗星"
+    ],
+    "designer": "袁加",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1985至1986年，哈雷彗星完成一次约76年周期的回归，引发全球天文观测热潮。邮票以拖着长尾的彗星和弧形地球为主体，并借用战国《天文气象杂占》帛书中的彗星图像，连接古代天象记录与现代天文学。**哈雷**（1656-1742）首次计算出这颗彗星的轨道周期，彗星也因此得名。",
+    "quantity": "哈雷彗星回归2811.9万枚",
+    "needsReview": true,
+    "localImageFolder": "T109 《哈雷彗星回归》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "哈雷彗星回归",
+        "denomination": "20分",
+        "image": "/images/stamps/1986/T109-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T110",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "白鹤",
+    "issueDate": "1986-05-22",
+    "year": 1986,
+    "themes": [
+      "动物",
+      "鸟类",
+      "白鹤"
+    ],
+    "designer": "黄永玉",
+    "totalStamps": 3,
+    "extras": [
+      "小型张"
+    ],
+    "description": "白鹤是大型涉禽，全身羽毛洁白，栖息于沼泽、浅滩和草甸地带，是中国珍贵鸟类和国际一级稀有濒危动物。邮票以中国画大写意技法表现三种姿态：交颈、信步、翱翔，线条奔放洒脱，气息典雅。小型张展现白鹤展翅飞翔的场景，把鸟类保护主题与传统绘画笔墨结合起来。",
+    "quantity": "白鹤（8分）1451.90万枚，白鹤（10分）1824.65万枚，白鹤（70分）1232.62万枚，小型张508.82万枚",
+    "needsReview": true,
+    "localImageFolder": "T110 《白鹤》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "白鹤",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/T110-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "白鹤",
+        "denomination": "10分",
+        "image": "/images/stamps/1986/T110-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "白鹤",
+        "denomination": "70分",
+        "image": "/images/stamps/1986/T110-3.jpg"
+      },
+      {
+        "sn": 4,
+        "format": "小型张",
+        "name": "白鹤",
+        "denomination": "2元",
+        "image": "/images/stamps/1986/T110-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J127",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "李维汉同志诞生九十周年",
+    "issueDate": "1986-06-02",
+    "year": 1986,
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "designer": "陈文骥",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**李维汉**（1896-1984）是中国共产党早期重要领导人之一，曾参与旅欧少年共产党组织，后长期从事统一战线工作，新中国成立后任中央统战部部长等职。邮票一枚表现其肖像，一枚表现工作场景，设计上运用西洋素描画法中的高光处理，使人物面部层次更加鲜明，呈现沉稳而专注的精神状态。",
+    "quantity": "李维汉同志肖像1229.15万枚，李维汉同志在工作1215.4万枚",
+    "needsReview": true,
+    "localImageFolder": "J127 《李维汉同志诞生九十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "李维汉同志肖像",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/J127-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "李维汉同志在工作",
+        "denomination": "20分",
+        "image": "/images/stamps/1986/J127-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J128",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "国际和平年",
+    "issueDate": "1986-06-16",
+    "year": 1986,
+    "themes": [
+      "历史事件",
+      "和平"
+    ],
+    "designer": "杨志麟",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1982年，第37届联合国大会通过决议，确定1986年为“国际和平年”，主题是“捍卫和平和保障人类的未来”。邮票以和平鸽为主体，呼应全球各国和非政府组织围绕和平议题展开的纪念活动，也表达中国人民维护世界和平的愿望。",
+    "quantity": "国际和平年5111.8516万枚",
+    "needsReview": true,
+    "localImageFolder": "J128 《国际和平年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "国际和平年",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/J128-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J129",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "茅盾同志诞生九十周年",
+    "issueDate": "1986-07-04",
+    "year": 1986,
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代文学家"
+    ],
+    "designer": "吴长江",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**茅盾**（1896-1981）原名沈德鸿，字雁冰，是中国现代文学的重要作家，代表作包括长篇小说《子夜》以及《蚀》三部曲等。邮票一枚为肖像，一枚把人物与《子夜》手稿结合，突出其文学创作成就。画面面部用笔较重、衣着线条简练，使人物性格和作家气质更为鲜明。",
+    "quantity": "茅盾肖像1438.65万枚，茅盾与《子夜》手稿1488.65万枚",
+    "needsReview": true,
+    "localImageFolder": "J129 《茅盾同志诞生九十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "茅盾肖像",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/J129-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "茅盾与《子夜》手稿",
+        "denomination": "20分",
+        "image": "/images/stamps/1986/J129-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J130",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "王稼祥诞生八十五周年",
+    "issueDate": "1986-08-15",
+    "year": 1986,
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "designer": "孙为民",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**王稼祥**（1906-1974）是中国共产党重要领导人之一，曾参加长征，并在遵义会议上支持毛泽东的正确主张，对确立党和红军新的领导核心具有重要作用。新中国成立后，他曾任中国首任驻苏联大使、中共中央对外联络部部长等职。第二枚邮票再现其在**延安**窑洞外身着八路军制服、手持烟斗的形象。",
+    "quantity": "王稼祥同志像1418.4万枚，王稼祥同志在延安1347.15万枚",
+    "needsReview": true,
+    "localImageFolder": "J130 《王稼祥诞生八十五周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "王稼祥同志像",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/J130-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "王稼祥同志在延安",
+        "denomination": "20分",
+        "image": "/images/stamps/1986/J130-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J131",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "教师节",
+    "issueDate": "1986-09-10",
+    "year": 1986,
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "designer": "张磊",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1985年，第六届全国人大常委会第九次会议决定将每年9月10日定为教师节。邮票画面由黑板、鲜花、讲台构成，直接指向教师工作的日常场景；鲜花象征学生和社会对教师的敬意。整体构图简洁朴实，突出尊师重教这一现代节日的设立意义。",
+    "quantity": "教师节5990.69万枚",
+    "needsReview": true,
+    "localImageFolder": "J131 《教师节》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "教师节",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/J131-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T111",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "珍稀濒危木兰科植物",
+    "issueDate": "1986-09-23",
+    "year": 1986,
+    "themes": [
+      "植物花卉",
+      "树木",
+      "木兰科"
+    ],
+    "designer": "赵秀焕",
+    "totalStamps": 3,
+    "extras": [
+      "小型张"
+    ],
+    "description": "木兰科植物是古老的被子植物，被誉为“植物活化石”，中国也是木兰科植物种类丰富的国家。邮票以工笔重彩表现圆叶玉兰、巴东木莲和长蕊木兰，借色彩浓淡与烘染层次增强花叶的立体感。小型张中**大果木莲**与**华盖木**并置，既展现植物之美，也提示珍稀濒危植物保护的现实意义。",
+    "quantity": "圆叶玉兰1237.15万枚，巴东木莲1200.65万枚，长蕊木兰774.15万枚，小型张420.28万枚",
+    "needsReview": true,
+    "localImageFolder": "T111 《珍稀濒危木兰科植物》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "圆叶玉兰",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/T111-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "巴东木莲",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/T111-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "长蕊木兰",
+        "denomination": "70分",
+        "image": "/images/stamps/1986/T111-3.jpg"
+      },
+      {
+        "sn": 4,
+        "format": "小型张",
+        "name": "大果木莲与华盖木",
+        "denomination": "2元",
+        "image": "/images/stamps/1986/T111-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J132",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "辛亥革命著名领导人",
+    "issueDate": "1986-10-10",
+    "year": 1986,
+    "themes": [
+      "人物",
+      "辛亥革命"
+    ],
+    "designer": "田黎明",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "1986年是辛亥革命75周年。邮票选取三位著名领导人：**孙中山**（1866-1925）是中国近代民主革命先行者；**黄兴**（1874-1916）长期参与武装起义，被视为革命军事骨干；**章太炎**（1869-1936）以学术和舆论推动革命。三枚背景分别融入总统府与五色旗、武昌起义旗帜、《民报》图案，使人物形象与革命史场景相互呼应。",
+    "quantity": "孙中山1224.65万枚，黄兴841.65万枚，章太炎801.65万枚",
+    "needsReview": true,
+    "localImageFolder": "J132 《辛亥革命著名领导人》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "孙中山",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/J132-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "黄兴",
+        "denomination": "10分",
+        "image": "/images/stamps/1986/J132-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "章太炎",
+        "denomination": "40分",
+        "image": "/images/stamps/1986/J132-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J135",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中华全国集邮联合会第二次代表大会",
+    "issueDate": "1986-10-17",
+    "year": 1986,
+    "themes": [
+      "文化",
+      "集邮",
+      "中华全国集邮联合会"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 0,
+    "extras": [
+      "小型张"
+    ],
+    "description": "中华全国集邮联合会第二次代表大会于1986年10月17日至21日在**北京**举行。小型张主图采用**故宫博物院**收藏的战国邮驿凭证虎节，并以封泥印作装饰。虎节铭有“王命传凭”，与调兵虎符一样中分为二，合验后才有效，借古代邮驿制度提示中国通信传统的悠久历史。",
+    "quantity": "王命传虎节388.433万枚",
+    "needsReview": true,
+    "localImageFolder": "J135 《中华全国集邮联合会第二次代表大会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "format": "小型张",
+        "name": "王命传虎节",
+        "denomination": "2元",
+        "image": "/images/stamps/1986/J135-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J133",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "孙中山诞生一百二十周年",
+    "issueDate": "1986-11-12",
+    "year": 1986,
+    "themes": [
+      "人物",
+      "现代人",
+      "辛亥革命"
+    ],
+    "designer": "靳尚谊",
+    "totalStamps": 0,
+    "extras": [
+      "小型张"
+    ],
+    "description": "**孙中山**（1866-1925）是中国近代民主革命的伟大先行者，创立兴中会、中国同盟会，提出三民主义，并在辛亥革命后就任中华民国临时大总统。此套以纯小型张形式发行，采用写实半身像，人物神情庄重，突出纪念孙中山诞生一百二十周年的肃穆气氛。",
+    "quantity": "孙中山先生半身像461.39万枚",
+    "needsReview": true,
+    "localImageFolder": "J133 《孙中山诞生一百二十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "format": "小型张",
+        "name": "孙中山先生半身像",
+        "denomination": "2元",
+        "image": "/images/stamps/1986/J133-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J134",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "朱德同志诞生一百周年",
+    "issueDate": "1986-12-01",
+    "year": 1986,
+    "themes": [
+      "共产党人",
+      "领袖"
+    ],
+    "designer": "呼振源",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**朱德**（1886-1976）是中国人民解放军的主要缔造者之一，曾参加领导八一南昌起义，1928年率部上**井冈山**与毛泽东会师，后历任红军总司令、八路军总指挥、中国人民解放军总司令，1955年被授予元帅军衔。邮票采用单色雕刻版和文武线边框，庄重古朴，强化了领袖纪念邮票的肃穆感。",
+    "quantity": "朱德元帅像1216.4万枚，1950年朱德同志在“八一”建军节大会上讲话1177.9万枚",
+    "needsReview": true,
+    "localImageFolder": "J134 《朱德同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "朱德元帅像",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/J134-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "1950年朱德同志在“八一”建军节大会上讲话",
+        "denomination": "20分",
+        "image": "/images/stamps/1986/J134-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T113",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "中国古代体育",
+    "issueDate": "1986-12-20",
+    "year": 1986,
+    "themes": [
+      "体育",
+      "中国古代体育"
+    ],
+    "designer": "周京新",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "中国古代体育源远流长，许多项目兼具军事训练、礼仪娱乐和竞技功能。四枚邮票分别表现**弓箭**、**围棋**、**捶丸**和**蹴鞠**：弓箭源于狩猎和军事技能，围棋体现智力博弈，捶丸近似现代高尔夫，蹴鞠则被视为足球运动的重要源头。画面以古朴笔法再现历史场景，形成一组体育文化小史。",
+    "quantity": "弓箭744.65万枚，围棋810.65万枚，捶丸627.15万枚，蹴鞠651.15万枚",
+    "needsReview": true,
+    "localImageFolder": "T113 《中国古代体育》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "弓箭",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/T113-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "围棋",
+        "denomination": "8分",
+        "image": "/images/stamps/1986/T113-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "捶丸",
+        "denomination": "10分",
+        "image": "/images/stamps/1986/T113-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "蹴鞠",
+        "denomination": "50分",
+        "image": "/images/stamps/1986/T113-4.jpg"
+      }
+    ]
+  }
+]

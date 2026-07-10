@@ -1,0 +1,824 @@
+[
+  {
+    "id": "T102",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "乙丑年",
+    "issueDate": "1985-01-05",
+    "year": 1985,
+    "themes": [
+      "生肖",
+      "生肖牛"
+    ],
+    "designer": "姚钟华",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "“乙丑年”是第一轮生肖邮票中的第六套，对应农历牛年。邮票以红色为底，牛的形象昂首向前、雄健有力，既表现牛的憨厚质朴，也突出坚韧不拔的精神气质。画面线条粗犷，带有浓厚民间艺术意味，延续生肖邮票以动物形象寄寓新春祝福的传统。",
+    "quantity": "牛9555.26万枚",
+    "needsReview": true,
+    "localImageFolder": "T102 《乙丑年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "牛",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/T102-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J107",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "遵义会议五十周年",
+    "issueDate": "1985-01-15",
+    "year": 1985,
+    "themes": [
+      "历史事件",
+      "党史",
+      "长征"
+    ],
+    "designer": "陈晓聪",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1935年1月，中共中央在**贵州遵义**召开政治局扩大会议，即遵义会议。会议批评第五次反“围剿”中的错误军事路线，将**毛泽东**增选为中央政治局常委，事实上确立其在党中央和红军中的领导地位，是中共党史上生死攸关的转折点。两枚邮票分别再现会议会场和红军胜利到达陕北，表现会议对长征进程的重大意义。",
+    "quantity": "遵义会议1786.36万枚，红军胜利到达陕北1141.54万枚",
+    "needsReview": true,
+    "localImageFolder": "J107 《遵义会议五十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "遵义会议",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J107-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "红军胜利到达陕北",
+        "denomination": "20分",
+        "image": "/images/stamps/1985/J107-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T104",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "花灯",
+    "issueDate": "1985-02-28",
+    "year": 1985,
+    "themes": [
+      "文化",
+      "民间工艺",
+      "花灯"
+    ],
+    "designer": "邹建军",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "花灯又名彩灯，是中国传统民间工艺，尤以元宵节赏灯为盛。四枚邮票分别表现**杭州**“九莲献瑞”、**广东佛山**“龙凤呈祥”、**广州**“百花争艳”和**上海**“金玉满堂”等地方花灯，题材涵盖莲花、龙凤、百花、金鱼等吉祥意象。画面以工笔重彩呈现，色彩绚丽，造型精巧，展现民间节俗与手工艺之美。",
+    "quantity": "九莲献瑞1734.76万枚，龙凤呈祥1468.76万枚，百花争艳1539.76万枚，金玉满堂709.26万枚",
+    "needsReview": true,
+    "localImageFolder": "T104 《花灯》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "九莲献瑞",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/T104-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "龙凤呈祥",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/T104-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "百花争艳",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/T104-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "金玉满堂",
+        "denomination": "70分",
+        "image": "/images/stamps/1985/T104-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J108",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "联合国妇女十年·1976-1985",
+    "issueDate": "1985-03-08",
+    "year": 1985,
+    "themes": [
+      "历史事件",
+      "联合国",
+      "妇女"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1975年第30届联合国大会宣布1976-1985年为“联合国妇女十年”，主题为“平等、发展与和平”。邮票在“三八”国际妇女节发行，中心图案为“联合国妇女十年”徽志：飞翔的白鸽、女性符号和平等符号“=”共同出现，下方不同肤色妇女的手托起白鸽，周围彩色方块象征各国旗帜，突出妇女权益与国际合作主题。",
+    "quantity": "联合国妇女十年1671.26万枚",
+    "needsReview": true,
+    "localImageFolder": "J108 《联合国妇女十年·1976~1985》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "联合国妇女十年",
+        "denomination": "20分",
+        "image": "/images/stamps/1985/J108-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T105",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "中国残疾人",
+    "issueDate": "1985-03-15",
+    "year": 1985,
+    "themes": [
+      "历史事件",
+      "民生",
+      "残疾人"
+    ],
+    "designer": "吴建坤",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "这是新中国发行的第一套附捐邮票，每枚面值8分加附捐2分，附捐款用于残疾人福利事业。四枚分别表现**盲文**、**哑语**、**假肢**和**轮椅**，对应阅读、交流、行动辅助等生活支持方式。其中盲文由法国人**布莱尔**（1809-1852）发明。图案以平涂色块和白色线条构成，简洁明了，具有醒目的标识感。",
+    "quantity": "盲文759.26万枚，哑语757.76万枚，假肢763.76万枚，轮椅747.26万枚",
+    "needsReview": true,
+    "localImageFolder": "T105 《中国残疾人》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "盲文",
+        "denomination": "8+2分",
+        "image": "/images/stamps/1985/T105-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "哑语",
+        "denomination": "8+2分",
+        "image": "/images/stamps/1985/T105-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "假肢",
+        "denomination": "8+2分",
+        "image": "/images/stamps/1985/T105-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "轮椅",
+        "denomination": "8+2分",
+        "image": "/images/stamps/1985/T105-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T103",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "梅花",
+    "issueDate": "1985-04-05",
+    "year": 1985,
+    "themes": [
+      "植物花卉",
+      "花卉",
+      "梅花"
+    ],
+    "designer": "程传理",
+    "totalStamps": 6,
+    "extras": [
+      "小型张"
+    ],
+    "description": "梅花是中国传统名花，位居“梅兰竹菊”四君子之首，又与松、竹并称“岁寒三友”，象征坚韧不拔。六枚邮票表现绿萼、垂枝、龙游、朱砂、洒金和杏梅等品种：绿萼清雅，垂枝飘逸，龙游枝干盘曲，朱砂色深红，洒金花瓣红白相间，杏梅花大端庄。小型张“台阁凝馨”为重瓣台阁型梅花，花中复生花蕾，层叠如台阁。",
+    "quantity": "绿萼1262.51万枚，垂枝1397.16万枚，龙游1391.91万枚，朱砂1053.56万枚，洒金995.71万枚，杏梅1028.21万枚，小型张291.48万枚",
+    "needsReview": true,
+    "localImageFolder": "T103 《梅花》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "绿萼",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/T103-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "垂枝",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/T103-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "龙游",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/T103-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "朱砂",
+        "denomination": "10分",
+        "image": "/images/stamps/1985/T103-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "洒金",
+        "denomination": "20分",
+        "image": "/images/stamps/1985/T103-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "杏梅",
+        "denomination": "80分",
+        "image": "/images/stamps/1985/T103-6.jpg"
+      },
+      {
+        "sn": 7,
+        "format": "小型张",
+        "name": "台阁凝馨",
+        "denomination": "2元",
+        "image": "/images/stamps/1985/T103-7.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J109",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中华全国总工会成立六十周年",
+    "issueDate": "1985-05-01",
+    "year": 1985,
+    "themes": [
+      "周年纪念",
+      "中华全国总工会"
+    ],
+    "designer": "吴建坤",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "中华全国总工会是中国共产党领导下全国工会的最高领导机关，1925年5月在**广州**成立。邮票图案为成立时会址**广州惠州会馆**，以水彩写生技法从俯视角度描绘两层建筑，使其显得高耸挺立。邮票在“五一”国际劳动节发行，建筑色彩稳重，配以绿树白云和红色主题文字，纪念中国工人运动的组织化历程。",
+    "quantity": "中华全国总工会成立时的会址——广州惠州会馆2193.66万枚",
+    "needsReview": true,
+    "localImageFolder": "J109 《中华全国总工会成立六十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中华全国总工会成立时的会址——广州惠州会馆",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J109-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J110",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "国际青年年·1985",
+    "issueDate": "1985-05-04",
+    "year": 1985,
+    "themes": [
+      "历史事件",
+      "青年"
+    ],
+    "designer": "黄里",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "联合国确定1985年为“国际青年年”。邮票在“五四”青年节发行，图案为骑在凤凰背上的三位男女青年，其中一位男青年手擎金钥匙，寓意青年用知识开启科学技术之门，飞向理想未来。凤凰象征中华民族腾飞，钥匙象征知识力量，整体构图明快昂扬，充满青春气息。",
+    "quantity": "国际青年年·1985 1572.66万枚",
+    "needsReview": true,
+    "localImageFolder": "J110 《国际青年节·1985》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "国际青年年·1985",
+        "denomination": "20分",
+        "image": "/images/stamps/1985/J110-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "T106",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "熊猫",
+    "issueDate": "1985-05-24",
+    "year": 1985,
+    "themes": [
+      "动物",
+      "濒危动物",
+      "熊猫"
+    ],
+    "designer": "邓锡清",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "大熊猫是中国特有珍稀动物，被誉为“国宝”。四枚邮票以嬉戏、攀登、天趣、小伙伴为题，展现熊猫活泼、自在和亲密相伴的形象。小型张采用画家**吴作人**（1908-1997）的水墨原画《拯危继绝》，并配亲笔题签，借笔墨的墨渗、水洇表现熊猫神态，“拯危继绝”也点出保护濒危物种的意义。",
+    "quantity": "嬉戏1579.26万枚，攀登1604.26万枚，天趣1624.76万枚，小伙伴1549.26万枚，小型张1266.83万枚",
+    "needsReview": true,
+    "localImageFolder": "T106 《熊猫》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "嬉戏",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/T106-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "攀登",
+        "denomination": "20分",
+        "image": "/images/stamps/1985/T106-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "天趣",
+        "denomination": "50分",
+        "image": "/images/stamps/1985/T106-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "小伙伴",
+        "denomination": "80分",
+        "image": "/images/stamps/1985/T106-4.jpg"
+      },
+      {
+        "sn": 5,
+        "format": "小型张",
+        "name": "拯危继绝",
+        "denomination": "3元",
+        "image": "/images/stamps/1985/T106-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J111",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "冼星海诞生八十周年",
+    "issueDate": "1985-06-13",
+    "year": 1985,
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代音乐家"
+    ],
+    "designer": "陈晓聪",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**冼星海**（1905-1945）是中国近代著名作曲家，被誉为“人民音乐家”。他曾就读于**北京**艺术专门学校、**上海**国立音乐学院，后赴**法国巴黎**音乐学院深造。1938年到**延安**后，他创作《黄河大合唱》，以雄壮旋律讴歌中华民族不屈不挠的抗战精神，成为中国现代音乐史上的代表作。",
+    "quantity": "冼星海诞生八十周年2205.76万枚",
+    "needsReview": true,
+    "localImageFolder": "J111 《冼星海诞生八十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "冼星海诞生八十周年",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J111-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J112",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中国人民之友",
+    "issueDate": "1985-06-25",
+    "year": 1985,
+    "themes": [
+      "人物",
+      "外国友人"
+    ],
+    "designer": "李印清",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "《中国人民之友》纪念三位美国友人。**艾格妮丝·史沫特莱**（1892-1950）深入**延安**等革命根据地采访，著有《伟大的道路》；**安娜·路易斯·斯特朗**（1885-1970）多次访华，记录中国革命和建设；**埃德加·斯诺**（1905-1972）1936年赴陕北采访，写成《红星照耀中国》，向世界介绍中国工农红军和根据地真实状况。",
+    "quantity": "艾格妮丝·史沫特莱1233.26万枚，安娜·路易斯·斯特朗1155.16万枚，埃德加·斯诺709.26万枚",
+    "needsReview": true,
+    "localImageFolder": "J112 《中国人民之友》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "艾格妮丝·史沫特莱",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J112-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "安娜·路易斯·斯特朗",
+        "denomination": "20分",
+        "image": "/images/stamps/1985/J112-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "埃德加·斯诺",
+        "denomination": "80分",
+        "image": "/images/stamps/1985/J112-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J113",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "郑和下西洋五百八十周年",
+    "issueDate": "1985-07-11",
+    "year": 1985,
+    "themes": [
+      "历史事件",
+      "郑和下西洋"
+    ],
+    "designer": "李大玮",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**郑和**（1371-1435）本名马和，**云南晋宁**人，是明代航海家。1405年至1433年间，他七次率船队远航，抵达30多个国家和地区，最远至非洲东海岸，比**哥伦布**、**达·伽马**的航行早半个多世纪。邮票以工笔重彩表现郑和形象、和平出使、贸易文化交流和乘风破浪的船队，凸显郑和下西洋的规模与开放意义。",
+    "quantity": "伟大的航海家郑和1423.76万枚，和平的使者1179.46万枚，贸易与文化交流1083.76万枚，航海史上的壮举1007.56万枚",
+    "needsReview": true,
+    "localImageFolder": "J113 《郑和下西洋五百八十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "伟大的航海家郑和",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J113-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "和平的使者",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J113-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "贸易与文化交流",
+        "denomination": "20分",
+        "image": "/images/stamps/1985/J113-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "航海史上的壮举",
+        "denomination": "80分",
+        "image": "/images/stamps/1985/J113-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J114",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "徐悲鸿诞生九十周年",
+    "issueDate": "1985-07-19",
+    "year": 1985,
+    "themes": [
+      "人物",
+      "现代人",
+      "美术家"
+    ],
+    "designer": "李为",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**徐悲鸿**（1895-1953）是中国现代画家、美术教育家，**江苏宜兴**人，曾留学**法国**，归国后长期从事美术教育，并任中央美术学院院长。他坚持写实主义，以画马闻名，代表作有《奔马图》《九方皋》《愚公移山》等。邮票一枚取徐悲鸿自画像，一枚表现其坐在藤椅中作画，左上角奔马呼应其艺术标志。",
+    "quantity": "徐悲鸿自画像1842.26万枚，徐悲鸿在作画1515.26万枚",
+    "needsReview": true,
+    "localImageFolder": "J114 《徐悲鸿诞生九十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "徐悲鸿自画像",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J114-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "徐悲鸿在作画",
+        "denomination": "20分",
+        "image": "/images/stamps/1985/J114-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J115",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "林则徐诞生二百周年",
+    "issueDate": "1985-08-30",
+    "year": 1985,
+    "themes": [
+      "人物",
+      "现代人",
+      "禁毒"
+    ],
+    "designer": "任宇",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**林则徐**（1785-1850）字少穆，**福建侯官**人，是清代政治家、民族英雄。1838年任钦差大臣赴**广东**查禁鸦片，次年在**虎门**销毁鸦片，维护民族尊严，也揭开近代中国人民反殖民斗争序幕。第一枚背景为**费孝通**题写林则徐诗句，第二枚取人民英雄纪念碑《虎门销烟》浮雕，强化禁毒与民族抗争主题。",
+    "quantity": "林则徐画像1230.3万枚，虎门销烟1004.46万枚",
+    "needsReview": true,
+    "localImageFolder": "J115 《林则徐诞生二百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "林则徐画像",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J115-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "虎门销烟",
+        "denomination": "80分",
+        "image": "/images/stamps/1985/J115-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J116",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "西藏自治区成立二十周年",
+    "issueDate": "1985-09-01",
+    "year": 1985,
+    "themes": [
+      "周年纪念",
+      "自治区成立",
+      "西藏"
+    ],
+    "designer": "诸韬、高峰",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "1965年9月1日，西藏自治区正式成立。此套邮票以藏族人民喜爱的唐卡形式表现**西藏**的发展面貌，背景融入雪山、草原和布达拉宫意象。三枚分别以“兴旺”“欢庆”“丰收”为题，展现工农牧业发展、群众载歌载舞和金色麦浪丰收，借传统绘画样式表现自治区成立二十周年的纪念主题。",
+    "quantity": "兴旺1510.76万枚，欢庆1303.76万枚，丰收1340.01万枚",
+    "needsReview": true,
+    "localImageFolder": "J116 《西藏自治区成立二十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "兴旺",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J116-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "欢庆",
+        "denomination": "10分",
+        "image": "/images/stamps/1985/J116-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "丰收",
+        "denomination": "20分",
+        "image": "/images/stamps/1985/J116-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J117",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "抗日战争和世界反法西斯战争胜利四十周年",
+    "issueDate": "1985-09-03",
+    "year": 1985,
+    "themes": [
+      "历史事件",
+      "抗战胜利"
+    ],
+    "designer": "伍必端",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1945年9月，日本签署无条件投降书，中国人民抗日战争暨世界反法西斯战争取得胜利。邮票采用黑白版画形式，并以浅黄色套印营造历史氛围。第一枚以“卢沟晓月”和石狮为背景，表现中国军队奋起抗日；第二枚以长城为背景，描绘八路军和民兵并肩战斗。贯穿票面的红色标题增强了整组画面的凝聚感。",
+    "quantity": "卢沟桥中国军队奋起抗日1580.46万枚，八路军和民兵战斗在长城内外1247.26万枚",
+    "needsReview": true,
+    "localImageFolder": "J117 《抗日战争和世界反法西斯战争胜利四十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "卢沟桥中国军队奋起抗日",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J117-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "八路军和民兵战斗在长城内外",
+        "denomination": "80分",
+        "image": "/images/stamps/1985/J117-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J118",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "第二届全国工人运动会",
+    "issueDate": "1985-09-08",
+    "year": 1985,
+    "themes": [
+      "体育",
+      "综合运动会"
+    ],
+    "designer": "陈晓聪",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "第二届全国工人运动会于1985年9月在**北京**举行，32个代表团、4600多名运动员参加8个项目比赛。邮票一枚题为“奋进”，表现自行车运动员奋力前行；一枚题为“腾飞”，捕捉两名女运动员跨栏的瞬间。画面突出工人体育运动的群众性与竞技性，也记录了新时期职工体育活动的蓬勃开展。",
+    "quantity": "奋进1618.76万枚，腾飞1557.76万枚",
+    "needsReview": true,
+    "localImageFolder": "J118 《第二届全国工人运动会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "奋进",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J118-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "腾飞",
+        "denomination": "20分",
+        "image": "/images/stamps/1985/J118-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J119",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "新疆维吾尔自治区成立三十周年",
+    "issueDate": "1985-10-01",
+    "year": 1985,
+    "themes": [
+      "周年纪念",
+      "自治区成立",
+      "新疆"
+    ],
+    "designer": "张克让",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "1955年10月1日，新疆维吾尔自治区正式成立。三枚邮票分别展现**新疆**的自然风光和建设成就：“戈壁绿洲”描绘沙漠中的生机，“油田、天池”并置石油资源和天山景色，“天山牧场”呈现辽阔草原与牧区风貌。浓烈色彩和饱满构图表现新疆各族人民团结奋进的精神面貌。",
+    "quantity": "戈壁绿洲1469.76万枚，油田、天池1297.01万枚，天山牧场1260.51万枚",
+    "needsReview": true,
+    "localImageFolder": "J119 《新疆维吾尔自治区成立三十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "戈壁绿洲",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J119-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "油田、天池",
+        "denomination": "10分",
+        "image": "/images/stamps/1985/J119-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "天山牧场",
+        "denomination": "20分",
+        "image": "/images/stamps/1985/J119-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J121",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "第一届全国青少年运动会",
+    "issueDate": "1985-10-06",
+    "year": 1985,
+    "themes": [
+      "体育",
+      "综合运动会"
+    ],
+    "designer": "王怀庆",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "第一届全国青少年运动会于1985年10月在**河南郑州**举行，8000多名运动员参加14个项目比赛。邮票以青年头像和运动剪影叠映构图：第一枚以纯黄为基色，表现女青年与田径运动员；第二枚以大红为背景，表现男青年与篮球运动员。明快色彩和动感剪影突出青少年体育的朝气与活力。",
+    "quantity": "女青年·田径运动2135.76万枚，男青年·篮球运动1556.26万枚",
+    "needsReview": true,
+    "localImageFolder": "J121 《第一届全国青少年运动会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "女青年·田径运动",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J121-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "男青年·篮球运动",
+        "denomination": "20分",
+        "image": "/images/stamps/1985/J121-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J120",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "故宫博物院建院六十周年",
+    "issueDate": "1985-10-10",
+    "year": 1985,
+    "themes": [
+      "周年纪念",
+      "故宫博物院"
+    ],
+    "designer": "邵柏林",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**故宫博物院**成立于1925年10月10日，是中国最大的古代文化艺术博物馆。此套以竖四连形式展开，将故宫从午门经太和殿、乾清宫、交泰殿至神武门一线主要建筑依次呈现，如同一幅长卷。丹阙凌云、太和晴旭、乾坤交泰、琼苑春晖四个画面串联宫城空间，既纪念建院六十周年，也展现紫禁城建筑群的秩序与气势。",
+    "quantity": "丹阙凌云1174.59万枚，太和晴旭1174.59万枚，乾坤交泰1174.59万枚，琼苑春晖1174.59万枚",
+    "needsReview": true,
+    "localImageFolder": "J120 《故宫博物院建院六十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "丹阙凌云",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J120-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "太和晴旭",
+        "denomination": "10分",
+        "image": "/images/stamps/1985/J120-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "乾坤交泰",
+        "denomination": "20分",
+        "image": "/images/stamps/1985/J120-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "琼苑春晖",
+        "denomination": "80分",
+        "image": "/images/stamps/1985/J120-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J122",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "邹韬奋诞生九十周年",
+    "issueDate": "1985-11-05",
+    "year": 1985,
+    "themes": [
+      "人物",
+      "现代人"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**邹韬奋**（1895-1944）名恩润，**江西余江**人，是中国近代新闻出版家。1926年起主编《生活》周刊，后创办生活书店，并积极参加抗日救亡运动；1936年与沈钧儒等人被捕，史称“七君子事件”。邮票两枚横连，一枚为邹韬奋像，一枚为**周恩来**题词手迹，把人物纪念与新闻出版、爱国民主运动联系起来。",
+    "quantity": "邹韬奋像1543.51万枚，周恩来纪念邹韬奋题词的手迹1543.51万枚",
+    "needsReview": true,
+    "localImageFolder": "J122 《邹韬奋诞生九十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "邹韬奋像",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J122-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "周恩来纪念邹韬奋题词的手迹",
+        "denomination": "20分",
+        "image": "/images/stamps/1985/J122-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J125",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "“一二·九”运动五十周年",
+    "issueDate": "1985-12-09",
+    "year": 1985,
+    "themes": [
+      "历史事件",
+      "党史",
+      "一二九运动"
+    ],
+    "designer": "李芳芳",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1935年12月9日，在中共北平临时工委领导下，**北平**大中学生举行抗日救国示威游行，反对华北自治，要求保全领土完整，推动全国抗日救亡高潮。邮票主图为坐落在**北京**的“一二·九”运动纪念亭，白色大理石锐角象征决死抗日的意志，上方红色和下方深绿色分别呼应革命领导与青年学生运动。",
+    "quantity": "“一二·九”运动纪念亭2089.26万枚",
+    "needsReview": true,
+    "localImageFolder": "J125 《「一二·九」运动五十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "“一二·九”运动纪念亭",
+        "denomination": "8分",
+        "image": "/images/stamps/1985/J125-1.jpg"
+      }
+    ]
+  }
+]

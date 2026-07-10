@@ -121,6 +121,15 @@ def main():
         "| 年份 | ①标签 | ②图库整理 | ③md文档 | 数据录入 | 图片导入 | 可开工? |",
         "|---|---|---|---|---|---|---|",
     ]
+    # 累计汇总
+    total_years = 0
+    total_lib = 0
+    md_done = 0
+    md_partial = 0
+    total_data = 0
+    total_img = 0
+    total_entered = 0
+
     for year in sorted(YEARS, reverse=True):
         tag, lib, md, data, img = check_year(year, plan_by_id)
         ready = "✅ 可" if (tag == "✅" and lib.startswith("✅") and md == "✅") else "—"
@@ -129,6 +138,25 @@ def main():
         lines.append(
             f"| {year} | {tag} | {lib} | {md} | {data} | {img} | {ready} |"
         )
+        # 汇总统计
+        total_years += 1
+        if lib.startswith("✅"):
+            total_lib += int(lib[1:].rstrip("套"))
+        if md == "✅":
+            md_done += 1
+        elif md.startswith("⚠️"):
+            md_partial += 1
+        if data.startswith("✅"):
+            total_data += int(data[1:].rstrip("套"))
+            total_entered += 1
+        if img.startswith("✅"):
+            total_img += int(img[1:].rstrip("张"))
+
+    # 汇总行
+    md_summary = f"✅{md_done} ⚠️{md_partial}" if md_partial else f"✅{md_done}"
+    lines.append(
+        f"| **合计** | **{total_years}年** | ✅**{total_lib}套** | {md_summary} | ✅**{total_data}套** | ✅**{total_img}张** | **{total_entered}年已录入** |"
+    )
 
     with open(OUT, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")

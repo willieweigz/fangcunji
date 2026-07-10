@@ -34,6 +34,8 @@ const publicDir = path.join(process.cwd(), "public");
 // 模块级缓存：避免每次请求都同步读取 20+ JSON + 数千次 fs.existsSync
 let _allSetsCache: StampSet[] | null = null;
 let _primaryThemeNamesCache: string[] | null = null;
+let _provincesCache: string[] | null = null;
+let _countriesCache: string[] | null = null;
 
 export function getAllSets(): StampSet[] {
   if (_allSetsCache) return _allSetsCache;
@@ -92,6 +94,105 @@ export function getPrimaryThemes(): { theme: string; count: number }[] {
   return getPrimaryThemeNames()
     .filter((t) => (counts.get(t) ?? 0) > 0)
     .map((t) => ({ theme: t, count: counts.get(t)! }));
+}
+
+// ---- "省份"/"国家"虚拟聚合 ----
+// 这两组都不是一级主题、不进 themes.json，也不给邮票补标签，纯计算得出。
+// 一套票属于某地区 = themes 含地区名 OR 标题/介绍的 **加粗块** 内含地区名（或其别名，且不踩排除词）。
+
+// 别名：这些词出现也算该地区（如"粤港澳大湾区"题材算广东）
+const REGION_ALIASES: Record<string, string[]> = {
+  广东: ["大湾区", "粤港澳"],
+};
+// 排除：文字里出现这些更长的词时，不算对应地区（防子串误伤）
+const REGION_EXCLUSIONS: Record<string, string[]> = {
+  蒙古: ["内蒙古"],
+  印度: ["印度尼西亚"],
+};
+
+export function getProvinces(): string[] {
+  if (_provincesCache) return _provincesCache;
+  _provincesCache = JSON.parse(
+    fs.readFileSync(path.join(process.cwd(), "data", "provinces.json"), "utf-8")
+  ) as string[];
+  return _provincesCache;
+}
+
+// countries.json 按洲分组：{ "亚洲": [...], "欧洲": [...], ... }
+let _countriesByContinentCache: Record<string, string[]> | null = null;
+
+export function getCountriesByContinent(): Record<string, string[]> {
+  if (_countriesByContinentCache) return _countriesByContinentCache;
+  _countriesByContinentCache = JSON.parse(
+    fs.readFileSync(path.join(process.cwd(), "data", "countries.json"), "utf-8")
+  ) as Record<string, string[]>;
+  return _countriesByContinentCache;
+}
+
+export function getCountries(): string[] {
+  if (_countriesCache) return _countriesCache;
+  _countriesCache = Object.values(getCountriesByContinent()).flat();
+  return _countriesCache;
+}
+
+export function isProvince(name: string): boolean {
+  return getProvinces().includes(name);
+}
+
+export function isCountry(name: string): boolean {
+  return getCountries().includes(name);
+}
+
+// 取出介绍里所有 **...** 加粗块的内容
+function boldTokens(desc: string): string[] {
+  const tokens: string[] = [];
+  const re = /\*\*(.+?)\*\*/g;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(desc)) !== null) tokens.push(m[1]);
+  return tokens;
+}
+
+function matchesRegion(s: StampSet, name: string): boolean {
+  if (s.themes.includes(name)) return true;
+  const keys = [name, ...(REGION_ALIASES[name] ?? [])];
+  const excl = REGION_EXCLUSIONS[name] ?? [];
+  const texts = [s.title, ...boldTokens(s.description)];
+  return texts.some(
+    (t) => keys.some((k) => t.includes(k)) && !excl.some((e) => t.includes(e))
+  );
+}
+
+export function getSetsForRegion(name: string): StampSet[] {
+  return getAllSets().filter((s) => matchesRegion(s, name));
+}
+
+export function getProvinceCounts(): { region: string; count: number }[] {
+  return getProvinces().map((region) => ({
+    region,
+    count: getSetsForRegion(region).length,
+  }));
+}
+
+export function getCountryCounts(): { region: string; count: number }[] {
+  return getCountries().map((region) => ({
+    region,
+    count: getSetsForRegion(region).length,
+  }));
+}
+
+export function getCountryCountsByContinent(): {
+  continent: string;
+  items: { region: string; count: number }[];
+}[] {
+  return Object.entries(getCountriesByContinent()).map(
+    ([continent, countries]) => ({
+      continent,
+      items: countries.map((region) => ({
+        region,
+        count: getSetsForRegion(region).length,
+      })),
+    })
+  );
 }
 
 export function getPrevNext(id: string): {
