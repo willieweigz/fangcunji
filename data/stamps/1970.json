@@ -1,0 +1,117 @@
+[
+  {
+    "id": "文19",
+    "series": "文",
+    "type": "特种邮票",
+    "title": "革命青年的榜样",
+    "issueDate": "1970-01-21",
+    "year": 1970,
+    "themes": [
+      "人物",
+      "现代人",
+      "模范人物"
+    ],
+    "designer": "夏中东",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**金训华**是**上海市吴淞第二中学**1968届高中毕业生，1969年赴**黑龙江逊克县**插队落户。同年8月，他在洪水中抢救国家财产时牺牲，后被广泛宣传为知识青年先进典型。邮票采用陈逸飞、徐纯中的原画，由夏中东设计；因水面底色深浅不同，形成集邮界俗称的“白水版”和“黑水版”两种版式。",
+    "quantity": "1000万套",
+    "needsReview": true,
+    "localImageFolder": "文19 《革命青年的榜样》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "金训华",
+        "denomination": "8分",
+        "image": "/images/stamps/1970/文19-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "编号1-6",
+    "series": "编",
+    "type": "特种邮票",
+    "title": "革命现代京剧《智取威虎山》",
+    "issueDate": "1970-08-01",
+    "year": 1970,
+    "themes": [
+      "戏曲",
+      "京剧",
+      "样板戏"
+    ],
+    "designer": "杨白子",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "革命现代京剧《智取威虎山》由**上海京剧院**根据**曲波**（1923-2002）的长篇小说《林海雪原》改编，讲述解放军小分队深入**东北地区**林海雪原剿匪的故事。六枚邮票分别表现杨子荣剧照、深山问苦、穿林海、发动群众、胸有朝阳和胜利会师等舞台场景，以鲜明色彩和连续叙事浓缩了全剧的主要人物与情节；本套分三个日期陆续发行，以1970年8月1日为首发日。",
+    "quantity": "3000万套",
+    "source": "https://cpi.chinapost.com.cn/html1/appreciationstamp/24101/5940-1.htm",
+    "needsReview": true,
+    "localImageFolder": "编号1-6 《革命现代京剧《智取威虎山》》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "杨子荣剧照",
+        "denomination": "8分",
+        "image": "/images/stamps/1970/编号1-6-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "深山问苦",
+        "denomination": "8分",
+        "image": "/images/stamps/1970/编号1-6-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "穿林海",
+        "denomination": "8分",
+        "image": "/images/stamps/1970/编号1-6-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "发动群众",
+        "denomination": "8分",
+        "image": "/images/stamps/1970/编号1-6-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "胸有朝阳",
+        "denomination": "8分",
+        "image": "/images/stamps/1970/编号1-6-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "胜利会师",
+        "denomination": "8分",
+        "image": "/images/stamps/1970/编号1-6-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "编号7",
+    "series": "编",
+    "type": "特种邮票",
+    "title": "严惩入侵之敌",
+    "issueDate": "1970-11-01",
+    "year": 1970,
+    "themes": [
+      "解放军",
+      "国防"
+    ],
+    "designer": "许彦博",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1969年3月，**苏联**军队侵入位于**黑龙江乌苏里江**主航道中国一侧的**珍宝岛**，中国边防部队进行自卫反击。邮票画面描绘两名边防战士在冰雪覆盖的边境地区持枪警戒、准备战斗的场景，以冷色雪原衬托人物的紧张姿态。这枚邮票发行量达1.4亿枚，是新中国早期发行量较大的邮票之一。",
+    "quantity": "14000万套",
+    "source": "https://www.chinapost.com.cn/xhtml1/category/1908/9638-1.htm",
+    "needsReview": true,
+    "localImageFolder": "编号7 《严惩入侵之敌》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "严惩入侵之敌",
+        "denomination": "4分",
+        "image": "/images/stamps/1970/编号7-1.jpg"
+      }
+    ]
+  }
+]

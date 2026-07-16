@@ -1,0 +1,1201 @@
+[
+  {
+    "id": "2006-1",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "丙戌年",
+    "issueDate": "2006-01-05",
+    "year": 2006,
+    "themes": [
+      "生肖",
+      "生肖狗"
+    ],
+    "designer": "吕胜中",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "丙戌年即农历狗年。邮票图案为一只蹲坐的彩色装饰犬，取材于民间泥塑造型，采用鲜艳的红、黄、绿等传统色彩，兼具民间艺术韵味与现代设计感。",
+    "quantity": "5562.29万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-1 《丙戌年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "丙戌年",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-1-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-2",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "武强木版年画",
+    "issueDate": "2006-01-22",
+    "year": 2006,
+    "themes": [
+      "绘画艺术",
+      "非物质文化遗产",
+      "木版年画"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "武强木版年画是**河北省武强县**传统民间艺术，起源于宋元，兴盛于清初，与**天津杨柳青**、**苏州桃花坞**并称**中国**三大木版年画。2006年列入首批国家级非物质文化遗产名录。",
+    "quantity": "988.16万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-2 《武强木版年画》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "四季平安",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-2-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "五福临门",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-2-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "富贵花开",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-2-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "狮子滚绣球",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-2-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-3",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "民间灯彩",
+    "issueDate": "2006-02-12",
+    "year": 2006,
+    "themes": [
+      "文化",
+      "非物质文化遗产"
+    ],
+    "designer": "尚予",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "灯彩又称花灯，是元宵节传统装饰品，兼具照明和观赏功能。邮票选取五种代表性民间灯彩：鱼灯寓意年年有余，白菜灯谐音\"百财\"，莲花灯象征祥和，龙凤灯寓意吉祥如意，花蝶灯象征美好。",
+    "quantity": "995.46万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-3 《民间灯彩》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "鱼灯",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-3-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "白菜灯",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-3-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "莲花灯",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-3-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "龙凤灯",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-3-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "花蝶灯",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2006/2006-3-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-4",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "漓江",
+    "issueDate": "2006-04-12",
+    "year": 2006,
+    "themes": [
+      "山水风光",
+      "江河"
+    ],
+    "designer": "李德福",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**漓江**是**桂林**山水的精华，全长160余公里，沿途奇峰夹岸，碧水潆洄。邮票选取四处代表性景观：**龙头峰**、**碧莲峰**、**书童山**和**兴坪**，展现**漓江**山水的秀美意境。",
+    "quantity": "897.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-4 《漓江》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "龙头峰",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-4-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "碧莲峰",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-4-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "书童山",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-4-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "兴坪",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-4-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-5",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "孑遗植物",
+    "issueDate": "2006-03-12",
+    "year": 2006,
+    "themes": [
+      "植物花卉",
+      "树木"
+    ],
+    "designer": "殷会利",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "孑遗植物又称\"活化石\"，是经历过地质历史时期大冰川而幸存下来的古老植物种类。银杏被称为植物界的\"大熊猫\"，珙桐有\"鸽子树\"之称，水松和鹅掌楸均属珍稀濒危物种。",
+    "quantity": "886.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-5 《孑遗植物》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "银杏",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-5-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "水松",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-5-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "珙桐",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-5-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "鹅掌楸",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2006/2006-5-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-6",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "犬",
+    "issueDate": "2006-03-19",
+    "year": 2006,
+    "themes": [
+      "动物",
+      "犬"
+    ],
+    "designer": "尚予",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "邮票选取四种**中国**名犬：**北京**犬又称京巴，原为宫廷犬；巴哥犬性格温和友善；松狮犬是古老犬种，有蓝黑色舌头特征；藏獒被誉为\"东方神犬\"，是高原牧区的守护者。",
+    "quantity": "1009.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-6 《犬》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "北京犬",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-6-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "巴哥犬",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-6-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "松狮犬",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-6-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "藏獒",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-6-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-7",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "青城山",
+    "issueDate": "2006-04-12",
+    "year": 2006,
+    "themes": [
+      "山水风光",
+      "山",
+      "道教"
+    ],
+    "designer": "李德福",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**青城山**位于**四川省都江堰市**，是道教发源地之一，2000年与**都江堰**一同列入世界文化遗产。邮票以四幅画面展现**青城山**\"幽\"的意境，有\"青城天下幽\"之美誉。",
+    "quantity": "820.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-7 《青城山》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "山门悠远",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-7-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "曲径通幽",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-7-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "山中古观",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-7-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "青城清泉",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-7-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-8",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "云冈石窟",
+    "issueDate": "2006-04-14",
+    "year": 2006,
+    "themes": [
+      "文物古迹",
+      "石窟"
+    ],
+    "designer": "姜伟杰",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**云冈石窟**位于**山西省大同市**，始建于北魏和平元年（460年），现存主要洞窟45个，造像51000余尊，2001年列入世界文化遗产。邮票选取四尊代表性造像，展现北魏时期佛教艺术的精湛技艺。",
+    "quantity": "979.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-8 《云冈石窟》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "释迦牟尼佛（北魏）",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-8-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "供养天人（北魏）",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-8-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "大佛",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-8-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "胁侍菩萨",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2006/2006-8-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-9",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "天柱山",
+    "issueDate": "2006-04-20",
+    "year": 2006,
+    "themes": [
+      "山水风光",
+      "山"
+    ],
+    "designer": "朱道平",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**天柱山**位于**安徽省潜山市**，属**大别山**东脉，主峰天柱峰海拔1489.8米，因\"一柱擎天\"而得名。汉武帝曾封其为\"南岳\"，是道教第十四洞天。2011年列入世界地质公园。",
+    "quantity": "796.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-9 《天柱山》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "青龙探海",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-9-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "炼丹苍苍",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-9-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "三祖禅林",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-9-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "擎天一柱",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-9-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-10",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "全面取消农业税",
+    "issueDate": "2006-02-22",
+    "year": 2006,
+    "themes": [
+      "历史事件",
+      "民生"
+    ],
+    "designer": "李永清",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "2005年12月29日十届全国人大常委会第十九次会议决定，自2006年1月1日起废止《农业税条例》，延续2600年的\"皇粮国税\"成为历史。这是**中国**农业发展史上的里程碑事件。",
+    "quantity": "997.46万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-10 《全面取消农业税》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "全面取消农业税",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-10-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-11",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国现代科学家（四）",
+    "issueDate": "2006-05-13",
+    "year": 2006,
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代科学家"
+    ],
+    "designer": "陈景异",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "这是**中国**现代科学家系列第四组。**梁希**（1883-1958）是著名林学家，新**中国**首任林垦部部长；**茅以升**（1896-1989）是桥梁专家，主持建造钱塘江大桥；**严济慈**（1901-1996）是物理学家，**中国**现代物理学奠基人之一；**张孝骞**（1897-1987）是医学家，**中国**消化病学奠基人。",
+    "quantity": "829.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-11 《中国现代科学家（四）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "梁希",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-11-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "茅以升",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-11-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "严济慈",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-11-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "张孝骞",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-11-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-12",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "现代灯塔",
+    "issueDate": "2006-05-22",
+    "year": 2006,
+    "themes": [
+      "建筑",
+      "灯塔"
+    ],
+    "designer": "何洁",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "灯塔是航海安全保障的重要设施。邮票选取四座具有代表性的现代灯塔：大沽灯塔位于**天津港**，是**中国**第一座从海底建起的固定式灯塔；**桂山岛**灯塔位于**广东珠海**；**吴淞口**灯塔位于**上海**；**木栏头**灯塔位于**海南**。",
+    "quantity": "799.18万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-12 《现代灯塔》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "大沽灯塔",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-12-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "桂山岛灯塔",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-12-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "吴淞口灯塔",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-12-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "木栏头灯塔",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-12-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-13",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国航天事业创建五十周年",
+    "issueDate": "2006-06-08",
+    "year": 2006,
+    "themes": [
+      "科技",
+      "航天"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1956年10月8日**中国**第一个导弹研究机构——**国防部第五研究院**成立，标志**中国**航天事业起步。2005年10月\"神舟六号\"完成多人多天飞行任务。邮票分别展示地球空间双星探测计划和神舟六号载人飞船。",
+    "quantity": "919.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-13 《中国航天事业创建五十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "地球空间探测双星",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-13-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "神舟六号载人飞船",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2006/2006-13-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-14",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国共产党早期领导人（二）",
+    "issueDate": "2006-06-30",
+    "year": 2006,
+    "themes": [
+      "共产党人",
+      "中国共产党早期领导人"
+    ],
+    "designer": "钱忠平",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "这是**中国**共产党早期领导人系列第二组。**高君宇**（1896-1925）是中共早期政治活动家；**王荷波**（1882-1927）是**中国**工人运动先驱；**苏兆征**（1885-1929）是省港大罢工领导人之一；**彭湃**（1896-1929）是**中国**农民运动先驱；**邓中夏**（1894-1933）是**中国**工人运动领导人。",
+    "quantity": "809.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-14 《中国共产党早期领导人（二）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "高君宇",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-14-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "王荷波",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-14-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "苏兆征",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-14-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "彭湃",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-14-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "邓中夏",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2006/2006-14-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-15",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "青藏铁路通车纪念",
+    "issueDate": "2006-07-01",
+    "year": 2006,
+    "themes": [
+      "科技",
+      "铁路"
+    ],
+    "designer": "方军",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "2006年7月1日青藏铁路全线通车，这是世界上海拔最高、线路最长的高原铁路，**格尔木**至**拉萨**段全长1142公里，海拔4000米以上地段960公里。邮票选取穿越**可可西里**、翻越**唐古拉山**和**拉萨**火车站三个标志性场景。",
+    "quantity": "898.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-15 《青藏铁路通车纪念》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "穿越可可西里",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-15-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "翻越唐古拉山",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-15-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "拉萨火车站",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-15-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-16",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "喀纳斯自然保护区",
+    "issueDate": "2006-07-08",
+    "year": 2006,
+    "themes": [
+      "山水风光",
+      "自然保护区"
+    ],
+    "designer": "李德福",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "喀纳斯自然保护区位于**新疆维吾尔自治区****阿勒泰地区**，以**喀纳斯湖**为中心，拥有高山、河流、森林、湖泊等多种自然景观。邮票选取**喀纳斯湖**及三处著名河湾——卧龙湾、神仙湾和月亮湾，展现**北疆**山水的壮美。",
+    "quantity": "819.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-16 《喀纳斯自然保护区》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "喀纳斯湖",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-16-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "卧龙湾",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-16-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "神仙湾",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-16-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "月亮湾",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-16-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-17",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "防震减灾",
+    "issueDate": "2006-07-26",
+    "year": 2006,
+    "themes": [
+      "历史事件",
+      "抗灾"
+    ],
+    "designer": "康宁",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "2006年是**邢台**地震四十周年和**唐山**大地震三十周年。邮票以地震监测波形和双手护卫的房屋为主体，寓意通过科学监测和防灾减灾保护人民生命财产安全。",
+    "quantity": "899.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-17 《防震减灾》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "防震减灾",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-17-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-18",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "金银器",
+    "issueDate": "2006-08-28",
+    "year": 2006,
+    "themes": [
+      "文物古迹",
+      "金银器"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "邮票展现两件珍贵文物：金执壶为明代器物，造型典雅；银香盒为清代制品，工艺精湛。两件均为国家一级文物，体现了**中国**古代金银器工艺的高超水平。",
+    "quantity": "899.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-18 《金银器》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "金执壶",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-18-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "银香盒",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-18-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-19",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "第29届奥林匹克运动会-运动项目（一）",
+    "issueDate": "2006-08-08",
+    "year": 2006,
+    "themes": [
+      "体育",
+      "奥运会"
+    ],
+    "designer": "王敏",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "2008年**北京**奥运会运动项目系列邮票第一组，发行于2006年8月8日即**北京**奥运会倒计时两周年。邮票选取跳水、射击、田径、乒乓球四个**中国**优势项目，采用运动人形与福娃结合的设计。",
+    "quantity": "1199.19万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-19 《第29届奥林匹克运动会-运动项目（一）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "跳水",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-19-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "射击",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-19-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "田径",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-19-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "乒乓球",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-19-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-20",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中非合作论坛北京峰会",
+    "issueDate": "2006-11-03",
+    "year": 2006,
+    "themes": [
+      "历史事件",
+      "国际峰会"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "2006年11月3日至5日**中非合作论坛****北京**峰会暨第三届部长级会议举行，48个**非洲**国家元首或代表出席，是中非关系史上规模最大的盛会。邮票以**中国**和**非洲**地图及握手为主图。",
+    "quantity": "999.42万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-20 《中非合作论坛北京峰会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中非合作论坛北京峰会",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2006/2006-20-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-21",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中华全国归国华侨联合会成立五十周年",
+    "issueDate": "2006-09-25",
+    "year": 2006,
+    "themes": [
+      "周年纪念",
+      "华侨"
+    ],
+    "designer": "李庆发",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**中华全国归国华侨联合会**（**中国侨联**）于1956年9月成立，是**中国**共产党领导的由归侨侨眷组成的全国性人民团体。邮票以\"桥\"的造型和心形图案为设计元素，寓意侨联是连接海外侨胞与祖国的桥梁。",
+    "quantity": "899.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-21 《中华全国归国华侨联合会成立五十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中华全国归国华侨联合会成立五十周年",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-21-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-22",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "古琴与钢琴",
+    "issueDate": "2006-09-26",
+    "year": 2006,
+    "themes": [
+      "文化",
+      "民族乐器"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "此票为中奥联合发行。古琴是**中国**最古老的弹拨乐器之一，有3000多年历史；钢琴是西方最具代表性的键盘乐器。两种乐器分属东西方音乐文化，邮票寓意中奥两国文化交流与友好合作。",
+    "quantity": "899.16万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-22 《古琴与钢琴》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "古琴",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-22-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "钢琴",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-22-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-23",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "文房四宝",
+    "issueDate": "2006-09-10",
+    "year": 2006,
+    "themes": [
+      "文化",
+      "文房四宝"
+    ],
+    "designer": "王虎鸣、吕道远",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "文房四宝即笔、墨、纸、砚，是**中国**传统文书工具的统称。邮票分别展示毛笔、徽墨、宣纸和端砚，四种文具均选取最具代表性的品类，体现了**中国**书画文化的深厚底蕴。",
+    "quantity": "820.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-23 《文房四宝》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "笔",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-23-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "墨",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-23-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "纸",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-23-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "砚",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-23-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-24",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国出口商品交易会",
+    "issueDate": "2006-10-15",
+    "year": 2006,
+    "themes": [
+      "历史事件",
+      "经贸"
+    ],
+    "designer": "郭承辉",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**中国出口商品交易会**又称\"广交会\"，创办于1957年，每年春秋两季在**广州**举办，是**中国**目前历史最长、层次最高、规模最大的综合性国际贸易盛会。邮票以交易会标志和流花展馆为主图。",
+    "quantity": "899.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-24 《中国出口商品交易会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国出口商品交易会",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-24-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-25",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国工农红军长征胜利七十周年",
+    "issueDate": "2006-10-22",
+    "year": 2006,
+    "themes": [
+      "历史事件",
+      "党史",
+      "长征"
+    ],
+    "designer": "郝旭东",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1936年10月红军三大主力在**甘肃会宁**胜利会师，标志长征结束。邮票选取送别、飞夺**泸定桥**、过雪山草地、大会师四个经典场景，纪念这一伟大壮举。其中\"送别\"取材于画家**靳尚谊**同名油画。",
+    "quantity": "949.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-25 《中国工农红军长征胜利七十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "送别",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-25-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "飞夺泸定桥",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-25-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "过雪山草地",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-25-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "大会师",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2006/2006-25-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-26",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国-东盟建立对话关系15周年",
+    "issueDate": "2006-10-25",
+    "year": 2006,
+    "themes": [
+      "历史事件",
+      "国际合作"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1991年**中国**与**东盟**开始对话进程，至2006年已建立对话关系15周年。邮票以**中国**和**东盟**十国的代表性花卉组成\"15\"字样，寓意双方友好合作。",
+    "quantity": "999.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-26 《中国-东盟建立对话关系15周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国-东盟建立对话关系15周年",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-26-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-27",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国邮政开办一百一十周年",
+    "issueDate": "2006-12-30",
+    "year": 2006,
+    "themes": [
+      "周年纪念",
+      "邮政"
+    ],
+    "designer": "邵柏林",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1896年3月20日清**光绪帝**批准开办大清邮政官局，标志**中国**近代邮政诞生。邮票主图为大清邮政成立时的\"团龙\"邮票图案与现代邮政标志，体现百年邮政的传承与发展。",
+    "quantity": "999.42万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-27 《中国邮政开办一百一十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国邮政开办一百一十周年",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2006/2006-27-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-28",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "孙中山诞生一百四十周年",
+    "issueDate": "2006-11-12",
+    "year": 2006,
+    "themes": [
+      "人物",
+      "现代人",
+      "辛亥革命"
+    ],
+    "designer": "赵里心",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1866年11月12日**孙中山**（1866-1925）出生于**广东**香山（今中山市）。邮票选取四处纪念地：**孙中山**故居位于中山市翠亨村；中山陵位于**南京**紫金山；中山纪念堂位于**广州**；**中山大学**由**孙中山**于1924年创办。",
+    "quantity": "899.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-28 《孙中山诞生一百四十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "孙中山故居",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-28-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中山陵祭堂",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-28-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "中山纪念堂",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-28-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "中山大学",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2006/2006-28-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-29",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "神骏图",
+    "issueDate": "2006-12-03",
+    "year": 2006,
+    "themes": [
+      "绘画艺术",
+      "古画"
+    ],
+    "designer": "方军",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "邮票取材于唐代画家**韩幹**的名作《神骏图》，原画描绘东晋高僧**支遁**爱马的故事。两枚邮票分别截取画卷的左右两段，连印后可拼为完整画面，展现唐代画马艺术的巅峰水平。",
+    "quantity": "899.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-29 《神骏图》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "神骏图（局部一）",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2006/2006-29-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "神骏图（局部二）",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2006/2006-29-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2006-30",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "和谐铁路建设",
+    "issueDate": "2006-12-28",
+    "year": 2006,
+    "themes": [
+      "科技",
+      "铁路"
+    ],
+    "designer": "李志宏",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "邮票展现**中国**铁路建设的四个方面：提速扩能反映第六次大提速；重点物资运输体现铁路保障能源运输；支撑区域发展展示铁路带动西部开发；服务新农村建设体现铁路助力农村发展。",
+    "quantity": "899.17万套",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2006-30 《和谐铁路建设》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "提速扩能",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-30-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "重点物资运输",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-30-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "支撑区域发展",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-30-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "服务社会主义新农村建设",
+        "denomination": "80分",
+        "image": "/images/stamps/2006/2006-30-4.jpg"
+      }
+    ]
+  }
+]

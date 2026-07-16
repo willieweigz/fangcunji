@@ -1,0 +1,236 @@
+[
+  {
+    "id": "T44", "series": "T", "type": "特种邮票", "title": "齐白石作品选", "issueDate": "1980-01-15", "year": 1980,
+    "themes": ["绘画艺术", "现代画"], "designer": "邵柏林", "totalStamps": 16, "extras": ["小型张"],
+    "description": "齐白石是中国近现代国画大师，擅长花鸟、虫鱼、山水和人物。十六枚邮票从牡丹、松鼠葡萄到虾、荔枝等题材，集中呈现其以简练笔墨捕捉生活意趣的艺术特色；小型张《祖国万岁》描绘一株万年青，寄托蓬勃长青的寓意。", "quantity": "200万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "T44 《齐白石作品选》",
+    "stamps": [
+      {"sn": 1, "name": "牡丹", "denomination": "4分", "image": "/images/stamps/1980/T44-1.jpg"}, {"sn": 2, "name": "松鼠葡萄", "denomination": "4分", "image": "/images/stamps/1980/T44-2.jpg"},
+      {"sn": 3, "name": "酒蟹图", "denomination": "8分", "image": "/images/stamps/1980/T44-3.jpg"}, {"sn": 4, "name": "蛙声十里出山泉", "denomination": "8分", "image": "/images/stamps/1980/T44-4.jpg"},
+      {"sn": 5, "name": "小鸡", "denomination": "8分", "image": "/images/stamps/1980/T44-5.jpg"}, {"sn": 6, "name": "荷花", "denomination": "8分", "image": "/images/stamps/1980/T44-6.jpg"},
+      {"sn": 7, "name": "红梅", "denomination": "8分", "image": "/images/stamps/1980/T44-7.jpg"}, {"sn": 8, "name": "翠鸟", "denomination": "8分", "image": "/images/stamps/1980/T44-8.jpg"},
+      {"sn": 9, "name": "葫芦", "denomination": "10分", "image": "/images/stamps/1980/T44-9.jpg"}, {"sn": 10, "name": "秋声", "denomination": "20分", "image": "/images/stamps/1980/T44-10.jpg"},
+      {"sn": 11, "name": "藤萝", "denomination": "30分", "image": "/images/stamps/1980/T44-11.jpg"}, {"sn": 12, "name": "菊花", "denomination": "40分", "image": "/images/stamps/1980/T44-12.jpg"},
+      {"sn": 13, "name": "虾", "denomination": "50分", "image": "/images/stamps/1980/T44-13.jpg"}, {"sn": 14, "name": "荔枝", "denomination": "55分", "image": "/images/stamps/1980/T44-14.jpg"},
+      {"sn": 15, "name": "白菜蘑菇", "denomination": "60分", "image": "/images/stamps/1980/T44-15.jpg"}, {"sn": 16, "name": "桃", "denomination": "70分", "image": "/images/stamps/1980/T44-16.jpg"},
+      {"sn": 17, "name": "祖国万岁", "denomination": "2元", "format": "小型张", "image": "/images/stamps/1980/T44-17.jpg"}
+    ]
+  },
+  {
+    "id": "T45", "series": "T", "type": "特种邮票", "title": "京剧脸谱", "issueDate": "1980-01-25", "year": 1980,
+    "themes": ["戏曲", "京剧"], "designer": "刘硕仁", "totalStamps": 8, "extras": [],
+    "description": "京剧脸谱以色彩、线条和夸张构图表现人物性格。八枚邮票选取孟良、李逵、黄盖、孙悟空、鲁智深、廉颇、张飞和窦尔敦等经典角色，使忠勇、刚烈、机敏等人物特征在方寸之间清晰可辨。", "quantity": "250万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "T45 《京剧脸谱》",
+    "stamps": [
+      {"sn": 1, "name": "孟良", "denomination": "4分", "image": "/images/stamps/1980/T45-1.jpg"}, {"sn": 2, "name": "李逵", "denomination": "4分", "image": "/images/stamps/1980/T45-2.jpg"},
+      {"sn": 3, "name": "黄盖", "denomination": "8分", "image": "/images/stamps/1980/T45-3.jpg"}, {"sn": 4, "name": "孙悟空", "denomination": "8分", "image": "/images/stamps/1980/T45-4.jpg"},
+      {"sn": 5, "name": "鲁智深", "denomination": "10分", "image": "/images/stamps/1980/T45-5.jpg"}, {"sn": 6, "name": "廉颇", "denomination": "20分", "image": "/images/stamps/1980/T45-6.jpg"},
+      {"sn": 7, "name": "张飞", "denomination": "60分", "image": "/images/stamps/1980/T45-7.jpg"}, {"sn": 8, "name": "窦尔敦", "denomination": "70分", "image": "/images/stamps/1980/T45-8.jpg"}
+    ]
+  },
+  {
+    "id": "J54", "series": "J", "type": "纪念邮票", "title": "第十三届冬季奥林匹克运动会", "issueDate": "1980-02-13", "year": 1980,
+    "themes": ["体育", "奥运会", "冬奥会"], "designer": "邹建军", "totalStamps": 4, "extras": [],
+    "description": "第十三届冬季奥林匹克运动会在美国**普莱西德湖**举行，这是中国首次派队参加冬奥会。四枚邮票分别表现中国奥委会会徽、速度滑冰、花样滑冰和滑雪，记录中国冬季项目走上奥林匹克赛场的起点。", "quantity": "150万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "J54 《第十三届冬季奥林匹克运动会》",
+    "stamps": [
+      {"sn": 1, "name": "中华人民共和国奥林匹克委员会会徽", "denomination": "8分", "image": "/images/stamps/1980/J54-1.jpg"}, {"sn": 2, "name": "速滑", "denomination": "8分", "image": "/images/stamps/1980/J54-2.jpg"},
+      {"sn": 3, "name": "花样滑冰", "denomination": "8分", "image": "/images/stamps/1980/J54-3.jpg"}, {"sn": 4, "name": "滑雪", "denomination": "60分", "image": "/images/stamps/1980/J54-4.jpg"}
+    ]
+  },
+  {
+    "id": "T46", "series": "T", "type": "特种邮票", "title": "庚申年", "issueDate": "1980-02-15", "year": 1980,
+    "themes": ["生肖", "生肖猴"], "designer": "邵柏林", "totalStamps": 1, "extras": [],
+    "description": "这是中国第一枚生肖邮票，原画由黄永玉创作，姜伟杰雕刻。金猴以红色为底，造型凝练而富有神采，影雕套印又强化了毛发和金色轮廓的质感，由此开启持续至今的生肖邮票系列。", "quantity": "500万枚",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "T46 《庚申年》",
+    "stamps": [{"sn": 1, "name": "庚申年·猴", "denomination": "8分", "image": "/images/stamps/1980/T46-1.jpg"}]
+  },
+  {
+    "id": "J53", "series": "J", "type": "纪念邮票", "title": "“三八”国际劳动妇女节七十周年", "issueDate": "1980-03-08", "year": 1980,
+    "themes": ["节日", "现代节日"], "designer": "刘硕仁", "totalStamps": 1, "extras": [],
+    "description": "克拉拉·蔡特金是国际妇女运动的重要先驱，1910年在国际社会主义妇女代表大会上倡议设立国际劳动妇女节。邮票以蔡特金肖像为主体，配以金黄色迎春花，纪念这一节日走过七十年。", "quantity": "750万枚",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "J53 《「三八」国际劳动妇女节七十周年》",
+    "stamps": [{"sn": 1, "name": "蔡特金像", "denomination": "8分", "image": "/images/stamps/1980/J53-1.jpg"}]
+  },
+  {
+    "id": "T48", "series": "T", "type": "特种邮票", "title": "植树造林，绿化祖国", "issueDate": "1980-03-12", "year": 1980,
+    "themes": ["历史事件", "环保"], "designer": "邵柏林", "totalStamps": 4, "extras": [],
+    "description": "1979年，全国人大常委会决定将每年3月12日定为中国植树节。邮票从经济林、道路与村镇周边绿化、飞机播种造林和厂矿绿化四个角度，展示植树造林在生产、生活和生态建设中的作用。", "quantity": "500万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "T48 《植树造林，绿化祖国》",
+    "stamps": [
+      {"sn": 1, "name": "经济林", "denomination": "4分", "image": "/images/stamps/1980/T48-1.jpg"}, {"sn": 2, "name": "四旁绿化", "denomination": "8分", "image": "/images/stamps/1980/T48-2.jpg"},
+      {"sn": 3, "name": "飞播造林", "denomination": "10分", "image": "/images/stamps/1980/T48-3.jpg"}, {"sn": 4, "name": "厂矿绿化", "denomination": "20分", "image": "/images/stamps/1980/T48-4.jpg"}
+    ]
+  },
+  {
+    "id": "J52", "series": "J", "type": "纪念邮票", "title": "中国科学技术协会第二次全国代表大会", "issueDate": "1980-03-15", "year": 1980,
+    "themes": ["科技", "学术会议", "中国科学技术协会"], "designer": "李大玮", "totalStamps": 1, "extras": [],
+    "description": "中国科学技术协会第二次全国代表大会在**北京**举行。邮票借鉴敦煌飞天的动态，让四位少女分别托举麦穗、齿轮、原子模型和火箭，把农业、工业、基础科学与航天科技汇聚在同一画面中。", "quantity": "800万枚",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "J52 《中国科学技术协会第二次全国代表大会》",
+    "stamps": [{"sn": 1, "name": "科协二大", "denomination": "8分", "image": "/images/stamps/1980/J52-1.jpg"}]
+  },
+  {
+    "id": "T49", "series": "T", "type": "特种邮票", "title": "邮政运输", "issueDate": "1980-03-20", "year": 1980,
+    "themes": ["文化", "邮政"], "designer": "李印清", "totalStamps": 4, "extras": [],
+    "description": "邮政运输连接邮件收寄、分拣和投递，是邮政通信的重要环节。四枚邮票依次展示水路、汽车、火车和航空邮运，呈现不同地理条件和运输距离下相互衔接的邮运网络。", "quantity": "600万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "T49 《邮政运输》",
+    "stamps": [
+      {"sn": 1, "name": "水路邮运", "denomination": "2分", "image": "/images/stamps/1980/T49-1.jpg"}, {"sn": 2, "name": "汽车邮运", "denomination": "4分", "image": "/images/stamps/1980/T49-2.jpg"},
+      {"sn": 3, "name": "火车邮运", "denomination": "8分", "image": "/images/stamps/1980/T49-3.jpg"}, {"sn": 4, "name": "航空邮运", "denomination": "10分", "image": "/images/stamps/1980/T49-4.jpg"}
+    ]
+  },
+  {
+    "id": "J56", "series": "J", "type": "纪念邮票", "title": "提高健康水平，提倡戒烟", "issueDate": "1980-04-07", "year": 1980,
+    "themes": ["节日", "现代节日"], "designer": "陈晓聪", "totalStamps": 2, "extras": [],
+    "description": "1980年世界卫生日以戒烟为主题。第一枚以香烟释放的有害物质侵害心肺器官，第二枚用双面人物和冷暖环境对比吸烟与不吸烟的生活状态，以直观视觉语言传播健康观念。", "quantity": "100万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "J56 《提高健康水平，提倡戒烟》",
+    "stamps": [
+      {"sn": 1, "name": "吸烟有害", "denomination": "8分", "image": "/images/stamps/1980/J56-1.jpg"}, {"sn": 2, "name": "提倡戒烟", "denomination": "60分", "image": "/images/stamps/1980/J56-2.jpg"}
+    ]
+  },
+  {
+    "id": "J55", "series": "J", "type": "纪念邮票", "title": "鉴真大师像回国巡展", "issueDate": "1980-04-13", "year": 1980,
+    "themes": ["人物", "古代人", "佛教"], "designer": "孙传哲", "totalStamps": 3, "extras": [],
+    "description": "唐代高僧鉴真六次东渡，最终抵达日本传播佛法、医药和文化。1980年，日本**唐招提寺**护送鉴真干漆坐像回中国巡展；邮票以**扬州鉴真纪念堂**、鉴真大师像和东渡船串联其故乡、形象与跨海弘法历程。", "quantity": "100万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "J55 《鉴真大师像回国巡展》",
+    "stamps": [
+      {"sn": 1, "name": "扬州鉴真纪念堂", "denomination": "8分", "image": "/images/stamps/1980/J55-1.jpg"}, {"sn": 2, "name": "鉴真大师像", "denomination": "8分", "image": "/images/stamps/1980/J55-2.jpg"},
+      {"sn": 3, "name": "鉴真东渡船", "denomination": "60分", "image": "/images/stamps/1980/J55-3.jpg"}
+    ]
+  },
+  {
+    "id": "J57", "series": "J", "type": "纪念邮票", "title": "弗·伊·列宁诞辰一百一十周年", "issueDate": "1980-04-22", "year": 1980,
+    "themes": ["共产党人", "马克思主义"], "designer": "李印清", "totalStamps": 1, "extras": [],
+    "description": "列宁是俄国革命家和马克思主义理论家。邮票以他1917年返回**彼得格勒**时的照片为依据，用素描式黑白层次刻画侧面肖像，强化人物坚定、专注的神情。", "quantity": "500万枚",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "J57 《弗·伊·列宁诞辰一百一十周年》",
+    "stamps": [{"sn": 1, "name": "列宁像", "denomination": "8分", "image": "/images/stamps/1980/J57-1.jpg"}]
+  },
+  {
+    "id": "T50", "series": "T", "type": "特种邮票", "title": "风筝", "issueDate": "1980-05-10", "year": 1980,
+    "themes": ["文化", "风筝"], "designer": "潘可明", "totalStamps": 4, "extras": [],
+    "description": "风筝是中国传统民间工艺，**潍坊**尤以制作和放飞风筝著名。四枚邮票取材于《南鹞北鸢考工志》中的燕子风筝谱式，以雏燕、瘦燕、半瘦燕和比翼燕表现不同体态、纹样和寓意。", "quantity": "100万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "T50 《风筝》",
+    "stamps": [
+      {"sn": 1, "name": "雏燕", "denomination": "8分", "image": "/images/stamps/1980/T50-1.jpg"}, {"sn": 2, "name": "瘦燕", "denomination": "8分", "image": "/images/stamps/1980/T50-2.jpg"},
+      {"sn": 3, "name": "半瘦燕", "denomination": "8分", "image": "/images/stamps/1980/T50-3.jpg"}, {"sn": 4, "name": "比翼燕", "denomination": "70分", "image": "/images/stamps/1980/T50-4.jpg"}
+    ]
+  },
+  {
+    "id": "T51", "series": "T", "type": "特种邮票", "title": "童话—“咕咚”", "issueDate": "1980-06-01", "year": 1980,
+    "themes": ["6.1儿童邮票", "童话"], "designer": "万维生", "totalStamps": 4, "extras": [],
+    "description": "这套儿童邮票以四枚连票讲述藏族民间童话《咕咚》：木瓜落水的声响引起兔子和动物们惊慌奔逃，狮子带大家返回湖边，终于弄清真相。连续画面像一册微型连环画，也提醒孩子不要轻信和盲从。", "quantity": "1500万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "T51 《童话—「咕咚」》",
+    "stamps": [
+      {"sn": 1, "name": "“咕咚——”", "denomination": "8分", "image": "/images/stamps/1980/T51-1.jpg"}, {"sn": 2, "name": "“咕咚”来了！", "denomination": "8分", "image": "/images/stamps/1980/T51-2.jpg"},
+      {"sn": 3, "name": "“咕咚”！？", "denomination": "8分", "image": "/images/stamps/1980/T51-3.jpg"}, {"sn": 4, "name": "“啊！木瓜”", "denomination": "8分", "image": "/images/stamps/1980/T51-4.jpg"}
+    ]
+  },
+  {
+    "id": "T47", "series": "T", "type": "特种邮票", "title": "首都国际机场", "issueDate": "1980-06-20", "year": 1980,
+    "themes": ["建筑", "机场"], "designer": "吴建坤", "totalStamps": 2, "extras": [],
+    "description": "首都国际机场位于**北京顺义**，扩建后的候机楼从空中看似展翅的飞机。两枚邮票以鸟瞰机场大楼和飞机从跑道起飞为主题，分别呈现航空基础设施与现代交通运行场景。", "quantity": "400万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "T47 《首都国际机场》",
+    "stamps": [
+      {"sn": 1, "name": "机场大楼", "denomination": "8分", "image": "/images/stamps/1980/T47-1.jpg"}, {"sn": 2, "name": "飞机跑道", "denomination": "10分", "image": "/images/stamps/1980/T47-2.jpg"}
+    ]
+  },
+  {
+    "id": "T52", "series": "T", "type": "特种邮票", "title": "梅花鹿", "issueDate": "1980-07-18", "year": 1980,
+    "themes": ["动物", "鹿"], "designer": "张克让", "totalStamps": 3, "extras": [],
+    "description": "梅花鹿是中国珍稀鹿科动物，夏毛呈栗红色并布满白色斑点。三枚邮票把**长白山**的季节环境与鹿群生活结合起来，分别描绘初夏雄鹿、母子相依和深秋群鹿奔跑。", "quantity": "150万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "T52 《梅花鹿》",
+    "stamps": [
+      {"sn": 1, "name": "雄鹿", "denomination": "4分", "image": "/images/stamps/1980/T52-1.jpg"}, {"sn": 2, "name": "母子鹿", "denomination": "8分", "image": "/images/stamps/1980/T52-2.jpg"},
+      {"sn": 3, "name": "群鹿", "denomination": "60分", "image": "/images/stamps/1980/T52-3.jpg"}
+    ]
+  },
+  {
+    "id": "T54", "series": "T", "type": "特种邮票", "title": "荷花", "issueDate": "1980-08-04", "year": 1980,
+    "themes": ["植物花卉", "花卉", "荷花"], "designer": "陈晓聪", "totalStamps": 4, "extras": ["小型张"],
+    "description": "荷花又称莲花，自古常被赋予清正高洁的文化寓意。四枚邮票选取白莲、碧绛雪、佛座莲和娇容三变等品种，小型张《新荷凌波》则以更完整的工笔构图表现新荷临水、清雅舒展的姿态。", "quantity": "100万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "T54 《荷花》",
+    "stamps": [
+      {"sn": 1, "name": "白莲", "denomination": "8分", "image": "/images/stamps/1980/T54-1.jpg"}, {"sn": 2, "name": "碧绛雪", "denomination": "8分", "image": "/images/stamps/1980/T54-2.jpg"},
+      {"sn": 3, "name": "佛座莲", "denomination": "8分", "image": "/images/stamps/1980/T54-3.jpg"}, {"sn": 4, "name": "娇容三变", "denomination": "70分", "image": "/images/stamps/1980/T54-4.jpg"},
+      {"sn": 5, "name": "新荷凌波", "denomination": "1元", "format": "小型张", "image": "/images/stamps/1980/T54-5.jpg"}
+    ]
+  },
+  {
+    "id": "T53", "series": "T", "type": "特种邮票", "title": "桂林山水", "issueDate": "1980-08-30", "year": 1980,
+    "themes": ["山水风光", "山", "桂林"], "designer": "程传理", "totalStamps": 8, "extras": [],
+    "description": "八枚邮票选取**桂林**及**阳朔**一带的峰林、岩洞、古榕、江月和渡口景观。横竖两种修长票幅顺应不同构图，使九马画山、漓江月夜等景色既能展开山水层次，也能突出喀斯特峰峦的挺拔。", "quantity": "150万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "T53 《桂林山水》",
+    "stamps": [
+      {"sn": 1, "name": "珠洞剑石", "denomination": "8分", "image": "/images/stamps/1980/T53-1.jpg"}, {"sn": 2, "name": "三山远眺", "denomination": "8分", "image": "/images/stamps/1980/T53-2.jpg"},
+      {"sn": 3, "name": "九马画山", "denomination": "8分", "image": "/images/stamps/1980/T53-3.jpg"}, {"sn": 4, "name": "古榕白鹭", "denomination": "8分", "image": "/images/stamps/1980/T53-4.jpg"},
+      {"sn": 5, "name": "西山夕照", "denomination": "8分", "image": "/images/stamps/1980/T53-5.jpg"}, {"sn": 6, "name": "漓江月夜", "denomination": "8分", "image": "/images/stamps/1980/T53-6.jpg"},
+      {"sn": 7, "name": "瀑水古渡", "denomination": "60分", "image": "/images/stamps/1980/T53-7.jpg"}, {"sn": 8, "name": "阳朔景道", "denomination": "70分", "image": "/images/stamps/1980/T53-8.jpg"}
+    ]
+  },
+  {
+    "id": "J59", "series": "J", "type": "纪念邮票", "title": "中华人民共和国展览会", "issueDate": "1980-09-13", "year": 1980,
+    "themes": ["文化", "展会"], "designer": "卢天骄", "totalStamps": 2, "extras": [],
+    "description": "中华人民共和国展览会先后在美国**旧金山**、**芝加哥**和**纽约**举行。第一枚以中式展门和飞天散花表现开幕气氛；第二枚把金门大桥、芝加哥建筑、纽约世界贸易中心与长城并置，象征中美城市和文化交流。", "quantity": "100万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "J59 《中华人民共和国展览会》",
+    "stamps": [
+      {"sn": 1, "name": "庆祝开幕", "denomination": "8分", "image": "/images/stamps/1980/J59-1.jpg"}, {"sn": 2, "name": "友好往来", "denomination": "70分", "image": "/images/stamps/1980/J59-2.jpg"}
+    ]
+  },
+  {
+    "id": "J61", "series": "J", "type": "纪念邮票", "title": "罗马尼亚历史上第一个中央集权和独立的达契亚国建立二〇五〇周年", "issueDate": "1980-09-20", "year": 1980,
+    "themes": ["周年纪念", "罗马尼亚"], "designer": "孙传哲", "totalStamps": 1, "extras": [],
+    "description": "公元前70年，布雷比斯塔斯统一达契亚部落，建立罗马尼亚历史上早期的中央集权国家。邮票以罗马尼亚国旗和达契亚士兵为主要元素，将现代国家象征与古代历史形象结合。", "quantity": "500万枚",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "J61 《罗马尼亚历史上第一个中央集权和独立的达契亚国建立二○五○周年》",
+    "stamps": [{"sn": 1, "name": "达契亚国建立二〇五〇周年", "denomination": "8分", "image": "/images/stamps/1980/J61-1.jpg"}]
+  },
+  {
+    "id": "J60", "series": "J", "type": "纪念邮票", "title": "联合国教科文组织中国绘画艺术展览纪念", "issueDate": "1980-10-08", "year": 1980,
+    "themes": ["绘画艺术", "展会"], "designer": "邓锡清", "totalStamps": 3, "extras": [],
+    "description": "这套邮票展示三位中国现代画家的不同风格：刘海粟以奔放水墨描绘黄山云海，于非闇以工笔重彩塑造黄鹂与玉兰，吴作人则用简练水墨刻画沙漠驼队。山水、花鸟和动物题材共同呈现现代中国画的多样面貌。", "quantity": "800万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "J60 《联合国教科文组织中国绘画艺术展览纪念》",
+    "stamps": [
+      {"sn": 1, "name": "黄山云海奇观（刘海粟）", "denomination": "8分", "image": "/images/stamps/1980/J60-1.jpg"}, {"sn": 2, "name": "黄鹂玉兰（于非闇）", "denomination": "10分", "image": "/images/stamps/1980/J60-2.jpg"},
+      {"sn": 3, "name": "牧驼图（吴作人）", "denomination": "60分", "image": "/images/stamps/1980/J60-3.jpg"}
+    ]
+  },
+  {
+    "id": "T56", "series": "T", "type": "特种邮票", "title": "苏州园林—留园", "issueDate": "1980-10-25", "year": 1980,
+    "themes": ["建筑", "园林", "苏州园林"], "designer": "孙传哲", "totalStamps": 4, "extras": [],
+    "description": "**留园**位于**苏州**，以建筑空间变化、太湖石峰和庭院景观著称。四枚邮票用春、夏、秋、冬串联曲溪楼、远翠阁、涵碧山房和冠云峰，使园林建筑、花木与季节气氛彼此呼应。", "quantity": "100万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "T56 《苏州园林—留园》",
+    "stamps": [
+      {"sn": 1, "name": "春到曲溪楼", "denomination": "8分", "image": "/images/stamps/1980/T56-1.jpg"}, {"sn": 2, "name": "远翠阁之夏", "denomination": "8分", "image": "/images/stamps/1980/T56-2.jpg"},
+      {"sn": 3, "name": "涵碧山房秋色", "denomination": "10分", "image": "/images/stamps/1980/T56-3.jpg"}, {"sn": 4, "name": "冠云峰晴雪", "denomination": "60分", "image": "/images/stamps/1980/T56-4.jpg"}
+    ]
+  },
+  {
+    "id": "J58", "series": "J", "type": "纪念邮票", "title": "中国古代科学家（第三组）", "issueDate": "1980-11-20", "year": 1980,
+    "themes": ["人物", "古代人", "中国古代科学家"], "designer": "邓锡清", "totalStamps": 4, "extras": [],
+    "description": "第三组中国古代科学家邮票选取徐光启、李冰、贾思勰和黄道婆。四人分别在天文农学、水利工程、农业典籍和棉纺织技术方面留下重要成果，人物原画由范曾创作。", "quantity": "100万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "J58 《中国古代科学家（第三组）》",
+    "stamps": [
+      {"sn": 1, "name": "徐光启", "denomination": "8分", "image": "/images/stamps/1980/J58-1.jpg"}, {"sn": 2, "name": "李冰", "denomination": "8分", "image": "/images/stamps/1980/J58-2.jpg"},
+      {"sn": 3, "name": "贾思勰", "denomination": "8分", "image": "/images/stamps/1980/J58-3.jpg"}, {"sn": 4, "name": "黄道婆", "denomination": "60分", "image": "/images/stamps/1980/J58-4.jpg"}
+    ]
+  },
+  {
+    "id": "J62", "series": "J", "type": "纪念邮票", "title": "中国重返国际奥委会一周年纪念", "issueDate": "1980-11-26", "year": 1980,
+    "themes": ["体育", "奥运会"], "designer": "卢天骄", "totalStamps": 5, "extras": [],
+    "description": "1979年11月26日，国际奥委会恢复中国在国际奥委会的合法席位。五枚邮票借鉴中国古代石刻拓片的质感，以凝练线条表现射击、体操、跳水、排球和射箭运动。", "quantity": "125万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "J62 《中国重返国际奥委会一周年纪念》",
+    "stamps": [
+      {"sn": 1, "name": "射击", "denomination": "4分", "image": "/images/stamps/1980/J62-1.jpg"}, {"sn": 2, "name": "体操", "denomination": "8分", "image": "/images/stamps/1980/J62-2.jpg"},
+      {"sn": 3, "name": "跳水", "denomination": "8分", "image": "/images/stamps/1980/J62-3.jpg"}, {"sn": 4, "name": "排球", "denomination": "10分", "image": "/images/stamps/1980/J62-4.jpg"},
+      {"sn": 5, "name": "射箭", "denomination": "60分", "image": "/images/stamps/1980/J62-5.jpg"}
+    ]
+  },
+  {
+    "id": "T57", "series": "T", "type": "特种邮票", "title": "白鱀豚", "issueDate": "1980-12-15", "year": 1980,
+    "themes": ["动物", "濒危动物", "白鱀豚"], "designer": "刘硕仁", "totalStamps": 2, "extras": [],
+    "description": "白鱀豚是中国特有的淡水鲸类，曾主要栖息于**长江中下游**，被称为“水中大熊猫”。两枚邮票分别描绘一只白鱀豚悠游水面和两只白鱀豚潜游水底，留下这一极度濒危物种的生动形象。", "quantity": "150万套",
+    "source": "本地邮票资料与票面图片核对", "needsReview": true, "localImageFolder": "T57 《白暨豚》",
+    "stamps": [
+      {"sn": 1, "name": "悠然自得", "denomination": "8分", "image": "/images/stamps/1980/T57-1.jpg"}, {"sn": 2, "name": "环游潜底", "denomination": "60分", "image": "/images/stamps/1980/T57-2.jpg"}
+    ]
+  }
+]

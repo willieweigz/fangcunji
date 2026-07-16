@@ -1652,7 +1652,8 @@
   "title": "庐山和金刚山",
   "themes": [
    "山水风光",
-   "山"
+   "山",
+   "联合发行"
   ],
   "status": "confirmed"
  },
@@ -1743,7 +1744,8 @@
   "title": "马鹿",
   "themes": [
    "动物",
-   "鹿"
+   "鹿",
+   "联合发行"
   ],
   "status": "confirmed"
  },
@@ -1792,7 +1794,7 @@
    "生肖",
    "生肖龙"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-10",
@@ -1801,7 +1803,7 @@
    "共产党人",
    "老一辈革命家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-11",
@@ -1810,7 +1812,7 @@
    "历史事件",
    "跨世纪"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-12",
@@ -1819,7 +1821,7 @@
    "共产党人",
    "老一辈革命家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-13",
@@ -1828,7 +1830,7 @@
    "文物古迹",
    "青铜器"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-14",
@@ -1837,7 +1839,7 @@
    "山水风光",
    "山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-15",
@@ -1846,7 +1848,7 @@
    "6.1儿童邮票",
    "动画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-16",
@@ -1855,7 +1857,7 @@
    "历史事件",
    "区域发展"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-17",
@@ -1864,7 +1866,7 @@
    "体育",
    "奥运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-18",
@@ -1873,7 +1875,7 @@
    "山水风光",
    "海滨"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-19",
@@ -1882,7 +1884,7 @@
    "文化",
    "非物质文化遗产"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-2",
@@ -1891,7 +1893,7 @@
    "节日",
    "民俗节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-20",
@@ -1901,7 +1903,7 @@
    "古代人",
    "古代思想家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-21",
@@ -1910,7 +1912,7 @@
    "文物古迹",
    "玉器"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-22",
@@ -1919,7 +1921,7 @@
    "科技",
    "航天"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-23",
@@ -1928,7 +1930,7 @@
    "科技",
    "气象"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-24",
@@ -1937,7 +1939,7 @@
    "植物花卉",
    "花卉"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-25",
@@ -1946,7 +1948,7 @@
    "文物古迹",
    "古钟"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-3",
@@ -1956,7 +1958,7 @@
    "国家重点保护野生动物",
    "濒危动物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-4",
@@ -1965,7 +1967,7 @@
    "文物古迹",
    "瑞兽"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-5",
@@ -1975,7 +1977,7 @@
    "集邮",
    "中华全国集邮联合会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-6",
@@ -1984,7 +1986,7 @@
    "文化",
    "历史故事"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-7",
@@ -1993,7 +1995,7 @@
    "建筑",
    "桥梁"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-8",
@@ -2002,7 +2004,7 @@
    "山水风光",
    "城市"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2000-9",
@@ -2011,7 +2013,7 @@
    "文物古迹",
    "佛教"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-1",
@@ -2020,7 +2022,7 @@
    "历史事件",
    "跨世纪"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-10",
@@ -2029,7 +2031,7 @@
    "节日",
    "民俗节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-11",
@@ -2038,7 +2040,7 @@
    "共产党人",
    "中国共产党早期领导人"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-12",
@@ -2048,7 +2050,7 @@
    "党史",
    "建党"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-13",
@@ -2057,7 +2059,7 @@
    "山水风光",
    "瀑布"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-14",
@@ -2066,16 +2068,16 @@
    "山水风光",
    "海滨"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-15",
-  "title": "为中国喝彩",
+  "title": "第二十一届世界大学生运动会",
   "themes": [
    "体育",
    "奥运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-16",
@@ -2084,7 +2086,7 @@
    "历史事件",
    "水利"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-17",
@@ -2093,7 +2095,7 @@
    "科技",
    "水电"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-18",
@@ -2102,7 +2104,7 @@
    "植物花卉",
    "花卉"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-19",
@@ -2111,7 +2113,7 @@
    "建筑",
    "桥梁"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-2",
@@ -2120,7 +2122,7 @@
    "生肖",
    "生肖蛇"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-20",
@@ -2129,7 +2131,7 @@
    "文物古迹",
    "青铜器"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-21",
@@ -2139,7 +2141,7 @@
    "国际峰会",
    "APEC"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-22",
@@ -2148,7 +2150,7 @@
    "文物古迹",
    "石刻"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-23",
@@ -2157,7 +2159,7 @@
    "历史事件",
    "航海"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-24",
@@ -2166,7 +2168,7 @@
    "体育",
    "全运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-25",
@@ -2175,7 +2177,7 @@
    "山水风光",
    "山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-26",
@@ -2184,7 +2186,7 @@
    "文化",
    "民间传说"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-27",
@@ -2193,7 +2195,7 @@
    "历史事件",
    "台湾"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-28",
@@ -2202,7 +2204,7 @@
    "科技",
    "铁路"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-3",
@@ -2211,7 +2213,7 @@
    "戏曲",
    "京剧"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-4",
@@ -2221,7 +2223,7 @@
    "国家重点保护野生动物",
    "濒危动物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-5",
@@ -2230,7 +2232,7 @@
    "建筑",
    "中国古镇"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-6",
@@ -2239,7 +2241,7 @@
    "绘画艺术",
    "壁画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-7",
@@ -2248,7 +2250,7 @@
    "文学名著",
    "聊斋志异"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-8",
@@ -2258,7 +2260,7 @@
    "山",
    "道教"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2001-9",
@@ -2267,7 +2269,7 @@
    "文物古迹",
    "陶瓷"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-1",
@@ -2276,7 +2278,7 @@
    "生肖",
    "生肖马"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-10",
@@ -2285,7 +2287,7 @@
    "建筑",
    "灯塔"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-11",
@@ -2294,7 +2296,7 @@
    "体育",
    "足球"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-12",
@@ -2303,7 +2305,7 @@
    "科技",
    "水电"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-13",
@@ -2312,7 +2314,7 @@
    "文物古迹",
    "石窟"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-14",
@@ -2321,7 +2323,7 @@
    "植物花卉",
    "沙漠植物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-15",
@@ -2330,7 +2332,7 @@
    "山水风光",
    "极地"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-16",
@@ -2339,7 +2341,7 @@
    "山水风光",
    "湖泊"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-17",
@@ -2348,7 +2350,7 @@
    "解放军",
    "人民军队早期将领"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-18",
@@ -2358,7 +2360,7 @@
    "古代人",
    "中国古代科学家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-19",
@@ -2367,7 +2369,7 @@
    "山水风光",
    "山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-2",
@@ -2376,7 +2378,7 @@
    "绘画艺术",
    "古画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-20",
@@ -2385,7 +2387,7 @@
    "节日",
    "民俗节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-21",
@@ -2394,7 +2396,7 @@
    "山水风光",
    "瀑布"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-22",
@@ -2403,7 +2405,7 @@
    "建筑",
    "古建筑"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-23",
@@ -2412,7 +2414,7 @@
    "文化",
    "民间传说"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-24",
@@ -2421,7 +2423,7 @@
    "共产党人",
    "老一辈革命家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-25",
@@ -2430,7 +2432,7 @@
    "建筑",
    "博物馆建设"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-26",
@@ -2439,7 +2441,7 @@
    "体育",
    "武术"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-27",
@@ -2448,7 +2450,7 @@
    "动物",
    "濒危动物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-3",
@@ -2457,7 +2459,7 @@
    "植物花卉",
    "花卉"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-4",
@@ -2466,7 +2468,7 @@
    "文化",
    "民族乐器"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-5",
@@ -2475,7 +2477,7 @@
    "绘画艺术",
    "古画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-6",
@@ -2484,7 +2486,7 @@
    "文物古迹",
    "陶瓷"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-7",
@@ -2493,7 +2495,7 @@
    "文学名著",
    "聊斋志异"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-8",
@@ -2502,7 +2504,7 @@
    "山水风光",
    "山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2002-9",
@@ -2511,7 +2513,7 @@
    "文物古迹",
    "古城"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-1",
@@ -2520,7 +2522,7 @@
    "生肖",
    "生肖羊"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-10",
@@ -2529,7 +2531,7 @@
    "科技",
    "天文"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-11",
@@ -2538,7 +2540,7 @@
    "建筑",
    "园林"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-12",
@@ -2547,7 +2549,7 @@
    "动物",
    "濒危动物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-13",
@@ -2557,7 +2559,7 @@
    "山",
    "道教"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-14",
@@ -2566,7 +2568,7 @@
    "科技",
    "航空"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-15",
@@ -2575,7 +2577,7 @@
    "文物古迹",
    "彩塑"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-16",
@@ -2584,7 +2586,7 @@
    "体育",
    "少数民族传统体育"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-17",
@@ -2594,7 +2596,7 @@
    "古代人",
    "古代名将"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-18",
@@ -2603,7 +2605,7 @@
    "节日",
    "民俗节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-19",
@@ -2612,7 +2614,7 @@
    "文化",
    "出版"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-2",
@@ -2622,7 +2624,7 @@
    "非物质文化遗产",
    "木版年画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-20",
@@ -2631,7 +2633,7 @@
    "文化",
    "民间传说"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-21",
@@ -2640,7 +2642,7 @@
    "历史事件",
    "水利"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-22",
@@ -2649,7 +2651,7 @@
    "历史事件",
    "水利"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-23",
@@ -2659,7 +2661,7 @@
    "集邮",
    "亚洲国际集邮展览"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-24",
@@ -2668,7 +2670,7 @@
    "节日",
    "现代节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-25",
@@ -2678,7 +2680,7 @@
    "毛泽东",
    "领袖"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-26",
@@ -2687,7 +2689,7 @@
    "文物古迹",
    "青铜器"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-3",
@@ -2697,7 +2699,7 @@
    "中国古代书法",
    "篆书"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-4",
@@ -2706,7 +2708,7 @@
    "植物花卉",
    "花卉"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-5",
@@ -2715,7 +2717,7 @@
    "建筑",
    "桥梁"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-6",
@@ -2724,7 +2726,7 @@
    "建筑",
    "古建筑"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-7",
@@ -2733,7 +2735,7 @@
    "文物古迹",
    "佛教"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-8",
@@ -2742,7 +2744,7 @@
    "山水风光",
    "海滨"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2003-9",
@@ -2751,7 +2753,7 @@
    "文学名著",
    "聊斋志异"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-1",
@@ -2760,7 +2762,7 @@
    "生肖",
    "生肖猴"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-10",
@@ -2769,7 +2771,7 @@
    "文化",
    "华侨"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-11",
@@ -2778,7 +2780,7 @@
    "文化",
    "历史故事"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-12",
@@ -2787,7 +2789,7 @@
    "历史事件",
    "区域发展"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-13",
@@ -2796,7 +2798,7 @@
    "文物古迹",
    "世界文化遗产"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-14",
@@ -2805,7 +2807,7 @@
    "文化",
    "民间传说"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-15",
@@ -2814,7 +2816,7 @@
    "文化",
    "中国古代神话"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-16",
@@ -2823,7 +2825,7 @@
    "体育",
    "奥运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-17",
@@ -2833,7 +2835,7 @@
    "邓小平",
    "领袖"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-18",
@@ -2842,7 +2844,7 @@
    "植物花卉",
    "花卉"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-19",
@@ -2851,7 +2853,7 @@
    "动物",
    "濒危动物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-2",
@@ -2861,7 +2863,7 @@
    "非物质文化遗产",
    "木版年画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-20",
@@ -2870,7 +2872,7 @@
    "周年纪念",
    "全国人民代表大会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-21",
@@ -2879,7 +2881,7 @@
    "文化",
    "石雕"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-22",
@@ -2888,7 +2890,7 @@
    "文物古迹",
    "漆器"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-23",
@@ -2897,7 +2899,7 @@
    "历史事件",
    "国家象征"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-24",
@@ -2906,7 +2908,7 @@
    "山水风光",
    "边疆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-25",
@@ -2915,7 +2917,7 @@
    "建筑",
    "城市风光"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-26",
@@ -2924,17 +2926,17 @@
    "绘画艺术",
    "古画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-27",
-  "title": "中国名亭（一）",
+  "title": "中国名亭",
   "themes": [
    "建筑",
    "园林",
    "中国名亭"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-28",
@@ -2944,7 +2946,7 @@
    "中国古代书法",
    "隶书"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-3",
@@ -2953,7 +2955,7 @@
    "共产党人",
    "老一辈革命家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-4",
@@ -2962,7 +2964,7 @@
    "周年纪念",
    "中国红十字会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-5",
@@ -2971,7 +2973,7 @@
    "文化",
    "成语典故"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-6",
@@ -2980,7 +2982,7 @@
    "动物",
    "鸟类"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-7",
@@ -2989,7 +2991,7 @@
    "山水风光",
    "江河"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-8",
@@ -2998,7 +3000,7 @@
    "山水风光",
    "山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2004-9",
@@ -3007,7 +3009,7 @@
    "历史事件",
    "区域发展"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-1",
@@ -3016,7 +3018,7 @@
    "生肖",
    "生肖鸡"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-10",
@@ -3025,7 +3027,7 @@
    "山水风光",
    "海滨"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-11",
@@ -3034,7 +3036,7 @@
    "周年纪念",
    "大学建校"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-12",
@@ -3043,7 +3045,7 @@
    "6.1儿童邮票",
    "童话"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-13",
@@ -3052,7 +3054,7 @@
    "历史事件",
    "航海"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-14",
@@ -3061,7 +3063,7 @@
    "建筑",
    "博物馆建设"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-15",
@@ -3070,16 +3072,16 @@
    "山水风光",
    "自然保护区"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-16",
-  "title": "反法西斯战争胜利六十周年",
+  "title": "中国人民抗日战争暨世界反法西斯战争胜利六十周年",
   "themes": [
    "历史事件",
    "抗战胜利"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-17",
@@ -3088,7 +3090,7 @@
    "文化",
    "电影"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-18",
@@ -3097,7 +3099,7 @@
    "文化",
    "农耕"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-19",
@@ -3106,7 +3108,7 @@
    "山水风光",
    "山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-2",
@@ -3115,7 +3117,7 @@
    "历史事件",
    "能源"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-20",
@@ -3124,7 +3126,7 @@
    "解放军",
    "开国大将"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-21",
@@ -3134,7 +3136,7 @@
    "自治区成立",
    "新疆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-22",
@@ -3143,7 +3145,7 @@
    "体育",
    "全运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-23",
@@ -3152,7 +3154,7 @@
    "动物",
    "濒危动物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-24",
@@ -3161,7 +3163,7 @@
    "文物古迹",
    "遗址"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-25",
@@ -3170,7 +3172,7 @@
    "绘画艺术",
    "古画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-26",
@@ -3179,7 +3181,7 @@
    "解放军",
    "人民军队早期将领"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-27",
@@ -3189,16 +3191,16 @@
    "自治区成立",
    "西藏"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-28",
-  "title": "第29届奥林匹克运动会-会徽和吉祥物",
+  "title": "第29届奥林匹克运动会——会徽和吉祥物",
   "themes": [
    "体育",
    "奥运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-3",
@@ -3207,7 +3209,7 @@
    "文物古迹",
    "台湾"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-4",
@@ -3217,7 +3219,7 @@
    "非物质文化遗产",
    "木版年画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-5",
@@ -3226,7 +3228,7 @@
    "植物花卉",
    "花卉"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-6",
@@ -3235,7 +3237,7 @@
    "节日",
    "现代节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-7",
@@ -3244,7 +3246,7 @@
    "山水风光",
    "山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-8",
@@ -3253,7 +3255,7 @@
    "周年纪念",
    "中华全国总工会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2005-9",
@@ -3262,7 +3264,7 @@
    "绘画艺术",
    "现代画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-1",
@@ -3271,7 +3273,7 @@
    "生肖",
    "生肖狗"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-10",
@@ -3280,7 +3282,7 @@
    "历史事件",
    "民生"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-11",
@@ -3290,7 +3292,7 @@
    "现代人",
    "中国现代科学家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-12",
@@ -3299,7 +3301,7 @@
    "建筑",
    "灯塔"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-13",
@@ -3308,7 +3310,7 @@
    "科技",
    "航天"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-14",
@@ -3317,7 +3319,7 @@
    "共产党人",
    "中国共产党早期领导人"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-15",
@@ -3326,7 +3328,7 @@
    "科技",
    "铁路"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-16",
@@ -3335,7 +3337,7 @@
    "山水风光",
    "自然保护区"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-17",
@@ -3344,7 +3346,7 @@
    "历史事件",
    "抗灾"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-18",
@@ -3353,7 +3355,7 @@
    "文物古迹",
    "金银器"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-19",
@@ -3362,7 +3364,7 @@
    "体育",
    "奥运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-2",
@@ -3372,7 +3374,7 @@
    "非物质文化遗产",
    "木版年画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-20",
@@ -3381,7 +3383,7 @@
    "历史事件",
    "国际峰会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-21",
@@ -3390,7 +3392,7 @@
    "周年纪念",
    "华侨"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-22",
@@ -3399,7 +3401,7 @@
    "文化",
    "民族乐器"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-23",
@@ -3408,7 +3410,7 @@
    "文化",
    "文房四宝"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-24",
@@ -3417,7 +3419,7 @@
    "历史事件",
    "经贸"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-25",
@@ -3427,7 +3429,7 @@
    "党史",
    "长征"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-26",
@@ -3436,7 +3438,7 @@
    "历史事件",
    "国际合作"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-27",
@@ -3445,7 +3447,7 @@
    "周年纪念",
    "邮政"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-28",
@@ -3455,7 +3457,7 @@
    "现代人",
    "辛亥革命"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-29",
@@ -3464,7 +3466,7 @@
    "绘画艺术",
    "古画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-3",
@@ -3473,7 +3475,7 @@
    "文化",
    "非物质文化遗产"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-30",
@@ -3482,7 +3484,7 @@
    "科技",
    "铁路"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-4",
@@ -3491,7 +3493,7 @@
    "山水风光",
    "江河"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-5",
@@ -3500,7 +3502,7 @@
    "植物花卉",
    "树木"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-6",
@@ -3509,7 +3511,7 @@
    "动物",
    "犬"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-7",
@@ -3519,7 +3521,7 @@
    "山",
    "道教"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-8",
@@ -3528,7 +3530,7 @@
    "文物古迹",
    "石窟"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2006-9",
@@ -3537,7 +3539,7 @@
    "山水风光",
    "山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-1",
@@ -3546,7 +3548,7 @@
    "生肖",
    "生肖猪"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-10",
@@ -3555,7 +3557,7 @@
    "文化",
    "话剧"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-11",
@@ -3565,7 +3567,7 @@
    "自治区成立",
    "内蒙古"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-12",
@@ -3574,7 +3576,7 @@
    "文物古迹",
    "陵墓"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-13",
@@ -3583,7 +3585,7 @@
    "周年纪念",
    "大学建校"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-14",
@@ -3592,7 +3594,7 @@
    "文化",
    "历史故事"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-15",
@@ -3601,7 +3603,7 @@
    "建筑",
    "城市风光"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-16",
@@ -3610,7 +3612,7 @@
    "山水风光",
    "湖泊"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-17",
@@ -3620,7 +3622,7 @@
    "香港",
    "香港回归"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-18",
@@ -3629,7 +3631,7 @@
    "共产党人",
    "老一辈革命家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-19",
@@ -3638,7 +3640,7 @@
    "山水风光",
    "自然保护区"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-2",
@@ -3647,7 +3649,7 @@
    "体育",
    "亚运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-20",
@@ -3657,7 +3659,7 @@
    "集邮",
    "中华全国集邮联合会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-21",
@@ -3666,7 +3668,7 @@
    "解放军",
    "建军"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-22",
@@ -3675,7 +3677,7 @@
    "体育",
    "奥运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-23",
@@ -3684,7 +3686,7 @@
    "山水风光",
    "火山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-24",
@@ -3693,7 +3695,7 @@
    "山水风光",
    "湖泊"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-25",
@@ -3702,7 +3704,7 @@
    "山水风光",
    "山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-26",
@@ -3711,7 +3713,7 @@
    "体育",
    "足球"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-27",
@@ -3720,7 +3722,7 @@
    "体育",
    "残疾人体育"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-28",
@@ -3729,7 +3731,7 @@
    "文物古迹",
    "遗址"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-29",
@@ -3739,7 +3741,7 @@
    "党史",
    "十七大"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-3",
@@ -3748,17 +3750,17 @@
    "文物古迹",
    "陶瓷"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-30",
-  "title": "中国古代书法-楷书",
+  "title": "中国古代书法——楷书",
   "themes": [
    "书法艺术",
    "中国古代书法",
    "楷书"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-31",
@@ -3768,16 +3770,16 @@
    "世博会",
    "上海"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-32",
-  "title": "第29届奥林匹克运动会-竞赛场馆",
+  "title": "第29届奥林匹克运动会——竞赛场馆",
   "themes": [
    "体育",
    "奥运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-4",
@@ -3787,7 +3789,7 @@
    "非物质文化遗产",
    "木版年画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-5",
@@ -3796,7 +3798,7 @@
    "戏曲",
    "京剧"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-6",
@@ -3805,7 +3807,7 @@
    "绘画艺术",
    "现代画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-7",
@@ -3814,7 +3816,7 @@
    "建筑",
    "园林"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-8",
@@ -3823,7 +3825,7 @@
    "文化",
    "非物质文化遗产"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2007-9",
@@ -3832,7 +3834,7 @@
    "历史事件",
    "金融"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-1",
@@ -3841,7 +3843,7 @@
    "生肖",
    "生肖鼠"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-10",
@@ -3850,7 +3852,7 @@
    "建筑",
    "园林"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-11",
@@ -3859,7 +3861,7 @@
    "山水风光",
    "湖泊"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-12",
@@ -3868,7 +3870,7 @@
    "体育",
    "奥运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-13",
@@ -3877,7 +3879,7 @@
    "文化",
    "历史故事"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-14",
@@ -3886,7 +3888,7 @@
    "历史事件",
    "区域发展"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-15",
@@ -3895,7 +3897,7 @@
    "历史事件",
    "民生"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-16",
@@ -3904,17 +3906,17 @@
    "绘画艺术",
    "壁画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-17",
-  "title": "古代名将-戚继光",
+  "title": "古代名将——戚继光",
   "themes": [
    "人物",
    "古代人",
    "古代名将"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-18",
@@ -3923,7 +3925,7 @@
    "体育",
    "奥运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-19",
@@ -3932,7 +3934,7 @@
    "体育",
    "奥运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-2",
@@ -3942,7 +3944,7 @@
    "非物质文化遗产",
    "木版年画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-20",
@@ -3951,7 +3953,7 @@
    "体育",
    "奥运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-21",
@@ -3960,7 +3962,7 @@
    "文化",
    "电视"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-22",
@@ -3969,7 +3971,7 @@
    "体育",
    "残疾人体育"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-23",
@@ -3978,7 +3980,7 @@
    "周年纪念",
    "大学建校"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-24",
@@ -3988,7 +3990,7 @@
    "自治区成立",
    "宁夏"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-25",
@@ -3997,7 +3999,7 @@
    "建筑",
    "机场"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-26",
@@ -4007,7 +4009,7 @@
    "自治区成立",
    "广西"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-27",
@@ -4016,7 +4018,7 @@
    "历史事件",
    "国际峰会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-28",
@@ -4026,7 +4028,7 @@
    "党史",
    "改革开放"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-3",
@@ -4035,7 +4037,7 @@
    "戏曲",
    "京剧"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-4",
@@ -4044,7 +4046,7 @@
    "动物",
    "鸟类"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-5",
@@ -4053,16 +4055,16 @@
    "历史事件",
    "人大"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-6",
-  "title": "第29届奥林匹克运动会-火炬接力",
+  "title": "第29届奥林匹克运动会——火炬接力",
   "themes": [
    "体育",
    "奥运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-7",
@@ -4071,7 +4073,7 @@
    "文物古迹",
    "佛教"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-8",
@@ -4080,7 +4082,7 @@
    "建筑",
    "桥梁"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2008-9",
@@ -4089,7 +4091,7 @@
    "建筑",
    "城市风光"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-1",
@@ -4098,7 +4100,7 @@
    "生肖",
    "生肖牛"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-10",
@@ -4107,7 +4109,7 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-11",
@@ -4116,7 +4118,7 @@
    "建筑",
    "桥梁"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-12",
@@ -4125,7 +4127,7 @@
    "共产党人",
    "老一辈革命家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-13",
@@ -4134,7 +4136,7 @@
    "体育",
    "亚运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-14",
@@ -4143,7 +4145,7 @@
    "山水风光",
    "自然保护区"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-15",
@@ -4152,7 +4154,7 @@
    "建筑",
    "现代建筑"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-16",
@@ -4161,7 +4163,7 @@
    "文物古迹",
    "佛教"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-17",
@@ -4171,7 +4173,7 @@
    "古建筑",
    "中国历代名楼"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-18",
@@ -4180,7 +4182,7 @@
    "山水风光",
    "世界自然遗产"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-19",
@@ -4189,7 +4191,7 @@
    "建筑",
    "现代建筑"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-2",
@@ -4199,7 +4201,7 @@
    "非物质文化遗产",
    "木版年画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-20",
@@ -4208,7 +4210,7 @@
    "文学名著",
    "诗词"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-21",
@@ -4217,7 +4219,7 @@
    "周年纪念",
    "大学建校"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-22",
@@ -4226,7 +4228,7 @@
    "周年纪念",
    "政协"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-23",
@@ -4235,7 +4237,7 @@
    "文物古迹",
    "水利"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-24",
@@ -4244,7 +4246,7 @@
    "体育",
    "全运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-25",
@@ -4253,7 +4255,7 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-26",
@@ -4263,7 +4265,7 @@
    "国庆",
    "阅兵"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-27",
@@ -4272,7 +4274,7 @@
    "文物古迹",
    "书院"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-28",
@@ -4281,7 +4283,7 @@
    "建筑",
    "桥梁"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-29",
@@ -4290,16 +4292,16 @@
    "戏曲",
    "京剧"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-3",
-  "title": "薄一波同志诞生100周年",
+  "title": "薄一波同志诞生一百周年",
   "themes": [
    "共产党人",
    "老一辈革命家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-30",
@@ -4309,7 +4311,7 @@
    "澳门",
    "澳门回归"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-31",
@@ -4318,7 +4320,7 @@
    "历史事件",
    "党史"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-4",
@@ -4327,7 +4329,7 @@
    "体育",
    "大运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-5",
@@ -4336,7 +4338,7 @@
    "科技",
    "电力"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-6",
@@ -4345,7 +4347,7 @@
    "绘画艺术",
    "古画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-7",
@@ -4355,7 +4357,7 @@
    "集邮",
    "世界集邮展览"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-8",
@@ -4364,7 +4366,7 @@
    "历史事件",
    "世博会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2009-9",
@@ -4373,7 +4375,7 @@
    "文物古迹",
    "古城"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "2010-1",
@@ -8874,7 +8876,8 @@
   "themes": [
    "山水风光",
    "城市风光",
-   "山东"
+   "山东",
+   "泉"
   ],
   "status": "confirmed"
  },
@@ -8895,7 +8898,7 @@
    "邮政",
    "万国邮政联盟"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J10",
@@ -8904,7 +8907,7 @@
    "历史事件",
    "青年"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J100",
@@ -9008,7 +9011,7 @@
    "现代人",
    "中国现代文学家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J110",
@@ -9112,7 +9115,7 @@
    "共产党人",
    "英模"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J120",
@@ -9213,7 +9216,7 @@
    "共产党人",
    "领袖"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J130",
@@ -9310,12 +9313,12 @@
  },
  {
   "id": "J14",
-  "title": "台湾省人民“二.二八”起义三十周年",
+  "title": "台湾省人民“二·二八”起义三十周年",
   "themes": [
    "历史事件",
    "台湾"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J140",
@@ -9418,7 +9421,7 @@
    "工业",
    "学大庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J150",
@@ -9519,7 +9522,7 @@
    "自治区成立",
    "内蒙古"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J160",
@@ -9619,7 +9622,7 @@
    "周年纪念",
    "罗马尼亚"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J170",
@@ -9715,12 +9718,12 @@
  },
  {
   "id": "J18",
-  "title": "纪念《在延安文艺座谈会上的的讲话》发表三十五周年",
+  "title": "纪念《在延安文艺座谈会上的讲话》发表三十五周年",
   "themes": [
    "周年纪念",
    "延安文艺座谈会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J180",
@@ -9783,16 +9786,16 @@
    "共产党人",
    "领袖"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J2",
-  "title": "中国人民共和国成立二十五周年（第一组）-团结起来，争取更大胜利",
+  "title": "中华人民共和国成立二十五周年（第一组）",
   "themes": [
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J20",
@@ -9801,7 +9804,7 @@
    "解放军",
    "建军"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J21",
@@ -9811,7 +9814,7 @@
    "毛泽东",
    "领袖"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J22",
@@ -9821,7 +9824,7 @@
    "纪念建筑",
    "毛泽东"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J23",
@@ -9831,7 +9834,7 @@
    "党史",
    "十一大"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J24",
@@ -9840,7 +9843,7 @@
    "历史事件",
    "人大"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J25",
@@ -9849,7 +9852,7 @@
    "历史事件",
    "科技大会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J26",
@@ -9858,7 +9861,7 @@
    "解放军",
    "雷锋"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J27",
@@ -9868,7 +9871,7 @@
    "现代人",
    "妇女"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J28",
@@ -9878,7 +9881,7 @@
    "学大庆",
    "学大寨"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J29",
@@ -9888,7 +9891,7 @@
    "自治区成立",
    "宁夏"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J3",
@@ -9897,7 +9900,7 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J30",
@@ -9906,7 +9909,7 @@
    "历史事件",
    "妇女"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J31",
@@ -9915,7 +9918,7 @@
    "历史事件",
    "工人运动"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J32",
@@ -9924,7 +9927,7 @@
    "历史事件",
    "共青团"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J33",
@@ -9934,7 +9937,7 @@
    "自治区成立",
    "广西"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J34",
@@ -9943,7 +9946,7 @@
    "历史事件",
    "中日关系"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J35",
@@ -9952,7 +9955,7 @@
    "节日",
    "现代节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J36",
@@ -9961,7 +9964,7 @@
    "人物",
    "科学家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J37",
@@ -9970,7 +9973,7 @@
    "历史事件",
    "五四运动"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J38",
@@ -9979,7 +9982,7 @@
    "历史事件",
    "青少年"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J39",
@@ -9988,7 +9991,7 @@
    "文化",
    "文艺"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J4",
@@ -9997,7 +10000,7 @@
    "周年纪念",
    "阿尔巴尼亚"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J40",
@@ -10007,7 +10010,7 @@
    "青少年",
    "科技创新"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J41",
@@ -10036,7 +10039,7 @@
    "体育",
    "全运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J44",
@@ -10045,7 +10048,7 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J45",
@@ -10054,16 +10057,16 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J46",
-  "title": "中华人民共和国成立三十周年（第三组）-国歌",
+  "title": "中华人民共和国成立三十周年（第三组）",
   "themes": [
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J47",
@@ -10072,7 +10075,7 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J48",
@@ -10081,7 +10084,7 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J49",
@@ -10090,16 +10093,16 @@
    "共产党人",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J5",
-  "title": "中国人民共和国第四届全国人民代表大会",
+  "title": "中华人民共和国第四届全国人民代表大会",
   "themes": [
    "历史事件",
    "人大"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J50",
@@ -10108,7 +10111,7 @@
    "人物",
    "国际主义战士"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J51",
@@ -10118,7 +10121,7 @@
    "现代节日",
    "档案"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J52",
@@ -10128,16 +10131,16 @@
    "学术会议",
    "中国科学技术协会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J53",
-  "title": "“三八”国际劳动妇女节七十周年-蔡特金像",
+  "title": "“三八”国际劳动妇女节七十周年",
   "themes": [
    "节日",
    "现代节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J54",
@@ -10147,7 +10150,7 @@
    "奥运会",
    "冬奥会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J55",
@@ -10157,7 +10160,7 @@
    "古代人",
    "佛教"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J56",
@@ -10166,7 +10169,7 @@
    "节日",
    "现代节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J57",
@@ -10175,7 +10178,7 @@
    "共产党人",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J58",
@@ -10185,7 +10188,7 @@
    "古代人",
    "中国古代科学家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J59",
@@ -10194,7 +10197,7 @@
    "文化",
    "展会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J6",
@@ -10203,7 +10206,7 @@
    "体育",
    "全运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J60",
@@ -10212,7 +10215,7 @@
    "绘画艺术",
    "展会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J61",
@@ -10221,7 +10224,7 @@
    "周年纪念",
    "罗马尼亚"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J62",
@@ -10230,17 +10233,17 @@
    "体育",
    "奥运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J63",
-  "title": "中华人民共和国邮票展览.日本",
+  "title": "中华人民共和国邮票展览·日本",
   "themes": [
    "文化",
    "集邮",
    "日本"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J64",
@@ -10250,7 +10253,7 @@
    "党史",
    "建党"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J65",
@@ -10260,7 +10263,7 @@
    "现代节日",
    "安全生产"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J66",
@@ -10270,7 +10273,7 @@
    "现代节日",
    "质量"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J67",
@@ -10280,7 +10283,7 @@
    "现代人",
    "中国现代文学家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J68",
@@ -10289,17 +10292,17 @@
    "历史事件",
    "辛亥革命"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J69",
-  "title": "世界电信日──电信与卫生",
+  "title": "世界电信日—电信与卫生",
   "themes": [
    "节日",
    "现代节日",
    "通信"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J7",
@@ -10309,7 +10312,7 @@
    "农业",
    "学大寨"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J70",
@@ -10318,7 +10321,7 @@
    "文化",
    "邮政"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J71",
@@ -10327,7 +10330,7 @@
    "体育",
    "乒乓球"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J72",
@@ -10337,17 +10340,17 @@
    "民生",
    "残疾人"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J73",
-  "title": "亚州议员人口和发展会议",
+  "title": "亚洲议员人口和发展会议",
   "themes": [
    "历史事件",
    "国际会议",
    "人口"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J74",
@@ -10357,7 +10360,7 @@
    "科学家",
    "医学"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J75",
@@ -10367,7 +10370,7 @@
    "现代人",
    "中国现代音乐家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J76",
@@ -10376,7 +10379,7 @@
    "体育",
    "排球"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J77",
@@ -10386,7 +10389,7 @@
    "民生",
    "环保"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J78",
@@ -10395,7 +10398,7 @@
    "历史事件",
    "民生"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J79",
@@ -10405,7 +10408,7 @@
    "中国地质学会",
    "地质"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J8",
@@ -10414,7 +10417,7 @@
    "历史事件",
    "建设成就"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J80",
@@ -10424,7 +10427,7 @@
    "现代节日",
    "粮食"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J81",
@@ -10434,7 +10437,7 @@
    "国际会议",
    "航天"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J82",
@@ -10443,16 +10446,16 @@
    "共产党人",
    "老一辈革命家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J83",
-  "title": "柯隶华逝世四十周年",
+  "title": "柯棣华逝世四十周年",
   "themes": [
    "人物",
    "国际主义战士"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J84",
@@ -10463,7 +10466,7 @@
    "联合发行",
    "日本"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J85",
@@ -10473,7 +10476,7 @@
    "集邮",
    "中华全国集邮联合会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J86",
@@ -10483,7 +10486,7 @@
    "党史",
    "十二大"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J87",
@@ -10493,7 +10496,7 @@
    "现代人",
    "中国现代文学家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J88",
@@ -10502,7 +10505,7 @@
    "历史事件",
    "共青团"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J89",
@@ -10522,7 +10525,7 @@
    "政治运动",
    "五七干校"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "J90",
@@ -10624,7 +10627,7 @@
    "体育",
    "体操"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T10",
@@ -10633,7 +10636,7 @@
    "解放军",
    "民兵"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T100",
@@ -10740,7 +10743,7 @@
    "革命纪念地",
    "韶山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T110",
@@ -10842,7 +10845,7 @@
    "科技",
    "医疗卫生"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T120",
@@ -10944,7 +10947,7 @@
    "农业",
    "农业机械化"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T130",
@@ -11046,7 +11049,7 @@
    "6.1儿童邮票",
    "儿童生活"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T140",
@@ -11149,7 +11152,7 @@
    "登山",
    "珠峰"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T150",
@@ -11252,7 +11255,7 @@
    "科技",
    "电力"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T160",
@@ -11345,7 +11348,7 @@
    "历史事件",
    "知识青年"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T18",
@@ -11354,7 +11357,7 @@
    "历史事件",
    "教育"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T19",
@@ -11364,7 +11367,7 @@
    "能源",
    "石油"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T2",
@@ -11373,7 +11376,7 @@
    "文化",
    "杂技"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T20",
@@ -11382,7 +11385,7 @@
    "科技",
    "矿业"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T21",
@@ -11391,7 +11394,7 @@
    "6.1儿童邮票",
    "儿童体育"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T22",
@@ -11401,7 +11404,7 @@
    "农业",
    "学大寨"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T23",
@@ -11410,7 +11413,7 @@
    "解放军",
    "军民团结"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T24",
@@ -11419,7 +11422,7 @@
    "科技",
    "气象"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T25",
@@ -11428,7 +11431,7 @@
    "科技",
    "化纤"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T26",
@@ -11437,7 +11440,7 @@
    "科技",
    "钢铁"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T27",
@@ -11447,7 +11450,7 @@
    "农业",
    "畜牧业"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T28",
@@ -11457,7 +11460,7 @@
    "现代画",
    "马"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T29",
@@ -11466,7 +11469,7 @@
    "文化",
    "工艺美术"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T3",
@@ -11476,7 +11479,7 @@
    "现代画",
    "农民画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T30",
@@ -11485,7 +11488,7 @@
    "植物花卉",
    "药用植物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T31",
@@ -11494,7 +11497,7 @@
    "建筑",
    "桥梁"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T32",
@@ -11503,7 +11506,7 @@
    "解放军",
    "硬骨头六连"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T33",
@@ -11513,7 +11516,7 @@
    "古画",
    "长沙楚墓帛画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T34",
@@ -11523,7 +11526,7 @@
    "江南",
    "水乡"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T35",
@@ -11533,7 +11536,7 @@
    "鸟类",
    "鸡"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T36",
@@ -11542,7 +11545,7 @@
    "科技",
    "铁路"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T37",
@@ -11552,7 +11555,7 @@
    "花卉",
    "山茶花"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T38",
@@ -11562,7 +11565,7 @@
    "世界文化遗产",
    "长城"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T39",
@@ -11572,7 +11575,7 @@
    "农业",
    "人民公社"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T4",
@@ -11582,7 +11585,7 @@
    "工业",
    "学大庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T40",
@@ -11592,7 +11595,7 @@
    "濒危动物",
    "虎"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T41",
@@ -11602,7 +11605,7 @@
    "青少年",
    "科学教育"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T42",
@@ -11611,16 +11614,16 @@
    "山水风光",
    "台湾"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T43",
-  "title": "中国古典小说—西游记",
+  "title": "中国古典小说——《西游记》",
   "themes": [
    "文学名著",
    "西游记"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T44",
@@ -11629,7 +11632,7 @@
    "绘画艺术",
    "现代画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T45",
@@ -11638,7 +11641,7 @@
    "戏曲",
    "京剧"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T46",
@@ -11647,7 +11650,7 @@
    "生肖",
    "生肖猴"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T47",
@@ -11656,7 +11659,7 @@
    "建筑",
    "机场"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T48",
@@ -11665,7 +11668,7 @@
    "历史事件",
    "环保"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T49",
@@ -11674,7 +11677,7 @@
    "文化",
    "邮政"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T5",
@@ -11684,7 +11687,7 @@
    "农业",
    "学大寨"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T50",
@@ -11693,7 +11696,7 @@
    "文化",
    "风筝"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T51",
@@ -11702,7 +11705,7 @@
    "6.1儿童邮票",
    "童话"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T52",
@@ -11711,7 +11714,7 @@
    "动物",
    "鹿"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T53",
@@ -11721,7 +11724,7 @@
    "山",
    "桂林"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T54",
@@ -11731,7 +11734,7 @@
    "花卉",
    "荷花"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T55",
@@ -11740,7 +11743,7 @@
    "山水风光",
    "西双版纳"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T56",
@@ -11750,7 +11753,7 @@
    "园林",
    "苏州园林"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T57",
@@ -11760,7 +11763,7 @@
    "濒危动物",
    "白鱀豚"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T58",
@@ -11769,7 +11772,7 @@
    "生肖",
    "生肖鸡"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T59",
@@ -11778,7 +11781,7 @@
    "文化",
    "成语典故"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T6",
@@ -11787,7 +11790,7 @@
    "历史事件",
    "经贸"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T60",
@@ -11797,7 +11800,7 @@
    "民间工艺",
    "宫灯"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T61",
@@ -11806,7 +11809,7 @@
    "文化",
    "盆景"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T62",
@@ -11815,7 +11818,7 @@
    "文物古迹",
    "陶瓷"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T63",
@@ -11825,7 +11828,7 @@
    "农业",
    "畜牧业"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T64",
@@ -11835,7 +11838,7 @@
    "喀斯特",
    "石林"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T65",
@@ -11844,7 +11847,7 @@
    "文物古迹",
    "中国古代钱币"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T66",
@@ -11854,7 +11857,7 @@
    "菌类",
    "食用菌"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T67",
@@ -11864,7 +11867,7 @@
    "山",
    "庐山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T68",
@@ -11874,16 +11877,16 @@
    "国家重点保护野生动物",
    "紫貂"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T69",
-  "title": "红楼梦",
+  "title": "红楼梦—金陵十二钗",
   "themes": [
    "文学名著",
    "红楼梦"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T7",
@@ -11892,7 +11895,7 @@
    "体育",
    "武术"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T70",
@@ -11901,7 +11904,7 @@
    "生肖",
    "生肖狗"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T71",
@@ -11910,7 +11913,7 @@
    "文物古迹",
    "中国古代钱币"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T72",
@@ -11919,7 +11922,7 @@
    "植物花卉",
    "药用植物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T73",
@@ -11929,7 +11932,7 @@
    "地质",
    "矿物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T74",
@@ -11938,7 +11941,7 @@
    "文物古迹",
    "彩塑"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T75",
@@ -11947,7 +11950,7 @@
    "文物古迹",
    "青铜器"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T76",
@@ -11957,7 +11960,7 @@
    "民生",
    "消防"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T77",
@@ -11967,7 +11970,7 @@
    "古画",
    "扇面画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T78",
@@ -11976,7 +11979,7 @@
    "科技",
    "天文"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T79",
@@ -11986,7 +11989,7 @@
    "鸟类",
    "益鸟"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T8",
@@ -11996,7 +11999,7 @@
    "政治运动",
    "批林批孔"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T80",
@@ -12100,7 +12103,7 @@
    "现代人",
    "教育"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "T90",
@@ -12303,7 +12306,7 @@
    "现代人",
    "模范人物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文2",
@@ -12436,7 +12439,7 @@
    "普票",
    "革命圣地"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "普15",
@@ -12445,7 +12448,7 @@
    "普票",
    "交通运输"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "普16",
@@ -12454,7 +12457,7 @@
    "普票",
    "革命圣地"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "普17",
@@ -12463,7 +12466,7 @@
    "普票",
    "北京建筑"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "普18",
@@ -12472,7 +12475,7 @@
    "普票",
    "工农业生产"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "普19",
@@ -12481,7 +12484,7 @@
    "普票",
    "北京长话大楼"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "普2",
@@ -12499,7 +12502,7 @@
    "普票",
    "北京风景"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "普21",
@@ -12508,7 +12511,7 @@
    "普票",
    "祖国风光"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "普22",
@@ -12517,7 +12520,7 @@
    "普票",
    "祖国风光"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "普22甲",
@@ -12526,7 +12529,7 @@
    "普票",
    "祖国风光"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "普23",
@@ -12617,7 +12620,7 @@
    "普票",
    "环保"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "普31",
@@ -12626,7 +12629,7 @@
    "普票",
    "中国鸟"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "普32",
@@ -14640,7 +14643,7 @@
    "京剧",
    "样板戏"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号12-20",
@@ -14650,7 +14653,7 @@
    "党史",
    "建党"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号21-24",
@@ -14659,7 +14662,7 @@
    "体育",
    "乒乓球"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号25-28",
@@ -14668,7 +14671,7 @@
    "周年纪念",
    "阿尔巴尼亚"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号29",
@@ -14688,7 +14691,7 @@
    "交通",
    "船舶"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号33-38",
@@ -14697,7 +14700,7 @@
    "周年纪念",
    "延安文艺座谈会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号39-43",
@@ -14706,7 +14709,7 @@
    "体育",
    "群众体育"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号44",
@@ -14716,7 +14719,7 @@
    "现代人",
    "模范人物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号45-48",
@@ -14725,7 +14728,7 @@
    "体育",
    "乒乓球"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号49-52",
@@ -14735,7 +14738,7 @@
    "水利",
    "红旗渠"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号53-56",
@@ -14745,7 +14748,7 @@
    "舞剧",
    "样板戏"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号57-62",
@@ -14755,7 +14758,7 @@
    "濒危动物",
    "熊猫"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号63-65",
@@ -14765,7 +14768,7 @@
    "现代人",
    "妇女"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号66-77",
@@ -14774,7 +14777,7 @@
    "文物古迹",
    "出土文物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号7",
@@ -14783,7 +14786,7 @@
    "解放军",
    "国防"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号78-81",
@@ -14792,7 +14795,7 @@
    "科技",
    "工业产品"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号8-11",
@@ -14801,7 +14804,7 @@
    "历史事件",
    "巴黎公社"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号82-85",
@@ -14811,7 +14814,7 @@
    "医疗卫生",
    "赤脚医生"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号86-90",
@@ -14820,7 +14823,7 @@
    "6.1儿童邮票",
    "儿童歌舞"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号91-94",
@@ -14829,7 +14832,7 @@
    "体育",
    "乒乓球"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号95",
@@ -14838,7 +14841,7 @@
    "历史事件",
    "经贸"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "贺1",

@@ -1,0 +1,281 @@
+[
+  {
+    "id": "编号33-38",
+    "series": "编",
+    "type": "纪念邮票",
+    "title": "纪念《在延安文艺座谈会上的讲话》发表三十周年",
+    "issueDate": "1972-05-23",
+    "year": 1972,
+    "themes": [
+      "周年纪念",
+      "延安文艺座谈会"
+    ],
+    "designer": "许彦博、张克让、张源、杨白子、李印清",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "1942年5月，**毛泽东**（1893-1976）在**延安**主持文艺工作者座谈会并发表讲话，阐述革命文艺面向人民大众、服务工农兵的方向。六枚邮票从座谈会会址出发，依次表现高唱革命歌曲、街头剧《兄妹开荒》、文艺工作者边劳动边宣传，以及深入农村和工矿为群众演出《红灯记》《红色娘子军》等场景，形成从理论讨论到基层文艺实践的连续叙事。",
+    "quantity": "700万套",
+    "source": "https://www.chinapost.com.cn/xhtml1/report/19091/3730-1.htm",
+    "needsReview": true,
+    "localImageFolder": "编号33-38 《纪念《在延安文艺座谈会上的讲话》发表三十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "座谈会会址",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号33-38-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "高唱革命歌曲",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号33-38-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "街头剧《兄妹开荒》",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号33-38-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "文艺工作者深入工农兵，边劳动边宣传",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号33-38-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "深入农村为贫下中农演出《红灯记》",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号33-38-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "深入工厂矿山为工人演出《红色娘子军》",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号33-38-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "编号39-43",
+    "series": "编",
+    "type": "特种邮票",
+    "title": "发展体育运动",
+    "issueDate": "1972-06-10",
+    "year": 1972,
+    "themes": [
+      "体育",
+      "群众体育"
+    ],
+    "designer": "吴建坤",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "1952年，**毛泽东**（1893-1976）为中华全国体育总会成立大会题写“发展体育运动，增强人民体质”。题词发表二十周年之际发行的这套邮票，将体育放在工农兵和青少年日常生活中表现：五项球类运动、工人做广播体操、农民拔河、解放军爬山拉练，以及青少年跳水和游泳，展示群众体育广泛开展的时代图景。",
+    "quantity": "1000万套",
+    "source": "https://www.chinapost.com.cn/xhtml1/report/1909/3612-1.htm",
+    "needsReview": true,
+    "localImageFolder": "编号39-43 《发展体育运动》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "五项球类运动",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号39-43-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "工人做广播体操",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号39-43-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "农民做拔河活动",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号39-43-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "解放军爬山拉练",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号39-43-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "青少年跳水、游泳",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号39-43-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "编号29-32",
+    "series": "编",
+    "type": "特种邮票",
+    "title": "轮船",
+    "issueDate": "1972-07-10",
+    "year": 1972,
+    "themes": [
+      "科技",
+      "交通",
+      "船舶"
+    ],
+    "designer": "杨白子、吴建坤",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "这套邮票集中展示20世纪70年代初中国自行建造的四种大型船舶。“风雷”号是**上海造船厂**建造的远洋货轮；“大庆30”号是**大连红旗造船厂**建造的油轮；“长征”号由**上海沪东造船厂**建造，兼具客运与货运功能；“险峰”号则是**江南造船厂**建造的挖泥船。四枚横幅画面分别呈现远洋运输、石油运输、客货运输和航道疏浚等用途，记录当时造船工业的技术进展。",
+    "quantity": "800万套",
+    "source": "https://www.chinapost.com.cn/xhtml1/report/19091/3719-1.htm",
+    "needsReview": true,
+    "localImageFolder": "编号29-32 《轮船》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "“风雷”号远洋货轮",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号29-32-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "“大庆30”号油轮",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号29-32-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "“长征”号远洋客货轮",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号29-32-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "“险峰”号挖泥船",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号29-32-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "编号45-48",
+    "series": "编",
+    "type": "纪念邮票",
+    "title": "第一届亚洲乒乓球锦标赛",
+    "issueDate": "1972-09-02",
+    "year": 1972,
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
+    "designer": "杨白子、吴敏",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "第一届亚洲乒乓球锦标赛于1972年9月2日至13日在**北京**举行，来自31个国家和地区的运动员参赛，中国队获得女子团体和女子单打冠军。四枚邮票以锦标赛纪念章、欢迎来宾、赛场对抗和运动员友谊为内容，既记录竞技体育，也延续了当时以乒乓球促进国际交往的主题。本套邮票发行时还恢复了中断多年的首日封制作。",
+    "quantity": "300万套",
+    "source": "https://www.chinapost.com.cn/xhtml1/report/1909/3617-1.htm",
+    "needsReview": true,
+    "localImageFolder": "编号45-48 《第一届亚洲乒乓球锦标赛》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "第一届亚洲乒乓球锦标赛纪念章",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号45-48-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "欢迎",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号45-48-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "比赛",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号45-48-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "友谊",
+        "denomination": "22分",
+        "image": "/images/stamps/1972/编号45-48-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "编号44",
+    "series": "编",
+    "type": "纪念邮票",
+    "title": "中国工人阶级的先锋战士——铁人王进喜",
+    "issueDate": "1972-12-25",
+    "year": 1972,
+    "themes": [
+      "人物",
+      "现代人",
+      "模范人物"
+    ],
+    "designer": "孙鸿年",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**王进喜**（1923-1970）是全国劳动模范和**大庆油田**石油工人的代表人物。1960年，他率领钻井队参加大庆石油大会战，在设备和物资紧缺的条件下坚持施工，因拼搏精神被誉为“铁人”。邮票取材于大庆工人与上海美术出版社合作创作的原画，采用影雕套印，以王进喜在钻井现场工作的形象纪念中国石油工业实现基本自给的重要阶段。",
+    "quantity": "1000万套",
+    "source": "https://www.chinapost.com.cn/xhtml1/report/1909/3615-1.htm",
+    "needsReview": true,
+    "localImageFolder": "编号44 《中国工人阶级的先锋战士—铁人王进喜》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "铁人王进喜在工作",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号44-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "编号49-52",
+    "series": "编",
+    "type": "特种邮票",
+    "title": "红旗渠",
+    "issueDate": "1972-12-30",
+    "year": 1972,
+    "themes": [
+      "历史事件",
+      "水利",
+      "红旗渠"
+    ],
+    "designer": "杨白子、许彦博",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "红旗渠是**河南林县**人民为解决长期缺水问题，自1960年起在**太行山**开凿的大型引水工程，从**山西平顺县**引漳河水入林县，经过近十年建设形成总干渠、分干渠和配套灌溉网络。四枚邮票分别表现“愚公移山”的施工场景、穿山而过的青年洞、跨越沟谷的桃园桥和灌区“人间天河”，以工程节点串联开山凿渠的全过程。",
+    "quantity": "800万套",
+    "source": "https://www.chinapost.com.cn/xhtml1/report/1909/3619-1.htm",
+    "needsReview": true,
+    "localImageFolder": "编号49-52 《红旗渠》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "愚公移山",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号49-52-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "青年洞",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号49-52-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "桃园桥",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号49-52-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "人间天河",
+        "denomination": "8分",
+        "image": "/images/stamps/1972/编号49-52-4.jpg"
+      }
+    ]
+  }
+]

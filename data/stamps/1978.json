@@ -1,0 +1,267 @@
+[
+  {
+    "id": "T19", "series": "T", "type": "特种邮票", "title": "发展中的石油工业", "issueDate": "1978-01-31", "year": 1978,
+    "themes": ["科技", "能源", "石油"], "designer": "袁运甫", "totalStamps": 6, "extras": [],
+    "description": "六枚邮票以**石油工业**的完整生产链为线索：从钻机整体搬迁、陆上采油和油田建设，到炼油、管线输油及海上钻探，集中展示20世纪70年代中国石油勘探、开采、加工和运输的技术面貌。",
+    "quantity": "1050万套", "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T19 《发展中的石油工业》",
+    "stamps": [
+      {"sn": 1, "name": "钻机整体搬家", "denomination": "8分", "image": "/images/stamps/1978/T19-1.jpg"},
+      {"sn": 2, "name": "采油", "denomination": "8分", "image": "/images/stamps/1978/T19-2.jpg"},
+      {"sn": 3, "name": "油田建设", "denomination": "8分", "image": "/images/stamps/1978/T19-3.jpg"},
+      {"sn": 4, "name": "炼油", "denomination": "8分", "image": "/images/stamps/1978/T19-4.jpg"},
+      {"sn": 5, "name": "输油", "denomination": "8分", "image": "/images/stamps/1978/T19-5.jpg"},
+      {"sn": 6, "name": "海上钻探", "denomination": "20分", "image": "/images/stamps/1978/T19-6.jpg"}
+    ]
+  },
+  {
+    "id": "T23", "series": "T", "type": "特种邮票", "title": "军民一家人", "issueDate": "1978-02-05", "year": 1978,
+    "themes": ["解放军", "军民团结"], "designer": "邵柏林", "totalStamps": 2, "extras": [],
+    "description": "两枚邮票分别表现军民共同抢险、并肩战斗和一起参加农业生产的场景，以人物相互协作的构图表达**军民团结**主题。", "quantity": "1050万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T23 《军民一家人》",
+    "stamps": [
+      {"sn": 1, "name": "团结战斗", "denomination": "8分", "image": "/images/stamps/1978/T23-1.jpg"},
+      {"sn": 2, "name": "共夺丰收", "denomination": "8分", "image": "/images/stamps/1978/T23-2.jpg"}
+    ]
+  },
+  {
+    "id": "J24", "series": "J", "type": "纪念邮票", "title": "中华人民共和国第五届全国人民代表大会", "issueDate": "1978-02-26", "year": 1978,
+    "themes": ["历史事件", "人大"], "designer": "刘硕仁", "totalStamps": 3, "extras": [],
+    "description": "第五届全国人民代表大会第一次会议于1978年2月至3月在**北京**举行。三枚邮票以红旗、宪法文本和工农业建设图景表现会议的政治议程及当时推进“四个现代化”的时代主题。", "quantity": "1500万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J24 《中华人民共和国第五届全国人民代表大会》",
+    "stamps": [
+      {"sn": 1, "name": "高举毛主席的旗帜", "denomination": "8分", "image": "/images/stamps/1978/J24-1.jpg"},
+      {"sn": 2, "name": "人民的宪法", "denomination": "8分", "image": "/images/stamps/1978/J24-2.jpg"},
+      {"sn": 3, "name": "一定要实现四个现代化", "denomination": "8分", "image": "/images/stamps/1978/J24-3.jpg"}
+    ]
+  },
+  {
+    "id": "J26", "series": "J", "type": "纪念邮票", "title": "向雷锋同志学习", "issueDate": "1978-03-05", "year": 1978,
+    "themes": ["解放军", "雷锋"], "designer": "许彦博", "totalStamps": 3, "extras": [],
+    "description": "本套在“向雷锋同志学习”题词发表十五周年之际发行。前两枚分别呈现毛泽东和华国锋题词，第三枚描绘**雷锋**读书学习的形象，突出学习、奉献与服务群众的主题。", "quantity": "1500万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J26 《向雷锋同志学习》",
+    "stamps": [
+      {"sn": 1, "name": "毛主席的题词", "denomination": "8分", "image": "/images/stamps/1978/J26-1.jpg"},
+      {"sn": 2, "name": "华国锋主席的题词", "denomination": "8分", "image": "/images/stamps/1978/J26-2.jpg"},
+      {"sn": 3, "name": "雷锋在学习", "denomination": "8分", "image": "/images/stamps/1978/J26-3.jpg"}
+    ]
+  },
+  {
+    "id": "J27", "series": "J", "type": "纪念邮票", "title": "中国妇女的光辉榜样", "issueDate": "1978-03-08", "year": 1978,
+    "themes": ["人物", "现代人", "妇女"], "totalStamps": 2, "extras": [],
+    "description": "这套人物纪念邮票选取**向警予**与**杨开慧**两位中国共产党早期女党员。票面采用黑白肖像、红色背景与金色边框，纪念她们在妇女运动和革命活动中的经历。", "quantity": "1500万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J27 《中国妇女的光辉榜样》",
+    "stamps": [
+      {"sn": 1, "name": "向警予烈士", "denomination": "8分", "image": "/images/stamps/1978/J27-1.jpg"},
+      {"sn": 2, "name": "杨开慧烈士", "denomination": "8分", "image": "/images/stamps/1978/J27-2.jpg"}
+    ]
+  },
+  {
+    "id": "J25", "series": "J", "type": "纪念邮票", "title": "全国科学大会", "issueDate": "1978-03-18", "year": 1978,
+    "themes": ["历史事件", "科技大会"], "designer": "许彦博", "totalStamps": 3, "extras": ["小全张"],
+    "description": "1978年3月，全国科学大会在**北京**召开，成为中国科技事业恢复与发展的重要节点。三枚邮票以“科学的春天”、向四个现代化进军和攀登科学高峰为主题；另发行一枚将三图连缀并配大会会徽的**小全张**。", "quantity": "1500万套；小全张10万枚",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J25 《全国科学大会》",
+    "stamps": [
+      {"sn": 1, "name": "科学的春天", "denomination": "8分", "image": "/images/stamps/1978/J25-1.jpg"},
+      {"sn": 2, "name": "向四个现代化进军", "denomination": "8分", "image": "/images/stamps/1978/J25-2.jpg"},
+      {"sn": 3, "name": "努力攀登科学高峰", "denomination": "8分", "image": "/images/stamps/1978/J25-3.jpg"},
+      {"sn": 4, "name": "全国科学大会", "denomination": "24分", "format": "小全张", "image": "/images/stamps/1978/J25-4.jpg"}
+    ]
+  },
+  {
+    "id": "T24", "series": "T", "type": "特种邮票", "title": "气象", "issueDate": "1978-04-25", "year": 1978,
+    "themes": ["科技", "气象"], "designer": "潘可明", "totalStamps": 5, "extras": [],
+    "description": "五枚邮票依次介绍高空气球探测、气象雷达观测、天气预报制作、基层气象哨组和人工防雹，展示气象资料从观测、传递到服务农业生产的基本过程。", "quantity": "1500万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T24 《气象》",
+    "stamps": [
+      {"sn": 1, "name": "气球探空", "denomination": "8分", "image": "/images/stamps/1978/T24-1.jpg"}, {"sn": 2, "name": "气象雷达", "denomination": "8分", "image": "/images/stamps/1978/T24-2.jpg"},
+      {"sn": 3, "name": "天气预报", "denomination": "8分", "image": "/images/stamps/1978/T24-3.jpg"}, {"sn": 4, "name": "气象哨组", "denomination": "8分", "image": "/images/stamps/1978/T24-4.jpg"},
+      {"sn": 5, "name": "人工消雹", "denomination": "8分", "image": "/images/stamps/1978/T24-5.jpg"}
+    ]
+  },
+  {
+    "id": "T28", "series": "T", "type": "特种邮票", "title": "奔马", "issueDate": "1978-05-05", "year": 1978,
+    "themes": ["绘画艺术", "现代画", "马"], "designer": "刘硕仁", "totalStamps": 10, "extras": ["小型张"],
+    "description": "邮票取材于画家**徐悲鸿**的水墨奔马作品。画家以概括而有力的墨线表现马的骨骼、肌肉和速度，十枚单票呈现立、奔、回首等不同姿态；小型张“群奔马”以群马并进形成更强的动势。", "quantity": "250万套；小型张25万枚",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T28 《奔马》",
+    "stamps": [
+      {"sn": 1, "name": "奔马（一）", "denomination": "4分", "image": "/images/stamps/1978/T28-1.jpg"}, {"sn": 2, "name": "奔马（二）", "denomination": "8分", "image": "/images/stamps/1978/T28-2.jpg"},
+      {"sn": 3, "name": "奔马（三）", "denomination": "8分", "image": "/images/stamps/1978/T28-3.jpg"}, {"sn": 4, "name": "奔马（四）", "denomination": "10分", "image": "/images/stamps/1978/T28-4.jpg"},
+      {"sn": 5, "name": "奔马（五）", "denomination": "20分", "image": "/images/stamps/1978/T28-5.jpg"}, {"sn": 6, "name": "奔马（六）", "denomination": "30分", "image": "/images/stamps/1978/T28-6.jpg"},
+      {"sn": 7, "name": "奔马（七）", "denomination": "40分", "image": "/images/stamps/1978/T28-7.jpg"}, {"sn": 8, "name": "奔马（八）", "denomination": "50分", "image": "/images/stamps/1978/T28-8.jpg"},
+      {"sn": 9, "name": "奔马（九）", "denomination": "60分", "image": "/images/stamps/1978/T28-9.jpg"}, {"sn": 10, "name": "奔马（十）", "denomination": "70分", "image": "/images/stamps/1978/T28-10.jpg"},
+      {"sn": 11, "name": "群奔马", "denomination": "5元", "format": "小型张", "image": "/images/stamps/1978/T28-11.jpg"}
+    ]
+  },
+  {
+    "id": "T21", "series": "T", "type": "特种邮票", "title": "从小锻炼为革命", "issueDate": "1978-06-01", "year": 1978,
+    "themes": ["6.1儿童邮票", "儿童体育"], "designer": "卢天骄", "totalStamps": 5, "extras": [],
+    "description": "这套“六一”儿童邮票以足球、游泳、体操和登山等项目表现少年儿童参加体育锻炼。明快的造型把竞技、友谊、勇气和集体活动结合在一起。", "quantity": "1600万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T21 《从小锻炼为革命》",
+    "stamps": [
+      {"sn": 1, "name": "从小锻炼为革命", "denomination": "20分", "image": "/images/stamps/1978/T21-1.jpg"}, {"sn": 2, "name": "小小足球传友谊", "denomination": "8分", "image": "/images/stamps/1978/T21-2.jpg"},
+      {"sn": 3, "name": "大风大浪不可怕", "denomination": "8分", "image": "/images/stamps/1978/T21-3.jpg"}, {"sn": 4, "name": "体操表演庆丰收", "denomination": "8分", "image": "/images/stamps/1978/T21-4.jpg"},
+      {"sn": 5, "name": "万里征途攀高峰", "denomination": "8分", "image": "/images/stamps/1978/T21-5.jpg"}
+    ]
+  },
+  {
+    "id": "T25", "series": "T", "type": "特种邮票", "title": "化学纤维", "issueDate": "1978-06-15", "year": 1978,
+    "themes": ["科技", "化纤"], "designer": "吴建坤", "totalStamps": 5, "extras": [],
+    "description": "五枚邮票按照化学纤维生产流程展开，从原料处理、抽丝，到纺织、印染及成品展示，介绍化纤工业如何把工业原料转化为日常纺织品。", "quantity": "1500万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T25 《化学纤维》",
+    "stamps": [
+      {"sn": 1, "name": "原料", "denomination": "8分", "image": "/images/stamps/1978/T25-1.jpg"}, {"sn": 2, "name": "抽丝", "denomination": "8分", "image": "/images/stamps/1978/T25-2.jpg"},
+      {"sn": 3, "name": "纺织", "denomination": "8分", "image": "/images/stamps/1978/T25-3.jpg"}, {"sn": 4, "name": "印染", "denomination": "8分", "image": "/images/stamps/1978/T25-4.jpg"},
+      {"sn": 5, "name": "成品", "denomination": "8分", "image": "/images/stamps/1978/T25-5.jpg"}
+    ]
+  },
+  {
+    "id": "J28", "series": "J", "type": "纪念邮票", "title": "全国财贸学大庆学大寨会议", "issueDate": "1978-06-20", "year": 1978,
+    "themes": ["历史事件", "学大庆", "学大寨"], "designer": "陈晓聪", "totalStamps": 2, "extras": [],
+    "description": "这套邮票纪念全国财贸系统相关会议。第一枚采用会议标志和红旗，第二枚以商品、运输和群众形象表现“发展经济、保障供给”，记录当时财贸工作的政策表达。", "quantity": "1500万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J28 《全国财贸学大庆学大寨会议》",
+    "stamps": [
+      {"sn": 1, "name": "会标", "denomination": "8分", "image": "/images/stamps/1978/J28-1.jpg"},
+      {"sn": 2, "name": "发展经济保障供给", "denomination": "8分", "image": "/images/stamps/1978/J28-2.jpg"}
+    ]
+  },
+  {
+    "id": "T27", "series": "T", "type": "特种邮票", "title": "牧业学大寨，建设新牧区", "issueDate": "1978-06-30", "year": 1978,
+    "themes": ["科技", "农业", "畜牧业"], "designer": "程传理", "totalStamps": 3, "extras": [],
+    "description": "三枚邮票从草场建设、科学饲养和机械化作业三个方面描绘牧区生产，反映当时改善草场条件、推广畜牧技术和提升机械化水平的实践。", "quantity": "1200万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T27 《牧业学大寨，建设新牧区》",
+    "stamps": [
+      {"sn": 1, "name": "大搞草库伦建设", "denomination": "8分", "image": "/images/stamps/1978/T27-1.jpg"}, {"sn": 2, "name": "科学养畜", "denomination": "8分", "image": "/images/stamps/1978/T27-2.jpg"},
+      {"sn": 3, "name": "牧业机械化", "denomination": "8分", "image": "/images/stamps/1978/T27-3.jpg"}
+    ]
+  },
+  {
+    "id": "T26", "series": "T", "type": "特种邮票", "title": "钢铁工业", "issueDate": "1978-07-22", "year": 1978,
+    "themes": ["科技", "钢铁"], "designer": "孙传哲", "totalStamps": 5, "extras": [],
+    "description": "邮票以炼焦、炼铁、炼钢、轧钢和成品为顺序，呈现现代钢铁联合企业的主要环节。高炉、转炉、轧机和钢材构成连续的工业生产图景。", "quantity": "1400万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T26 《钢铁工业》",
+    "stamps": [
+      {"sn": 1, "name": "炼焦", "denomination": "8分", "image": "/images/stamps/1978/T26-1.jpg"}, {"sn": 2, "name": "炼铁", "denomination": "8分", "image": "/images/stamps/1978/T26-2.jpg"},
+      {"sn": 3, "name": "炼钢", "denomination": "8分", "image": "/images/stamps/1978/T26-3.jpg"}, {"sn": 4, "name": "轧钢", "denomination": "8分", "image": "/images/stamps/1978/T26-4.jpg"},
+      {"sn": 5, "name": "成品", "denomination": "8分", "image": "/images/stamps/1978/T26-5.jpg"}
+    ]
+  },
+  {
+    "id": "T32", "series": "T", "type": "特种邮票", "title": "向硬骨头六连学习", "issueDate": "1978-08-01", "year": 1978,
+    "themes": ["解放军", "硬骨头六连"], "designer": "万维生", "totalStamps": 3, "extras": [],
+    "description": "三枚邮票以“硬骨头六连”的政治学习、革命传统教育和军事训练为内容，分别表现连队的思想建设、传统传承与练兵场景。", "quantity": "1500万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T32 《硬骨头六连》",
+    "stamps": [
+      {"sn": 1, "name": "反修防修的铁拳", "denomination": "8分", "image": "/images/stamps/1978/T32-1.jpg"}, {"sn": 2, "name": "发扬革命传统", "denomination": "8分", "image": "/images/stamps/1978/T32-2.jpg"},
+      {"sn": 3, "name": "苦练杀敌本领", "denomination": "8分", "image": "/images/stamps/1978/T32-3.jpg"}
+    ]
+  },
+  {
+    "id": "T29", "series": "T", "type": "特种邮票", "title": "工艺美术", "issueDate": "1978-08-26", "year": 1978,
+    "themes": ["文化", "工艺美术"], "designer": "邓锡清", "totalStamps": 10, "extras": ["小型张"],
+    "description": "本套汇集布玩具、陶器、漆器、刺绣、编织、景泰蓝、木雕、玉雕和牙雕等门类，展现传统技艺与现代造型设计。小型张取材于敦煌壁画中的**飞天**形象，把壁画艺术纳入工艺美术主题。", "quantity": "250万套；小型张10万枚",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T29 《工艺美术》",
+    "stamps": [
+      {"sn": 1, "name": "大狮子（布玩具）", "denomination": "4分", "image": "/images/stamps/1978/T29-1.jpg"}, {"sn": 2, "name": "三脚羊提壶（陶器）", "denomination": "8分", "image": "/images/stamps/1978/T29-2.jpg"},
+      {"sn": 3, "name": "犀牛（漆器）", "denomination": "8分", "image": "/images/stamps/1978/T29-3.jpg"}, {"sn": 4, "name": "小猫头（刺绣）", "denomination": "10分", "image": "/images/stamps/1978/T29-4.jpg"},
+      {"sn": 5, "name": "绿花提篮（编织）", "denomination": "20分", "image": "/images/stamps/1978/T29-5.jpg"}, {"sn": 6, "name": "孔雀壶（景泰蓝）", "denomination": "30分", "image": "/images/stamps/1978/T29-6.jpg"},
+      {"sn": 7, "name": "荷花圆盘、黑天鹅盒（漆器）", "denomination": "40分", "image": "/images/stamps/1978/T29-7.jpg"}, {"sn": 8, "name": "飞跃（木雕）", "denomination": "50分", "image": "/images/stamps/1978/T29-8.jpg"},
+      {"sn": 9, "name": "旭日东升（玉雕）", "denomination": "60分", "image": "/images/stamps/1978/T29-9.jpg"}, {"sn": 10, "name": "奔向人间（牙雕）", "denomination": "70分", "image": "/images/stamps/1978/T29-10.jpg"},
+      {"sn": 11, "name": "飞天（壁画）", "denomination": "3元", "format": "小型张", "image": "/images/stamps/1978/T29-11.jpg"}
+    ]
+  },
+  {
+    "id": "J30", "series": "J", "type": "纪念邮票", "title": "中国妇女第四次全国代表大会", "issueDate": "1978-09-08", "year": 1978,
+    "themes": ["历史事件", "妇女"], "designer": "潘可明", "totalStamps": 1, "extras": [],
+    "description": "邮票以工、农、知识分子三位妇女代表为主体，并配以齿轮、麦穗和原子轨道等图形，表现妇女参与工业、农业和科学文化建设。",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J30 《中国妇女第四次全国代表大会》",
+    "stamps": [{"sn": 1, "name": "妇女代表", "denomination": "8分", "image": "/images/stamps/1978/J30-1.jpg"}]
+  },
+  {
+    "id": "T30", "series": "T", "type": "特种邮票", "title": "药用植物", "issueDate": "1978-09-15", "year": 1978,
+    "themes": ["植物花卉", "药用植物"], "designer": "潘可明", "totalStamps": 5, "extras": [],
+    "description": "五枚邮票以写实方式描绘**人参、曼陀罗、射干、桔梗、满山红**等药用植物，并保留花、叶、果实或根部等辨识特征，兼具植物图谱与中药文化意义。", "quantity": "800万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T30 《药用植物》",
+    "stamps": [
+      {"sn": 1, "name": "人参", "denomination": "8分", "image": "/images/stamps/1978/T30-1.jpg"}, {"sn": 2, "name": "曼陀罗", "denomination": "8分", "image": "/images/stamps/1978/T30-2.jpg"},
+      {"sn": 3, "name": "射干", "denomination": "8分", "image": "/images/stamps/1978/T30-3.jpg"}, {"sn": 4, "name": "桔梗", "denomination": "8分", "image": "/images/stamps/1978/T30-4.jpg"},
+      {"sn": 5, "name": "满山红", "denomination": "55分", "image": "/images/stamps/1978/T30-5.jpg"}
+    ]
+  },
+  {
+    "id": "J31", "series": "J", "type": "纪念邮票", "title": "中国工会第九次全国代表大会", "issueDate": "1978-10-11", "year": 1978,
+    "themes": ["历史事件", "工人运动"], "designer": "卢天骄", "totalStamps": 1, "extras": [],
+    "description": "邮票把红旗、齿轮、麦穗与原子轨道等图形组合成数字“9”，象征工人阶级及工业、农业和科技建设，纪念中国工会第九次全国代表大会。", "quantity": "1500万枚",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J31 《中国工会第九次全国代表大会》",
+    "stamps": [{"sn": 1, "name": "中国工会第九次全国代表大会", "denomination": "8分", "image": "/images/stamps/1978/J31-1.jpg"}]
+  },
+  {
+    "id": "J32", "series": "J", "type": "纪念邮票", "title": "中国共产主义青年团第十次全国代表大会", "issueDate": "1978-10-16", "year": 1978,
+    "themes": ["历史事件", "共青团"], "designer": "邓锡清", "totalStamps": 1, "extras": [],
+    "description": "邮票以中国共产主义青年团团徽为中心，辅以书本、麦穗、输电线和花卉等图案，表现青年学习知识并投身国家建设的主题。", "quantity": "1500万枚",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J32 《中国共产主义青年团第十次全国代表大会》",
+    "stamps": [{"sn": 1, "name": "中国共产主义青年团第十次全国代表大会", "denomination": "8分", "image": "/images/stamps/1978/J32-1.jpg"}]
+  },
+  {
+    "id": "J34", "series": "J", "type": "纪念邮票", "title": "中日和平友好条约签订", "issueDate": "1978-10-22", "year": 1978,
+    "themes": ["历史事件", "中日关系"], "totalStamps": 2, "extras": [],
+    "description": "《中日和平友好条约》于1978年8月签署、10月生效。第一枚以**长城、富士山**和“友好世代相传”题字表达共同愿望；第二枚以中日儿童、花束和玩具象征两国人民世代友好。",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J34 《中日和平友好条约签订》",
+    "stamps": [
+      {"sn": 1, "name": "共同愿望", "denomination": "35分", "image": "/images/stamps/1978/J34-1.jpg"},
+      {"sn": 2, "name": "中日人民世代友好", "denomination": "8分", "image": "/images/stamps/1978/J34-2.jpg"}
+    ]
+  },
+  {
+    "id": "J29", "series": "J", "type": "纪念邮票", "title": "宁夏回族自治区成立二十周年", "issueDate": "1978-10-25", "year": 1978,
+    "themes": ["周年纪念", "自治区成立", "宁夏"], "designer": "张克让", "totalStamps": 3, "extras": [],
+    "description": "三枚邮票从人物、工业和农业三个侧面描绘**宁夏**。第一枚表现各族群众，第二枚展示以煤炭开采为代表的工业建设，第三枚以灌溉农田和输电设施表现素有“塞北江南”之称的宁夏平原。", "quantity": "1500万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J29 《宁夏回族自治区成立二十周年》",
+    "stamps": [
+      {"sn": 1, "name": "建设新宁夏", "denomination": "8分", "image": "/images/stamps/1978/J29-1.jpg"}, {"sn": 2, "name": "煤都新貌", "denomination": "8分", "image": "/images/stamps/1978/J29-2.jpg"},
+      {"sn": 3, "name": "塞北江南", "denomination": "10分", "image": "/images/stamps/1978/J29-3.jpg"}
+    ]
+  },
+  {
+    "id": "T31", "series": "T", "type": "特种邮票", "title": "公路拱桥", "issueDate": "1978-11-01", "year": 1978,
+    "themes": ["建筑", "桥梁"], "designer": "卢天骄", "totalStamps": 5, "extras": ["小型张"],
+    "description": "五枚邮票选取**四川、江苏、浙江**等地不同结构和环境中的公路拱桥，展示石拱、双曲拱等桥梁形式及其与山水、城镇的关系；小型张描绘横跨湘江的长沙湘江大桥。", "quantity": "2000万套；小型张15万枚",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T31 《公路拱桥》",
+    "stamps": [
+      {"sn": 1, "name": "川西三号桥", "denomination": "8分", "image": "/images/stamps/1978/T31-1.jpg"}, {"sn": 2, "name": "无锡新虹桥", "denomination": "8分", "image": "/images/stamps/1978/T31-2.jpg"},
+      {"sn": 3, "name": "丰都九溪沟桥", "denomination": "8分", "image": "/images/stamps/1978/T31-3.jpg"}, {"sn": 4, "name": "川西六号桥", "denomination": "8分", "image": "/images/stamps/1978/T31-4.jpg"},
+      {"sn": 5, "name": "三门上叶桥", "denomination": "60分", "image": "/images/stamps/1978/T31-5.jpg"},
+      {"sn": 6, "name": "长沙湘江大桥", "denomination": "2元", "format": "小型张", "image": "/images/stamps/1978/T31-6.jpg"}
+    ]
+  },
+  {
+    "id": "T34", "series": "T", "type": "特种邮票", "title": "水乡新貌", "issueDate": "1978-11-30", "year": 1978,
+    "themes": ["山水风光", "江南", "水乡"], "designer": "程传理", "totalStamps": 5, "extras": [],
+    "description": "五枚邮票以**江南水乡**农业生产为主题，依次表现机械插秧、喷灌、选种、农副业发展和交售公粮。河网、田野与新式农机共同构成20世纪70年代水乡生产图景。", "quantity": "600万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T34 《水乡新貌》",
+    "stamps": [
+      {"sn": 1, "name": "机械插秧", "denomination": "8分", "image": "/images/stamps/1978/T34-1.jpg"}, {"sn": 2, "name": "喷灌", "denomination": "8分", "image": "/images/stamps/1978/T34-2.jpg"},
+      {"sn": 3, "name": "选种", "denomination": "8分", "image": "/images/stamps/1978/T34-3.jpg"}, {"sn": 4, "name": "五业兴旺", "denomination": "8分", "image": "/images/stamps/1978/T34-4.jpg"},
+      {"sn": 5, "name": "喜送公粮", "denomination": "8分", "image": "/images/stamps/1978/T34-5.jpg"}
+    ]
+  },
+  {
+    "id": "J33", "series": "J", "type": "纪念邮票", "title": "广西壮族自治区成立二十周年", "issueDate": "1978-12-11", "year": 1978,
+    "themes": ["周年纪念", "自治区成立", "广西"], "designer": "王明旨、吴祖强、邓二龙", "totalStamps": 3, "extras": [],
+    "description": "本套纪念**广西壮族自治区**成立二十周年。三枚邮票分别以各族群众欢庆、工业设施和农业丰收为内容，集中表现广西的民族团结与工农业建设。", "quantity": "600万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J33 《广西壮族自治区成立二十周年》",
+    "stamps": [
+      {"sn": 1, "name": "欢庆", "denomination": "8分", "image": "/images/stamps/1978/J33-1.jpg"}, {"sn": 2, "name": "工业", "denomination": "8分", "image": "/images/stamps/1978/J33-2.jpg"},
+      {"sn": 3, "name": "农业", "denomination": "10分", "image": "/images/stamps/1978/J33-3.jpg"}
+    ]
+  },
+  {
+    "id": "T20", "series": "T", "type": "特种邮票", "title": "开发矿业", "issueDate": "1978-12-29", "year": 1978,
+    "themes": ["科技", "矿业"], "designer": "邵柏林", "totalStamps": 4, "extras": [],
+    "description": "四枚邮票表现群众报告矿产线索、井巷掘进、露天开采和井下运输，勾勒从找矿到采矿、运输的主要环节，并记录当时矿业生产的设备和劳动场景。", "quantity": "1000万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T20 《开发矿业》",
+    "stamps": [
+      {"sn": 1, "name": "群众报矿", "denomination": "4分", "image": "/images/stamps/1978/T20-1.jpg"}, {"sn": 2, "name": "掘进尖兵", "denomination": "8分", "image": "/images/stamps/1978/T20-2.jpg"},
+      {"sn": 3, "name": "露天采矿", "denomination": "10分", "image": "/images/stamps/1978/T20-3.jpg"}, {"sn": 4, "name": "井下运输", "denomination": "20分", "image": "/images/stamps/1978/T20-4.jpg"}
+    ]
+  }
+]
