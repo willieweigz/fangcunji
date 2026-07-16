@@ -1,0 +1,216 @@
+[
+  {
+    "id": "普7",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "天安门图案普通邮票（第六版）",
+    "issueDate": "1954-04-16",
+    "year": 1954,
+    "themes": ["普票", "天安门"],
+    "designer": "孙传哲",
+    "totalStamps": 8,
+    "extras": [],
+    "description": "这是天安门图案普通邮票的第六版。8枚均以**北京天安门**城楼和华表为主图，天空中的白云改用空白表现，天安门上毛泽东像两侧增加标语牌，票面采用单线边框；阿拉伯数字面值后加“圆”字，也是区别于此前各版的重要特征。",
+    "needsReview": true,
+    "localImageFolder": "普7 《天安门图案普通邮票（第六版）》",
+    "stamps": [
+      { "sn": 1, "name": "天安门", "denomination": "50元", "image": "/images/stamps/1954/普7-1.jpg" },
+      { "sn": 2, "name": "天安门", "denomination": "100元", "image": "/images/stamps/1954/普7-2.jpg" },
+      { "sn": 3, "name": "天安门", "denomination": "200元", "image": "/images/stamps/1954/普7-3.jpg" },
+      { "sn": 4, "name": "天安门", "denomination": "250元", "image": "/images/stamps/1954/普7-4.jpg" },
+      { "sn": 5, "name": "天安门", "denomination": "400元", "image": "/images/stamps/1954/普7-5.jpg" },
+      { "sn": 6, "name": "天安门", "denomination": "800元", "image": "/images/stamps/1954/普7-6.jpg" },
+      { "sn": 7, "name": "天安门", "denomination": "1600元", "image": "/images/stamps/1954/普7-7.jpg" },
+      { "sn": 8, "name": "天安门", "denomination": "2000元", "image": "/images/stamps/1954/普7-8.jpg" }
+    ]
+  },
+  {
+    "id": "特8",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "经济建设",
+    "issueDate": "1954-05-01",
+    "year": 1954,
+    "themes": ["历史事件", "建设成就"],
+    "designer": "孙传哲",
+    "totalStamps": 8,
+    "extras": [],
+    "description": "这套邮票集中反映第一个五年计划初期的工业化建设成果。8枚分别表现钢铁、煤炭、机械、电力、铁路、港口、纺织和地质勘探：自动化炼铁炉体现钢铁生产技术进步；**辽宁阜新**露天煤矿展示大型煤炭基地；重型机器厂和东北自动化发电厂表现装备与能源建设；天兰铁路连接**甘肃天水**与**兰州**；塘沽新港位于**天津**；哈尔滨亚麻纺织厂展现**黑龙江哈尔滨**的纺织工业；最后一枚表现地质人员勘察地下资源。",
+    "quantity": "350万套",
+    "needsReview": true,
+    "localImageFolder": "特8 《经济建设》",
+    "stamps": [
+      { "sn": 1, "name": "自动化炼铁炉", "denomination": "800元", "image": "/images/stamps/1954/特8-1.jpg" },
+      { "sn": 2, "name": "阜新露天煤矿", "denomination": "800元", "image": "/images/stamps/1954/特8-2.jpg" },
+      { "sn": 3, "name": "重型机器厂", "denomination": "400元", "image": "/images/stamps/1954/特8-3.jpg" },
+      { "sn": 4, "name": "东北自动化发电厂", "denomination": "2000元", "image": "/images/stamps/1954/特8-4.jpg" },
+      { "sn": 5, "name": "天兰铁路", "denomination": "250元", "image": "/images/stamps/1954/特8-5.jpg" },
+      { "sn": 6, "name": "塘沽新港", "denomination": "200元", "image": "/images/stamps/1954/特8-6.jpg" },
+      { "sn": 7, "name": "哈尔滨亚麻纺织厂", "denomination": "100元", "image": "/images/stamps/1954/特8-7.jpg" },
+      { "sn": 8, "name": "勘察地下宝藏", "denomination": "3200元", "image": "/images/stamps/1954/特8-8.jpg" }
+    ]
+  },
+  {
+    "id": "纪26",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "乌·伊·列宁逝世三十周年纪念",
+    "issueDate": "1954-06-30",
+    "year": 1954,
+    "themes": ["共产党人", "马克思主义"],
+    "designer": "刘硕仁",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "**弗拉基米尔·伊里奇·列宁**（1870—1924）是十月革命的主要领导人和苏维埃国家的缔造者。3枚邮票分别采用列宁遗像、苏联画家基布里克创作的《全部政权归苏维埃》以及列宁和斯大林在**莫斯科近郊哥尔克**的雕塑，组合呈现人物肖像、革命历史和晚年生活。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "纪26 《弗·伊·列宁逝世三十周年纪念》",
+    "stamps": [
+      { "sn": 1, "name": "列宁遗像", "denomination": "800元", "image": "/images/stamps/1954/纪26-1.jpg" },
+      { "sn": 2, "name": "全部政权归苏维埃", "denomination": "2000元", "image": "/images/stamps/1954/纪26-2.jpg" },
+      { "sn": 3, "name": "列宁和斯大林在哥尔克", "denomination": "400元", "image": "/images/stamps/1954/纪26-3.jpg" }
+    ]
+  },
+  {
+    "id": "特9",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "伟大的祖国—古代文物（第五组）",
+    "issueDate": "1954-08-25",
+    "year": 1954,
+    "themes": ["文物古迹", "古代文物"],
+    "designer": "孙传哲、夏中汉",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "这套邮票选择从新石器时代至战国时期的代表性文物：彩陶罐展现早期彩陶艺术；石磬是**商代**打击乐器；虢季子白盘是**西周**著名青铜器；漆奁和漆羽觞体现**战国**漆器工艺。4枚均用白描线条突出器物造型，左侧配置传统纹样，形成统一而富有民族特色的版式。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "特9 《伟大的祖国—古代文物（第五组）》",
+    "stamps": [
+      { "sn": 1, "name": "彩陶罐·新石器时代", "denomination": "800元", "image": "/images/stamps/1954/特9-1.jpg" },
+      { "sn": 2, "name": "石磬·商代乐器", "denomination": "800元", "image": "/images/stamps/1954/特9-2.jpg" },
+      { "sn": 3, "name": "虢季子白盘·西周青铜器", "denomination": "800元", "image": "/images/stamps/1954/特9-3.jpg" },
+      { "sn": 4, "name": "漆奁·漆羽觞·战国漆器", "denomination": "800元", "image": "/images/stamps/1954/特9-4.jpg" }
+    ]
+  },
+  {
+    "id": "特10",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "无缝钢管厂及大型轧钢厂",
+    "issueDate": "1954-10-01",
+    "year": 1954,
+    "themes": ["科技", "钢铁"],
+    "designer": "孙传哲",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**辽宁鞍山**的鞍钢无缝钢管厂和大型轧钢厂是苏联援建鞍钢“三大工程”中的两项，于1953年12月26日建成投产。无缝钢管厂生产出新中国第一批无缝钢管，大型轧钢厂则承担大型钢材轧制。两枚邮票分别描绘厂内生产场景，以纪念这些重点工程建成和中华人民共和国成立五周年。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "特10 《无缝钢管厂及大型轧钢厂》",
+    "stamps": [
+      { "sn": 1, "name": "无缝钢管厂", "denomination": "400元", "image": "/images/stamps/1954/特10-1.jpg" },
+      { "sn": 2, "name": "大型轧钢厂", "denomination": "800元", "image": "/images/stamps/1954/特10-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪27",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "约·维·斯大林逝世一周年纪念",
+    "issueDate": "1954-10-15",
+    "year": 1954,
+    "themes": ["共产党人", "马克思主义"],
+    "designer": "邵柏林",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "**约瑟夫·维萨里奥诺维奇·斯大林**曾任苏联主要领导人。3枚邮票均以斯大林形象为主：第1枚为身着大元帅服的半身像，第2枚表现手握建设蓝图远眺，第3枚采用大理石全身塑像。不同姿态和构图共同形成庄严肃穆的纪念主题。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "纪27 《约·维·斯大林逝世一周年纪念》",
+    "stamps": [
+      { "sn": 1, "name": "斯大林像", "denomination": "800元", "image": "/images/stamps/1954/纪27-1.jpg" },
+      { "sn": 2, "name": "斯大林像", "denomination": "2000元", "image": "/images/stamps/1954/纪27-2.jpg" },
+      { "sn": 3, "name": "斯大林像", "denomination": "400元", "image": "/images/stamps/1954/纪27-3.jpg" }
+    ]
+  },
+  {
+    "id": "纪28",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "北京苏联经济及文化建设成就展览会开幕纪念",
+    "issueDate": "1954-11-07",
+    "year": 1954,
+    "themes": ["历史事件", "展会", "苏联"],
+    "designer": "刘硕仁",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "苏联经济及文化建设成就展览会于1954年10月2日在**北京**苏联展览馆开幕，展馆后来更名为北京展览馆。邮票描绘建筑正面外景，中央尖塔高耸，顶部红色五角星成为画面焦点；右上角印有毛泽东关于学习苏联、建设国家的题词。这是新中国第一套展览会题材纪念邮票。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "纪28 《北京苏联经济及文化建设成就展览会开幕纪念》",
+    "stamps": [
+      { "sn": 1, "name": "苏联展览馆", "denomination": "800元", "image": "/images/stamps/1954/纪28-1.jpg" }
+    ]
+  },
+  {
+    "id": "特11",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "技术革新",
+    "issueDate": "1954-12-15",
+    "year": 1954,
+    "themes": ["科技", "科技创新"],
+    "designer": "孙传哲",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1954年，全国范围内广泛开展技术革新运动。第1枚表现**鞍钢**工人**张明山**创造的轧钢机“反围盘”，这种自动喂钢装置改善了轧钢工人的劳动条件；第2枚表现**王崇伦**创造的“万能工具胎”，它扩大了牛头刨床的加工范围并显著提高效率。两项革新都是新中国早期群众性技术创新的代表成果。",
+    "quantity": "400万套",
+    "needsReview": true,
+    "localImageFolder": "特11 《技术革新》",
+    "stamps": [
+      { "sn": 1, "name": "反围盘", "denomination": "400元", "image": "/images/stamps/1954/特11-1.jpg" },
+      { "sn": 2, "name": "万能工具胎", "denomination": "800元", "image": "/images/stamps/1954/特11-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪29",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "中华人民共和国第一届全国人民代表大会",
+    "issueDate": "1954-12-30",
+    "year": 1954,
+    "themes": ["历史事件", "人大"],
+    "designer": "孙传哲",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "中华人民共和国第一届全国人民代表大会第一次会议于1954年9月15日至28日在**北京**举行。会议通过《中华人民共和国宪法》等重要法律，并选举产生国家领导机构。第1枚“普选”描绘女工投票的场景；第2枚以国徽为中心，表现各族人民庆祝全国人民代表大会召开的热烈场面。",
+    "quantity": "600万套",
+    "needsReview": true,
+    "localImageFolder": "纪29 《中华人民共和国第一届全国人民代表大会》",
+    "stamps": [
+      { "sn": 1, "name": "普选", "denomination": "400元", "image": "/images/stamps/1954/纪29-1.jpg" },
+      { "sn": 2, "name": "庆祝全国人民代表大会", "denomination": "800元", "image": "/images/stamps/1954/纪29-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪30",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "中华人民共和国宪法",
+    "issueDate": "1954-12-30",
+    "year": 1954,
+    "themes": ["历史事件", "宪法"],
+    "designer": "邵柏林",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1954年9月20日，第一届全国人民代表大会第一次会议在**北京**通过并颁布《中华人民共和国宪法》，这是新中国第一部宪法。两枚邮票同图异色：青年女农民手捧宪法，青年男工人手指前方，背景红旗迎风飘扬，象征全国人民在宪法指引下共同建设国家。",
+    "quantity": "800万套",
+    "needsReview": true,
+    "localImageFolder": "纪30 《中华人民共和国宪法》",
+    "stamps": [
+      { "sn": 1, "name": "宪法", "denomination": "400元", "image": "/images/stamps/1954/纪30-1.jpg" },
+      { "sn": 2, "name": "宪法", "denomination": "800元", "image": "/images/stamps/1954/纪30-2.jpg" }
+    ]
+  }
+]

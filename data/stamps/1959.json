@@ -1,0 +1,263 @@
+[
+  {
+    "id": "特30", "series": "特", "type": "特种邮票", "title": "剪纸", "issueDate": "1959-01-01", "year": 1959,
+    "themes": ["文化", "非物质文化遗产", "剪纸"], "designer": "孙传哲", "totalStamps": 4, "extras": [],
+    "description": "4枚图案取材于中国西北民间剪纸，分别表现骆驼、石榴、公鸡和“三娘教子”戏剧人物。设计以单色深底衬托剪纸轮廓，保留纸张镂空、概括夸张和装饰性强的民间艺术特点。",
+    "needsReview": true, "localImageFolder": "特30 《剪纸》",
+    "stamps": [
+      { "sn": 1, "name": "骆驼", "denomination": "8分", "image": "/images/stamps/1959/特30-1.jpg" },
+      { "sn": 2, "name": "石榴", "denomination": "8分", "image": "/images/stamps/1959/特30-2.jpg" },
+      { "sn": 3, "name": "公鸡", "denomination": "8分", "image": "/images/stamps/1959/特30-3.jpg" },
+      { "sn": 4, "name": "戏剧人物", "denomination": "8分", "image": "/images/stamps/1959/特30-4.jpg" }
+    ]
+  },
+  {
+    "id": "纪58", "series": "纪", "type": "纪念邮票", "title": "一九五八年钢铁生产大跃进", "issueDate": "1959-02-15", "year": 1959,
+    "themes": ["历史事件", "工业", "钢铁"], "designer": "孙传哲、刘硕仁", "totalStamps": 3, "extras": [],
+    "description": "3枚邮票记录1958年大炼钢铁运动，分别表现全民炼钢、土法与现代炼钢结合以及庆祝完成产量目标。该运动动员范围广泛，但也造成资源浪费和国民经济比例失调，是特定历史时期的工业题材记录。",
+    "needsReview": true, "localImageFolder": "纪58 《一九五八年钢铁生产大跃进》",
+    "stamps": [
+      { "sn": 1, "name": "全民炼钢", "denomination": "4分", "image": "/images/stamps/1959/纪58-1.jpg" },
+      { "sn": 2, "name": "土洋结合", "denomination": "8分", "image": "/images/stamps/1959/纪58-2.jpg" },
+      { "sn": 3, "name": "庆祝完成", "denomination": "10分", "image": "/images/stamps/1959/纪58-3.jpg" }
+    ]
+  },
+  {
+    "id": "纪59", "series": "纪", "type": "纪念邮票", "title": "三八国际妇女节", "issueDate": "1959-03-08", "year": 1959,
+    "themes": ["节日", "现代节日"], "designer": "卢天骄", "totalStamps": 2, "extras": [],
+    "description": "为纪念三八国际妇女节发行。第1枚集合工、农、商、学、兵各界妇女形象，第2枚以不同肤色的各国妇女并肩站立，表达全世界妇女团结的主题。",
+    "needsReview": true, "localImageFolder": "纪59 《三八国际妇女节》",
+    "stamps": [
+      { "sn": 1, "name": "工农商学兵", "denomination": "4分", "image": "/images/stamps/1959/纪59-1.jpg" },
+      { "sn": 2, "name": "全世界妇女大团结", "denomination": "8分", "image": "/images/stamps/1959/纪59-2.jpg" }
+    ]
+  },
+  {
+    "id": "特31", "series": "特", "type": "特种邮票", "title": "中央自然博物馆", "issueDate": "1959-04-01", "year": 1959,
+    "themes": ["建筑", "博物馆建设"], "designer": "吴建坤", "totalStamps": 2, "extras": [],
+    "description": "中央自然博物馆位于**北京天桥大街**东侧，1958年落成，1959年元旦开放，后改名北京自然博物馆。两枚同图异色，以菊花簇拥的博物馆正立面为主体，下方配置大熊猫，馆名采用郭沫若题字。",
+    "needsReview": true, "localImageFolder": "特31 《中央自然博物馆》",
+    "stamps": [
+      { "sn": 1, "name": "中央自然博物馆", "denomination": "4分", "image": "/images/stamps/1959/特31-1.jpg" },
+      { "sn": 2, "name": "中央自然博物馆", "denomination": "8分", "image": "/images/stamps/1959/特31-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪60", "series": "纪", "type": "纪念邮票", "title": "一九五八年农业丰收", "issueDate": "1959-04-25", "year": 1959,
+    "themes": ["历史事件", "农业"], "designer": "孙传哲", "totalStamps": 4, "extras": [],
+    "description": "4枚邮票分别以棉花、小麦、水稻和大豆为中心图案，四周配以金色麦穗，记录当时关于1958年农业丰收的宣传主题。",
+    "quantity": "700万套", "needsReview": true, "localImageFolder": "纪60 《一九五八年农业丰收》",
+    "stamps": [
+      { "sn": 1, "name": "棉花", "denomination": "8分", "image": "/images/stamps/1959/纪60-1.jpg" },
+      { "sn": 2, "name": "小麦", "denomination": "8分", "image": "/images/stamps/1959/纪60-2.jpg" },
+      { "sn": 3, "name": "水稻", "denomination": "8分", "image": "/images/stamps/1959/纪60-3.jpg" },
+      { "sn": 4, "name": "大豆", "denomination": "8分", "image": "/images/stamps/1959/纪60-4.jpg" }
+    ]
+  },
+  {
+    "id": "纪61", "series": "纪", "type": "纪念邮票", "title": "国际劳动节", "issueDate": "1959-05-01", "year": 1959,
+    "themes": ["节日", "现代节日"], "designer": "孙传哲", "totalStamps": 3, "extras": [],
+    "description": "为纪念五一国际劳动节发行。3枚邮票分别表现工人学习马列主义、各国工人团结以及红旗招展的节日庆祝场面，将劳动节纪念与工人运动主题结合。",
+    "needsReview": true, "localImageFolder": "纪61 《国际劳动节》",
+    "stamps": [
+      { "sn": 1, "name": "学习马列主义", "denomination": "4分", "image": "/images/stamps/1959/纪61-1.jpg" },
+      { "sn": 2, "name": "全世界无产者联合起来", "denomination": "8分", "image": "/images/stamps/1959/纪61-2.jpg" },
+      { "sn": 3, "name": "庆祝五一劳动节", "denomination": "10分", "image": "/images/stamps/1959/纪61-3.jpg" }
+    ]
+  },
+  {
+    "id": "纪62", "series": "纪", "type": "纪念邮票", "title": "“五四”运动四十周年", "issueDate": "1959-05-04", "year": 1959,
+    "themes": ["历史事件", "五四运动"], "designer": "钟灵", "totalStamps": 2, "extras": [],
+    "description": "1919年5月4日，**北京**学生发起反帝反封建爱国运动。两枚邮票以青年学生向科学技术进军和工农兵形象，纪念五四运动四十周年，并表现青年、科学和革命运动主题。",
+    "needsReview": true, "localImageFolder": "纪62 《「五四」运动四十周年》",
+    "stamps": [
+      { "sn": 1, "name": "向科学技术进军", "denomination": "4分", "image": "/images/stamps/1959/纪62-1.jpg" },
+      { "sn": 2, "name": "工农兵", "denomination": "8分", "image": "/images/stamps/1959/纪62-2.jpg" }
+    ]
+  },
+  {
+    "id": "特34", "series": "特", "type": "特种邮票", "title": "首都机场", "issueDate": "1959-06-20", "year": 1959,
+    "themes": ["建筑", "机场"], "designer": "万维生", "totalStamps": 2, "extras": [],
+    "description": "**北京首都机场**位于顺义，1958年建成使用，是新中国重要的民用航空枢纽。两枚邮票分别展示候机大楼和民用航空飞机，以建筑和航空器表现民航基础设施建设。",
+    "needsReview": true, "localImageFolder": "特34 《首都机场》",
+    "stamps": [
+      { "sn": 1, "name": "候机大楼", "denomination": "8分", "image": "/images/stamps/1959/特34-1.jpg" },
+      { "sn": 2, "name": "民用航空飞机", "denomination": "10分", "image": "/images/stamps/1959/特34-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪63", "series": "纪", "type": "纪念邮票", "title": "世界和平运动", "issueDate": "1959-07-25", "year": 1959,
+    "themes": ["历史事件", "世界和平"], "designer": "刘硕仁、孙传哲", "totalStamps": 2, "extras": [],
+    "description": "1959年世界和平理事会在**瑞典斯德哥尔摩**举行会议。第1枚采用世界和平理事会主席约里奥·居里肖像，第2枚以黑、黄、白三种肤色的和平鸽剪影象征各国人民团结。",
+    "needsReview": true, "localImageFolder": "纪63 《世界和平运动》",
+    "stamps": [
+      { "sn": 1, "name": "约里奥·居里", "denomination": "8分", "image": "/images/stamps/1959/纪63-1.jpg" },
+      { "sn": 2, "name": "黑、黄、白三种肤色", "denomination": "22分", "image": "/images/stamps/1959/纪63-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪65", "series": "纪", "type": "纪念邮票", "title": "中捷邮电技术合作", "issueDate": "1959-08-15", "year": 1959,
+    "themes": ["历史事件", "邮政", "捷克斯洛伐克"], "designer": "孙传哲", "totalStamps": 1, "extras": [],
+    "description": "为纪念中国与捷克斯洛伐克邮电技术合作发行。邮票以无线电发射天线塔为主体，象征两国在邮电通信技术方面的合作；捷克斯洛伐克同时发行同图邮票。",
+    "quantity": "500万套", "needsReview": true, "localImageFolder": "纪65 《中捷邮电技术合作》",
+    "stamps": [
+      { "sn": 1, "name": "无线电", "denomination": "8分", "image": "/images/stamps/1959/纪65-1.jpg" }
+    ]
+  },
+  {
+    "id": "纪66", "series": "纪", "type": "纪念邮票", "title": "第25届世界乒乓球锦标赛", "issueDate": "1959-08-30", "year": 1959,
+    "themes": ["体育", "乒乓球"], "designer": "万维生", "totalStamps": 2, "extras": [],
+    "description": "第25届世界乒乓球锦标赛于1959年在**联邦德国多特蒙德**举行，容国团获得男子单打冠军，成为新中国第一个世界冠军。两枚邮票分别表现乒乓球比赛和夺标庆祝。",
+    "needsReview": true, "localImageFolder": "纪66 《第25届世界乒乓球锦标赛》",
+    "stamps": [
+      { "sn": 1, "name": "乒乓球赛", "denomination": "4分", "image": "/images/stamps/1959/纪66-1.jpg" },
+      { "sn": 2, "name": "夺标", "denomination": "8分", "image": "/images/stamps/1959/纪66-2.jpg" }
+    ]
+  },
+  {
+    "id": "特33", "series": "特", "type": "特种邮票", "title": "苏联宇宙火箭", "issueDate": "1959-09-10", "year": 1959,
+    "themes": ["科技", "航天"], "designer": "刘硕仁", "totalStamps": 1, "extras": [],
+    "description": "苏联于1959年1月发射月球1号宇宙火箭，火箭飞越月球附近后进入日心轨道，成为第一个人造行星。邮票以火箭在星际空间运行的画面纪念这一早期航天成就。",
+    "quantity": "900万套", "needsReview": true, "localImageFolder": "特33 《苏联宇宙火箭》",
+    "stamps": [
+      { "sn": 1, "name": "宇宙火箭在运行", "denomination": "8分", "image": "/images/stamps/1959/特33-1.jpg" }
+    ]
+  },
+  {
+    "id": "特35", "series": "特", "type": "特种邮票", "title": "人民公社", "issueDate": "1959-09-25", "year": 1959,
+    "themes": ["历史事件", "农业", "人民公社"], "designer": "孙传哲、韩象琦、卢天骄、吴建坤、万维生", "totalStamps": 12, "extras": [],
+    "description": "这套邮票为人民公社化运动一周年发行。12枚依次表现“人民公社好”、工农商学兵，以及食堂、托儿所、敬老院、卫生保健、文娱生活和工农兵学商相结合等公社生产生活场景。",
+    "quantity": "800万套", "needsReview": true, "localImageFolder": "特35 《人民公社》",
+    "stamps": [
+      { "sn": 1, "name": "人民公社好", "denomination": "8分", "image": "/images/stamps/1959/特35-1.jpg" },
+      { "sn": 2, "name": "工", "denomination": "8分", "image": "/images/stamps/1959/特35-2.jpg" },
+      { "sn": 3, "name": "农", "denomination": "8分", "image": "/images/stamps/1959/特35-3.jpg" },
+      { "sn": 4, "name": "商", "denomination": "8分", "image": "/images/stamps/1959/特35-4.jpg" },
+      { "sn": 5, "name": "学", "denomination": "8分", "image": "/images/stamps/1959/特35-5.jpg" },
+      { "sn": 6, "name": "兵", "denomination": "8分", "image": "/images/stamps/1959/特35-6.jpg" },
+      { "sn": 7, "name": "食堂", "denomination": "8分", "image": "/images/stamps/1959/特35-7.jpg" },
+      { "sn": 8, "name": "托儿所", "denomination": "8分", "image": "/images/stamps/1959/特35-8.jpg" },
+      { "sn": 9, "name": "敬老院", "denomination": "8分", "image": "/images/stamps/1959/特35-9.jpg" },
+      { "sn": 10, "name": "卫生保健", "denomination": "8分", "image": "/images/stamps/1959/特35-10.jpg" },
+      { "sn": 11, "name": "文娱生活", "denomination": "8分", "image": "/images/stamps/1959/特35-11.jpg" },
+      { "sn": 12, "name": "工农兵学商相结合", "denomination": "8分", "image": "/images/stamps/1959/特35-12.jpg" }
+    ]
+  },
+  {
+    "id": "纪67", "series": "纪", "type": "纪念邮票", "title": "中华人民共和国成立十周年（第一组）", "issueDate": "1959-09-28", "year": 1959,
+    "themes": ["历史事件", "国庆"], "designer": "张光宇、邱陵、陈汉民、钟灵、张仃、周令钊", "totalStamps": 3, "extras": [],
+    "description": "中华人民共和国成立十周年纪念邮票共分5组发行。第一组3枚分别以**北京天安门**与毛泽东侧面像、马克思和列宁侧面像与**莫斯科克里姆林宫**、和平鸽与地球为主图。",
+    "needsReview": true, "localImageFolder": "纪67 《中华人民共和国成立十周年（第一组）》",
+    "stamps": [
+      { "sn": 1, "name": "中华人民共和国万岁 毛主席万岁", "denomination": "8分", "image": "/images/stamps/1959/纪67-1.jpg" },
+      { "sn": 2, "name": "马列主义万岁", "denomination": "8分", "image": "/images/stamps/1959/纪67-2.jpg" },
+      { "sn": 3, "name": "世界和平万岁", "denomination": "22分", "image": "/images/stamps/1959/纪67-3.jpg" }
+    ]
+  },
+  {
+    "id": "纪68", "series": "纪", "type": "纪念邮票", "title": "中华人民共和国成立十周年（第二组）", "issueDate": "1959-10-01", "year": 1959,
+    "themes": ["历史事件", "国庆"], "designer": "孙传哲", "totalStamps": 4, "extras": [],
+    "description": "4枚邮票均以中华人民共和国国徽为主体，采用不同背景色调。国徽中的五星、天安门、麦穗和齿轮象征国家、工农联盟与全国人民团结，画面以暖色光晕突出庄严感。",
+    "needsReview": true, "localImageFolder": "纪68 《中华人民共和国成立十周年（第二组）》",
+    "stamps": [
+      { "sn": 1, "name": "国徽", "denomination": "4分", "image": "/images/stamps/1959/纪68-1.jpg" },
+      { "sn": 2, "name": "国徽", "denomination": "8分", "image": "/images/stamps/1959/纪68-2.jpg" },
+      { "sn": 3, "name": "国徽", "denomination": "10分", "image": "/images/stamps/1959/纪68-3.jpg" },
+      { "sn": 4, "name": "国徽", "denomination": "20分", "image": "/images/stamps/1959/纪68-4.jpg" }
+    ]
+  },
+  {
+    "id": "纪69", "series": "纪", "type": "纪念邮票", "title": "中华人民共和国成立十周年（第三组）", "issueDate": "1959-10-01", "year": 1959,
+    "themes": ["历史事件", "国庆"], "designer": "孙传哲", "totalStamps": 8, "extras": [],
+    "description": "这是新中国第一套影雕套印邮票。8枚均采用圆镜、祥云和天安门组成的统一构图，圆镜内分别展示钢铁、煤炭、机械制造、交通运输、农业、水利电力、纺织和化学工业等建设成果。",
+    "quantity": "1000万套", "needsReview": true, "localImageFolder": "纪69 《中华人民共和国成立十周年（第三组）》",
+    "stamps": [
+      { "sn": 1, "name": "钢铁", "denomination": "8分", "image": "/images/stamps/1959/纪69-1.jpg" },
+      { "sn": 2, "name": "煤炭", "denomination": "8分", "image": "/images/stamps/1959/纪69-2.jpg" },
+      { "sn": 3, "name": "机械制造", "denomination": "8分", "image": "/images/stamps/1959/纪69-3.jpg" },
+      { "sn": 4, "name": "交通运输", "denomination": "8分", "image": "/images/stamps/1959/纪69-4.jpg" },
+      { "sn": 5, "name": "农业", "denomination": "8分", "image": "/images/stamps/1959/纪69-5.jpg" },
+      { "sn": 6, "name": "水利电力", "denomination": "8分", "image": "/images/stamps/1959/纪69-6.jpg" },
+      { "sn": 7, "name": "纺织工业", "denomination": "8分", "image": "/images/stamps/1959/纪69-7.jpg" },
+      { "sn": 8, "name": "化学工业", "denomination": "8分", "image": "/images/stamps/1959/纪69-8.jpg" }
+    ]
+  },
+  {
+    "id": "纪70", "series": "纪", "type": "纪念邮票", "title": "中华人民共和国成立十周年（第四组）", "issueDate": "1959-10-01", "year": 1959,
+    "themes": ["历史事件", "国庆"], "designer": "周令钊", "totalStamps": 3, "extras": [],
+    "description": "3枚邮票均以“举国欢庆”为题，表现工农商学兵向国庆十周年献礼，并以中国民间狮子舞为视觉重点。横、竖两种构图共同营造节日庆典的热烈气氛。",
+    "needsReview": true, "localImageFolder": "纪70 《中华人民共和国成立十周年（第四组）》",
+    "stamps": [
+      { "sn": 1, "name": "举国欢庆", "denomination": "8分", "image": "/images/stamps/1959/纪70-1.jpg" },
+      { "sn": 2, "name": "举国欢庆", "denomination": "10分", "image": "/images/stamps/1959/纪70-2.jpg" },
+      { "sn": 3, "name": "举国欢庆", "denomination": "20分", "image": "/images/stamps/1959/纪70-3.jpg" }
+    ]
+  },
+  {
+    "id": "纪71", "series": "纪", "type": "纪念邮票", "title": "中华人民共和国成立十周年（第五组）", "issueDate": "1959-10-01", "year": 1959,
+    "themes": ["历史事件", "国庆"], "designer": "唐霖坤", "totalStamps": 1, "extras": [],
+    "description": "邮票取材于董希文油画《开国大典》，表现1949年10月1日毛泽东在**北京天安门**城楼宣告中华人民共和国成立的庄严时刻。唐霖坤依据油画修改稿完成邮票设计和雕刻。",
+    "quantity": "350万套", "needsReview": true, "localImageFolder": "纪71 《中华人民共和国成立十周年（第五组）》",
+    "stamps": [
+      { "sn": 1, "name": "开国大典", "denomination": "20分", "image": "/images/stamps/1959/纪71-1.jpg" }
+    ]
+  },
+  {
+    "id": "纪64", "series": "纪", "type": "纪念邮票", "title": "中国少年先锋队建队十周年", "issueDate": "1959-11-10", "year": 1959,
+    "themes": ["周年纪念", "少先队"], "designer": "吴建坤、卢天骄", "totalStamps": 6, "extras": [],
+    "description": "中国少年先锋队建立于1949年，1953年由“中国少年儿童队”改用现名。6枚邮票分别表现星星火炬队徽、夏令营、学习、科学研究、植树和体育运动，从组织标志到集体活动，展现少先队员的学习与生活。",
+    "needsReview": true, "localImageFolder": "纪64 《中国少年先锋队建队十周年》",
+    "stamps": [
+      { "sn": 1, "name": "队徽", "denomination": "4分", "image": "/images/stamps/1959/纪64-1.jpg" },
+      { "sn": 2, "name": "夏令营", "denomination": "4分", "image": "/images/stamps/1959/纪64-2.jpg" },
+      { "sn": 3, "name": "学习", "denomination": "8分", "image": "/images/stamps/1959/纪64-3.jpg" },
+      { "sn": 4, "name": "科学研究", "denomination": "8分", "image": "/images/stamps/1959/纪64-4.jpg" },
+      { "sn": 5, "name": "植树", "denomination": "8分", "image": "/images/stamps/1959/纪64-5.jpg" },
+      { "sn": 6, "name": "体育运动", "denomination": "8分", "image": "/images/stamps/1959/纪64-6.jpg" }
+    ]
+  },
+  {
+    "id": "纪73", "series": "纪", "type": "纪念邮票", "title": "全国工业交通展览会", "issueDate": "1959-12-01", "year": 1959,
+    "themes": ["历史事件", "展会", "工业"], "designer": "卢天骄", "totalStamps": 2, "extras": [],
+    "description": "全国工业交通展览会于1959年12月在**北京**开幕，集中展示工业和交通运输建设成果。两枚邮票分别表现展览会大门与展览馆建筑，以宏大的建筑造型突出展会主题。",
+    "needsReview": true, "localImageFolder": "纪73 《全国工业交通展览会》",
+    "stamps": [
+      { "sn": 1, "name": "展览会大门", "denomination": "4分", "image": "/images/stamps/1959/纪73-1.jpg" },
+      { "sn": 2, "name": "展览馆", "denomination": "8分", "image": "/images/stamps/1959/纪73-2.jpg" }
+    ]
+  },
+  {
+    "id": "特36", "series": "特", "type": "特种邮票", "title": "民族文化宫", "issueDate": "1959-12-10", "year": 1959,
+    "themes": ["建筑", "民族建筑"], "designer": "万维生", "totalStamps": 2, "extras": [],
+    "description": "**北京西长安街民族文化宫**于1959年落成，是首都国庆十大建筑之一，馆名由毛泽东题写。两枚邮票同图异色，以白底黑线勾勒主体建筑，分别配红、绿边框。",
+    "needsReview": true, "localImageFolder": "特36 《民族文化宫》",
+    "stamps": [
+      { "sn": 1, "name": "民族文化宫", "denomination": "4分", "image": "/images/stamps/1959/特36-1.jpg" },
+      { "sn": 2, "name": "民族文化宫", "denomination": "8分", "image": "/images/stamps/1959/特36-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪72", "series": "纪", "type": "纪念邮票", "title": "第一届全国运动会", "issueDate": "1959-12-28", "year": 1959,
+    "themes": ["体育", "全运会"], "designer": "吴建坤", "totalStamps": 16, "extras": [],
+    "description": "第一届全国运动会于1959年9月至10月在**北京**举行，是新中国第一次全国性综合运动会。16枚邮票以运动场和跳伞、射击、游泳、乒乓球、篮球、击剑、摩托车、举重、赛马、足球、跳水、滑冰、体操、排球、自行车等项目组成完整的体育图景。",
+    "needsReview": true, "localImageFolder": "纪72 《第一届全国运动会》",
+    "stamps": [
+      { "sn": 1, "name": "运动场", "denomination": "4分", "image": "/images/stamps/1959/纪72-1.jpg" },
+      { "sn": 2, "name": "跳伞", "denomination": "4分", "image": "/images/stamps/1959/纪72-2.jpg" },
+      { "sn": 3, "name": "射击", "denomination": "4分", "image": "/images/stamps/1959/纪72-3.jpg" },
+      { "sn": 4, "name": "游泳", "denomination": "4分", "image": "/images/stamps/1959/纪72-4.jpg" },
+      { "sn": 5, "name": "乒乓球", "denomination": "4分", "image": "/images/stamps/1959/纪72-5.jpg" },
+      { "sn": 6, "name": "篮球", "denomination": "4分", "image": "/images/stamps/1959/纪72-6.jpg" },
+      { "sn": 7, "name": "击剑", "denomination": "4分", "image": "/images/stamps/1959/纪72-7.jpg" },
+      { "sn": 8, "name": "摩托车", "denomination": "4分", "image": "/images/stamps/1959/纪72-8.jpg" },
+      { "sn": 9, "name": "举重", "denomination": "8分", "image": "/images/stamps/1959/纪72-9.jpg" },
+      { "sn": 10, "name": "赛马", "denomination": "8分", "image": "/images/stamps/1959/纪72-10.jpg" },
+      { "sn": 11, "name": "足球", "denomination": "8分", "image": "/images/stamps/1959/纪72-11.jpg" },
+      { "sn": 12, "name": "跳水", "denomination": "8分", "image": "/images/stamps/1959/纪72-12.jpg" },
+      { "sn": 13, "name": "滑冰", "denomination": "10分", "image": "/images/stamps/1959/纪72-13.jpg" },
+      { "sn": 14, "name": "体操", "denomination": "10分", "image": "/images/stamps/1959/纪72-14.jpg" },
+      { "sn": 15, "name": "排球", "denomination": "10分", "image": "/images/stamps/1959/纪72-15.jpg" },
+      { "sn": 16, "name": "自行车", "denomination": "10分", "image": "/images/stamps/1959/纪72-16.jpg" }
+    ]
+  }
+]

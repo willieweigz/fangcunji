@@ -1,0 +1,167 @@
+[
+  {
+    "id": "纪39",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "全国第一届工人体育运动大会",
+    "issueDate": "1957-03-20",
+    "year": 1957,
+    "themes": ["体育", "综合运动会", "工人运动"],
+    "designer": "邵柏林、刘硕仁、孙传哲",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "全国第一届工人体育运动会于1955年10月2日至9日在**北京先农坛体育场**举行，约1700名运动员参加。5枚邮票分别表现径赛、铅球、足球、自行车和举重，也是新中国第一套体育题材邮票。因发行推迟，志号、票面和实际发行日期分别出现1956、1955和1957三个年份。",
+    "needsReview": true,
+    "localImageFolder": "纪39 《全国第一届工人体育运动大会》",
+    "stamps": [
+      { "sn": 1, "name": "径赛", "denomination": "8分", "image": "/images/stamps/1957/纪39-1.jpg" },
+      { "sn": 2, "name": "铅球", "denomination": "4分", "image": "/images/stamps/1957/纪39-2.jpg" },
+      { "sn": 3, "name": "足球", "denomination": "8分", "image": "/images/stamps/1957/纪39-3.jpg" },
+      { "sn": 4, "name": "自行车", "denomination": "8分", "image": "/images/stamps/1957/纪39-4.jpg" },
+      { "sn": 5, "name": "举重", "denomination": "4分", "image": "/images/stamps/1957/纪39-5.jpg" }
+    ]
+  },
+  {
+    "id": "纪40",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "我国自制汽车出厂纪念",
+    "issueDate": "1957-05-01",
+    "year": 1957,
+    "themes": ["科技", "汽车"],
+    "designer": "刘硕仁",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**吉林长春第一汽车制造厂**于1953年奠基，1956年7月试制成功中国第一批“解放牌”载重汽车，并于同年10月正式投产。两枚邮票分别展现一汽厂房外景和总装配车间内汽车下线的场景，纪念新中国汽车工业的重要起点。",
+    "needsReview": true,
+    "localImageFolder": "纪40 《我国自制汽车出厂纪念》",
+    "stamps": [
+      { "sn": 1, "name": "厂房外景", "denomination": "4分", "image": "/images/stamps/1957/纪40-1.jpg" },
+      { "sn": 2, "name": "总装配车间", "denomination": "8分", "image": "/images/stamps/1957/纪40-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪41",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "中国人民解放军建军三十周年",
+    "issueDate": "1957-08-10",
+    "year": 1957,
+    "themes": ["解放军", "建军"],
+    "designer": "孙传哲",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "4枚邮票依据历史画作设计，分别表现**江西南昌**起义、**井冈山**会师、八路军东渡黄河和解放**南京**，串联土地革命战争、抗日战争和解放战争等阶段。第2枚和第4枚因印制进度延至1957年12月发售，本条目仍按整套首次发行日期归档。",
+    "needsReview": true,
+    "localImageFolder": "纪41 《中国人民解放军建军三十周年》",
+    "stamps": [
+      { "sn": 1, "name": "南昌起义", "denomination": "4分", "image": "/images/stamps/1957/纪41-1.jpg" },
+      { "sn": 2, "name": "井冈山会师", "denomination": "4分", "image": "/images/stamps/1957/纪41-2.jpg" },
+      { "sn": 3, "name": "八路军东渡黄河", "denomination": "8分", "image": "/images/stamps/1957/纪41-3.jpg" },
+      { "sn": 4, "name": "解放南京", "denomination": "8分", "image": "/images/stamps/1957/纪41-4.jpg" }
+    ]
+  },
+  {
+    "id": "纪42",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "世界工会第四次代表大会",
+    "issueDate": "1957-09-30",
+    "year": 1957,
+    "themes": ["历史事件", "工人运动", "国际会议"],
+    "designer": "孙传哲",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "世界工会联合会第四次代表大会于1957年10月在**德国莱比锡**举行。两枚邮票同图异面值，以东西两半球、绶带和罗马数字“Ⅳ”组成的大会会徽为主图，并配“全世界无产者联合起来”标语；票面首次采用机刻水纹线底纹。",
+    "needsReview": true,
+    "localImageFolder": "纪42 《世界工会第四次代表大会》",
+    "stamps": [
+      { "sn": 1, "name": "第四次代表大会会徽及“全世界无产者联合起来”标语", "denomination": "8分", "image": "/images/stamps/1957/纪42-1.jpg" },
+      { "sn": 2, "name": "第四次代表大会会徽及“全世界无产者联合起来”标语", "denomination": "22分", "image": "/images/stamps/1957/纪42-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪43",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "武汉长江大桥",
+    "issueDate": "1957-10-01",
+    "year": 1957,
+    "themes": ["建筑", "桥梁"],
+    "designer": "卢天骄",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**湖北武汉长江大桥**连接汉阳龟山与武昌蛇山，1957年10月15日正式通车，全长1670.4米，是长江上第一座铁路、公路两用桥，也是新中国第一座长江大桥。两枚邮票分别从侧面和鸟瞰角度展现大桥。",
+    "needsReview": true,
+    "localImageFolder": "纪43 《武汉长江大桥》",
+    "stamps": [
+      { "sn": 1, "name": "大桥（侧景）", "denomination": "8分", "image": "/images/stamps/1957/纪43-1.jpg" },
+      { "sn": 2, "name": "大桥（鸟瞰）", "denomination": "20分", "image": "/images/stamps/1957/纪43-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪44",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "伟大的十月社会主义革命四十周年",
+    "issueDate": "1957-11-07",
+    "year": 1957,
+    "themes": ["历史事件", "十月革命"],
+    "designer": "张仃、张光宇、钟灵、邱陵",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "这套邮票纪念1917年俄国十月革命四十周年。5幅图案分别表现节日庆祝、十月革命的世界意义、保卫世界和平、保卫马列主义和共产主义远景，统一置于具有中国民族建筑特征的椭圆拱门中，并以“1917”“1957”标示纪念年份。",
+    "needsReview": true,
+    "localImageFolder": "纪44 《伟大的十月社会主义革命四十周年》",
+    "stamps": [
+      { "sn": 1, "name": "庆祝伟大节日", "denomination": "4分", "image": "/images/stamps/1957/纪44-1.jpg" },
+      { "sn": 2, "name": "十月革命的世界意义", "denomination": "8分", "image": "/images/stamps/1957/纪44-2.jpg" },
+      { "sn": 3, "name": "保卫世界和平", "denomination": "20分", "image": "/images/stamps/1957/纪44-3.jpg" },
+      { "sn": 4, "name": "保卫马列主义", "denomination": "22分", "image": "/images/stamps/1957/纪44-4.jpg" },
+      { "sn": 5, "name": "共产主义远景", "denomination": "32分", "image": "/images/stamps/1957/纪44-5.jpg" }
+    ]
+  },
+  {
+    "id": "特19",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "治理黄河",
+    "issueDate": "1957-12-30",
+    "year": 1957,
+    "themes": ["历史事件", "水利", "黄河"],
+    "designer": "孙传哲",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "这套邮票表现黄河综合治理和开发利用。示意图标注**甘肃刘家峡水库**、**河南三门峡水库**等工程；其余3枚分别展示水力发电、黄河航运和引水灌溉，集中描绘治水、兴利与发展生产的规划图景。",
+    "needsReview": true,
+    "localImageFolder": "特19 《治理黄河》",
+    "stamps": [
+      { "sn": 1, "name": "示意图", "denomination": "4分", "image": "/images/stamps/1957/特19-1.jpg" },
+      { "sn": 2, "name": "电力", "denomination": "4分", "image": "/images/stamps/1957/特19-2.jpg" },
+      { "sn": 3, "name": "航运", "denomination": "8分", "image": "/images/stamps/1957/特19-3.jpg" },
+      { "sn": 4, "name": "灌溉", "denomination": "8分", "image": "/images/stamps/1957/特19-4.jpg" }
+    ]
+  },
+  {
+    "id": "特20",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "农业合作化",
+    "issueDate": "1957-12-30",
+    "year": 1957,
+    "themes": ["历史事件", "农业"],
+    "designer": "万维生",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "4枚邮票以入社、耕种、造林和丰收为主题，依次呈现农民加入合作社、集体耕作、植树造林和收获粮食的场景，记录当时农业合作化进程中的生产生活面貌。",
+    "quantity": "800万套",
+    "needsReview": true,
+    "localImageFolder": "特20 《农业合作化》",
+    "stamps": [
+      { "sn": 1, "name": "入社", "denomination": "8分", "image": "/images/stamps/1957/特20-1.jpg" },
+      { "sn": 2, "name": "耕种", "denomination": "8分", "image": "/images/stamps/1957/特20-2.jpg" },
+      { "sn": 3, "name": "造林", "denomination": "8分", "image": "/images/stamps/1957/特20-3.jpg" },
+      { "sn": 4, "name": "丰收", "denomination": "8分", "image": "/images/stamps/1957/特20-4.jpg" }
+    ]
+  }
+]

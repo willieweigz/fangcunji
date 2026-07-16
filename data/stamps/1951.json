@@ -1,0 +1,132 @@
+[
+  {
+    "id": "普5",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "天安门图案普通邮票（第五版）",
+    "issueDate": "1951-04-18",
+    "year": 1951,
+    "themes": ["普票", "天安门"],
+    "designer": "孙传哲",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "普5是新中国第一套高面值普通邮票，由**北京**中国人民印刷厂印制。6枚总面值41万元旧币，主要适应当时包裹和汇兑等高额邮资需要，存世数量较少。邮票继续采用天安门城楼和西侧华表图案，以胶版粉红色底纹与雕刻版主图套印；高面值、低存量和鲜明的套印工艺，使它成为新中国早期普通邮票中的重要品种。",
+    "needsReview": true,
+    "localImageFolder": "普5 《天安门图案普通邮票（第五版）》",
+    "stamps": [
+      { "sn": 1, "name": "天安门", "denomination": "10000元", "image": "/images/stamps/1951/普5-1.jpg" },
+      { "sn": 2, "name": "天安门", "denomination": "20000元", "image": "/images/stamps/1951/普5-2.jpg" },
+      { "sn": 3, "name": "天安门", "denomination": "30000元", "image": "/images/stamps/1951/普5-3.jpg" },
+      { "sn": 4, "name": "天安门", "denomination": "50000元", "image": "/images/stamps/1951/普5-4.jpg" },
+      { "sn": 5, "name": "天安门", "denomination": "100000元", "image": "/images/stamps/1951/普5-5.jpg" },
+      { "sn": 6, "name": "天安门", "denomination": "200000元", "image": "/images/stamps/1951/普5-6.jpg" }
+    ]
+  },
+  {
+    "id": "纪9",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "中国共产党三十周年纪念",
+    "issueDate": "1951-07-01",
+    "year": 1951,
+    "themes": ["历史事件", "党史", "建党"],
+    "designer": "孙传哲",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "1921年7月，中国共产党第一次全国代表大会在**上海**召开。1951年建党三十周年之际，邮电部发行了新中国第一套建党纪念邮票。3枚邮票同图，采用**张松鹤**创作的毛泽东侧面浮雕头像，左下角以党徽联结“1921”“1951”字样，并配橄榄枝和如意纹边框，整体风格庄重严肃。另有供东北地区贴用的版本，不列入本套正票。",
+    "quantity": "150万套",
+    "needsReview": true,
+    "localImageFolder": "纪9 《中国共产党三十周年纪念》",
+    "stamps": [
+      { "sn": 1, "name": "毛泽东侧面浮雕头像", "denomination": "400元", "image": "/images/stamps/1951/纪9-1.jpg" },
+      { "sn": 2, "name": "毛泽东侧面浮雕头像", "denomination": "500元", "image": "/images/stamps/1951/纪9-2.jpg" },
+      { "sn": 3, "name": "毛泽东侧面浮雕头像", "denomination": "800元", "image": "/images/stamps/1951/纪9-3.jpg" }
+    ]
+  },
+  {
+    "id": "纪10",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "保卫世界和平（第二组）",
+    "issueDate": "1951-08-15",
+    "year": 1951,
+    "themes": ["历史事件", "世界和平"],
+    "designer": "孙传哲",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "第二届世界保卫和平大会于1950年在**波兰华沙**举行。为表达中国人民对和平的愿望，邮电部发行这套纪念邮票，采用**西班牙**画家**毕加索**为大会创作的飞翔和平鸽，图案下部配橄榄叶。3枚邮票均为等腰三角形并采用对倒印刷，是新中国第一套异形邮票，造型和版式在中国邮票史上别具一格。",
+    "quantity": "165万套",
+    "needsReview": true,
+    "localImageFolder": "纪10 《保卫世界和平（第二组）》",
+    "stamps": [
+      { "sn": 1, "name": "和平鸽", "denomination": "400元", "image": "/images/stamps/1951/纪10-1.jpg" },
+      { "sn": 2, "name": "和平鸽", "denomination": "800元", "image": "/images/stamps/1951/纪10-2.jpg" },
+      { "sn": 3, "name": "和平鸽", "denomination": "1000元", "image": "/images/stamps/1951/纪10-3.jpg" }
+    ]
+  },
+  {
+    "id": "特1",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "国徽",
+    "issueDate": "1951-10-01",
+    "year": 1951,
+    "themes": ["文化", "国徽"],
+    "designer": "孙传哲",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "这是新中国发行的第一套特种邮票。中华人民共和国国徽于1950年正式公布，这套邮票以国徽为唯一主体，5枚图案相同，仅面值和刷色不同，并以浅黄色网纹底色衬托，呈现古朴庄严的视觉效果。邮票由**北京**中国人民印刷厂采用胶雕套印，既展示国家象征，也开启了新中国“特”字头特种邮票序列。",
+    "quantity": "150万套",
+    "needsReview": true,
+    "localImageFolder": "特1 《国徽》",
+    "stamps": [
+      { "sn": 1, "name": "国徽", "denomination": "100元", "image": "/images/stamps/1951/特1-1.jpg" },
+      { "sn": 2, "name": "国徽", "denomination": "200元", "image": "/images/stamps/1951/特1-2.jpg" },
+      { "sn": 3, "name": "国徽", "denomination": "400元", "image": "/images/stamps/1951/特1-3.jpg" },
+      { "sn": 4, "name": "国徽", "denomination": "500元", "image": "/images/stamps/1951/特1-4.jpg" },
+      { "sn": 5, "name": "国徽", "denomination": "800元", "image": "/images/stamps/1951/特1-5.jpg" }
+    ]
+  },
+  {
+    "id": "纪11",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "鲁迅逝世十五周年",
+    "issueDate": "1951-10-19",
+    "year": 1951,
+    "themes": ["人物", "现代人", "中国现代文学家"],
+    "designer": "孙传哲",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1936年10月19日，**鲁迅**在**上海**逝世。十五周年之际发行的这套邮票，2枚采用相同图案：右侧为鲁迅遗像，左侧为《自嘲》诗句“横眉冷对千夫指，俯首甘为孺子牛”的手稿和签名，四周饰以中国青铜纹样。人物肖像、手迹与传统纹饰结合，使画面兼具纪念性和鲜明的文学气息。",
+    "quantity": "200万套",
+    "needsReview": true,
+    "localImageFolder": "纪11 《鲁迅逝世十五周年》",
+    "stamps": [
+      { "sn": 1, "name": "鲁迅像和诗句", "denomination": "400元", "image": "/images/stamps/1951/纪11-1.jpg" },
+      { "sn": 2, "name": "鲁迅像和诗句", "denomination": "800元", "image": "/images/stamps/1951/纪11-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪12",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "太平天国金田起义百年纪念",
+    "issueDate": "1951-12-15",
+    "year": 1951,
+    "themes": ["历史事件", "农民起义"],
+    "designer": "孙传哲",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1851年，洪秀全率众在**广西桂平县金田村**起义，揭开太平天国运动序幕。邮票采用两种图案：第1、3枚依据**李宗津**原画表现起义队伍在紫荆山前集结；第2、4枚组合呈现《天朝田亩制度》《太平军目》《资政新篇》和“圣宝”钱币。人物场景与历史文物相互补充，纪念金田起义一百周年。",
+    "quantity": "100万套",
+    "needsReview": true,
+    "localImageFolder": "纪12 《太平天国金田起义百年纪念》",
+    "stamps": [
+      { "sn": 1, "name": "金田起义", "denomination": "400元", "image": "/images/stamps/1951/纪12-1.jpg" },
+      { "sn": 2, "name": "太平天国书、册、钱币", "denomination": "800元", "image": "/images/stamps/1951/纪12-2.jpg" },
+      { "sn": 3, "name": "金田起义", "denomination": "800元", "image": "/images/stamps/1951/纪12-3.jpg" },
+      { "sn": 4, "name": "太平天国书、册、钱币", "denomination": "1000元", "image": "/images/stamps/1951/纪12-4.jpg" }
+    ]
+  }
+]

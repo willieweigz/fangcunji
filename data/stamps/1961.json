@@ -1,0 +1,487 @@
+[
+  {
+    "id": "纪85",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "巴黎公社九十周年",
+    "issueDate": "1961-03-18",
+    "year": 1961,
+    "themes": [
+      "历史事件",
+      "巴黎公社"
+    ],
+    "designer": "李为",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1871年3月18日，**巴黎**工人阶级举行武装起义，建立了人类历史上第一个无产阶级政权——**巴黎**公社。公社虽然仅存在72天即遭镇压，但为无产阶级革命运动提供了宝贵经验。这套邮票纪念**巴黎**公社九十周年，图案分别为在哲人堂（万神庙）升起红旗和宣布公社成立，由李为设计，以庄重的画面再现了这一历史时刻。",
+    "quantity": "275万套",
+    "needsReview": true,
+    "localImageFolder": "纪85 《巴黎公社九十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "在哲人堂（又名万神庙）升起红旗",
+        "denomination": "8分",
+        "image": "/images/stamps/1961/纪85-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "宣布公社成立",
+        "denomination": "8分",
+        "image": "/images/stamps/1961/纪85-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪86",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "第26届世界乒乓球锦标赛",
+    "issueDate": "1961-04-05",
+    "year": 1961,
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
+    "designer": "吴建坤",
+    "totalStamps": 4,
+    "extras": [
+      "小全张"
+    ],
+    "description": "1961年4月5日至14日，第二十六届世界乒乓球锦标赛在**北京**举行，这是中国首次举办世界性体育赛事。中国乒乓球队在此次比赛中首次获得男子团体世界冠军，开启了\"乒乓外交\"的先声。这套邮票由卢天骄设计，以乒乓球运动的各种姿态为主题，记录了中国体育史上的重要时刻。",
+    "quantity": "150万套",
+    "needsReview": true,
+    "localImageFolder": "纪86 《第二十六届世界乒乓球锦标赛》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "会徽及迎春花",
+        "denomination": "8分",
+        "image": "/images/stamps/1961/纪86-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "在北京举行比赛",
+        "denomination": "10分",
+        "image": "/images/stamps/1961/纪86-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "比赛",
+        "denomination": "20分",
+        "image": "/images/stamps/1961/纪86-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "北京工人体育馆",
+        "denomination": "22分",
+        "image": "/images/stamps/1961/纪86-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "第26届世界乒乓球锦标赛",
+        "denomination": "60分",
+        "format": "小全张",
+        "image": "/images/stamps/1961/纪86-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪87",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "詹天佑诞生一百周年",
+    "issueDate": "1961-06-20",
+    "year": 1961,
+    "themes": [
+      "人物",
+      "现代人",
+      "铁路"
+    ],
+    "designer": "吴建坤",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**詹天佑**（1861-1919），中国近代铁路工程先驱，被誉为\"中国铁路之父\"。1905年至1909年主持修建京张铁路，创造性地设计了\"人\"字形铁路线路，解决了**八达岭**陡坡行车难题，这是中国人自行设计建造的第一条铁路。这套邮票纪念詹天佑诞生一百周年，图案分别为詹天佑肖像和京张铁路，由吴建坤设计。",
+    "quantity": "300万套",
+    "needsReview": true,
+    "localImageFolder": "纪87 《詹天佑诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "詹天佑像",
+        "denomination": "8分",
+        "image": "/images/stamps/1961/纪87-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "京张铁路",
+        "denomination": "10分",
+        "image": "/images/stamps/1961/纪87-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪88",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "中国共产党成立四十周年",
+    "issueDate": "1961-07-01",
+    "year": 1961,
+    "themes": [
+      "历史事件",
+      "党史",
+      "建党"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "1921年7月，中国共产党在**上海**召开第一次全国代表大会，宣告成立。这套邮票纪念中国共产党成立四十周年，五枚邮票分别以党的历史上具有里程碑意义的五处革命纪念地为主题：**上海**中共一大会址、**南昌**起义总指挥部、遵义会议会址、**延安**宝塔山和****北京**天安门**，展现了中国革命从创建到胜利的光辉历程。由孙传哲设计。",
+    "quantity": "150万套",
+    "needsReview": true,
+    "localImageFolder": "纪88 《中国共产党成立四十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "第一次党代会会址（上海）",
+        "denomination": "4分",
+        "image": "/images/stamps/1961/纪88-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "南昌“八一”大楼",
+        "denomination": "8分",
+        "image": "/images/stamps/1961/纪88-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "中央大礼堂（瑞金）",
+        "denomination": "10分",
+        "image": "/images/stamps/1961/纪88-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "延安宝塔山",
+        "denomination": "20分",
+        "image": "/images/stamps/1961/纪88-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "北京天安门",
+        "denomination": "30分",
+        "image": "/images/stamps/1961/纪88-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪89",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "庆祝蒙古人民革命四十周年",
+    "issueDate": "1961-07-11",
+    "year": 1961,
+    "themes": [
+      "周年纪念",
+      "蒙古"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1921年7月11日，**蒙古**人民革命取得胜利，推翻了封建统治。1961年正值**蒙古**人民革命四十周年，邮电部发行了这套纪念邮票，以两幅画面表达中国人民的友好情谊：第一枚为中蒙友谊，第二枚为**蒙古**中央政府大厦。",
+    "quantity": "240万套",
+    "needsReview": true,
+    "localImageFolder": "纪89 《庆祝蒙古人民革命四十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中蒙友谊",
+        "denomination": "8分",
+        "image": "/images/stamps/1961/纪89-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "蒙古中央政府大厦",
+        "denomination": "10分",
+        "image": "/images/stamps/1961/纪89-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "普11",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "革命圣地图案普通邮票（第一版）",
+    "issueDate": "1961-07-20",
+    "year": 1961,
+    "themes": [
+      "普票",
+      "革命圣地"
+    ],
+    "designer": "万维生",
+    "totalStamps": 12,
+    "extras": [],
+    "description": "普11是新中国第一套以革命圣地图案为主题的普通邮票，图案包括**南昌**\"八一\"大楼、**瑞金**沙洲坝、**延安**宝塔山和天安门四处革命圣地。全套12枚分批发行，其中1分、1.5分、5分三枚延至1962年7月才发行。这套邮票为雕刻版，由四位雕刻师分别承担，用量大、消耗多，旧票中1.5分、2分、3分、22分、30分等较少见。",
+    "needsReview": true,
+    "localImageFolder": "普11 《革命圣地图案普通邮票（第一版）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "南昌八一大楼",
+        "denomination": "1分",
+        "image": "/images/stamps/1961/普11-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "南昌八一大楼",
+        "denomination": "1.5分",
+        "image": "/images/stamps/1961/普11-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "南昌八一大楼",
+        "denomination": "2分",
+        "image": "/images/stamps/1961/普11-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "瑞金沙洲坝",
+        "denomination": "3分",
+        "image": "/images/stamps/1961/普11-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "瑞金沙洲坝",
+        "denomination": "4分",
+        "image": "/images/stamps/1961/普11-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "瑞金沙洲坝",
+        "denomination": "5分",
+        "image": "/images/stamps/1961/普11-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "延安宝塔山",
+        "denomination": "8分",
+        "image": "/images/stamps/1961/普11-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "延安宝塔山",
+        "denomination": "10分",
+        "image": "/images/stamps/1961/普11-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "延安宝塔山",
+        "denomination": "20分",
+        "image": "/images/stamps/1961/普11-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "天安门",
+        "denomination": "22分",
+        "image": "/images/stamps/1961/普11-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "天安门",
+        "denomination": "30分",
+        "image": "/images/stamps/1961/普11-11.jpg"
+      },
+      {
+        "sn": 12,
+        "name": "天安门",
+        "denomination": "50分",
+        "image": "/images/stamps/1961/普11-12.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特45",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "中国人民革命军事博物馆",
+    "issueDate": "1961-08-01",
+    "year": 1961,
+    "themes": [
+      "建筑",
+      "博物馆建设"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "中国人民革命军事博物馆位于****北京**市复兴路9号**，1960年8月1日正式开放，是我国唯一的大型综合性军事博物馆。1961年8月1日建军节之际，邮电部发行了这套特种邮票，以两枚不同面值的邮票展现了军事博物馆的雄伟外观。",
+    "quantity": "300万套",
+    "needsReview": true,
+    "localImageFolder": "特45 《中国人民革命军事博物馆》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国人民革命军事博物馆前景",
+        "denomination": "8分",
+        "image": "/images/stamps/1961/特45-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中国人民革命军事博物馆前景",
+        "denomination": "10分",
+        "image": "/images/stamps/1961/特45-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪90",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "辛亥革命五十周年",
+    "issueDate": "1961-10-10",
+    "year": 1961,
+    "themes": [
+      "历史事件",
+      "辛亥革命"
+    ],
+    "designer": "万维生",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1911年10月10日，**武昌**起义爆发，推翻了清朝统治，结束了两千多年的封建帝制。1961年正值辛亥革命五十周年，邮电部发行了这套纪念邮票。第一枚图案为人民英雄纪念碑上的\"**武昌**起义\"浮雕，第二枚为孙中山先生肖像。",
+    "quantity": "300万套",
+    "needsReview": true,
+    "localImageFolder": "纪90 《辛亥革命五十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "武昌起义",
+        "denomination": "8分",
+        "image": "/images/stamps/1961/纪90-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "孙中山像",
+        "denomination": "10分",
+        "image": "/images/stamps/1961/纪90-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特46",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "唐三彩",
+    "issueDate": "1961-11-10",
+    "year": 1961,
+    "themes": [
+      "文物古迹",
+      "陶器",
+      "唐三彩"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 8,
+    "extras": [],
+    "description": "唐三彩是中国唐代的一种彩色釉陶器，以黄、绿、白三色为主，造型生动，色彩绚烂，是古代陶瓷艺术的杰作。这套邮票选录了唐三彩中的驴、马、骆驼三种动物造型，色彩鲜艳、栩栩如生，充分展现了唐三彩的艺术魅力。",
+    "quantity": "150万套",
+    "needsReview": true,
+    "localImageFolder": "特46 《唐三彩》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "驴",
+        "denomination": "4分",
+        "image": "/images/stamps/1961/特46-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "驴",
+        "denomination": "8分",
+        "image": "/images/stamps/1961/特46-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "马",
+        "denomination": "8分",
+        "image": "/images/stamps/1961/特46-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "马",
+        "denomination": "10分",
+        "image": "/images/stamps/1961/特46-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "马",
+        "denomination": "20分",
+        "image": "/images/stamps/1961/特46-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "马",
+        "denomination": "22分",
+        "image": "/images/stamps/1961/特46-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "骆驼",
+        "denomination": "30分",
+        "image": "/images/stamps/1961/特46-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "骆驼",
+        "denomination": "50分",
+        "image": "/images/stamps/1961/特46-8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特47",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "西藏人民的新生",
+    "issueDate": "1961-11-25",
+    "year": 1961,
+    "themes": [
+      "历史事件",
+      "西藏"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "1959年**西藏**平叛后，民主改革使百万农奴翻身得解放。为纪念**西藏**人民的新生，邮电部发行了这套特种邮票。五幅画面取自画家潘世勋的组画《翻身曲》，分别表现了翻身解放、播种生产、庆贺丰收、民主参政和幸福新一代的主题。",
+    "quantity": "150万套",
+    "needsReview": true,
+    "localImageFolder": "特47 《西藏人民的新生》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "翻身曲",
+        "denomination": "4分",
+        "image": "/images/stamps/1961/特47-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "幸福从此扎下根（播种）",
+        "denomination": "8分",
+        "image": "/images/stamps/1961/特47-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "庆丰收",
+        "denomination": "10分",
+        "image": "/images/stamps/1961/特47-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "过去是奴隶，今天是代表（民主生活）",
+        "denomination": "20分",
+        "image": "/images/stamps/1961/特47-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "幸福的一代",
+        "denomination": "30分",
+        "image": "/images/stamps/1961/特47-5.jpg"
+      }
+    ]
+  }
+]

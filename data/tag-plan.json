@@ -1,5 +1,14 @@
 [
  {
+  "id": "1969-普无号",
+  "title": "“文革”普通邮票",
+  "themes": [
+   "普票",
+   "文革普通邮票"
+  ],
+  "status": "confirmed"
+ },
+ {
   "id": "1992-1",
   "title": "壬申年",
   "themes": [
@@ -8870,6 +8879,15 @@
   "status": "confirmed"
  },
  {
+  "id": "2026-9",
+  "title": "封神演义（二）",
+  "themes": [
+   "文学名著",
+   "封神演义"
+  ],
+  "status": "confirmed"
+ },
+ {
   "id": "J1",
   "title": "万国邮政联盟成立一百周年纪念",
   "themes": [
@@ -12065,14 +12083,14 @@
   ],
   "status": "confirmed"
  },
-  {
-    "id": "T89",
-    "title": "中国绘画·唐·簪花仕女图",
-    "themes": [
-      "绘画艺术",
-      "古画"
-    ],
-    "status": "manual"
+ {
+  "id": "T89",
+  "title": "中国绘画·唐·簪花仕女图",
+  "themes": [
+   "绘画艺术",
+   "古画"
+  ],
+  "status": "manual"
  },
  {
   "id": "T9",
@@ -12187,7 +12205,7 @@
    "毛泽东",
    "领袖"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文10",
@@ -12197,7 +12215,7 @@
    "毛泽东",
    "领袖"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文11",
@@ -12206,7 +12224,7 @@
    "解放军",
    "林彪题词"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文12",
@@ -12216,7 +12234,7 @@
    "现代画",
    "毛泽东"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文13",
@@ -12226,7 +12244,7 @@
    "毛泽东",
    "领袖"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文14",
@@ -12236,17 +12254,17 @@
    "桥梁",
    "南京长江大桥"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文15",
-  "title": "热烈欢呼中国共产党的八届十二中全会（扩大）公报发表-高举毛泽东选集",
+  "title": "热烈欢呼中国共产党的八届十二中全会（扩大）公报发表",
   "themes": [
    "历史事件",
    "党史",
    "毛泽东思想"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文16",
@@ -12256,7 +12274,7 @@
    "京剧",
    "样板戏"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文17",
@@ -12265,7 +12283,7 @@
    "历史事件",
    "知识青年"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文18",
@@ -12275,7 +12293,7 @@
    "毛泽东",
    "领袖"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文19",
@@ -12295,7 +12313,7 @@
    "毛泽东",
    "领袖"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文3",
@@ -12304,7 +12322,7 @@
    "周年纪念",
    "延安文艺座谈会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文4",
@@ -12314,7 +12332,7 @@
    "毛泽东",
    "领袖"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文5",
@@ -12324,7 +12342,7 @@
    "毛泽东",
    "文艺"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文6",
@@ -12334,7 +12352,7 @@
    "毛泽东",
    "国际关系"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文7",
@@ -12344,17 +12362,17 @@
    "诗词",
    "毛泽东"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文8",
-  "title": "大海航行靠舵手，干革命靠毛泽东思想-林彪为中国人民解放军海军首次学习毛主席著作积极分子代表大会题词",
+  "title": "大海航行靠舵手，干革命靠毛泽东思想",
   "themes": [
    "解放军",
    "毛泽东",
    "林彪题词"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "文9",
@@ -12363,6 +12381,150 @@
    "历史事件",
    "国际声援",
    "美国黑人运动"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普1",
+  "title": "天安门图案普通邮票（第一版）",
+  "themes": [
+   "普票",
+   "天安门"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普10",
+  "title": "花卉普通邮票",
+  "themes": [
+   "普票",
+   "花卉"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普11",
+  "title": "革命圣地图案普通邮票（第一版）",
+  "themes": [
+   "普票",
+   "革命圣地"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普12",
+  "title": "革命圣地图案普通邮票（第二版）",
+  "themes": [
+   "普票",
+   "革命圣地"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普13",
+  "title": "北京建筑普通邮票",
+  "themes": [
+   "普票",
+   "北京建筑"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普14",
+  "title": "革命圣地图案普通邮票（第三版）",
+  "themes": [
+   "普票",
+   "革命圣地"
+  ],
+  "status": "manual"
+ },
+ {
+  "id": "普15",
+  "title": "交通运输图案普通邮票",
+  "themes": [
+   "普票",
+   "交通运输"
+  ],
+  "status": "manual"
+ },
+ {
+  "id": "普16",
+  "title": "革命圣地图案普通邮票（第四版）",
+  "themes": [
+   "普票",
+   "革命圣地"
+  ],
+  "status": "manual"
+ },
+ {
+  "id": "普17",
+  "title": "北京建筑图案普通邮票",
+  "themes": [
+   "普票",
+   "北京建筑"
+  ],
+  "status": "manual"
+ },
+ {
+  "id": "普18",
+  "title": "工农业生产建设图案普通邮票",
+  "themes": [
+   "普票",
+   "工农业生产"
+  ],
+  "status": "manual"
+ },
+ {
+  "id": "普19",
+  "title": "北京长话大楼",
+  "themes": [
+   "普票",
+   "北京长话大楼"
+  ],
+  "status": "manual"
+ },
+ {
+  "id": "普2",
+  "title": "天安门图案普通邮票（第二版）",
+  "themes": [
+   "普票",
+   "天安门"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普20",
+  "title": "北京风景图案普通邮票",
+  "themes": [
+   "普票",
+   "北京风景"
+  ],
+  "status": "manual"
+ },
+ {
+  "id": "普21",
+  "title": "祖国风光（雕刻版）",
+  "themes": [
+   "普票",
+   "祖国风光"
+  ],
+  "status": "manual"
+ },
+ {
+  "id": "普22",
+  "title": "祖国风光（影写版）",
+  "themes": [
+   "普票",
+   "祖国风光"
+  ],
+  "status": "manual"
+ },
+ {
+  "id": "普22甲",
+  "title": "祖国风光（磷光版）",
+  "themes": [
+   "普票",
+   "祖国风光"
   ],
   "status": "manual"
  },
@@ -12440,6 +12602,42 @@
   "status": "confirmed"
  },
  {
+  "id": "普3",
+  "title": "天安门图案普通邮票（第三版）",
+  "themes": [
+   "普票",
+   "天安门"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普30",
+  "title": "保护人类共有的家园",
+  "themes": [
+   "普票",
+   "环保"
+  ],
+  "status": "manual"
+ },
+ {
+  "id": "普31",
+  "title": "中国鸟",
+  "themes": [
+   "普票",
+   "中国鸟"
+  ],
+  "status": "manual"
+ },
+ {
+  "id": "普32",
+  "title": "美丽中国（第一组）",
+  "themes": [
+   "普票",
+   "美丽中国"
+  ],
+  "status": "manual"
+ },
+ {
   "id": "普32-2",
   "title": "美丽中国（第二组）",
   "themes": [
@@ -12476,11 +12674,102 @@
   "status": "confirmed"
  },
  {
+  "id": "普4",
+  "title": "天安门图案普通邮票（第四版）",
+  "themes": [
+   "普票",
+   "天安门"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普5",
+  "title": "天安门图案普通邮票（第五版）",
+  "themes": [
+   "普票",
+   "天安门"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普6",
+  "title": "不同图案普通邮票",
+  "themes": [
+   "普票",
+   "不同图案"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普7",
+  "title": "天安门图案普通邮票（第六版）",
+  "themes": [
+   "普票",
+   "天安门"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普8",
+  "title": "工农兵图案普通邮票",
+  "themes": [
+   "普票",
+   "工农兵"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普9",
+  "title": "天安门图案普通邮票（第七版）",
+  "themes": [
+   "普票",
+   "天安门"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普东1",
+  "title": "天安门图案普通邮票",
+  "themes": [
+   "普票",
+   "天安门"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普东2",
+  "title": "天安门图案普通邮票（第二版）",
+  "themes": [
+   "普票",
+   "天安门"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "普旅1",
+  "title": "天安门图案普通邮票",
+  "themes": [
+   "普票",
+   "天安门"
+  ],
+  "status": "confirmed"
+ },
+ {
   "id": "普无号",
   "title": "第十一届亚洲运动会国际体育集邮展览-小型张",
   "themes": [
    "体育",
    "亚运会"
+  ],
+  "status": "confirmed"
+ },
+ {
+  "id": "特",
+  "title": "全国山河一片红",
+  "themes": [
+   "历史事件",
+   "政治运动",
+   "全国山河一片红"
   ],
   "status": "confirmed"
  },
@@ -12491,7 +12780,7 @@
    "文化",
    "国徽"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特10",
@@ -12500,7 +12789,7 @@
    "科技",
    "钢铁"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特11",
@@ -12509,7 +12798,7 @@
    "科技",
    "科技创新"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特12",
@@ -12518,7 +12807,7 @@
    "科技",
    "电力"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特13",
@@ -12528,7 +12817,7 @@
    "建设成就",
    "一五计划"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特14",
@@ -12537,7 +12826,7 @@
    "科技",
    "交通"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特15",
@@ -12546,7 +12835,7 @@
    "建筑",
    "北京"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特16",
@@ -12555,7 +12844,7 @@
    "文物古迹",
    "画像砖"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特17",
@@ -12564,7 +12853,7 @@
    "历史事件",
    "金融"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特18",
@@ -12573,7 +12862,7 @@
    "6.1儿童邮票",
    "儿童生活"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特19",
@@ -12583,7 +12872,7 @@
    "水利",
    "黄河"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特2",
@@ -12592,7 +12881,7 @@
    "历史事件",
    "土地改革"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特20",
@@ -12601,7 +12890,7 @@
    "历史事件",
    "农业"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特21",
@@ -12610,7 +12899,7 @@
    "建筑",
    "古塔"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特22",
@@ -12619,7 +12908,7 @@
    "文物古迹",
    "古生物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特23",
@@ -12628,7 +12917,7 @@
    "科技",
    "天文"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特24",
@@ -12637,7 +12926,7 @@
    "科技",
    "气象"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特25",
@@ -12647,7 +12936,7 @@
    "航天",
    "人造卫星"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特26",
@@ -12656,7 +12945,7 @@
    "历史事件",
    "水利"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特27",
@@ -12665,7 +12954,7 @@
    "科技",
    "林业"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特28",
@@ -12674,7 +12963,7 @@
    "科技",
    "核工业"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特29",
@@ -12683,7 +12972,7 @@
    "体育",
    "航空体育"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特3",
@@ -12693,7 +12982,7 @@
    "古画",
    "敦煌壁画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特30",
@@ -12703,7 +12992,7 @@
    "非物质文化遗产",
    "剪纸"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特31",
@@ -12712,7 +13001,7 @@
    "建筑",
    "博物馆建设"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特32",
@@ -12722,7 +13011,7 @@
    "交通",
    "船舶"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特33",
@@ -12731,7 +13020,7 @@
    "科技",
    "航天"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特34",
@@ -12740,7 +13029,7 @@
    "建筑",
    "机场"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特35",
@@ -12750,7 +13039,7 @@
    "农业",
    "人民公社"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特36",
@@ -12759,16 +13048,17 @@
    "建筑",
    "民族建筑"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特37",
-  "title": "全国农业博物馆",
+  "title": "全国农业展览馆",
   "themes": [
    "建筑",
-   "博物馆建设"
+   "现代建筑",
+   "北京"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特38",
@@ -12778,7 +13068,7 @@
    "鱼类",
    "金鱼"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特39",
@@ -12787,7 +13077,7 @@
    "科技",
    "航天"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特4",
@@ -12796,7 +13086,7 @@
    "体育",
    "群众体育"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特40",
@@ -12806,7 +13096,7 @@
    "农业",
    "畜牧业"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特41",
@@ -12816,7 +13106,7 @@
    "现代建筑",
    "人民大会堂"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特42",
@@ -12825,7 +13115,7 @@
    "建筑",
    "铁路"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特43",
@@ -12834,7 +13124,7 @@
    "历史事件",
    "公共卫生"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特44",
@@ -12844,7 +13134,7 @@
    "花卉",
    "菊花"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特45",
@@ -12853,7 +13143,7 @@
    "建筑",
    "博物馆建设"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特46",
@@ -12863,7 +13153,7 @@
    "陶器",
    "唐三彩"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特47",
@@ -12872,7 +13162,7 @@
    "历史事件",
    "西藏"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特48",
@@ -12882,7 +13172,7 @@
    "鸟类",
    "丹顶鹤"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特49",
@@ -12891,7 +13181,7 @@
    "文化",
    "民间舞蹈"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特5",
@@ -12900,7 +13190,7 @@
    "历史事件",
    "建设成就"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特50",
@@ -12909,7 +13199,7 @@
    "建筑",
    "桥梁"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特51",
@@ -12919,7 +13209,7 @@
    "古巴",
    "国际声援"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特52",
@@ -12929,7 +13219,7 @@
    "阿尔及利亚",
    "国际声援"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特53",
@@ -12938,7 +13228,7 @@
    "文化",
    "民间舞蹈"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特54",
@@ -12947,7 +13237,7 @@
    "6.1儿童邮票",
    "儿童生活"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特55",
@@ -12956,7 +13246,7 @@
    "文化",
    "民间舞蹈"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特56",
@@ -12966,7 +13256,7 @@
    "昆虫",
    "蝴蝶"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特57",
@@ -12976,7 +13266,7 @@
    "山",
    "黄山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特58",
@@ -12985,7 +13275,7 @@
    "文化",
    "民间玩具"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特59",
@@ -12995,7 +13285,7 @@
    "濒危动物",
    "熊猫"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特6",
@@ -13005,7 +13295,7 @@
    "古画",
    "敦煌壁画"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特60",
@@ -13015,7 +13305,7 @@
    "濒危动物",
    "金丝猴"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特61",
@@ -13025,7 +13315,7 @@
    "花卉",
    "牡丹"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特62",
@@ -13034,7 +13324,7 @@
    "科技",
    "工业产品"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特63",
@@ -13043,7 +13333,7 @@
    "文物古迹",
    "青铜器"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特64",
@@ -13053,7 +13343,7 @@
    "现代人",
    "妇女"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特65",
@@ -13063,7 +13353,7 @@
    "革命纪念地",
    "延安"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特66",
@@ -13072,7 +13362,7 @@
    "历史事件",
    "知识青年"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特67",
@@ -13082,7 +13372,7 @@
    "能源",
    "石油"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特68",
@@ -13091,7 +13381,7 @@
    "科技",
    "水电"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特69",
@@ -13100,7 +13390,7 @@
    "科技",
    "化学工业"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特7",
@@ -13109,7 +13399,7 @@
    "文物古迹",
    "古代文明"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特70",
@@ -13118,7 +13408,7 @@
    "体育",
    "登山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特71",
@@ -13128,7 +13418,7 @@
    "现代人",
    "妇女"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特72",
@@ -13137,7 +13427,7 @@
    "6.1儿童邮票",
    "儿童体育"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特73",
@@ -13147,7 +13437,7 @@
    "革命纪念地",
    "井冈山"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特74",
@@ -13156,17 +13446,17 @@
    "解放军",
    "军队建设"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特75",
-  "title": "特服务行业中的妇女",
+  "title": "服务行业中的妇女",
   "themes": [
    "人物",
    "现代人",
    "妇女"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特8",
@@ -13175,7 +13465,7 @@
    "历史事件",
    "建设成就"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "特9",
@@ -13184,7 +13474,7 @@
    "文物古迹",
    "古代文物"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪1",
@@ -13193,7 +13483,7 @@
    "历史事件",
    "政协"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪10",
@@ -13202,7 +13492,7 @@
    "历史事件",
    "世界和平"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪100",
@@ -13211,7 +13501,7 @@
    "体育",
    "综合运动会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪101",
@@ -13221,7 +13511,7 @@
    "越南",
    "国际声援"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪102",
@@ -13230,7 +13520,7 @@
    "周年纪念",
    "古巴"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪103",
@@ -13239,7 +13529,7 @@
    "节日",
    "现代节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪104",
@@ -13248,7 +13538,7 @@
    "共产党人",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪105",
@@ -13258,7 +13548,7 @@
    "越南",
    "国际声援"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪106",
@@ -13267,7 +13557,7 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪107",
@@ -13276,7 +13566,7 @@
    "周年纪念",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪108",
@@ -13285,7 +13575,7 @@
    "周年纪念",
    "阿尔巴尼亚"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪109",
@@ -13295,7 +13585,7 @@
    "党史",
    "长征"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪11",
@@ -13305,7 +13595,7 @@
    "现代人",
    "中国现代文学家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪110",
@@ -13315,16 +13605,16 @@
    "国际会议",
    "万隆会议"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪111",
-  "title": "弗·伊·列宁诞生九十五周年-伟大的革命导师， 弗·伊·列宁",
+  "title": "弗·伊·列宁诞生九十五周年",
   "themes": [
    "共产党人",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪112",
@@ -13333,17 +13623,17 @@
    "体育",
    "乒乓球"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪113",
-  "title": "第六次社会主义国家邮电部长会议-在马克思、列宁主义旗帜下前进",
+  "title": "第六次社会主义国家邮电部长会议",
   "themes": [
    "历史事件",
    "邮政",
    "国际会议"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪114",
@@ -13353,7 +13643,7 @@
    "中日关系",
    "青年"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪115",
@@ -13362,7 +13652,7 @@
    "历史事件",
    "抗战胜利"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪116",
@@ -13371,7 +13661,7 @@
    "体育",
    "全运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪117",
@@ -13381,7 +13671,7 @@
    "越南",
    "国际声援"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪118",
@@ -13391,7 +13681,7 @@
    "毛泽东思想",
    "建设成就"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪119",
@@ -13401,7 +13691,7 @@
    "国际会议",
    "文学"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪12",
@@ -13410,7 +13700,7 @@
    "历史事件",
    "农民起义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪120",
@@ -13420,7 +13710,7 @@
    "现代人",
    "辛亥革命"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪121",
@@ -13429,7 +13719,7 @@
    "体育",
    "综合运动会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪122",
@@ -13439,7 +13729,7 @@
    "现代人",
    "中国现代文学家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪123",
@@ -13448,7 +13738,7 @@
    "解放军",
    "英模"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪124",
@@ -13458,7 +13748,7 @@
    "工业",
    "英模"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪13",
@@ -13467,7 +13757,7 @@
    "历史事件",
    "西藏"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪14",
@@ -13477,7 +13767,7 @@
    "国际会议",
    "青少年"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪15",
@@ -13486,7 +13776,7 @@
    "节日",
    "现代节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪16",
@@ -13495,7 +13785,7 @@
    "历史事件",
    "抗战胜利"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪17",
@@ -13504,7 +13794,7 @@
    "解放军",
    "建军"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪18",
@@ -13514,7 +13804,7 @@
    "国际会议",
    "世界和平"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪19",
@@ -13523,7 +13813,7 @@
    "历史事件",
    "抗美援朝"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪2",
@@ -13532,7 +13822,7 @@
    "历史事件",
    "政协"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪20",
@@ -13541,7 +13831,7 @@
    "历史事件",
    "十月革命"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪21",
@@ -13550,7 +13840,7 @@
    "节日",
    "现代节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪22",
@@ -13559,7 +13849,7 @@
    "共产党人",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪23",
@@ -13568,7 +13858,7 @@
    "历史事件",
    "工人运动"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪24",
@@ -13577,7 +13867,7 @@
    "历史事件",
    "世界和平"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪25",
@@ -13586,7 +13876,7 @@
    "人物",
    "文化名人"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪26",
@@ -13595,7 +13885,7 @@
    "共产党人",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪27",
@@ -13604,7 +13894,7 @@
    "共产党人",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪28",
@@ -13614,7 +13904,7 @@
    "展会",
    "苏联"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪29",
@@ -13623,7 +13913,7 @@
    "历史事件",
    "人大"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪3",
@@ -13633,7 +13923,7 @@
    "工人运动",
    "国际会议"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪30",
@@ -13642,7 +13932,7 @@
    "历史事件",
    "宪法"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪31",
@@ -13651,7 +13941,7 @@
    "周年纪念",
    "中国红十字会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪32",
@@ -13660,7 +13950,7 @@
    "周年纪念",
    "苏联"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪33",
@@ -13670,7 +13960,7 @@
    "古代人",
    "中国古代科学家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪34",
@@ -13679,7 +13969,7 @@
    "共产党人",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪35",
@@ -13688,7 +13978,7 @@
    "共产党人",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪36",
@@ -13698,7 +13988,7 @@
    "党史",
    "长征"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪37",
@@ -13708,7 +13998,7 @@
    "党史",
    "八大"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪38",
@@ -13718,7 +14008,7 @@
    "现代人",
    "辛亥革命"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪39",
@@ -13728,7 +14018,7 @@
    "综合运动会",
    "工人运动"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪4",
@@ -13737,7 +14027,7 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪40",
@@ -13746,7 +14036,7 @@
    "科技",
    "汽车"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪41",
@@ -13755,7 +14045,7 @@
    "解放军",
    "建军"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪42",
@@ -13765,7 +14055,7 @@
    "工人运动",
    "国际会议"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪43",
@@ -13774,7 +14064,7 @@
    "建筑",
    "桥梁"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪44",
@@ -13783,7 +14073,7 @@
    "历史事件",
    "十月革命"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪45",
@@ -13793,7 +14083,7 @@
    "建设成就",
    "一五计划"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪46",
@@ -13802,7 +14092,7 @@
    "共产党人",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪47",
@@ -13811,7 +14101,7 @@
    "建筑",
    "纪念建筑"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪48",
@@ -13820,7 +14110,7 @@
    "历史事件",
    "工人运动"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪49",
@@ -13830,7 +14120,7 @@
    "妇女",
    "国际组织"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪5",
@@ -13839,7 +14129,7 @@
    "历史事件",
    "世界和平"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪50",
@@ -13848,7 +14138,7 @@
    "戏曲",
    "关汉卿"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪51",
@@ -13857,7 +14147,7 @@
    "共产党人",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪52",
@@ -13867,7 +14157,7 @@
    "邮政",
    "国际会议"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪53",
@@ -13877,7 +14167,7 @@
    "国际会议",
    "世界和平"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪54",
@@ -13887,7 +14177,7 @@
    "国际会议",
    "青少年"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪55",
@@ -13897,7 +14187,7 @@
    "展会",
    "工业"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪56",
@@ -13906,7 +14196,7 @@
    "科技",
    "通信"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪57",
@@ -13915,7 +14205,7 @@
    "历史事件",
    "抗美援朝"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪58",
@@ -13925,7 +14215,7 @@
    "工业",
    "钢铁"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪59",
@@ -13934,7 +14224,7 @@
    "节日",
    "现代节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪6",
@@ -13943,7 +14233,7 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪60",
@@ -13952,7 +14242,7 @@
    "历史事件",
    "农业"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪61",
@@ -13961,7 +14251,7 @@
    "节日",
    "现代节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪62",
@@ -13970,7 +14260,7 @@
    "历史事件",
    "五四运动"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪63",
@@ -13979,7 +14269,7 @@
    "历史事件",
    "世界和平"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪64",
@@ -13988,7 +14278,7 @@
    "周年纪念",
    "少先队"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪65",
@@ -13998,7 +14288,7 @@
    "邮政",
    "捷克斯洛伐克"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪66",
@@ -14007,7 +14297,7 @@
    "体育",
    "乒乓球"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪67",
@@ -14016,7 +14306,7 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪68",
@@ -14025,7 +14315,7 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪69",
@@ -14034,7 +14324,7 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪7",
@@ -14043,7 +14333,7 @@
    "历史事件",
    "邮政"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪70",
@@ -14052,7 +14342,7 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪71",
@@ -14061,7 +14351,7 @@
    "历史事件",
    "国庆"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪72",
@@ -14070,7 +14360,7 @@
    "体育",
    "全运会"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪73",
@@ -14080,7 +14370,7 @@
    "展会",
    "工业"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪74",
@@ -14090,7 +14380,7 @@
    "党史",
    "长征"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪75",
@@ -14099,7 +14389,7 @@
    "周年纪念",
    "苏联"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪76",
@@ -14108,7 +14398,7 @@
    "节日",
    "现代节日"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪77",
@@ -14117,7 +14407,7 @@
    "共产党人",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪78",
@@ -14126,7 +14416,7 @@
    "周年纪念",
    "匈牙利"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪79",
@@ -14135,7 +14425,7 @@
    "周年纪念",
    "捷克斯洛伐克"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪8",
@@ -14144,7 +14434,7 @@
    "历史事件",
    "中苏关系"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪80",
@@ -14153,7 +14443,7 @@
    "共产党人",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪81",
@@ -14162,7 +14452,7 @@
    "文化",
    "文艺"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪82",
@@ -14171,7 +14461,7 @@
    "周年纪念",
    "朝鲜"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪83",
@@ -14180,7 +14470,7 @@
    "周年纪念",
    "越南"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪84",
@@ -14189,7 +14479,7 @@
    "人物",
    "国际主义战士"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪85",
@@ -14198,7 +14488,7 @@
    "历史事件",
    "巴黎公社"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪86",
@@ -14207,7 +14497,7 @@
    "体育",
    "乒乓球"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪87",
@@ -14217,7 +14507,7 @@
    "现代人",
    "铁路"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪88",
@@ -14227,7 +14517,7 @@
    "党史",
    "建党"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪89",
@@ -14236,7 +14526,7 @@
    "周年纪念",
    "蒙古"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪9",
@@ -14246,7 +14536,7 @@
    "党史",
    "建党"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪90",
@@ -14255,7 +14545,7 @@
    "历史事件",
    "辛亥革命"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪91",
@@ -14265,7 +14555,7 @@
    "现代人",
    "中国现代文学家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪92",
@@ -14275,7 +14565,7 @@
    "古代人",
    "中国古代科学家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪93",
@@ -14285,7 +14575,7 @@
    "古代人",
    "中国古代文学家"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪94",
@@ -14295,7 +14585,7 @@
    "京剧",
    "梅兰芳"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪95",
@@ -14304,7 +14594,7 @@
    "历史事件",
    "十月革命"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪96",
@@ -14313,7 +14603,7 @@
    "周年纪念",
    "阿尔巴尼亚"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪97",
@@ -14322,7 +14612,7 @@
    "历史事件",
    "古巴"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪98",
@@ -14331,7 +14621,7 @@
    "共产党人",
    "马克思主义"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "纪99",
@@ -14340,7 +14630,7 @@
    "体育",
    "乒乓球"
   ],
-  "status": "manual"
+  "status": "confirmed"
  },
  {
   "id": "编号1-6",
@@ -14380,15 +14670,25 @@
   ],
   "status": "manual"
  },
-  {
-    "id": "编号29",
-    "title": "32轮船",
-    "themes": [
-      "科技",
-      "交通",
-      "船舶"
-    ],
-    "status": "manual"
+ {
+  "id": "编号29",
+  "title": "32轮船",
+  "themes": [
+   "科技",
+   "交通",
+   "船舶"
+  ],
+  "status": "manual"
+ },
+ {
+  "id": "编号29-32",
+  "title": "轮船",
+  "themes": [
+   "科技",
+   "交通",
+   "船舶"
+  ],
+  "status": "manual"
  },
  {
   "id": "编号33-38",
@@ -14668,295 +14968,5 @@
    "贺年专用邮票"
   ],
   "status": "auto"
- },
- {
-  "id": "1969-普无号",
-  "title": "文革普通邮票",
-  "themes": [
-   "普票",
-   "文革普通邮票"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普1",
-  "title": "天安门图案普通邮票（第一版）",
-  "themes": [
-   "普票",
-   "天安门"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普10",
-  "title": "花卉普通邮票",
-  "themes": [
-   "普票",
-   "花卉"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普11",
-  "title": "革命圣地图案普通邮票（第一版）",
-  "themes": [
-   "普票",
-   "革命圣地"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普12",
-  "title": "革命圣地图案普通邮票（第二版）",
-  "themes": [
-   "普票",
-   "革命圣地"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普13",
-  "title": "北京建筑普通邮票",
-  "themes": [
-   "普票",
-   "北京建筑"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普14",
-  "title": "革命圣地图案普通邮票（第三版）",
-  "themes": [
-   "普票",
-   "革命圣地"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普15",
-  "title": "交通运输图案普通邮票",
-  "themes": [
-   "普票",
-   "交通运输"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普16",
-  "title": "革命圣地图案普通邮票（第四版）",
-  "themes": [
-   "普票",
-   "革命圣地"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普17",
-  "title": "北京建筑图案普通邮票",
-  "themes": [
-   "普票",
-   "北京建筑"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普18",
-  "title": "工农业生产建设图案普通邮票",
-  "themes": [
-   "普票",
-   "工农业生产"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普19",
-  "title": "北京长话大楼",
-  "themes": [
-   "普票",
-   "北京长话大楼"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普2",
-  "title": "天安门图案普通邮票（第二版）",
-  "themes": [
-   "普票",
-   "天安门"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普20",
-  "title": "北京风景图案普通邮票",
-  "themes": [
-   "普票",
-   "北京风景"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普21",
-  "title": "祖国风光（雕刻版）",
-  "themes": [
-   "普票",
-   "祖国风光"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普22",
-  "title": "祖国风光（影写版）",
-  "themes": [
-   "普票",
-   "祖国风光"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普22甲",
-  "title": "祖国风光（磷光版）",
-  "themes": [
-   "普票",
-   "祖国风光"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普3",
-  "title": "天安门图案普通邮票（第三版）",
-  "themes": [
-   "普票",
-   "天安门"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普30",
-  "title": "保护人类共有的家园",
-  "themes": [
-   "普票",
-   "环保"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普31",
-  "title": "中国鸟",
-  "themes": [
-   "普票",
-   "中国鸟"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普32",
-  "title": "美丽中国（第一组）",
-  "themes": [
-   "普票",
-   "美丽中国"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普4",
-  "title": "天安门图案普通邮票（第四版）",
-  "themes": [
-   "普票",
-   "天安门"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普5",
-  "title": "天安门图案普通邮票（第五版）",
-  "themes": [
-   "普票",
-   "天安门"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普6",
-  "title": "不同图案普通邮票",
-  "themes": [
-   "普票",
-   "不同图案"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普7",
-  "title": "天安门图案普通邮票（第六版）",
-  "themes": [
-   "普票",
-   "天安门"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普8",
-  "title": "工农兵图案普通邮票",
-  "themes": [
-   "普票",
-   "工农兵"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普9",
-  "title": "天安门图案普通邮票（第七版）",
-  "themes": [
-   "普票",
-   "天安门"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普东1",
-  "title": "天安门图案普通邮票",
-  "themes": [
-   "普票",
-   "天安门"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普东2",
-  "title": "天安门图案普通邮票（第二版）",
-  "themes": [
-   "普票",
-   "天安门"
-  ],
-  "status": "manual"
- },
- {
-  "id": "普旅1",
-  "title": "天安门图案普通邮票",
-  "themes": [
-   "普票",
-   "天安门"
-  ],
-  "status": "manual"
- },
- {
-  "id": "特",
-  "title": "全国山河一片红",
-  "themes": [
-   "历史事件",
-   "政治运动",
-   "全国山河一片红"
-  ],
-  "status": "manual"
- },
- {
-  "id": "编号29-32",
-  "title": "轮船",
-  "themes": [
-   "科技",
-   "交通",
-   "船舶"
-  ],
-  "status": "manual"
  }
 ]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "纪1",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "庆祝中国人民政治协商会议第一届全体会议",
+    "issueDate": "1949-10-08",
+    "year": 1949,
+    "themes": ["历史事件", "政协"],
+    "designer": "张仃、钟灵",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1949 年 9 月，中国人民政治协商会议第一届全体会议在**北京**举行，通过共同纲领并确定新中国的首都、国旗、国歌和纪年。作为新中国成立后发行的第一套邮票，4 枚同图表现天安门前欢庆的游行队伍：城楼前悬挂政协会徽大宫灯，天空有银鹰掠过，以节庆场面记录人民共和国诞生前夕的重要时刻。",
+    "quantity": "36万套",
+    "needsReview": true,
+    "localImageFolder": "纪1 《庆祝中国人民政治协商会议第一届全体会议》",
+    "stamps": [
+      { "sn": 1, "name": "北京天安门", "denomination": "30元", "image": "/images/stamps/1949/纪1-1.jpg" },
+      { "sn": 2, "name": "北京天安门", "denomination": "50元", "image": "/images/stamps/1949/纪1-2.jpg" },
+      { "sn": 3, "name": "北京天安门", "denomination": "100元", "image": "/images/stamps/1949/纪1-3.jpg" },
+      { "sn": 4, "name": "北京天安门", "denomination": "200元", "image": "/images/stamps/1949/纪1-4.jpg" }
+    ]
+  },
+  {
+    "id": "纪3",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "世界工联亚洲澳洲工会会议纪念",
+    "issueDate": "1949-11-16",
+    "year": 1949,
+    "themes": ["历史事件", "工人运动", "国际会议"],
+    "designer": "曹必慧、王润丰",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "1949 年 11 月，世界工联亚洲澳洲工会会议在**北京**举行，来自亚洲、澳洲多个国家和地区的工会代表参与会议。3 枚邮票同图：标有亚洲、澳洲版图的地球与一只握持铁锤的大手相连，旗帜形彩带写有“全世界无产者联合起来”。图案借工人阶级的象征，表达国际工会团结与保卫和平的主题。",
+    "quantity": "50万套",
+    "needsReview": true,
+    "localImageFolder": "纪3 《世界工联亚洲澳洲工会会议纪念》",
+    "stamps": [
+      { "sn": 1, "name": "地球东半部及手持铁锤", "denomination": "100元", "image": "/images/stamps/1949/纪3-1.jpg" },
+      { "sn": 2, "name": "地球东半部及手持铁锤", "denomination": "300元", "image": "/images/stamps/1949/纪3-2.jpg" },
+      { "sn": 3, "name": "地球东半部及手持铁锤", "denomination": "500元", "image": "/images/stamps/1949/纪3-3.jpg" }
+    ]
+  }
+]

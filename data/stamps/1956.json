@@ -1,0 +1,123 @@
+[
+  {
+    "id": "特14",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "康藏、青藏公路",
+    "issueDate": "1956-03-30",
+    "year": 1956,
+    "themes": ["科技", "交通"],
+    "designer": "卢天骄",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "康藏公路（后改称川藏公路）和青藏公路于1954年12月25日同时通车至**西藏拉萨**，结束了西藏不通公路、没有汽车的历史。3枚邮票分别表现两路全景、康藏公路上的**大渡河**钢索吊桥和群众庆祝通车的场景，配合毛泽东为两路通车题写的贺词，记录新中国早期交通建设。",
+    "needsReview": true,
+    "localImageFolder": "特14 《康藏、青藏公路》",
+    "stamps": [
+      { "sn": 1, "name": "康藏、青藏公路", "denomination": "4分", "image": "/images/stamps/1956/特14-1.jpg" },
+      { "sn": 2, "name": "康藏公路上的大渡河钢索吊桥", "denomination": "8分", "image": "/images/stamps/1956/特14-2.jpg" },
+      { "sn": 3, "name": "庆祝公路通车", "denomination": "8分", "image": "/images/stamps/1956/特14-3.jpg" }
+    ]
+  },
+  {
+    "id": "特15",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "首都名胜",
+    "issueDate": "1956-06-15",
+    "year": 1956,
+    "themes": ["建筑", "北京"],
+    "designer": "邵柏林",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "这套邮票选择5处**北京**名胜：颐和园、北海、天安门、天坛和故宫太和殿。第3枚“天安门”原票因天空的放射光芒效果被暂停发行，后改图并于1957年2月20日补发；本条目按本套1956年首次发行日期归档，收录补发后的图案。",
+    "needsReview": true,
+    "localImageFolder": "特15 《首都名胜》",
+    "stamps": [
+      { "sn": 1, "name": "颐和园", "denomination": "4分", "image": "/images/stamps/1956/特15-1.jpg" },
+      { "sn": 2, "name": "北海", "denomination": "4分", "image": "/images/stamps/1956/特15-2.jpg" },
+      { "sn": 3, "name": "天安门", "denomination": "8分", "image": "/images/stamps/1956/特15-3.jpg" },
+      { "sn": 4, "name": "天坛", "denomination": "8分", "image": "/images/stamps/1956/特15-4.jpg" },
+      { "sn": 5, "name": "太和殿", "denomination": "8分", "image": "/images/stamps/1956/特15-5.jpg" }
+    ]
+  },
+  {
+    "id": "特16",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "东汉画像砖",
+    "issueDate": "1956-10-01",
+    "year": 1956,
+    "themes": ["文物古迹", "画像砖"],
+    "designer": "孙传哲",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "4枚图案取材于**四川成都**一带出土的东汉画像砖拓片。井盐生产记录汲卤、熬盐的工序；住宅建筑展示庭院俯视布局；射猎农作上下并置猎鸟与收割；马车过桥则反映当时交通场景。邮票以黑白拓片式画面突出东汉社会生活。",
+    "needsReview": true,
+    "localImageFolder": "特16 《东汉画像砖》",
+    "stamps": [
+      { "sn": 1, "name": "井盐生产", "denomination": "4分", "image": "/images/stamps/1956/特16-1.jpg" },
+      { "sn": 2, "name": "住宅建筑", "denomination": "4分", "image": "/images/stamps/1956/特16-2.jpg" },
+      { "sn": 3, "name": "射猎农作", "denomination": "8分", "image": "/images/stamps/1956/特16-3.jpg" },
+      { "sn": 4, "name": "马车过桥", "denomination": "8分", "image": "/images/stamps/1956/特16-4.jpg" }
+    ]
+  },
+  {
+    "id": "特17",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "储蓄",
+    "issueDate": "1956-10-01",
+    "year": 1956,
+    "themes": ["历史事件", "金融"],
+    "designer": "卢天骄",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "这套邮票为宣传储蓄、鼓励群众参加储蓄支援国家建设而发行。两枚同图异色，中心均为1955年由中国人民银行总行确定的储蓄徽志：五角星和麦穗环抱“储蓄”二字，外圈以18枚古钱图案构成双层齿轮，底纹采用牡丹花纹。",
+    "needsReview": true,
+    "localImageFolder": "特17 《储蓄》",
+    "stamps": [
+      { "sn": 1, "name": "储蓄徽", "denomination": "4分", "image": "/images/stamps/1956/特17-1.jpg" },
+      { "sn": 2, "name": "储蓄徽", "denomination": "8分", "image": "/images/stamps/1956/特17-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪37",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "中国共产党第八次全国代表大会",
+    "issueDate": "1956-11-10",
+    "year": 1956,
+    "themes": ["历史事件", "党史", "八大"],
+    "designer": "周令钊、钟灵、陈若菊",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "中国共产党第八次全国代表大会于1956年9月15日至27日在**北京**举行，是新中国成立后党在全国执政期间召开的第一次全国代表大会。3枚同图异色，均以天安门城楼为中心，外围配置齿轮和农作物，象征工农联盟与国家建设。",
+    "needsReview": true,
+    "localImageFolder": "纪37 《中国共产党第八次全国代表大会》",
+    "stamps": [
+      { "sn": 1, "name": "中国共产党第八次全国代表大会", "denomination": "4分", "image": "/images/stamps/1956/纪37-1.jpg" },
+      { "sn": 2, "name": "中国共产党第八次全国代表大会", "denomination": "8分", "image": "/images/stamps/1956/纪37-2.jpg" },
+      { "sn": 3, "name": "中国共产党第八次全国代表大会", "denomination": "16分", "image": "/images/stamps/1956/纪37-3.jpg" }
+    ]
+  },
+  {
+    "id": "纪38",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "孙中山诞生九十周年",
+    "issueDate": "1956-11-12",
+    "year": 1956,
+    "themes": ["人物", "现代人", "辛亥革命"],
+    "designer": "卢天骄",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "这是新中国首次发行孙中山诞辰纪念邮票。两枚同图异色，以**孙中山**1922年在**上海**拍摄的标准像为主体，图案下方配有其手书题词；浅棕与靛绿两种刷色共同构成庄重的纪念画面。",
+    "needsReview": true,
+    "localImageFolder": "纪38 《孙中山诞生九十周年》",
+    "stamps": [
+      { "sn": 1, "name": "孙中山像及题词", "denomination": "4分", "image": "/images/stamps/1956/纪38-1.jpg" },
+      { "sn": 2, "name": "孙中山像及题词", "denomination": "8分", "image": "/images/stamps/1956/纪38-2.jpg" }
+    ]
+  }
+]

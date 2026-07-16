@@ -1,0 +1,838 @@
+[
+  {
+    "id": "纪97",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "革命的社会主义的古巴万岁",
+    "issueDate": "1963-01-01",
+    "year": 1963,
+    "themes": [
+      "历史事件",
+      "古巴"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "**古巴**人民在1959年1月1日推翻巴蒂斯塔独裁政权。1961年4月16日，卡斯特罗宣布**古巴**革命是社会主义民主革命。1960年9月2日，**古巴**通过《哈瓦那宣言》宣布与中国建交。这套纪念邮票以6幅画面再现了**古巴**革命的难忘历程，展示了**古巴**斗争的现实和远景。",
+    "quantity": "250万套",
+    "needsReview": true,
+    "localImageFolder": "纪97 《革命的社会主义的古巴万岁》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中古友谊",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/纪97-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "保卫古巴",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/纪97-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "坚决反对美帝侵略",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/纪97-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "支持古巴人民的正义斗争",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/纪97-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "古巴必胜",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/纪97-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "胜利属于古巴人民",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/纪97-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特56",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "蝴蝶",
+    "issueDate": "1963-04-05",
+    "year": 1963,
+    "themes": [
+      "动物",
+      "昆虫",
+      "蝴蝶"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 20,
+    "extras": [],
+    "description": "蝴蝶以其绚丽的色彩和优雅的飞姿著称。中国蝴蝶资源丰富，品种繁多。这套邮票选录20种中国产蝴蝶，是中国枚数最多的动物邮票之一。全套分两次发行：1963年4月5日发行前10枚，7月15日发行后10枚。",
+    "quantity": "100万套",
+    "needsReview": true,
+    "localImageFolder": "特56 《蝴蝶》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "西藏豆粉蝶",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特56-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "三尾褐凤蝶",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特56-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "青城箭环蝶",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特56-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "瓦山剑凤蝶",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特56-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "联珠带眼蝶",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特56-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "粉绿燕凤蝶",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特56-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "重月纹凤蝶",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特56-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "橙红薯灰蝶",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特56-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "金斑喙凤蝶",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特56-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "雾社翠灰蝶",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特56-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "黑缘橙粉蝶",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特56-11.jpg"
+      },
+      {
+        "sn": 12,
+        "name": "丫纹樟凤蝶",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特56-12.jpg"
+      },
+      {
+        "sn": 13,
+        "name": "橙纹银蚬蝶",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特56-13.jpg"
+      },
+      {
+        "sn": 14,
+        "name": "海南紫喙蝶",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特56-14.jpg"
+      },
+      {
+        "sn": 15,
+        "name": "峨嵋毛弄蝶",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特56-15.jpg"
+      },
+      {
+        "sn": 16,
+        "name": "荧光翼凤蝶",
+        "denomination": "20分",
+        "image": "/images/stamps/1963/特56-16.jpg"
+      },
+      {
+        "sn": 17,
+        "name": "祁连红绢蝶",
+        "denomination": "20分",
+        "image": "/images/stamps/1963/特56-17.jpg"
+      },
+      {
+        "sn": 18,
+        "name": "天蓝纹紫蝶",
+        "denomination": "22分",
+        "image": "/images/stamps/1963/特56-18.jpg"
+      },
+      {
+        "sn": 19,
+        "name": "葱岭铜灰蝶",
+        "denomination": "30分",
+        "image": "/images/stamps/1963/特56-19.jpg"
+      },
+      {
+        "sn": 20,
+        "name": "云南丽蛱蝶",
+        "denomination": "50分",
+        "image": "/images/stamps/1963/特56-20.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪98",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "马克思诞生一四五周年",
+    "issueDate": "1963-05-05",
+    "year": 1963,
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "卡尔·马克思（1818年5月5日—1883年3月14日）是全世界无产阶级的伟大导师。这套邮票为纪念马克思诞生145周年而发行，三枚图案分别表现马克思肖像、全世界无产者联合起来的号召以及马克思与恩格斯共同工作的场景。",
+    "quantity": "600万套",
+    "needsReview": true,
+    "localImageFolder": "纪98 《马克思诞生一四五周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "马克思像",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/纪98-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "全世界无产者联合起来",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/纪98-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "马克思与恩格斯",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/纪98-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特54",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "儿童生活",
+    "issueDate": "1963-06-01",
+    "year": 1963,
+    "themes": [
+      "6.1儿童邮票",
+      "儿童生活"
+    ],
+    "designer": "万维生",
+    "totalStamps": 12,
+    "extras": [],
+    "description": "1949年至1963年，新中国儿童教育事业迅速发展。为庆祝\"六一\"国际儿童节，邮电部发行了这套邮票，从学校、家庭和社会生活中选取了12幅生动的画面，展现了新中国少年儿童的天真烂漫与幸福生活。无齿票同时发行，每枚仅5万枚，较为珍贵。",
+    "quantity": "125万套",
+    "needsReview": true,
+    "localImageFolder": "特54 《儿童生活》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "全神贯注",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特54-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "糖葫芦",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特54-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "汽车与交通警",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特54-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "春风",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特54-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "知音",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特54-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "心满意足",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特54-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "小红花",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特54-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "书包与鞋",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特54-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "玩沙",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特54-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "小球迷",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特54-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "手巧心灵",
+        "denomination": "20分",
+        "image": "/images/stamps/1963/特54-11.jpg"
+      },
+      {
+        "sn": 12,
+        "name": "春天来了",
+        "denomination": "20分",
+        "image": "/images/stamps/1963/特54-12.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特53",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "中国民间舞蹈（第二组）",
+    "issueDate": "1963-06-15",
+    "year": 1963,
+    "themes": [
+      "文化",
+      "民间舞蹈"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "中国民间舞蹈是各民族文化的重要组成部分，风格各异、色彩缤纷。这套邮票为民间舞蹈系列的第二组，展现了布依族、哈萨克族、鄂伦春族、高山族、苗族和**朝鲜**族六个民族的代表性舞蹈。",
+    "quantity": "100万套",
+    "needsReview": true,
+    "localImageFolder": "特53 《中国民间舞蹈（第二组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "布衣族织布舞",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特53-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "哈萨克族双人舞",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特53-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "鄂伦春族鄂伦春舞",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特53-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "高山族劳动舞",
+        "denomination": "20分",
+        "image": "/images/stamps/1963/特53-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "苗族芦笙舞",
+        "denomination": "30分",
+        "image": "/images/stamps/1963/特53-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "朝鲜族扇舞",
+        "denomination": "50分",
+        "image": "/images/stamps/1963/特53-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特55",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "中国民间舞蹈（第三组）",
+    "issueDate": "1963-06-30",
+    "year": 1963,
+    "themes": [
+      "文化",
+      "民间舞蹈"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "这套邮票为民间舞蹈系列的第三组，展现了畲族、白族、瑶族、黎族、佤族和**朝鲜**族六个民族的代表性舞蹈。图案保持了前两组的风格，色彩明快，富有民族特色。",
+    "quantity": "100万套",
+    "needsReview": true,
+    "localImageFolder": "特55 《中国民间舞蹈（第三组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "畲族婚礼舞",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特55-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "白族绕山林",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特55-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "瑶族长鼓舞",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特55-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "黎族三月三",
+        "denomination": "20分",
+        "image": "/images/stamps/1963/特55-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "佤族刀舞",
+        "denomination": "30分",
+        "image": "/images/stamps/1963/特55-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "傣族孔雀舞",
+        "denomination": "50分",
+        "image": "/images/stamps/1963/特55-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特59",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "熊猫",
+    "issueDate": "1963-08-05",
+    "year": 1963,
+    "themes": [
+      "动物",
+      "濒危动物",
+      "熊猫"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "大熊猫是中国特有的珍稀动物，被誉为\"国宝\"。这套邮票图案采用著名画家吴作人的水墨画为原稿，描绘了熊猫憨态可掬的形象。无齿票同时发行，发行量较少，为集邮者所珍视。",
+    "quantity": "300万套",
+    "needsReview": true,
+    "localImageFolder": "特59 《熊猫》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "熊猫",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特59-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "熊猫",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特59-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "熊猫",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特59-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪99",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "第27届世界乒乓球锦标赛",
+    "issueDate": "1963-09-10",
+    "year": 1963,
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1963年4月5日至14日，第27届世界乒乓球锦标赛在**捷克斯洛伐克**首都**布拉格**举行。中国选手共获得男子团体、男子单打和男子双打三个项目的冠军，同时获得两项亚军和五项第三名。邮电部为此于9月10日发行了这套邮票以示祝贺和纪念。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "纪99 《第二十七届世界乒乓球锦标赛》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "运动员",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/纪99-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "奖杯",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/纪99-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特60",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "金丝猴",
+    "issueDate": "1963-09-25",
+    "year": 1963,
+    "themes": [
+      "动物",
+      "濒危动物",
+      "金丝猴"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "金丝猴是中国特有的灵长类动物，主要分布于四川、甘肃、陕西等地，与熊猫并称中国两大国宝。邮票图案以著名画家刘继卣的画作为基础，展现了金丝猴矫健灵动的身姿。无齿票与有齿票同时发行。",
+    "quantity": "100万套",
+    "needsReview": true,
+    "localImageFolder": "特60 《金丝猴》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "金丝猴",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特60-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "金丝猴",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特60-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "金丝猴",
+        "denomination": "22分",
+        "image": "/images/stamps/1963/特60-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特57",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "黄山风景",
+    "issueDate": "1963-10-15",
+    "year": 1963,
+    "themes": [
+      "山水风光",
+      "山",
+      "黄山"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 16,
+    "extras": [],
+    "description": "**黄山**位于安徽省南部，以奇松、怪石、云海、温泉\"四绝\"闻名于世。明代旅行家徐霞客曾赞叹：\"五岳归来不看山，**黄山**归来不看岳。\"这套邮票以16幅画面展现了**黄山**的壮美景色，是新中国邮票中枚数最多的风景邮票之一，也是影雕套印工艺的精品。",
+    "quantity": "100万套",
+    "needsReview": true,
+    "localImageFolder": "特57 《黄山风景》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "玉屏峰",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特57-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "迎客松",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特57-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "后海松石",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特57-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "清凉台",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特57-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "天都远眺",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特57-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "剪刀峰",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特57-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "万松林",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特57-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "梦笔生花",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特57-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "莲花峰",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特57-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "西海云潮",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特57-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "黄山古松",
+        "denomination": "20分",
+        "image": "/images/stamps/1963/特57-11.jpg"
+      },
+      {
+        "sn": 12,
+        "name": "东海观潮",
+        "denomination": "22分",
+        "image": "/images/stamps/1963/特57-12.jpg"
+      },
+      {
+        "sn": 13,
+        "name": "石笋峰",
+        "denomination": "30分",
+        "image": "/images/stamps/1963/特57-13.jpg"
+      },
+      {
+        "sn": 14,
+        "name": "石猴观海",
+        "denomination": "30分",
+        "image": "/images/stamps/1963/特57-14.jpg"
+      },
+      {
+        "sn": 15,
+        "name": "狮子林",
+        "denomination": "50分",
+        "image": "/images/stamps/1963/特57-15.jpg"
+      },
+      {
+        "sn": 16,
+        "name": "蓬莱三岛",
+        "denomination": "50分",
+        "image": "/images/stamps/1963/特57-16.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪100",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "第一届新兴力量运动会",
+    "issueDate": "1963-11-17",
+    "year": 1963,
+    "themes": [
+      "体育",
+      "综合运动会"
+    ],
+    "designer": "孙传哲、吴建坤、周令钊",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "1963年11月10日至22日，第一届新兴力量运动会在印度尼西亚首都雅加达举行，来自亚、非、拉和欧洲的48个国家和地区参加。中国代表队在贺龙副总理率领下参赛，打破了两项世界纪录，共获得303枚奖牌。这套邮票为庆祝运动会召开而发行，图案展现了足球、铁饼、大团结、游泳和体操五项运动场景。",
+    "quantity": "300万套",
+    "needsReview": true,
+    "localImageFolder": "纪100 《第一届新兴力量运动会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "足球",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/纪100-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "铁饼",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/纪100-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "新兴力量大团结",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/纪100-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "跳水",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/纪100-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "体操",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/纪100-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特58",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "民间玩具",
+    "issueDate": "1963-12-10",
+    "year": 1963,
+    "themes": [
+      "文化",
+      "民间玩具"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 9,
+    "extras": [],
+    "description": "民间玩具是中国民间传统手工艺品的重要组成部分，造型质朴、色彩鲜明，反映了劳动人民的审美情趣和生活智慧。这套邮票选用了泥塑和布玩具两类民间玩具为图案，题材生动有趣。",
+    "quantity": "150万套",
+    "needsReview": true,
+    "localImageFolder": "特58 《民间玩具》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "鸡（泥·无锡）羊（泥·北京）",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特58-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "春牛（泥·上海）",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特58-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "布驴（蚌埠）泥鸟（青岛）",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特58-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "骆驼（布·北京）",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特58-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "白兔（布·北京）棒棒人（木·邯郸）公鸡（泥·北京）",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特58-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "狮子（泥·天津）",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特58-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "小布虎（青岛）大布虎（北京）",
+        "denomination": "4分",
+        "image": "/images/stamps/1963/特58-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "花公鸡（麦秸·上海）",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/特58-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "娃娃（泥、纸·石家庄）",
+        "denomination": "10分",
+        "image": "/images/stamps/1963/特58-9.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪101",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "支持越南南方人民解放运动",
+    "issueDate": "1963-12-20",
+    "year": 1963,
+    "themes": [
+      "历史事件",
+      "越南",
+      "国际声援"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1963年，**越南**南方人民反抗**美国**侵略的民族解放运动蓬勃发展。这套邮票图案采用**越南**画家光寿的作品，分别表现了**越南**南方人民团结抗争的力量和必胜信念。",
+    "quantity": "450万套",
+    "needsReview": true,
+    "localImageFolder": "纪101 《支持越南南方人民解放运动》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "不可抗拒的力量",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/纪101-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "我们必胜",
+        "denomination": "8分",
+        "image": "/images/stamps/1963/纪101-2.jpg"
+      }
+    ]
+  }
+]

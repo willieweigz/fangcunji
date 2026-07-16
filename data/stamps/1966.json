@@ -1,0 +1,222 @@
+[
+  {
+    "id": "特72",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "少年儿童体育运动",
+    "issueDate": "1966-02-25",
+    "year": 1966,
+    "themes": [
+      "6.1儿童邮票",
+      "儿童体育"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 8,
+    "extras": [],
+    "description": "1966年2月25日，为宣传少年儿童体育锻炼的重要意义，邮电部发行了这套特种邮票。邮票图案选取了八项少年儿童喜爱的体育活动，画面中的少年儿童形象活泼生动，充分展现了新中国少年儿童朝气蓬勃、积极向上的精神风貌。全套8枚邮票中，低面值4分和8分发行量较大，52分高面值仅200万枚，是本套票中的筋票。",
+    "quantity": "200万套",
+    "needsReview": true,
+    "localImageFolder": "特72 《少年儿童体育运动》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "踢小足球",
+        "denomination": "4分",
+        "image": "/images/stamps/1966/特72-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "赛跑",
+        "denomination": "4分",
+        "image": "/images/stamps/1966/特72-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "冰山运动",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特72-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "体操",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特72-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "游泳",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特72-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "射击、旗语",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特72-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "跳橡皮筋",
+        "denomination": "10分",
+        "image": "/images/stamps/1966/特72-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "打乒乓球",
+        "denomination": "52分",
+        "image": "/images/stamps/1966/特72-8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特62",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "工业新产品",
+    "issueDate": "1966-03-30",
+    "year": 1966,
+    "themes": [
+      "科技",
+      "工业产品"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 8,
+    "extras": [],
+    "description": "1956年开始，我国转入全面建设社会主义时期，通过大规模技术革新和技术革命运动，研制出不少工业新产品。为宣传我国工业建设新成果，邮电部发行了这套特种邮票。邮票图案均采用写实手法设计，图案清晰细致。其中第一枚\"移动式变压器\"由沈阳变压器厂工程技术人员与工人师傅共同研制成功，为填补电子工业产品空白做出了巨大贡献。特62原计划发行《京剧脸谱》邮票，因1964年\"京剧革命\"浪潮而撤销，志号空缺一年半后才由本套票填补。",
+    "quantity": "130万套",
+    "needsReview": true,
+    "localImageFolder": "特62 《工业新产品》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "移动式变压器",
+        "denomination": "4分",
+        "image": "/images/stamps/1966/特62-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "电子显微镜",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特62-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "仿形车床",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特62-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "立式车床",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特62-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "齿轮磨床",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特62-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "自由锻造水压机",
+        "denomination": "10分",
+        "image": "/images/stamps/1966/特62-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "双柱铣床",
+        "denomination": "10分",
+        "image": "/images/stamps/1966/特62-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "静电加速器",
+        "denomination": "22分",
+        "image": "/images/stamps/1966/特62-8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特75",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "服务行业中的妇女",
+    "issueDate": "1966-05-10",
+    "year": 1966,
+    "themes": [
+      "人物",
+      "现代人",
+      "妇女"
+    ],
+    "designer": "",
+    "totalStamps": 10,
+    "extras": [],
+    "description": "1966年5月10日，为宣传服务行业中妇女的先进事迹和重要贡献，邮电部发行了这套特种邮票。邮票图案分别描绘了列车员、农村卫生员、保育员、清洁员、理发员、汽车服务员、背篓商店售货员、食堂服务员和乡村邮递员等服务行业中妇女的工作形象，第一枚以一切工作都是为了革命为主题，体现了那个时代服务行业妇女的精神面貌。10枚邮票面值均为8分，发行量统一为600万枚。",
+    "quantity": "600万套",
+    "needsReview": true,
+    "localImageFolder": "特75 《服务行业中的妇女》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "一切工作都是为了革命",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特75-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "列车员",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特75-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "农村卫生员",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特75-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "保育员",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特75-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "清洁员",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特75-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "理发员",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特75-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "汽车服务员",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特75-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "背篓商店售货员",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特75-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "食堂服务员",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特75-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "乡村邮递员",
+        "denomination": "8分",
+        "image": "/images/stamps/1966/特75-10.jpg"
+      }
+    ]
+  }
+]

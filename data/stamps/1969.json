@@ -1,0 +1,271 @@
+[
+  {
+    "id": "文14",
+    "series": "文",
+    "type": "特种邮票",
+    "title": "南京长江大桥",
+    "issueDate": "1969-05-01",
+    "year": 1969,
+    "themes": [
+      "建筑",
+      "桥梁",
+      "南京长江大桥"
+    ],
+    "designer": "夏中东",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**南京长江大桥**于1960年1月18日正式动工，1968年12月29日全面建成通车，是长江上第一座由中国人民自行设计和建造的双层公路铁路两用桥梁，铁路桥面全长6772米、公路桥面全长4589米。大桥建成打破了外国专家\"在**南京**长江上建桥不可能\"的断言，是中国桥梁建设史上的重要里程碑。这套邮票是\"文\"字头邮票中唯一一套反映经济建设成就的邮票。",
+    "quantity": "800万套",
+    "needsReview": true,
+    "localImageFolder": "文14 《南京长江大桥》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "铁路桥",
+        "denomination": "8分",
+        "image": "/images/stamps/1969/文14-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "公路桥",
+        "denomination": "8分",
+        "image": "/images/stamps/1969/文14-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "大桥全景",
+        "denomination": "10分",
+        "image": "/images/stamps/1969/文14-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "庆祝建成",
+        "denomination": "4分",
+        "image": "/images/stamps/1969/文14-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "文16",
+    "series": "文",
+    "type": "特种邮票",
+    "title": "钢琴伴唱《红灯记》",
+    "issueDate": "1969-08-01",
+    "year": 1969,
+    "themes": [
+      "戏曲",
+      "京剧",
+      "样板戏"
+    ],
+    "designer": "李大玮",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "《红灯记》是一出描写中共地下党为保护和安全传递一份密电码而与**日本**侵略者机智周旋、勇敢斗争的现代京剧，在\"文化大革命\"期间流传甚广。1968年，中国京剧团和中央乐团根据它改编创作了钢琴伴唱《红灯记》，由中央乐团钢琴演奏家殷承宗伴奏，中国京剧团钱浩梁演李玉和、刘长瑜演李铁梅，将西洋钢琴与中国传统京剧清唱相结合，于1968年六七月间在**北京**首次公演。邮电部为宣传这一文艺成果发行了这套邮票。",
+    "quantity": "5000万套",
+    "needsReview": true,
+    "localImageFolder": "文16 《钢琴伴唱《红灯记》》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "李玉和",
+        "denomination": "8分",
+        "image": "/images/stamps/1969/文16-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "李铁梅",
+        "denomination": "8分",
+        "image": "/images/stamps/1969/文16-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1969-普无号",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "“文革”普通邮票",
+    "issueDate": "1969-10-01",
+    "year": 1969,
+    "themes": [
+      "普票",
+      "文革普通邮票"
+    ],
+    "designer": "杨白子、张克让、李大玮",
+    "totalStamps": 11,
+    "extras": [],
+    "description": "这是中国邮票史上唯一一套没有志号的普通邮票。1969年，邮电部军管会因中苏边境关系紧张、战备邮票大量运往西南保存，急需大量普通邮票供邮政通信使用，遂决定根据实际需要随时设计、随时印刷、随时发行，因此没有编号。全套11枚题材涵盖工农兵形象、工农业生产和革命圣地三类，11枚票竟混用了胶版和影写版两种印刷方式，齿孔也有粗细之分，堪称新中国邮票中最“混乱”的一套。",
+    "needsReview": true,
+    "localImageFolder": "1969-普无号 《“文革”普通邮票》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "工",
+        "denomination": "8分",
+        "image": "/images/stamps/1969/1969-普无号-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "农",
+        "denomination": "4分",
+        "image": "/images/stamps/1969/1969-普无号-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "兵",
+        "denomination": "10分",
+        "image": "/images/stamps/1969/1969-普无号-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "延安",
+        "denomination": "8分",
+        "image": "/images/stamps/1969/1969-普无号-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "天安门",
+        "denomination": "8分",
+        "image": "/images/stamps/1969/1969-普无号-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "延安枣园",
+        "denomination": "50分",
+        "image": "/images/stamps/1969/1969-普无号-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "遵义会议会址",
+        "denomination": "20分",
+        "image": "/images/stamps/1969/1969-普无号-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "中共一大会址",
+        "denomination": "1.5分",
+        "image": "/images/stamps/1969/1969-普无号-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "女拖拉机手",
+        "denomination": "5分",
+        "image": "/images/stamps/1969/1969-普无号-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "人民英雄纪念碑",
+        "denomination": "8分",
+        "image": "/images/stamps/1969/1969-普无号-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "炼钢工人",
+        "denomination": "1元",
+        "image": "/images/stamps/1969/1969-普无号-11.jpg"
+      }
+    ]
+  },
+  {
+    "id": "文17",
+    "series": "文",
+    "type": "特种邮票",
+    "title": "知识青年在农村",
+    "issueDate": "1969-10-01",
+    "year": 1969,
+    "themes": [
+      "历史事件",
+      "知识青年"
+    ],
+    "designer": "（1）（2）李大玮、（3）（4）张克让",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1968年12月22日，毛泽东发表了关于知识青年上山下乡的指示：\"知识青年到农村去，接受贫下中农的再教育，很有必要。\"全国成千上万的城镇知识青年积极响应，奔赴各地农村参加劳动。1969年10月1日正值国庆二十周年，邮电部以发行这套邮票取代了国庆纪念邮票，宣传知识青年在农村锻炼成长的情况。图案采用装饰性表现方法，以朱红、桃红、湖蓝、柠檬黄、翠绿、青莲紫、煤黑等七种纯色创造出鲜明绚烂的基调。",
+    "quantity": "5000万套",
+    "needsReview": true,
+    "localImageFolder": "文17 《知识青年在农村》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "和贫下中农在一起学习毛主席著作",
+        "denomination": "8分",
+        "image": "/images/stamps/1969/文17-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "向生产进军",
+        "denomination": "4分",
+        "image": "/images/stamps/1969/文17-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "向老农学习搞科学实验",
+        "denomination": "8分",
+        "image": "/images/stamps/1969/文17-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "赤脚医生",
+        "denomination": "10分",
+        "image": "/images/stamps/1969/文17-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "文18",
+    "series": "文",
+    "type": "特种邮票",
+    "title": "用毛泽东思想武装起来的中国人民是不可战胜的",
+    "issueDate": "1969-10-01",
+    "year": 1969,
+    "themes": [
+      "共产党人",
+      "毛泽东",
+      "领袖"
+    ],
+    "designer": "李大玮、张克让",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "1969年，**苏联**边防当局和军队多次对中国领土**珍宝岛**以及黑龙江和新疆部分地区实施侵入，中国驻边防部队和当地人民团结一致进行了自卫反击战。1969年10月1日国庆节，为表彰边防部队和当地人民团结保卫边疆的胜利，邮电部发行了这套邮票。其中（6-1）\"军民团结\"在印制过程中，有极小部分票漏印了战士背上的刺刀，成为著名的\"无刺刀\"错票。",
+    "quantity": "300万套",
+    "needsReview": true,
+    "localImageFolder": "文18 《用毛泽东思想武装起来的中国人民是不可战胜的》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "军民团结",
+        "denomination": "8分",
+        "image": "/images/stamps/1969/文18-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "保卫边疆",
+        "denomination": "8分",
+        "image": "/images/stamps/1969/文18-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "军民守海防",
+        "denomination": "8分",
+        "image": "/images/stamps/1969/文18-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "保卫边疆",
+        "denomination": "43分",
+        "image": "/images/stamps/1969/文18-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "军民守海防",
+        "denomination": "35分",
+        "image": "/images/stamps/1969/文18-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "解放军边防骑兵战士",
+        "denomination": "8分",
+        "image": "/images/stamps/1969/文18-6.jpg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,697 @@
+[
+  {
+    "id": "纪118",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "高举毛泽东思想伟大红旗为实现第三个五年计划而奋斗",
+    "issueDate": "1967-04-15",
+    "year": 1967,
+    "themes": [
+      "历史事件",
+      "毛泽东思想",
+      "建设成就"
+    ],
+    "designer": "邵伯林",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "第三个五年计划（1966—1970）是中国国民经济发展的第三个五年计划。两枚邮票分别以工业建设和农业建设为主题，展现当时的经济建设面貌。此套邮票是\"纪\"字头纪念邮票的最后几套之一，此后\"文\"字邮票全面取代了\"纪\"\"特\"编号体系。",
+    "quantity": "600万套",
+    "needsReview": true,
+    "localImageFolder": "纪118 《高举毛泽东思想伟大红旗为实现第三个五年计划而奋斗》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "工业建设",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪118-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "农业建设",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪118-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "文1",
+    "series": "文",
+    "type": "特种邮票",
+    "title": "战无不胜的毛泽东思想万岁",
+    "issueDate": "1967-04-20",
+    "year": 1967,
+    "themes": [
+      "共产党人",
+      "毛泽东",
+      "领袖"
+    ],
+    "designer": "万维生",
+    "totalStamps": 11,
+    "extras": [],
+    "description": "这是\"文\"字邮票的第一套。1967年4月20日，为庆祝**北京**市革命委员会成立，邮电部提前发行此套邮票。全套11枚中第1枚为毛泽东身着军装在**天安门**城楼上检阅红卫兵的照片，其余10枚为毛主席语录文字，分为红色底和金边底两组五连票印制。文1邮票上的\"中国人民邮政\"铭记首次由印刷体改为毛泽东手书集字，此后文2也同步使用，成为文革邮票的标志性特征。",
+    "quantity": "300万套",
+    "needsReview": true,
+    "localImageFolder": "文1 《战无不胜的毛泽东思想万岁》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "毛主席万岁",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文1-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "语录",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文1-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "语录",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文1-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "语录",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文1-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "语录",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文1-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "语录",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文1-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "语录",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文1-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "语录",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文1-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "语录",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文1-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "语录",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文1-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "语录",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文1-11.jpg"
+      }
+    ]
+  },
+  {
+    "id": "文2",
+    "series": "文",
+    "type": "特种邮票",
+    "title": "我们伟大的导师、伟大的领袖、伟大的统帅、伟大的舵手毛主席万岁",
+    "issueDate": "1967-05-01",
+    "year": 1967,
+    "themes": [
+      "共产党人",
+      "毛泽东",
+      "领袖"
+    ],
+    "designer": "夏中东、邵伯林、孙传哲",
+    "totalStamps": 8,
+    "extras": [],
+    "description": "1967年5月1日正值\"五一\"国际劳动节，邮电部发行此套邮票。全套8枚均为毛泽东的照片和画像，其中（5）—（8）枚图案含林彪像。邮票设计者为**北京**邮票厂的制版工人夏中东等，这是\"工人阶级领导一切\"口号下由工人参与设计的代表性邮票之一。",
+    "quantity": "700万套",
+    "needsReview": true,
+    "localImageFolder": "文2 《我们伟大的导师、伟大的领袖、伟大的统帅、伟大的舵手毛主席万岁》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "八届十一中全会公报摘录",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文2-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "四海翻腾云水怒，五洲震荡风雷激",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文2-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "毛主席是世界人民心中的红太阳",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文2-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "毛主席和红卫兵在一起",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文2-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "毛主席和林副主席在一起",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文2-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "毛主席在天安门上接见红卫兵",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文2-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "毛主席在天安门上接见红卫兵",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文2-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "毛主席和林副统帅在一起",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文2-8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "文3",
+    "series": "文",
+    "type": "特种邮票",
+    "title": "《在延安文艺座谈会上的讲话》发表二十五周年",
+    "issueDate": "1967-05-23",
+    "year": 1967,
+    "themes": [
+      "周年纪念",
+      "延安文艺座谈会"
+    ],
+    "designer": "（1）（3）刘硕仁、（2）杨白子",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "1942年5月，**毛泽东**在**延安**文艺界整风时发表了《在**延安**文艺座谈会上的讲话》，提出了\"文艺为工农兵服务\"的方向，成为此后中国文艺工作的纲领性文件。1967年5月23日是《讲话》发表二十五周年纪念日，邮电部发行此套邮票以示纪念。其中两枚为讲话摘录文字票，一枚为文艺宣传队图案。",
+    "quantity": "800万套",
+    "needsReview": true,
+    "localImageFolder": "文3 《《在延安文艺座谈会上的讲话》发表二十五周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "《在延安文艺座谈会上的讲话》摘录",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文3-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "毛泽东思想文艺宣传队",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文3-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "《在延安文艺座谈会上的讲话》摘录",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文3-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪119",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "亚非作家紧急会议",
+    "issueDate": "1967-06-17",
+    "year": 1967,
+    "themes": [
+      "历史事件",
+      "国际会议",
+      "文学"
+    ],
+    "designer": "刘硕仁、张克让",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1966年6月至7月，亚非作家紧急会议在**北京**召开，来自53个亚非国家和地区的代表出席了会议。邮票图案以\"风雷\"和\"烧毁旧世界\"为题，以强烈的红色和黑色对比，表现亚非人民革命风暴席卷全球的主题。这是\"纪\"字头邮票中发行较晚的一套。",
+    "quantity": "600万套",
+    "needsReview": true,
+    "localImageFolder": "纪119 《亚非作家紧急会议》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "风雷",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪119-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "亚非作家紧急会议证章",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪119-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "文4",
+    "series": "文",
+    "type": "特种邮票",
+    "title": "祝毛主席万寿无疆",
+    "issueDate": "1967-07-01",
+    "year": 1967,
+    "themes": [
+      "共产党人",
+      "毛泽东",
+      "领袖"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "全套5枚图案相同，均为毛泽东侧面浮雕像，仅面值不同。1967年7月1日为中国共产党成立四十六周年纪念日，邮电部选择此日发行这套以\"祝毛主席万寿无疆\"为主题的邮票。高面值票发行量仅300万枚，消耗量大，全品存世稀少，是文4中的筋票。",
+    "quantity": "300万套",
+    "needsReview": true,
+    "localImageFolder": "文4 《祝毛主席万寿无疆》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "毛主席侧面军装像",
+        "denomination": "4分",
+        "image": "/images/stamps/1967/文4-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "毛主席侧面军装像",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文4-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "毛主席侧面军装像",
+        "denomination": "35分",
+        "image": "/images/stamps/1967/文4-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "毛主席侧面军装像",
+        "denomination": "43分",
+        "image": "/images/stamps/1967/文4-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "毛主席侧面军装像",
+        "denomination": "52分",
+        "image": "/images/stamps/1967/文4-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪120",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "孙中山诞生一百周年",
+    "issueDate": "1967-07-02",
+    "year": 1967,
+    "themes": [
+      "人物",
+      "现代人",
+      "辛亥革命"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**孙中山**（1866—1925），中国民主革命先行者，中华民国缔造者。1967年11月12日为孙中山诞生一百周年，邮电部提前于7月2日发行此枚纪念邮票。票面为孙中山正面像。在\"文化大革命\"的特定历史环境中，这是极为罕见的为非共产党领导人发行的纪念邮票。",
+    "quantity": "300万套",
+    "needsReview": true,
+    "localImageFolder": "纪120 《孙中山诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "孙中山像",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪120-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪121",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "第一届亚洲新兴力量运动会",
+    "issueDate": "1967-07-20",
+    "year": 1967,
+    "themes": [
+      "体育",
+      "综合运动会"
+    ],
+    "designer": "万维生",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1966年11月，第一届亚洲新兴力量运动会在柬埔寨**金边**举行，中国派代表团参加了比赛。此套邮票于运动会结束八个月后才发行，四枚图案分别为\"热爱毛主席\"\"团结反帝\"\"增进友好\"\"互相促进\"，体现了当时\"体育为政治服务\"的方针。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "纪121 《第一届亚洲新兴力量运动会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国运动员热爱毛主席",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪121-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "团结反帝",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪121-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "增进友好",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪121-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "互相促进",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪121-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪122",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "纪念我们的文化革命先驱—鲁迅",
+    "issueDate": "1967-07-20",
+    "year": 1967,
+    "themes": [
+      "人物",
+      "现代人",
+      "中国现代文学家"
+    ],
+    "designer": "刘硕仁、孙明春",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "**鲁迅**（1881—1936），中国现代文学的奠基人，原名周树人。\"文化大革命\"期间，鲁迅被冠以\"文化革命先驱\"的称号。此套邮票三枚图案分别为鲁迅像、鲁迅手稿（含\"横眉冷对千夫指，俯首甘为孺子牛\"诗句）和鲁迅浮雕像。第2枚采用影雕套印，雕刻精致。",
+    "quantity": "600万套",
+    "needsReview": true,
+    "localImageFolder": "纪122 《纪念我们的文化革命先驱—鲁迅》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "毛主席对鲁迅的评价",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪122-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "鲁迅像",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪122-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "鲁迅手书",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪122-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪123",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "毛主席的好战士—刘英俊",
+    "issueDate": "1967-08-20",
+    "year": 1967,
+    "themes": [
+      "解放军",
+      "英模"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "**刘英俊**（1945—1966），解放军某部炮连战士。1966年3月15日，他在佳木斯市公共汽车站附近拦惊马救儿童，壮烈牺牲，年仅21岁。部队党委追认他为中国共产党党员，并追记一等功。邮电部发行此套邮票以表彰其英雄事迹，全套6枚均为刘英俊学习、宣传和捍卫毛泽东思想的画面。",
+    "quantity": "600万套",
+    "needsReview": true,
+    "localImageFolder": "纪123 《毛主席的好战士—刘英俊》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "刘英俊同志像",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪123-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "努力学习毛泽东思想",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪123-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "坚持贯彻毛泽东思想",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪123-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "积极宣传毛泽东思想",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪123-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "勇敢捍卫毛泽东思想",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪123-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "为人民利益而死就比泰山还重",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪123-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪124",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "向32111英雄钻井队学习",
+    "issueDate": "1967-09-20",
+    "year": 1967,
+    "themes": [
+      "历史事件",
+      "工业",
+      "英模"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "1966年6月22日，四川**合江**（今**泸州**）32111钻井队在**塘河**气田进行关井测压时突发井喷起火，全队职工奋不顾身扑灭大火，保住了气井，但数人壮烈牺牲。邮电部发行此套邮票以表彰32111钻井队的英雄事迹，这是\"纪\"字头纪念邮票的倒数第二套。此后\"纪\"字头邮票基本被\"文\"字邮票所取代。",
+    "quantity": "600万套",
+    "needsReview": true,
+    "localImageFolder": "纪124 《向32111英雄钻井队学习》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "毛主席语录",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪124-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "火光就是命令",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪124-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "公而忘私",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/纪124-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "文6",
+    "series": "文",
+    "type": "特种邮票",
+    "title": "毛主席与世界人民",
+    "issueDate": "1967-10-01",
+    "year": 1967,
+    "themes": [
+      "历史事件",
+      "毛泽东",
+      "国际关系"
+    ],
+    "designer": "邵伯林",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1967年10月1日国庆节，邮电部发行此套邮票。第1枚为毛泽东正面像，第2枚为毛泽东与亚非拉各国人民在一起的画面。邮票表达了毛泽东\"全世界人民团结起来，打败美帝国主义及其一切走狗\"的思想。",
+    "quantity": "1000万套",
+    "needsReview": true,
+    "localImageFolder": "文6 《毛主席与世界人民》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "毛主席像",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文6-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "毛主席和外国朋友",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文6-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "文7",
+    "series": "文",
+    "type": "特种邮票",
+    "title": "毛主席诗词",
+    "issueDate": "1967-10-01",
+    "year": 1967,
+    "themes": [
+      "文化",
+      "诗词",
+      "毛泽东"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 14,
+    "extras": [],
+    "description": "此套邮票是文票中枚数最多的一套，共14枚，除第1枚为毛泽东在工作照片外，其余13枚均为毛泽东诗词手迹，以影雕套印方式精印。诗词涵盖了从1925年《沁园春·长沙》到1961年《卜算子·咏梅》等13首经典作品。横长幅的62×26毫米票幅为诗词手迹的展示提供了充足空间，也是新中国邮票中票幅最为独特的一套。",
+    "quantity": "1000万套",
+    "needsReview": true,
+    "localImageFolder": "文7 《毛主席诗词》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "毛主席在著作",
+        "denomination": "10分",
+        "image": "/images/stamps/1967/文7-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "沁园春·长沙",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文7-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "满江红·和郭沫若",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文7-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "沁园春·雪",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文7-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "忆秦娥·娄山关",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文7-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "七绝·为李进同志题所摄庐山仙人洞照",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文7-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "采桑子·重阳",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文7-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "七律·长征",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文7-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "清平乐·六盘山",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文7-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "七律·人民解放军占领南京",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文7-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "浪淘沙·北戴河",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文7-11.jpg"
+      },
+      {
+        "sn": 12,
+        "name": "清平乐·会昌",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文7-12.jpg"
+      },
+      {
+        "sn": 13,
+        "name": "水调歌头·游泳",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文7-13.jpg"
+      },
+      {
+        "sn": 14,
+        "name": "菩萨蛮·黄鹤楼",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文7-14.jpg"
+      }
+    ]
+  },
+  {
+    "id": "文8",
+    "series": "文",
+    "type": "特种邮票",
+    "title": "大海航行靠舵手，干革命靠毛泽东思想",
+    "issueDate": "1967-12-26",
+    "year": 1967,
+    "themes": [
+      "解放军",
+      "毛泽东",
+      "林彪题词"
+    ],
+    "designer": "万维生",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "邮票图案为工农兵群众手捧《毛主席语录》，在红色旗帜指引下阔步前进，背景为红色海洋。票题\"大海航行靠舵手，干革命靠毛泽东思想\"是\"文化大革命\"时期最流行的标语口号之一，源自1967年11月29日林彪为海军首次学习毛主席著作积极分子大会的题词。发行日期12月26日为毛泽东诞辰纪念日。",
+    "quantity": "1000万套",
+    "needsReview": true,
+    "localImageFolder": "文8 《大海航行靠舵手，干革命靠毛泽东思想》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "大海航行靠舵手",
+        "denomination": "8分",
+        "image": "/images/stamps/1967/文8-1.jpg"
+      }
+    ]
+  }
+]

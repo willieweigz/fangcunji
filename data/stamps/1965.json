@@ -1,0 +1,648 @@
+[
+  {
+    "id": "纪109",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "遵义会议三十周年",
+    "issueDate": "1965-01-31",
+    "year": 1965,
+    "themes": [
+      "历史事件",
+      "党史",
+      "长征"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "1935年1月15日至17日，长征途中在**贵州遵义**召开的中央政治局扩大会议，是中国革命的伟大转折点。1965年1月31日，为纪念遵义会议三十周年，邮电部发行了这套纪念邮票。第一枚\"决战前夕\"描绘了毛泽东面对军事地图运筹帷幄的情景；第二枚\"毛主席像\"采用毛泽东标准像，以金墨衬底；第三枚\"娄山关大捷\"展现了毛泽东等指挥娄山关战役的壮丽场面。",
+    "quantity": "1000万套",
+    "needsReview": true,
+    "localImageFolder": "纪109 《遵义会议三十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "决战前夕",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪109-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "毛主席像",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪109-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "娄山关大捷",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪109-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪110",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "万隆会议十周年",
+    "issueDate": "1965-04-18",
+    "year": 1965,
+    "themes": [
+      "历史事件",
+      "国际会议",
+      "万隆会议"
+    ],
+    "designer": "万维生",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1955年4月18日至24日，亚非会议在**印度尼西亚万隆**召开，确定了和平共处五项原则，史称\"**万隆**精神\"。1965年4月18日，为纪念**万隆**会议十周年，邮电部发行了这套纪念邮票。第一枚描绘了**万隆**会议会场独立大厦的外景，彩旗飘扬，再现了会议期间热烈而庄严的气氛；第二枚描绘了亚非人民欢庆团结的场景。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "纪110 《万隆会议十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "万隆会议会场外景",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪110-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "亚洲人民欢庆团结",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪110-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪111",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "弗·伊·列宁诞生九十五周年",
+    "issueDate": "1965-04-22",
+    "year": 1965,
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "designer": "张克让",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1870年4月22日，列宁出生于俄国伏尔加河畔的辛比尔斯克市。1965年4月22日，为纪念列宁诞生九十五周年，邮电部发行了这套纪念邮票。邮票图案表现了列宁握紧拳头在红旗旁演说的情景，给人坚定有力的感觉，充分展现了革命导师的风采。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "纪111 《弗·伊·列宁诞生九十五周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "伟大的革命导师弗·伊·列宁",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪111-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪112",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "第28届世界乒乓球锦标赛",
+    "issueDate": "1965-04-25",
+    "year": 1965,
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
+    "designer": "邵柏林",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "第28届世界乒乓球锦标赛于1965年4月15日至25日在**南斯拉夫**卢布尔雅那****举行。中国乒乓球队继第26、27届世乒赛均夺得三项冠军之后，再次扩大战果，除**日本**获得女子单打和混合双打两项冠军外，其余5个冠军杯全部为中国队夺得。庄则栋自第26届世乒赛以来连续三次获得男子单打世界冠军，成为我国在世界体育大赛中第一个三连冠运动员。邮电部于赛会闭幕当天发行了这套纪念邮票，四枚呈田字形连印，以绿色作底，展现了乒乓球运动员的英姿。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "纪112 《第28届世界乒乓球锦标赛》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "男运动员",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪112-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "女运动员",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪112-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "女运动员",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪112-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "男运动员",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪112-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特70",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "中国登山运动",
+    "issueDate": "1965-05-25",
+    "year": 1965,
+    "themes": [
+      "体育",
+      "登山"
+    ],
+    "designer": "万维生",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "1965年5月25日，为宣传我国登山运动的巨大成就，邮电部发行了这套特种邮票。邮票图案分别记录了新中国登山史上的五次重大攀登：1957年**贡嘎山**、1959年**慕士塔格山**、1960年**珠穆朗玛峰**、1961年**公格尔九别峰**和1964年**希夏帮马峰**。全套5枚面值均为8分，由万维生设计，孙鸿年、高品璋、孔绍惠三位雕刻大师操刀，呈现出\"雪山五重奏\"般的壮美画面。",
+    "quantity": "600万套",
+    "needsReview": true,
+    "localImageFolder": "特70 《中国登山运动》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中华全国总工会登山队登上贡嘎山",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特70-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中国男女混合队登上慕士塔格山",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特70-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "中国登山队登上珠穆朗玛峰",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特70-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "中国女子登山队登上公格尔九别峰",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特70-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "中国登山队登上希夏帮马峰",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特70-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪113",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "第六次社会主义国家邮电部长会议",
+    "issueDate": "1965-06-21",
+    "year": 1965,
+    "themes": [
+      "历史事件",
+      "邮政",
+      "国际会议"
+    ],
+    "designer": "李斛、卢天骄",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1965年6月21日至7月15日，第六次社会主义国家邮电部长会议在**北京**举行。参加这次会议的有**阿尔巴尼亚**、保加利亚、**匈牙利**、**越南**民主共和国、德意志民主共和国、**朝鲜**民主主义人民共和国、**古巴**、**蒙古**、波兰、罗马尼亚、**苏联**、**捷克斯洛伐克**以及中华人民共和国的邮电代表团。根据第五次会议的决议，中国负责这次会议向各成员国提供邮票设计图稿，并完成统一发行同题材邮票的组织工作，从而出现了一套多国采用中国提供的邮票图案、联合发行的邮票。",
+    "quantity": "550万套",
+    "needsReview": true,
+    "localImageFolder": "纪113 《第六次社会主义国家邮电部长会议》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "在马克思列宁主义旗帜下前进",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪113-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特73",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "革命摇篮—井冈山",
+    "issueDate": "1965-07-01",
+    "year": 1965,
+    "themes": [
+      "文物古迹",
+      "革命纪念地",
+      "井冈山"
+    ],
+    "designer": "吴建坤",
+    "totalStamps": 8,
+    "extras": [],
+    "description": "1965年7月1日，为纪念中国共产党建党44周年，邮电部发行了这套以革命圣地**井冈山**为题材的特种邮票。**井冈山**是中国革命的摇篮，1927年秋毛泽东率领秋收起义部队上**井冈山**，创建了中国第一个农村革命根据地。邮票图案分别描绘了茨坪、三湾村、茅坪八角楼、砻市、大井村、龙源口、黄洋界和**井冈山**主峰八处革命旧址，再现了**井冈山**斗争的光辉历程。",
+    "quantity": "130万套",
+    "needsReview": true,
+    "localImageFolder": "特73 《革命摇篮—井冈山》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "茨坪",
+        "denomination": "4分",
+        "image": "/images/stamps/1965/特73-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "三湾村",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特73-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "茅坪八角楼",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特73-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "砻市",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特73-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "大井村",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特73-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "龙源口",
+        "denomination": "10分",
+        "image": "/images/stamps/1965/特73-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "黄洋界",
+        "denomination": "10分",
+        "image": "/images/stamps/1965/特73-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "井冈山主峰",
+        "denomination": "52分",
+        "image": "/images/stamps/1965/特73-8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特74",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "中国人民解放军",
+    "issueDate": "1965-08-01",
+    "year": 1965,
+    "themes": [
+      "解放军",
+      "军队建设"
+    ],
+    "designer": "万维生",
+    "totalStamps": 8,
+    "extras": [],
+    "description": "1965年8月1日，为纪念中国人民解放军建军38周年，邮电部发行了这套特种邮票。邮票图案分别表现了解放军战士学习毛主席著作、突击冲锋、宣传群众、保卫祖国、军民一家、练兵、生产和侦察等八个方面的形象，全面反映了解放军既是战斗队又是工作队、生产队的优良传统。8枚邮票面值均为8分，发行量统一为600万枚。",
+    "quantity": "600万套",
+    "needsReview": true,
+    "localImageFolder": "特74 《中国人民解放军》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "一定要把毛泽东思想真正学到手",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特74-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "五好战士",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特74-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "时刻准备消灭胆敢进犯的敌人",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特74-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "军民互助练武",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特74-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "团结友爱",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特74-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "练好过硬本领",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特74-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "四好连队",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特74-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "宣传鼓动",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特74-8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪114",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "中日青年友好大联欢",
+    "issueDate": "1965-08-25",
+    "year": 1965,
+    "themes": [
+      "历史事件",
+      "中日关系",
+      "青年"
+    ],
+    "designer": "张克让、万维生、卢天骄、陈晓聪",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "当时中国与**日本**尚未建立外交关系。为促进两国青年的友好往来，消除彼此之间的隔阂，改进两国关系，共同为促进世界和平而努力，举办了这次中日青年友好大联欢活动。邮票图案分别表现了欢迎、团结反帝、友好、联欢和会徽五个主题，展现了中日青年和谐相处的场面。",
+    "quantity": "120万套",
+    "needsReview": true,
+    "localImageFolder": "纪114 《中日青年友好大联欢》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "欢迎",
+        "denomination": "4分",
+        "image": "/images/stamps/1965/纪114-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "团结反帝",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪114-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "友好",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪114-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "联欢",
+        "denomination": "10分",
+        "image": "/images/stamps/1965/纪114-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "会徽",
+        "denomination": "22分",
+        "image": "/images/stamps/1965/纪114-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪117",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "支持越南人民抗美爱国正义斗争",
+    "issueDate": "1965-09-02",
+    "year": 1965,
+    "themes": [
+      "历史事件",
+      "越南",
+      "国际声援"
+    ],
+    "designer": "万维生、邵柏林",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1965年9月2日，为支持**越南**人民抗击**美国**侵略的正义斗争，邮电部发行了这套纪念邮票。邮票图案分别描绘了打击侵略者、缴获战利品、取得胜利和各国人民支持四个场景，表现了**越南**人民英勇抗美的斗争精神和世界人民对**越南**的同情与支持。",
+    "quantity": "400万套",
+    "needsReview": true,
+    "localImageFolder": "纪117 《支持越南人民抗美爱国正义斗争》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "打击侵略者",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪117-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "缴获",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪117-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "胜利",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪117-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "各国人民的支持",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪117-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪115",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "纪念抗日战争胜利二十周年",
+    "issueDate": "1965-09-03",
+    "year": 1965,
+    "themes": [
+      "历史事件",
+      "抗战胜利"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1965年9月3日，为纪念中国人民抗日战争胜利二十周年，邮电部发行了这套纪念邮票。抗日战争时期，毛泽东在**延安**窑洞里写出了《论持久战》《新民主主义论》《论联合政府》等重要著作。第一枚毛主席在著作描绘了毛泽东在**延安**窑洞里写作的情景。第二枚八路军东渡黄河讲述的是抗日战争爆发后，八路军3万余人于1937年8月从陕西东渡黄河、开赴抗日前线的故事。第四枚光荣参军再现了胸戴红花的有志青年挥手与亲人告别、奔赴抗日战场的情景。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "纪115 《纪念抗日战争胜利二十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "毛主席在著作",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪115-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "八路军东渡黄河",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪115-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "人民战争胜利",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪115-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "光荣参军",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪115-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪116",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "中华人民共和国第二届运动会",
+    "issueDate": "1965-09-28",
+    "year": 1965,
+    "themes": [
+      "体育",
+      "全运会"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 11,
+    "extras": [],
+    "description": "第二届全运会于1965年9月11日在**北京**开幕，9月28日闭幕。毛泽东、刘少奇、周恩来、朱德、邓小平等领导人出席了开幕式。这届运动会共有24人10次打破9项世界纪录。刘少奇、周恩来、朱德、邓小平等领导人出席了闭幕式，分别向获得第28届世界乒乓球锦标赛五项冠军的运动员和1965年打破举重、射击、射箭、飞机跳伞、航空模型等世界纪录的运动员共94人，颁发了体育运动荣誉奖章。全套11枚邮票色调以红为主，浓墨重彩，其中30分和43分高面值发行量仅90万枚，是本套票中的筋票。",
+    "quantity": "90万套",
+    "needsReview": true,
+    "localImageFolder": "纪116 《中华人民共和国第二届运动会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "足球",
+        "denomination": "4分",
+        "image": "/images/stamps/1965/纪116-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "射箭",
+        "denomination": "4分",
+        "image": "/images/stamps/1965/纪116-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "标枪",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪116-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "体操",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪116-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "排球",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/纪116-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "开幕式",
+        "denomination": "10分",
+        "image": "/images/stamps/1965/纪116-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "自行车",
+        "denomination": "10分",
+        "image": "/images/stamps/1965/纪116-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "游泳",
+        "denomination": "20分",
+        "image": "/images/stamps/1965/纪116-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "高栏",
+        "denomination": "22分",
+        "image": "/images/stamps/1965/纪116-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "举重",
+        "denomination": "30分",
+        "image": "/images/stamps/1965/纪116-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "篮球",
+        "denomination": "43分",
+        "image": "/images/stamps/1965/纪116-11.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特71",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "工业战线上的妇女",
+    "issueDate": "1965-11-30",
+    "year": 1965,
+    "themes": [
+      "人物",
+      "现代人",
+      "妇女"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "1965年11月30日，为反映中国工业战线上妇女的新面貌，邮电部发行了这套特种邮票。邮票图案分别描绘了纺织工业、机械工业、建筑工业、学习毛主席著作和女民兵五个方面，展现了工业战线上妇女在各条战线上发挥的重要作用。5枚邮票面值均为8分，发行量统一为600万枚。",
+    "quantity": "600万套",
+    "needsReview": true,
+    "localImageFolder": "特71 《工业战线上的妇女》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "纺织工业",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特71-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "机械工业",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特71-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "建筑工业",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特71-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "学习毛主席著作",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特71-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "女民兵",
+        "denomination": "8分",
+        "image": "/images/stamps/1965/特71-5.jpg"
+      }
+    ]
+  }
+]

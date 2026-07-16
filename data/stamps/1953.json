@@ -1,0 +1,194 @@
+[
+  {
+    "id": "纪21",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "庆祝“三·八”国际妇女节",
+    "issueDate": "1953-03-08",
+    "year": 1953,
+    "themes": ["节日", "现代节日"],
+    "designer": "孙传哲",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "这是新中国第一套妇女节纪念邮票。两枚邮票分别塑造纺织女工和农妇的劳动形象：纺织女工站在细纱机前，表现工业战线上的劳动者；农妇手握镰刀收割麦子，展现农村妇女参与生产建设的场景。画面四角配以光荣花，将节日纪念与新中国妇女的劳动贡献结合起来。",
+    "quantity": "600万套",
+    "needsReview": true,
+    "localImageFolder": "纪21 《庆祝三八国际妇女节》",
+    "stamps": [
+      { "sn": 1, "name": "纺织女工", "denomination": "800元", "image": "/images/stamps/1953/纪21-1.jpg" },
+      { "sn": 2, "name": "农妇", "denomination": "800元", "image": "/images/stamps/1953/纪21-2.jpg" }
+    ]
+  },
+  {
+    "id": "普6",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "不同图案普通邮票",
+    "issueDate": "1953-03-25",
+    "year": 1953,
+    "themes": ["普票", "不同图案"],
+    "designer": "孙传哲",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "普6打破了此前普通邮票多采用天安门同一图案的惯例，6枚分别表现纺织、畜牧、传统石雕、工业竞赛、煤炭生产和古建筑。前5枚于3月25日发行，第6枚“北京故宫角楼”于5月23日补发。多种生产建设题材与**北京故宫**角楼并列，形成新中国普通邮票中第一套每枚采用不同图案的套票。",
+    "needsReview": true,
+    "localImageFolder": "普6 《不同图案普通邮票》",
+    "stamps": [
+      { "sn": 1, "name": "纱厂女工", "denomination": "50元", "image": "/images/stamps/1953/普6-1.jpg" },
+      { "sn": 2, "name": "牧羊", "denomination": "200元", "image": "/images/stamps/1953/普6-2.jpg" },
+      { "sn": 3, "name": "石狮子", "denomination": "250元", "image": "/images/stamps/1953/普6-3.jpg" },
+      { "sn": 4, "name": "车间红旗竞赛", "denomination": "800元", "image": "/images/stamps/1953/普6-4.jpg" },
+      { "sn": 5, "name": "煤矿工人", "denomination": "1600元", "image": "/images/stamps/1953/普6-5.jpg" },
+      { "sn": 6, "name": "北京故宫角楼", "denomination": "2000元", "image": "/images/stamps/1953/普6-6.jpg" }
+    ]
+  },
+  {
+    "id": "纪22",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "马克思诞生一三五周年纪念",
+    "issueDate": "1953-05-20",
+    "year": 1953,
+    "themes": ["共产党人", "马克思主义"],
+    "designer": "孙传哲",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**卡尔·马克思**（1818—1883）是马克思主义的创始人之一，也是第一国际的重要组织者和领导者。这套邮票为纪念马克思诞生一百三十五周年发行，两枚采用相同图案，均以马克思半身像和德文签名为主体，仅面值和刷色不同。简洁庄重的肖像与民族形式边饰结合，构成新中国首次发行的国际人物纪念邮票。",
+    "quantity": "400万套",
+    "needsReview": true,
+    "localImageFolder": "纪22 《马克思诞生一百三十五周年纪念》",
+    "stamps": [
+      { "sn": 1, "name": "马克思像", "denomination": "400元", "image": "/images/stamps/1953/纪22-1.jpg" },
+      { "sn": 2, "name": "马克思像", "denomination": "800元", "image": "/images/stamps/1953/纪22-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪23",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "中国工会第七次全国代表大会",
+    "issueDate": "1953-06-25",
+    "year": 1953,
+    "themes": ["历史事件", "工人运动"],
+    "designer": "孙传哲",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "中国工会第七次全国代表大会于1953年5月在**北京**举行，是新中国成立后的第一次全国工会代表大会。大会提出工会在国家建设时期“为国家工业化而奋斗”的任务。两枚邮票同图异色，在椭圆形边框内表现老、中、青工人并肩站立、手持生产工具，背景配置旗帜和厂房设备，突出工人团结与工业化建设主题。",
+    "quantity": "400万套",
+    "needsReview": true,
+    "localImageFolder": "纪23 《中国工会第七次全国代表大会》",
+    "stamps": [
+      { "sn": 1, "name": "工人阶级团结起来，为国家工业化而奋斗", "denomination": "400元", "image": "/images/stamps/1953/纪23-1.jpg" },
+      { "sn": 2, "name": "工人阶级团结起来，为国家工业化而奋斗", "denomination": "800元", "image": "/images/stamps/1953/纪23-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪24",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "保卫世界和平（第三组）",
+    "issueDate": "1953-07-25",
+    "year": 1953,
+    "themes": ["历史事件", "世界和平"],
+    "designer": "夏中汉",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "这套邮票是新中国“保卫世界和平”系列的第三组。3枚同图异色，采用**西班牙**画家**毕加索**为世界人民和平大会绘制的和平鸽：鸽子振翅高飞，双脚收于腹下，矫健的双翼充满画面。简洁有力的构图延续纪5和纪10的和平主题，象征世界和平力量不断发展。",
+    "quantity": "300万套",
+    "needsReview": true,
+    "localImageFolder": "纪24 《保卫世界和平（第三组）》",
+    "stamps": [
+      { "sn": 1, "name": "和平鸽", "denomination": "250元", "image": "/images/stamps/1953/纪24-1.jpg" },
+      { "sn": 2, "name": "和平鸽", "denomination": "400元", "image": "/images/stamps/1953/纪24-2.jpg" },
+      { "sn": 3, "name": "和平鸽", "denomination": "800元", "image": "/images/stamps/1953/纪24-3.jpg" }
+    ]
+  },
+  {
+    "id": "特6",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "伟大的祖国—敦煌壁画（第三组）",
+    "issueDate": "1953-09-01",
+    "year": 1953,
+    "themes": ["绘画艺术", "古画", "敦煌壁画"],
+    "designer": "孙传哲、夏中汉",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "这套邮票继续选取**甘肃敦煌莫高窟**壁画中的生活场景，以白描勾线和“留主舍副”的方式突出马夫、伎乐人、战斗和牛车等主体，并在右侧边框配置各时代的装饰纹样。正式发行目录使用“魏”“隋”等年代名称，后期研究将前两图考订为西魏、第三图考订为北周；数据图名保留正式发行目录写法。",
+    "quantity": "495.86万套",
+    "needsReview": true,
+    "localImageFolder": "特6 《伟大的祖国—敦煌壁画（第三组）》",
+    "stamps": [
+      { "sn": 1, "name": "马夫和马·魏", "denomination": "800元", "image": "/images/stamps/1953/特6-1.jpg" },
+      { "sn": 2, "name": "伎乐人·魏", "denomination": "800元", "image": "/images/stamps/1953/特6-2.jpg" },
+      { "sn": 3, "name": "战斗·隋", "denomination": "800元", "image": "/images/stamps/1953/特6-3.jpg" },
+      { "sn": 4, "name": "牛车·唐", "denomination": "800元", "image": "/images/stamps/1953/特6-4.jpg" }
+    ]
+  },
+  {
+    "id": "纪20",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "伟大的十月革命三十五周年纪念",
+    "issueDate": "1953-10-05",
+    "year": 1953,
+    "themes": ["历史事件", "十月革命"],
+    "designer": "孙传哲",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "这套邮票原拟于1953年2月发行，但初印票名误加“苏联”二字，发行前被紧急停售；少量错票曾在**湖南衡阳**等地售出。重新设计印制后，正式套名改为“伟大的十月革命三十五周年纪念”，并于10月5日发行。4枚分别表现中苏友好、十月革命历史、共产主义建设和和平政策；本条目仅收录正式发行的正票。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "纪20 《伟大的十月革命三十五周年纪念》",
+    "stamps": [
+      { "sn": 1, "name": "中苏友好", "denomination": "800元", "image": "/images/stamps/1953/纪20-1.jpg" },
+      { "sn": 2, "name": "十月革命历史", "denomination": "800元", "image": "/images/stamps/1953/纪20-2.jpg" },
+      { "sn": 3, "name": "共产主义建设", "denomination": "800元", "image": "/images/stamps/1953/纪20-3.jpg" },
+      { "sn": 4, "name": "斯大林和平政策", "denomination": "800元", "image": "/images/stamps/1953/纪20-4.jpg" }
+    ]
+  },
+  {
+    "id": "特7",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "伟大的祖国—古代发明（第四组）",
+    "issueDate": "1953-12-01",
+    "year": 1953,
+    "themes": ["文物古迹", "古代文明"],
+    "designer": "孙传哲、夏中汉",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "这套邮票展示中国古代四项科技发明或仪器模型：战国时期用于辨识方向的司南、东汉张衡创制的地动仪、晋代用于记录里程的记里鼓车，以及明代天文观测仪器浑仪。4枚均以白描线条突出器物结构，不设复杂背景，左侧统一配置富有变化的传统纹样，集中体现中国古代科技成就。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "特7 《伟大的祖国—古代文明（第四组）》",
+    "stamps": [
+      { "sn": 1, "name": "司南·战国", "denomination": "800元", "image": "/images/stamps/1953/特7-1.jpg" },
+      { "sn": 2, "name": "地动仪·东汉", "denomination": "800元", "image": "/images/stamps/1953/特7-2.jpg" },
+      { "sn": 3, "name": "记里鼓车·晋", "denomination": "800元", "image": "/images/stamps/1953/特7-3.jpg" },
+      { "sn": 4, "name": "浑仪·明", "denomination": "800元", "image": "/images/stamps/1953/特7-4.jpg" }
+    ]
+  },
+  {
+    "id": "纪25",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "世界文化名人",
+    "issueDate": "1953-12-30",
+    "year": 1953,
+    "themes": ["人物", "文化名人"],
+    "designer": "孙传哲",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "这套邮票纪念4位世界文化名人：**中国**诗人屈原、**波兰**天文学家哥白尼、**法国**作家拉伯雷和**古巴**诗人兼民族英雄何塞·马蒂。4枚分别采用人物肖像，并以中国古建筑中的“挂落”纹样作为统一边饰。不同国家、不同时代的文化人物在同一套邮票中并列，体现文化交流与世界性纪念主题。",
+    "quantity": "400万套",
+    "needsReview": true,
+    "localImageFolder": "纪25 《世界文化名人》",
+    "stamps": [
+      { "sn": 1, "name": "中国诗人屈原", "denomination": "800元", "image": "/images/stamps/1953/纪25-1.jpg" },
+      { "sn": 2, "name": "波兰天文学家哥白尼", "denomination": "2200元", "image": "/images/stamps/1953/纪25-2.jpg" },
+      { "sn": 3, "name": "法国作家拉伯雷", "denomination": "250元", "image": "/images/stamps/1953/纪25-3.jpg" },
+      { "sn": 4, "name": "古巴作家马蒂", "denomination": "400元", "image": "/images/stamps/1953/纪25-4.jpg" }
+    ]
+  }
+]

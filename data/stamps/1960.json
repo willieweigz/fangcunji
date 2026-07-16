@@ -1,0 +1,897 @@
+[
+  {
+    "id": "特37",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "全国农业展览馆",
+    "issueDate": "1960-01-20",
+    "year": 1960,
+    "themes": [
+      "建筑",
+      "现代建筑",
+      "北京"
+    ],
+    "designer": "吴建坤",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "全国农业展览馆位于**北京**东直门外，是1959年为庆祝建国十周年而建的\"十大建筑\"之一。馆区占地50多公顷，包括12个展览厅，主楼高33米。4枚邮票均以各馆建筑剪影为背景，分别以麦穗、气象观测、家畜和河鱼为主图，展现新中国农、林、牧、渔各领域的发展成就。",
+    "quantity": "250万套",
+    "needsReview": true,
+    "localImageFolder": "特37 《全国农业展览馆》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "综合馆",
+        "denomination": "4分",
+        "image": "/images/stamps/1960/特37-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "气象馆",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特37-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "畜牧馆",
+        "denomination": "10分",
+        "image": "/images/stamps/1960/特37-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "水产馆",
+        "denomination": "20分",
+        "image": "/images/stamps/1960/特37-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪74",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "遵义会议二十五周年",
+    "issueDate": "1960-01-25",
+    "year": 1960,
+    "themes": [
+      "历史事件",
+      "党史",
+      "长征"
+    ],
+    "designer": "吴建坤",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "1935年1月，中共中央在**贵州遵义**召开政治局扩大会议，确立了**毛泽东**（1893-1976）在党和红军中的领导地位，是中国革命的重要转折点。这套邮票纪念遵义会议二十五周年，图案分别为遵义会议会址、在毛泽东旗帜下前进和强渡金沙江，采用雕刻版与影写版套印，庄重肃穆。",
+    "quantity": "300万套",
+    "needsReview": true,
+    "localImageFolder": "纪74 《遵义会议二十五周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "遵义会议会址",
+        "denomination": "4分",
+        "image": "/images/stamps/1960/纪74-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "在毛泽东旗帜下永远胜利地前进",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪74-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "强渡金沙江",
+        "denomination": "10分",
+        "image": "/images/stamps/1960/纪74-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪76",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "“三·八”国际劳动妇女节五十周年",
+    "issueDate": "1960-03-08",
+    "year": 1960,
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "designer": "万维生",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1910年，第二国际妇女代表大会在**丹麦哥本哈根**召开，确定每年3月8日为国际劳动妇女节。这套邮票纪念该节日五十周年，四枚邮票分别以妇女节、保卫母亲和儿童、保卫和平、保卫妇女权利为主题，反映了妇女争取平等权利和社会进步的历程。邮票由万维生设计，以简洁有力的画面表达主题。",
+    "quantity": "250万套",
+    "needsReview": true,
+    "localImageFolder": "纪76 《「三八」国际劳动妇女节五十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "“三八”国际劳动妇女节创始人克拉拉·蔡特金像",
+        "denomination": "4分",
+        "image": "/images/stamps/1960/纪76-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "保卫母亲、保卫儿童",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪76-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "妇女参加社会主义建设",
+        "denomination": "10分",
+        "image": "/images/stamps/1960/纪76-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "世界妇女大团结",
+        "denomination": "22分",
+        "image": "/images/stamps/1960/纪76-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪75",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "中苏友好同盟互助条约签订十周年",
+    "issueDate": "1960-03-10",
+    "year": 1960,
+    "themes": [
+      "周年纪念",
+      "苏联"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "1950年2月14日，中苏两国在**莫斯科**签订《中苏友好同盟互助条约》，标志着两国关系的全面合作。这套邮票纪念该条约签订十周年，三枚邮票分别以\"互助\"\"友好\"\"同盟\"为主题，图案展现中苏两国人民携手合作、共同前进的场景。采用影写版与影雕套印工艺印制。",
+    "quantity": "300万套",
+    "needsReview": true,
+    "localImageFolder": "纪75 《中苏友好同盟互助条约签订十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "互助合作",
+        "denomination": "4分",
+        "image": "/images/stamps/1960/纪75-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "友好同盟",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪75-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "保卫和平",
+        "denomination": "10分",
+        "image": "/images/stamps/1960/纪75-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪78",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "庆祝匈牙利解放十五周年",
+    "issueDate": "1960-04-04",
+    "year": 1960,
+    "themes": [
+      "周年纪念",
+      "匈牙利"
+    ],
+    "designer": "钟灵",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1945年4月4日，**匈牙利**在**苏联**红军帮助下获得解放。这套邮票纪念**匈牙利**解放十五周年，图案分别为中匈两国国旗和**匈牙利**国会大厦，表达了中匈两国人民的友好情谊。邮票由钟灵设计，以对比鲜明的两国元素展现国际友谊主题。",
+    "quantity": "800万套",
+    "needsReview": true,
+    "localImageFolder": "纪78 《庆祝匈牙利解放十五周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中匈两国友好团结",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪78-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "匈牙利人民共和国国会大厦",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪78-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪77",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "弗·伊·列宁诞生九十周年",
+    "issueDate": "1960-04-22",
+    "year": 1960,
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "**弗拉基米尔·伊里奇·列宁**（1870-1924），俄国马克思主义革命家，苏维埃政权缔造者，世界上第一个社会主义国家的缔造者。这套邮票纪念列宁诞生九十周年，图案分别为列宁在演讲、列宁肖像、列宁与斯大林在哥尔克。采用影写版与雕刻版套印，庄重纪念这位无产阶级革命导师。",
+    "quantity": "200万套",
+    "needsReview": true,
+    "localImageFolder": "纪77 《弗·伊·列宁诞生九十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "列宁在演讲",
+        "denomination": "4分",
+        "image": "/images/stamps/1960/纪77-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "列宁像",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪77-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "列宁在斯摩尔尼宫和红色近卫军谈话",
+        "denomination": "20分",
+        "image": "/images/stamps/1960/纪77-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特39",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "苏联月球火箭及星际站",
+    "issueDate": "1960-04-30",
+    "year": 1960,
+    "themes": [
+      "科技",
+      "航天"
+    ],
+    "designer": "吴建坤",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1959年9月，**苏联**成功发射了月球二号和月球三号探测器，前者成为人类首个到达月球的航天器，后者首次拍摄到月球背面的照片。这套邮票记录了这一划时代的太空探索成就，图案分别为月球二号火箭和自动行星际站，反映了当时**苏联**在航天领域的领先地位。",
+    "quantity": "300万套",
+    "needsReview": true,
+    "localImageFolder": "特39 《苏联月球火箭及星际站》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "月球火箭",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特39-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "行星际站",
+        "denomination": "10分",
+        "image": "/images/stamps/1960/特39-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪79",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "庆祝捷克斯洛伐克解放十五周年",
+    "issueDate": "1960-05-09",
+    "year": 1960,
+    "themes": [
+      "周年纪念",
+      "捷克斯洛伐克"
+    ],
+    "designer": "李为",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1945年5月9日，**捷克斯洛伐克**在**苏联**红军帮助下获得解放。这套邮票纪念**捷克斯洛伐克**解放十五周年，图案分别为中捷两国国旗和**布拉格**民族纪念碑，象征中捷两国人民的友谊。邮票由李为设计，构图对称庄重。",
+    "quantity": "800万套",
+    "needsReview": true,
+    "localImageFolder": "纪79 《庆祝捷克斯洛伐克解放十五周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "友好团结",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪79-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "布拉格全景",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪79-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特38",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "金鱼",
+    "issueDate": "1960-06-01",
+    "year": 1960,
+    "themes": [
+      "动物",
+      "鱼类",
+      "金鱼"
+    ],
+    "designer": "孙传哲、刘硕仁",
+    "totalStamps": 12,
+    "extras": [],
+    "description": "金鱼是中国特产的观赏鱼类，由野生鲫鱼经长期人工选育变异而来，品种繁多。这套邮票选取了十二种名贵金鱼品种，从翻腮绒球到红龙睛，涵盖了龙睛、水泡、虎头、帽子、望天等主要品系。邮票采用影写版印制，色彩艳丽，生动再现了金鱼在水中游弋的优美姿态，是新中国首套水族题材邮票。",
+    "quantity": "400万套",
+    "needsReview": true,
+    "localImageFolder": "特38 《金鱼》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "翻腮绒球",
+        "denomination": "4分",
+        "image": "/images/stamps/1960/特38-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "黑背龙睛",
+        "denomination": "4分",
+        "image": "/images/stamps/1960/特38-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "水泡眼",
+        "denomination": "4分",
+        "image": "/images/stamps/1960/特38-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "红虎头",
+        "denomination": "4分",
+        "image": "/images/stamps/1960/特38-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "珍珠鱼",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特38-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "蓝龙睛",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特38-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "望天鱼",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特38-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "红帽子",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特38-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "紫帽子",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特38-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "红头",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特38-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "花龙睛",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特38-11.jpg"
+      },
+      {
+        "sn": 12,
+        "name": "红龙睛",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特38-12.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特40",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "养猪",
+    "issueDate": "1960-06-15",
+    "year": 1960,
+    "themes": [
+      "科技",
+      "农业",
+      "畜牧业"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "这套邮票以养猪为主题，展现了从繁殖、饲养、防疫到放牧、收获的全过程，反映了当时中国大力发展养猪业的政策导向。五枚邮票图案生动活泼，尤其是（5-5）\"猪肥仓满\"寓意丰年，兼具实用性和艺术性。邮票由刘硕仁设计，以装饰画风格呈现农村生活场景。",
+    "quantity": "480万套",
+    "needsReview": true,
+    "localImageFolder": "特40 《养猪》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "繁殖",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特40-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "防疫",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特40-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "肥猪满圈",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特40-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "猪食堂",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特40-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "猪肥仓满",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特40-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪81",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "中国文学艺术工作者第三次代表大会",
+    "issueDate": "1960-07-30",
+    "year": 1960,
+    "themes": [
+      "文化",
+      "文艺"
+    ],
+    "designer": "钟灵、邵柏林、周令钊、陈若菊",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1960年7月22日至8月13日，中国文学艺术工作者第三次代表大会在**北京**召开。这套邮票纪念大会召开，图案分别体现\"文艺为工农兵服务\"方针和\"百花齐放、百家争鸣\"方针。邮票由钟灵、邵柏林、周令钊、陈若菊联合设计，以鲜明的时代特色展现了文艺工作的方向。",
+    "quantity": "300万套",
+    "needsReview": true,
+    "localImageFolder": "纪81 《中国文学艺术工作者第三次代表大会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "工农兵",
+        "denomination": "4分",
+        "image": "/images/stamps/1960/纪81-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "百花齐放、百家争鸣",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪81-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪82",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "庆祝朝鲜解放十五周年",
+    "issueDate": "1960-08-15",
+    "year": 1960,
+    "themes": [
+      "周年纪念",
+      "朝鲜"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1945年8月15日，**朝鲜**获得解放。这套邮票纪念**朝鲜**解放十五周年，图案分别为中朝两国国旗和千里马雕塑。千里马是**朝鲜**建设精神的象征，寓意**朝鲜**人民以千里马之势奋勇前进。邮票由卢天骄设计，表达了中朝两国人民的深厚友谊。",
+    "quantity": "540万套",
+    "needsReview": true,
+    "localImageFolder": "纪82 《朝鲜解放十五周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中朝友好",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪82-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "千里马",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪82-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特42",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "北京铁路车站",
+    "issueDate": "1960-08-30",
+    "year": 1960,
+    "themes": [
+      "建筑",
+      "铁路"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**北京**铁路车站（即**北京站**）于1959年9月建成投入使用，是当时全国最大的铁路客运站，也是国庆十周年十大建筑之一。车站大楼采用民族风格与现代技术相结合的设计，候车大厅宽敞明亮。这套邮票分别展现了车站正面外景和站内大厅，记录了新中国铁路建设的重要成就。",
+    "quantity": "200万套",
+    "needsReview": true,
+    "localImageFolder": "特42 《北京铁路车站》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "车站正面全景",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特42-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "站台",
+        "denomination": "10分",
+        "image": "/images/stamps/1960/特42-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪83",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "庆祝越南民主共和国成立十五周年",
+    "issueDate": "1960-09-02",
+    "year": 1960,
+    "themes": [
+      "周年纪念",
+      "越南"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1945年9月2日，**胡志明**（1890-1969）在**河内**宣读独立宣言，**越南**民主共和国宣告成立。这套邮票纪念**越南**民主共和国成立十五周年，图案分别为中越两国国旗和**越南**人民军，表达中越两国人民的战斗友谊。邮票由刘硕仁设计。",
+    "quantity": "540万套",
+    "needsReview": true,
+    "localImageFolder": "纪83 《庆祝越南民主共和国成立十五周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中越友好",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪83-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "还剑湖",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪83-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特43",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "爱国卫生运动",
+    "issueDate": "1960-09-10",
+    "year": 1960,
+    "themes": [
+      "历史事件",
+      "公共卫生"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "爱国卫生运动是新中国初期发起的群众性卫生运动，旨在改善环境卫生、控制传染病、提高全民健康水平。这套邮票以厂矿卫生、除四害、讲卫生、预防疾病、锻炼身体五个主题，全面展示了爱国卫生运动的各个方面，由卢天骄设计，以简洁明快的画面传达了卫生健康新风尚。",
+    "quantity": "440万套",
+    "needsReview": true,
+    "localImageFolder": "特43 《爱国卫生运动》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "厂矿卫生",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特43-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "除四害",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特43-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "讲卫生",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特43-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "预防疾病",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特43-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "锻炼身体",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特43-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特41",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "人民大会堂",
+    "issueDate": "1960-10-01",
+    "year": 1960,
+    "themes": [
+      "建筑",
+      "现代建筑",
+      "人民大会堂"
+    ],
+    "designer": "万维生",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "人民大会堂位于**北京**天安门广场西侧，是1959年国庆十周年十大建筑之一，建筑面积达17万余平方米。大礼堂可容纳万余人，穹顶设计气势恢宏。这套邮票分别展现了人民大会堂的正面全景和大礼堂内景，以宏大的构图和精细的刻画体现了这座建筑物的庄严雄伟。",
+    "quantity": "240万套",
+    "needsReview": true,
+    "localImageFolder": "特41 《人民大会堂》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "人民大会堂前景",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特41-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "大礼堂",
+        "denomination": "10分",
+        "image": "/images/stamps/1960/特41-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪84",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "诺尔曼·白求恩",
+    "issueDate": "1960-11-20",
+    "year": 1960,
+    "themes": [
+      "人物",
+      "国际主义战士"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**诺尔曼·白求恩**（1890-1939），加拿大共产党员、国际主义战士、著名胸外科医生。1938年率医疗队来到中国抗日前线，在**晋察冀边区**救治伤员，1939年11月12日因手术感染以身殉职。**毛泽东**（1893-1976）撰文《纪念白求恩》，称其为\"一个高尚的人，一个纯粹的人，一个有道德的人，一个脱离了低级趣味的人，一个有益于人民的人\"。这套邮票由孙传哲设计，图案分别为白求恩肖像和白求恩在手术中的场景。",
+    "quantity": "540万套",
+    "needsReview": true,
+    "localImageFolder": "纪84 《诺尔曼·白求恩》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "白求恩大夫像",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪84-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "白求恩大夫在抢救伤员",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪84-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪80",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "恩格斯诞生一四零周年",
+    "issueDate": "1960-11-28",
+    "year": 1960,
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "**弗里德里希·恩格斯**（1820-1895），马克思主义创始人之一，国际无产阶级革命的伟大导师，与**马克思**（1818-1883）共同创立了科学社会主义理论。这套邮票纪念恩格斯诞生一百四十周年，图案分别为恩格斯肖像和恩格斯在工人中演讲的场景。邮票采用影写版印制，庄重纪念这位伟大的思想家。",
+    "quantity": "250万套",
+    "needsReview": true,
+    "localImageFolder": "纪80 《恩格斯诞生一百四十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "恩格斯在第一国际海牙代表大会上讲话",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/纪80-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "恩格斯像",
+        "denomination": "10分",
+        "image": "/images/stamps/1960/纪80-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特44",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "菊花",
+    "issueDate": "1960-12-10",
+    "year": 1960,
+    "themes": [
+      "植物花卉",
+      "花卉",
+      "菊花"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 18,
+    "extras": [],
+    "description": "菊花是中国传统名花，与梅、兰、竹并称\"四君子\"，栽培历史已逾三千年。这套邮票是新中国枚数最多的一套花卉邮票，分三次发行：1960年12月10日发行第1-6枚，1961年发行第7-14枚，1961年发行第15-18枚。邮票选取十八种名贵菊花品种，以写实手法精心绘制，色彩缤纷，姿态各异，是新中国邮票史上的经典之作。",
+    "quantity": "100万套",
+    "needsReview": true,
+    "localImageFolder": "特44 《菊花》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "黄十八",
+        "denomination": "4分",
+        "image": "/images/stamps/1960/特44-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "绿牡丹",
+        "denomination": "4分",
+        "image": "/images/stamps/1960/特44-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "二乔",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特44-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "大如意",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特44-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "如意金钩",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特44-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "金牡丹",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特44-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "帅旗",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特44-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "柳线",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特44-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "芙蓉托挂",
+        "denomination": "10分",
+        "image": "/images/stamps/1960/特44-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "玉盘托珠",
+        "denomination": "10分",
+        "image": "/images/stamps/1960/特44-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "赤金狮子",
+        "denomination": "20分",
+        "image": "/images/stamps/1960/特44-11.jpg"
+      },
+      {
+        "sn": 12,
+        "name": "温玉",
+        "denomination": "20分",
+        "image": "/images/stamps/1960/特44-12.jpg"
+      },
+      {
+        "sn": 13,
+        "name": "紫玉香珠",
+        "denomination": "22分",
+        "image": "/images/stamps/1960/特44-13.jpg"
+      },
+      {
+        "sn": 14,
+        "name": "冰盘托挂",
+        "denomination": "22分",
+        "image": "/images/stamps/1960/特44-14.jpg"
+      },
+      {
+        "sn": 15,
+        "name": "墨荷",
+        "denomination": "30分",
+        "image": "/images/stamps/1960/特44-15.jpg"
+      },
+      {
+        "sn": 16,
+        "name": "班中玉笋",
+        "denomination": "30分",
+        "image": "/images/stamps/1960/特44-16.jpg"
+      },
+      {
+        "sn": 17,
+        "name": "笑魇",
+        "denomination": "35分",
+        "image": "/images/stamps/1960/特44-17.jpg"
+      },
+      {
+        "sn": 18,
+        "name": "天鹅舞",
+        "denomination": "52分",
+        "image": "/images/stamps/1960/特44-18.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特32",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "中国制造第一艘万吨远洋货轮",
+    "issueDate": "1960-12-15",
+    "year": 1960,
+    "themes": [
+      "科技",
+      "交通",
+      "船舶"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1958年11月27日，大连造船厂建造的万吨远洋货轮\"**跃进号**\"下水。该轮由**苏联**设计，从开工到下水仅用58天，全长169.9米，载货量13400吨，排水量22100吨。邮票图案即\"跃进号\"正面破浪航行的形象。1963年5月1日\"跃进号\"首航日本途中在**济州岛**附近触礁沉没。",
+    "quantity": "900万套",
+    "needsReview": true,
+    "localImageFolder": "特32 《中国制造第一艘万吨远洋货轮》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "远洋货轮",
+        "denomination": "8分",
+        "image": "/images/stamps/1960/特32-1.jpg"
+      }
+    ]
+  }
+]

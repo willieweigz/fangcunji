@@ -1,0 +1,260 @@
+[
+  {
+    "id": "纪45", "series": "纪", "type": "纪念邮票", "title": "胜利超额完成第一个五年计划", "issueDate": "1958-01-30", "year": 1958,
+    "themes": ["历史事件", "建设成就", "一五计划"], "designer": "周令钊", "totalStamps": 3, "extras": [],
+    "description": "第一个五年计划于1957年底完成。3枚邮票均采用锦旗式构图，分别表现和平建设、工业和农业、交通运输，集中展示“一五”时期国家建设成果。",
+    "needsReview": true, "localImageFolder": "纪45 《胜利超额完成第一个五年计划》",
+    "stamps": [
+      { "sn": 1, "name": "和平建设", "denomination": "4分", "image": "/images/stamps/1958/纪45-1.jpg" },
+      { "sn": 2, "name": "工业和农业", "denomination": "8分", "image": "/images/stamps/1958/纪45-2.jpg" },
+      { "sn": 3, "name": "交通运输", "denomination": "16分", "image": "/images/stamps/1958/纪45-3.jpg" }
+    ]
+  },
+  {
+    "id": "特21", "series": "特", "type": "特种邮票", "title": "中国古塔建筑艺术", "issueDate": "1958-03-15", "year": 1958,
+    "themes": ["建筑", "古塔"], "designer": "刘硕仁", "totalStamps": 4, "extras": [],
+    "description": "4枚邮票展现不同年代和结构的中国古塔：**河南登封嵩岳寺塔**是北魏密檐式砖塔，**云南大理千寻塔**为南诏时期古塔，**山西应县释迦塔**是著名木塔，**山西洪洞飞虹塔**则是明代琉璃塔代表。",
+    "quantity": "800万套", "needsReview": true, "localImageFolder": "特21 《中国古塔建筑艺术》",
+    "stamps": [
+      { "sn": 1, "name": "登封·嵩岳寺塔", "denomination": "8分", "image": "/images/stamps/1958/特21-1.jpg" },
+      { "sn": 2, "name": "大理·千寻塔", "denomination": "8分", "image": "/images/stamps/1958/特21-2.jpg" },
+      { "sn": 3, "name": "应县·释迦塔", "denomination": "8分", "image": "/images/stamps/1958/特21-3.jpg" },
+      { "sn": 4, "name": "洪赵·飞虹塔", "denomination": "8分", "image": "/images/stamps/1958/特21-4.jpg" }
+    ]
+  },
+  {
+    "id": "特22", "series": "特", "type": "特种邮票", "title": "中国古生物", "issueDate": "1958-04-15", "year": 1958,
+    "themes": ["文物古迹", "古生物"], "designer": "吴建坤", "totalStamps": 3, "extras": [],
+    "description": "3枚邮票依次选择古生代的蒿里山三叶虫、中生代的禄丰恐龙和新生代的肿骨鹿，展示中国古生物化石资源。其中发现于**云南禄丰**的许氏禄丰龙图案，是世界上较早以恐龙为主题的邮票图案。",
+    "needsReview": true, "localImageFolder": "特22 《中国古生物》",
+    "stamps": [
+      { "sn": 1, "name": "蒿里山三叶虫（古生代）", "denomination": "4分", "image": "/images/stamps/1958/特22-1.jpg" },
+      { "sn": 2, "name": "禄丰恐龙（中生代）", "denomination": "8分", "image": "/images/stamps/1958/特22-2.jpg" },
+      { "sn": 3, "name": "肿骨鹿（新生代）", "denomination": "16分", "image": "/images/stamps/1958/特22-3.jpg" }
+    ]
+  },
+  {
+    "id": "纪47", "series": "纪", "type": "纪念邮票", "title": "人民英雄纪念碑", "issueDate": "1958-05-01", "year": 1958,
+    "themes": ["建筑", "纪念建筑"], "designer": "孙传哲", "totalStamps": 1, "extras": ["小全张"],
+    "description": "**北京天安门广场**人民英雄纪念碑于1958年4月竣工、5月1日揭幕。碑身正面镌刻毛泽东题写的“人民英雄永垂不朽”，背面为周恩来书写的碑文。同日发行的小全张将纪念碑及碑文组合在画面中，是新中国第一枚小全张。",
+    "needsReview": true, "localImageFolder": "纪47 《人民英雄纪念碑》",
+    "stamps": [
+      { "sn": 1, "name": "纪念碑", "denomination": "8分", "image": "/images/stamps/1958/纪47-1.jpg" },
+      { "sn": 2, "name": "人民英雄纪念碑", "denomination": "8分", "format": "小全张", "image": "/images/stamps/1958/纪47-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪46", "series": "纪", "type": "纪念邮票", "title": "马克思诞生一百三十九周年纪念", "issueDate": "1958-05-05", "year": 1958,
+    "themes": ["共产党人", "马克思主义"], "designer": "孙传哲", "totalStamps": 2, "extras": [],
+    "description": "这套邮票纪念**卡尔·马克思**诞辰，票名沿用“一百三十九周年”。第1枚采用马克思1867年肖像，第2枚取材于苏联画家茹可夫描绘马克思在**英国伦敦**德国工人教育协会上作报告的作品。",
+    "needsReview": true, "localImageFolder": "纪46 《马克思诞生一百三十九周年纪念》",
+    "stamps": [
+      { "sn": 1, "name": "马克思像（1867年）", "denomination": "8分", "image": "/images/stamps/1958/纪46-1.jpg" },
+      { "sn": 2, "name": "马克思在伦敦德国工人教育协会上作报告", "denomination": "22分", "image": "/images/stamps/1958/纪46-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪48", "series": "纪", "type": "纪念邮票", "title": "中国工会第八次全国代表大会", "issueDate": "1958-05-25", "year": 1958,
+    "themes": ["历史事件", "工人运动"], "designer": "刘硕仁", "totalStamps": 2, "extras": [],
+    "description": "中国工会第八次全国代表大会于1957年12月在**北京**召开。两枚邮票同图异色，以大小两个齿轮组成醒目的“8”字，并配工农图案，突出工人运动与大会届次。",
+    "needsReview": true, "localImageFolder": "纪48 《中国工会第八次全国代表大会》",
+    "stamps": [
+      { "sn": 1, "name": "“8”字型齿轮及衬饰工农图案", "denomination": "4分", "image": "/images/stamps/1958/纪48-1.jpg" },
+      { "sn": 2, "name": "“8”字型齿轮及衬饰工农图案", "denomination": "8分", "image": "/images/stamps/1958/纪48-2.jpg" }
+    ]
+  },
+  {
+    "id": "特18", "series": "特", "type": "特种邮票", "title": "儿童", "issueDate": "1958-06-01", "year": 1958,
+    "themes": ["6.1儿童邮票", "儿童生活"], "designer": "韩象琦", "totalStamps": 4, "extras": [],
+    "description": "新中国第一套儿童题材特种邮票，4枚分别表现婴儿、浇花、游戏和放船。设计吸收**天津杨柳青**年画、民间剪纸和窗花等艺术特点；票面印有“1957”，实际于1958年儿童节发行。",
+    "quantity": "216万套", "needsReview": true, "localImageFolder": "特18 《儿童》",
+    "stamps": [
+      { "sn": 1, "name": "婴儿", "denomination": "8分", "image": "/images/stamps/1958/特18-1.jpg" },
+      { "sn": 2, "name": "浇花", "denomination": "8分", "image": "/images/stamps/1958/特18-2.jpg" },
+      { "sn": 3, "name": "游戏", "denomination": "8分", "image": "/images/stamps/1958/特18-3.jpg" },
+      { "sn": 4, "name": "放船", "denomination": "8分", "image": "/images/stamps/1958/特18-4.jpg" }
+    ]
+  },
+  {
+    "id": "纪49", "series": "纪", "type": "纪念邮票", "title": "国际民主妇女联合会第四届代表大会", "issueDate": "1958-06-01", "year": 1958,
+    "themes": ["历史事件", "妇女", "国际组织"], "designer": "孙传哲", "totalStamps": 2, "extras": [],
+    "description": "国际民主妇女联合会第四届代表大会于1958年6月在**奥地利维也纳**举行。两枚邮票同图异面值，采用和平鸽衔橄榄枝飞向地球的会徽图案，表达妇女组织追求世界和平的愿望。",
+    "needsReview": true, "localImageFolder": "纪49 《国际民主妇女联合会第四届代表大会》",
+    "stamps": [
+      { "sn": 1, "name": "国际民主妇女联合会会徽", "denomination": "8分", "image": "/images/stamps/1958/纪49-1.jpg" },
+      { "sn": 2, "name": "国际民主妇女联合会会徽", "denomination": "20分", "image": "/images/stamps/1958/纪49-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪50", "series": "纪", "type": "纪念邮票", "title": "关汉卿戏剧创作七百年", "issueDate": "1958-06-20", "year": 1958,
+    "themes": ["戏曲", "关汉卿"], "designer": "孙传哲", "totalStamps": 3, "extras": ["小全张"],
+    "description": "元代戏剧家**关汉卿**创作了《窦娥冤》《望江亭》《蝴蝶梦》等杂剧。3枚邮票分别表现《蝴蝶梦》、关汉卿像和《望江亭》；同日发行的小全张将3枚图案横列，上方配郭沫若题字，下方以梨花寓意梨园。",
+    "needsReview": true, "localImageFolder": "纪50 《关汉卿戏剧创作七百年》",
+    "stamps": [
+      { "sn": 1, "name": "《蝴蝶梦》", "denomination": "4分", "image": "/images/stamps/1958/纪50-1.jpg" },
+      { "sn": 2, "name": "关汉卿像", "denomination": "8分", "image": "/images/stamps/1958/纪50-2.jpg" },
+      { "sn": 3, "name": "《望江亭》", "denomination": "20分", "image": "/images/stamps/1958/纪50-3.jpg" },
+      { "sn": 4, "name": "关汉卿戏剧创作七百年", "denomination": "32分", "format": "小全张", "image": "/images/stamps/1958/纪50-4.jpg" }
+    ]
+  },
+  {
+    "id": "特23", "series": "特", "type": "特种邮票", "title": "北京天文馆", "issueDate": "1958-06-25", "year": 1958,
+    "themes": ["科技", "天文"], "designer": "吴建坤", "totalStamps": 2, "extras": [],
+    "description": "**北京天文馆**于1957年落成，是中国第一座大型天文馆。第1枚从正面表现建筑和穹顶，第2枚展示天象厅内部及蔡司天象仪投射的人造星空，体现天文知识普及与现代科学设施建设。",
+    "needsReview": true, "localImageFolder": "特23 《北京天文馆》",
+    "stamps": [
+      { "sn": 1, "name": "北京天文馆", "denomination": "8分", "image": "/images/stamps/1958/特23-1.jpg" },
+      { "sn": 2, "name": "人造星空", "denomination": "20分", "image": "/images/stamps/1958/特23-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪51", "series": "纪", "type": "纪念邮票", "title": "共产党宣言发表一百一十周年", "issueDate": "1958-07-01", "year": 1958,
+    "themes": ["共产党人", "马克思主义"], "designer": "孙传哲", "totalStamps": 2, "extras": [],
+    "description": "《共产党宣言》于1848年在**英国伦敦**以德文出版。第1枚以马克思、恩格斯侧面像和牡丹为主图，第2枚采用1848年德文版封面，纪念这部科学共产主义纲领性文献发表一百一十周年。",
+    "needsReview": true, "localImageFolder": "纪51 《共产党宣言发表一百一十周年》",
+    "stamps": [
+      { "sn": 1, "name": "马克思、恩格斯像", "denomination": "4分", "image": "/images/stamps/1958/纪51-1.jpg" },
+      { "sn": 2, "name": "《共产党宣言》1848年德文版封面", "denomination": "8分", "image": "/images/stamps/1958/纪51-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪52", "series": "纪", "type": "纪念邮票", "title": "莫斯科社会主义国家邮电部长会议", "issueDate": "1958-07-10", "year": 1958,
+    "themes": ["历史事件", "邮政", "国际会议"], "designer": "孙传哲", "totalStamps": 2, "extras": [],
+    "description": "社会主义国家邮电部长会议于1957年12月在**苏联莫斯科**召开。两枚同图异色，以飞雁传书象征邮政的历史，以广播发射塔象征电信事业发展，是新中国早期电信题材邮票。",
+    "needsReview": true, "localImageFolder": "纪52 《莫斯科社会主义国家邮电部长会议》",
+    "stamps": [
+      { "sn": 1, "name": "邮电——飞雁和发射塔", "denomination": "4分", "image": "/images/stamps/1958/纪52-1.jpg" },
+      { "sn": 2, "name": "邮电——飞雁和发射塔", "denomination": "8分", "image": "/images/stamps/1958/纪52-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪53", "series": "纪", "type": "纪念邮票", "title": "裁军和国际合作大会", "issueDate": "1958-07-20", "year": 1958,
+    "themes": ["历史事件", "国际会议", "世界和平"], "designer": "邱陵", "totalStamps": 3, "extras": [],
+    "description": "裁军和国际合作大会于1958年7月在**瑞典斯德哥尔摩**举行。3枚图案分别以天安门、和平鸽和牡丹表达中国人民保卫和平的决心，以橄榄叶和丝带表现世界人民团结，并以原子能符号和工厂象征和平利用原子能。",
+    "needsReview": true, "localImageFolder": "纪53 《裁军和国际合作大会》",
+    "stamps": [
+      { "sn": 1, "name": "中国人民保卫和平的决心", "denomination": "4分", "image": "/images/stamps/1958/纪53-1.jpg" },
+      { "sn": 2, "name": "世界人民团结起来保卫和平", "denomination": "8分", "image": "/images/stamps/1958/纪53-2.jpg" },
+      { "sn": 3, "name": "和平利用原子能", "denomination": "22分", "image": "/images/stamps/1958/纪53-3.jpg" }
+    ]
+  },
+  {
+    "id": "特24", "series": "特", "type": "特种邮票", "title": "气象", "issueDate": "1958-08-25", "year": 1958,
+    "themes": ["科技", "气象"], "designer": "孙传哲", "totalStamps": 3, "extras": [],
+    "description": "3枚邮票展现气象事业从古代观测到现代服务的发展：古气象仪表现相风铜乌等传统仪器，气象观测描绘百叶箱和测风气球，气象服务则体现气象工作对农业、航空和航海的保障作用。",
+    "quantity": "800万套", "needsReview": true, "localImageFolder": "特24 《气象》",
+    "stamps": [
+      { "sn": 1, "name": "古气象仪", "denomination": "8分", "image": "/images/stamps/1958/特24-1.jpg" },
+      { "sn": 2, "name": "气象观测", "denomination": "8分", "image": "/images/stamps/1958/特24-2.jpg" },
+      { "sn": 3, "name": "气象服务", "denomination": "8分", "image": "/images/stamps/1958/特24-3.jpg" }
+    ]
+  },
+  {
+    "id": "纪54", "series": "纪", "type": "纪念邮票", "title": "国际学联第五届代表大会", "issueDate": "1958-09-04", "year": 1958,
+    "themes": ["历史事件", "国际会议", "青少年"], "designer": "刘硕仁", "totalStamps": 2, "extras": [],
+    "description": "国际学生联合会第五届代表大会于1958年9月在**北京**召开。两枚同图异面值，以国际学联会徽和数字“5”组成装饰图案，下方配置天安门剪影，表明大会举办地点。本条目仅收录更正会名后正式发行的邮票。",
+    "needsReview": true, "localImageFolder": "纪54 《国际学联第五届代表大会》",
+    "stamps": [
+      { "sn": 1, "name": "国际学生联合会会徽及天安门剪影", "denomination": "8分", "image": "/images/stamps/1958/纪54-1.jpg" },
+      { "sn": 2, "name": "国际学生联合会会徽及天安门剪影", "denomination": "22分", "image": "/images/stamps/1958/纪54-2.jpg" }
+    ]
+  },
+  {
+    "id": "普10", "series": "普", "type": "普通邮票", "title": "花卉普通邮票", "issueDate": "1958-09-25", "year": 1958,
+    "themes": ["普票", "花卉"], "designer": "孙传哲", "totalStamps": 3, "extras": [],
+    "description": "这是新中国成立后第一套花卉普通邮票。3枚低面值邮票分别选用牡丹、荷花和菊花，借中国传统名花表现富贵、高洁和坚贞等文化寓意。",
+    "needsReview": true, "localImageFolder": "普10 《花卉普通邮票》",
+    "stamps": [
+      { "sn": 1, "name": "牡丹花", "denomination": "1.5分", "image": "/images/stamps/1958/普10-1.jpg" },
+      { "sn": 2, "name": "荷花", "denomination": "3分", "image": "/images/stamps/1958/普10-2.jpg" },
+      { "sn": 3, "name": "菊花", "denomination": "5分", "image": "/images/stamps/1958/普10-3.jpg" }
+    ]
+  },
+  {
+    "id": "纪56", "series": "纪", "type": "纪念邮票", "title": "北京电报大楼落成纪念", "issueDate": "1958-09-29", "year": 1958,
+    "themes": ["科技", "通信"], "designer": "刘硕仁", "totalStamps": 2, "extras": [],
+    "description": "**北京西长安街电报大楼**于1958年9月落成，是中国第一座自行设计、施工的中央电讯枢纽。两枚邮票同图异色，均从正面表现大楼全景，以建筑形象纪念通信基础设施建成。",
+    "needsReview": true, "localImageFolder": "纪56 《北京电报大楼落成纪念》",
+    "stamps": [
+      { "sn": 1, "name": "电报大楼", "denomination": "4分", "image": "/images/stamps/1958/纪56-1.jpg" },
+      { "sn": 2, "name": "电报大楼", "denomination": "8分", "image": "/images/stamps/1958/纪56-2.jpg" }
+    ]
+  },
+  {
+    "id": "纪55", "series": "纪", "type": "纪念邮票", "title": "全国工业交通展览会", "issueDate": "1958-10-01", "year": 1958,
+    "themes": ["历史事件", "展会", "工业"], "designer": "刘硕仁、吴建坤", "totalStamps": 3, "extras": [],
+    "description": "全国工业交通展览会于1958年10月在**北京苏联展览馆**举行。3枚邮票分别以齿轮与红旗、天安门与工厂烟囱、钢花飞溅为画面，表现社会主义建设总路线、力争上游和生产大跃进。",
+    "quantity": "800万套", "needsReview": true, "localImageFolder": "纪55 《全国工业交通展览会》",
+    "stamps": [
+      { "sn": 1, "name": "社会主义建设总路线", "denomination": "8分", "image": "/images/stamps/1958/纪55-1.jpg" },
+      { "sn": 2, "name": "力争上游", "denomination": "8分", "image": "/images/stamps/1958/纪55-2.jpg" },
+      { "sn": 3, "name": "生产大跃进", "denomination": "8分", "image": "/images/stamps/1958/纪55-3.jpg" }
+    ]
+  },
+  {
+    "id": "特26", "series": "特", "type": "特种邮票", "title": "十三陵水库", "issueDate": "1958-10-25", "year": 1958,
+    "themes": ["历史事件", "水利"], "designer": "刘硕仁、吴建坤", "totalStamps": 2, "extras": [],
+    "description": "**北京昌平十三陵水库**于1958年动工并建成，是首都群众参加义务劳动的标志性工程。第1枚描绘修建大坝的劳动场面，第2枚从高处俯瞰水库、大坝和周边山地全景。",
+    "needsReview": true, "localImageFolder": "特26 《十三陵水库》",
+    "stamps": [
+      { "sn": 1, "name": "修建", "denomination": "4分", "image": "/images/stamps/1958/特26-1.jpg" },
+      { "sn": 2, "name": "全景", "denomination": "8分", "image": "/images/stamps/1958/特26-2.jpg" }
+    ]
+  },
+  {
+    "id": "特25", "series": "特", "type": "特种邮票", "title": "苏联人造地球卫星", "issueDate": "1958-10-30", "year": 1958,
+    "themes": ["科技", "航天", "人造卫星"], "designer": "孙传哲", "totalStamps": 3, "extras": [],
+    "description": "苏联于1957年发射人类第一颗人造地球卫星，1958年又发射第三颗卫星。第1枚让卫星飞越**北京古观象台**仪器上空，第2枚表现第三颗卫星，第3枚以红色轨道环绕地球，集中呈现早期航天探索。",
+    "needsReview": true, "localImageFolder": "特25 《苏联人造地球卫星》",
+    "stamps": [
+      { "sn": 1, "name": "第一颗人造卫星", "denomination": "4分", "image": "/images/stamps/1958/特25-1.jpg" },
+      { "sn": 2, "name": "第三颗人造卫星", "denomination": "8分", "image": "/images/stamps/1958/特25-2.jpg" },
+      { "sn": 3, "name": "红色卫星环绕全世界", "denomination": "10分", "image": "/images/stamps/1958/特25-3.jpg" }
+    ]
+  },
+  {
+    "id": "纪57", "series": "纪", "type": "纪念邮票", "title": "中国人民志愿军凯旋归国纪念", "issueDate": "1958-11-20", "year": 1958,
+    "themes": ["历史事件", "抗美援朝"], "designer": "孙传哲", "totalStamps": 3, "extras": [],
+    "description": "1958年，中国人民志愿军分批撤离**朝鲜**，最后一批于10月归国。3枚邮票依次表现中朝军队并肩作战、朝鲜人民依依惜别和祖国人民欢迎志愿军胜利归来的场景。",
+    "needsReview": true, "localImageFolder": "纪57 《中国人民志愿军凯旋归国纪念》",
+    "stamps": [
+      { "sn": 1, "name": "并肩作战", "denomination": "4分", "image": "/images/stamps/1958/纪57-1.jpg" },
+      { "sn": 2, "name": "依依惜别", "denomination": "8分", "image": "/images/stamps/1958/纪57-2.jpg" },
+      { "sn": 3, "name": "胜利归来", "denomination": "10分", "image": "/images/stamps/1958/纪57-3.jpg" }
+    ]
+  },
+  {
+    "id": "特27", "series": "特", "type": "特种邮票", "title": "林业建设", "issueDate": "1958-12-15", "year": 1958,
+    "themes": ["科技", "林业"], "designer": "刘硕仁", "totalStamps": 4, "extras": [],
+    "description": "4枚邮票分别表现森林资源、保护森林、油锯伐木和绿化祖国，涵盖资源、保护、生产与造林。画家**黄永玉**创作的原画采用中国传统水印木刻风格，使林木形象富有装饰性和民族艺术特色。",
+    "needsReview": true, "localImageFolder": "特27 《林业建设》",
+    "stamps": [
+      { "sn": 1, "name": "森林资源", "denomination": "8分", "image": "/images/stamps/1958/特27-1.jpg" },
+      { "sn": 2, "name": "保护森林", "denomination": "8分", "image": "/images/stamps/1958/特27-2.jpg" },
+      { "sn": 3, "name": "油锯伐木", "denomination": "8分", "image": "/images/stamps/1958/特27-3.jpg" },
+      { "sn": 4, "name": "绿化祖国", "denomination": "8分", "image": "/images/stamps/1958/特27-4.jpg" }
+    ]
+  },
+  {
+    "id": "特28", "series": "特", "type": "特种邮票", "title": "我国第一个原子反应堆和回旋加速器", "issueDate": "1958-12-30", "year": 1958,
+    "themes": ["科技", "核工业"], "designer": "孙传哲、刘硕仁、吴建坤", "totalStamps": 2, "extras": [],
+    "description": "1958年，中国第一台回旋加速器调试出束，第一座重水反应堆达到临界并投入使用，标志中国开始进入原子能研究阶段。两枚邮票分别展示原子反应堆建筑、堆芯和回旋加速器设备。",
+    "needsReview": true, "localImageFolder": "特28 《我国第一个原子反应堆和回旋加速器》",
+    "stamps": [
+      { "sn": 1, "name": "原子反应堆", "denomination": "8分", "image": "/images/stamps/1958/特28-1.jpg" },
+      { "sn": 2, "name": "回旋加速器", "denomination": "20分", "image": "/images/stamps/1958/特28-2.jpg" }
+    ]
+  },
+  {
+    "id": "特29", "series": "特", "type": "特种邮票", "title": "航空体育运动", "issueDate": "1958-12-30", "year": 1958,
+    "themes": ["体育", "航空体育"], "designer": "孙传哲", "totalStamps": 4, "extras": [],
+    "description": "4枚邮票分别展示模型滑翔机、滑翔运动、跳伞和飞机飞行，涵盖航空模型与实际飞行项目，记录新中国早期航空体育运动的发展。",
+    "needsReview": true, "localImageFolder": "特29 《航空体育运动》",
+    "stamps": [
+      { "sn": 1, "name": "模型滑翔机", "denomination": "4分", "image": "/images/stamps/1958/特29-1.jpg" },
+      { "sn": 2, "name": "滑翔", "denomination": "8分", "image": "/images/stamps/1958/特29-2.jpg" },
+      { "sn": 3, "name": "跳伞", "denomination": "10分", "image": "/images/stamps/1958/特29-3.jpg" },
+      { "sn": 4, "name": "飞行", "denomination": "20分", "image": "/images/stamps/1958/特29-4.jpg" }
+    ]
+  }
+]

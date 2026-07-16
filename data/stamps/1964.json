@@ -1,0 +1,846 @@
+[
+  {
+    "id": "纪102",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "庆祝古巴解放五周年",
+    "issueDate": "1964-01-01",
+    "year": 1964,
+    "themes": [
+      "周年纪念",
+      "古巴"
+    ],
+    "designer": "万维生",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1959年1月1日，**古巴**人民在卡斯特罗领导下推翻巴蒂斯塔独裁政权，取得革命胜利。这套邮票为纪念**古巴**解放五周年而发行，图案分别表现中古两国友谊和**古巴**少年的形象。",
+    "quantity": "450万套",
+    "needsReview": true,
+    "localImageFolder": "纪102 《庆祝古巴解放五周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中古友好",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/纪102-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "古巴万岁",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/纪102-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特64",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "人民公社女社员",
+    "issueDate": "1964-03-08",
+    "year": 1964,
+    "themes": [
+      "人物",
+      "现代人",
+      "妇女"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "1964年3月8日国际妇女节，为宣传和赞颂人民公社的农村妇女在社会主义建设中的重要作用，邮电部发行了这套特种邮票。当时全国妇联副主席邓颖超应《集邮》杂志编辑部请求，为发行这套邮票题词：\"中国妇女在建设祖国、保卫祖国的各种岗位上，不断地发挥着积极性和创造性，越来越起着重要作用。\"邮票图案分别描绘了拖拉机手、粮食丰收、棉花丰收、果子丰收、学习和民兵六个方面，展现了人民公社女社员的风采。",
+    "quantity": "400万套",
+    "needsReview": true,
+    "localImageFolder": "特64 《人民公社女社员》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "拖拉机手",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特64-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "粮食丰收",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特64-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "棉花丰收",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特64-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "果子丰收",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特64-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "学习",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特64-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "民兵",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特64-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪103",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "庆祝非洲自由日",
+    "issueDate": "1964-04-12",
+    "year": 1964,
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "每年4月15日为\"**非洲**自由日\"，是**非洲**人民争取民族独立和解放的重要纪念日。这套邮票图案采用中国版画家江敉的木刻作品，分别表现中非友好和**非洲**人民击鼓抗争的场景。",
+    "quantity": "800万套",
+    "needsReview": true,
+    "localImageFolder": "纪103 《庆祝非洲自由日》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中非友好",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/纪103-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "战鼓",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/纪103-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪104",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "全世界无产者联合起来",
+    "issueDate": "1964-05-01",
+    "year": 1964,
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "designer": "万维生",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "\"全世界无产者联合起来\"是马克思和恩格斯在《共产党宣言》中提出的伟大号召。这套邮票为纪念国际劳动节而发行，图案分别表现马克思和恩格斯的肖像以及全世界无产者团结战斗的场面。",
+    "quantity": "800万套",
+    "needsReview": true,
+    "localImageFolder": "纪104 《全世界无产者联合起来》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "马、恩、列、斯",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/纪104-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "全世界无产者联合起来",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/纪104-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "普13",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "北京建筑普通邮票",
+    "issueDate": "1964-06-17",
+    "year": 1964,
+    "themes": [
+      "普票",
+      "北京建筑"
+    ],
+    "designer": "万维生",
+    "totalStamps": 12,
+    "extras": [],
+    "description": "普13**北京**建筑普通邮票于1964年6月17日开始发行，全套12枚，图案分别为天安门、人民大会堂、中国人民革命军事博物馆和中国革命博物馆·中国历史博物馆四座**北京**著名建筑，各以不同面值反复出现。除天安门外，其他三座建筑均为50年代末建成。4分和8分票有线式齿组外品，其中4分线式齿最为罕见。各枚并非同时发行，部分高面值和低面值票延至1965-1966年发行。",
+    "needsReview": true,
+    "localImageFolder": "普13 《北京建筑普通邮票》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国革命博物馆",
+        "denomination": "1分",
+        "image": "/images/stamps/1964/普13-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "天安门",
+        "denomination": "1.5分",
+        "image": "/images/stamps/1964/普13-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "人民大会堂",
+        "denomination": "2分",
+        "image": "/images/stamps/1964/普13-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "中国人民革命军事博物馆",
+        "denomination": "3分",
+        "image": "/images/stamps/1964/普13-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "中国革命博物馆",
+        "denomination": "4分",
+        "image": "/images/stamps/1964/普13-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "天安门",
+        "denomination": "5分",
+        "image": "/images/stamps/1964/普13-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "人民大会堂",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/普13-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "中国革命博物馆",
+        "denomination": "10分",
+        "image": "/images/stamps/1964/普13-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "中国革命博物馆",
+        "denomination": "20分",
+        "image": "/images/stamps/1964/普13-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "天安门",
+        "denomination": "22分",
+        "image": "/images/stamps/1964/普13-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "人民大会堂",
+        "denomination": "30分",
+        "image": "/images/stamps/1964/普13-11.jpg"
+      },
+      {
+        "sn": 12,
+        "name": "中国人民革命军事博物馆",
+        "denomination": "50分",
+        "image": "/images/stamps/1964/普13-12.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特65",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "革命圣地—延安",
+    "issueDate": "1964-07-01",
+    "year": 1964,
+    "themes": [
+      "文物古迹",
+      "革命纪念地",
+      "延安"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "1964年7月1日，为纪念中国共产党建党43周年，邮电部发行了这套以革命圣地**延安**为题材的特种邮票。**延安**是中国革命的圣地，1937年至1947年为中共中央所在地，毛泽东等老一辈革命家在此领导了抗日战争和解放战争。邮票图案分别描绘了**延安**枣园、杨家岭中央大礼堂、毛主席在**延安**枣园的办公住址、王家坪大礼堂、陕甘宁边区参议会会场和**延安**宝塔山六处革命旧址。52分高面值\"**延安**宝塔山\"发行量仅120万枚，是本套票中的筋票。",
+    "quantity": "120万套",
+    "needsReview": true,
+    "localImageFolder": "特65 《革命圣地—延安》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "延安枣园",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特65-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "杨家岭中央大礼堂",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特65-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "毛主席在延安枣园的办公住址",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特65-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "王家坪大礼堂",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特65-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "陕甘宁边区参议会会场",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特65-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "延安宝塔山",
+        "denomination": "52分",
+        "image": "/images/stamps/1964/特65-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪105",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "英勇的越南南方人民必胜-地球、越南地图、越南南方民族解放阵线旗帜",
+    "issueDate": "1964-07-20",
+    "year": 1964,
+    "themes": [
+      "历史事件",
+      "越南",
+      "国际声援"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1964年7月20日是关于**越南**问题的日内瓦协议签订十周年。这套单枚邮票表达了中国人民对**越南**南方人民抗美救国斗争的坚定支持，图案以醒目的标语和人物形象传达了必胜信念。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "纪105 《英勇的越南南方人民必胜》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "英勇的越南南方人民必胜",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/纪105-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特61",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "牡丹",
+    "issueDate": "1964-08-05",
+    "year": 1964,
+    "themes": [
+      "植物花卉",
+      "花卉",
+      "牡丹"
+    ],
+    "designer": "邵柏林",
+    "totalStamps": 15,
+    "extras": [
+      "小型张"
+    ],
+    "description": "牡丹素有\"花中之王\"的美誉，是中国传统名花。这套邮票图案由著名工笔花鸟画家田世光绘制，以15种名贵牡丹品种入画，色泽艳丽、雍容华贵。小型张发行量仅4万枚，是新中国早期小型张中的珍品。",
+    "quantity": "100万套",
+    "needsReview": true,
+    "localImageFolder": "特61 《牡丹》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "胜丹炉",
+        "denomination": "4分",
+        "image": "/images/stamps/1964/特61-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "昆山夜光",
+        "denomination": "4分",
+        "image": "/images/stamps/1964/特61-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "葛金紫",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特61-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "赵粉",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特61-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "姚黄",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特61-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "二乔",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特61-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "冰罩红石",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特61-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "墨撒金",
+        "denomination": "10分",
+        "image": "/images/stamps/1964/特61-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "朱砂",
+        "denomination": "10分",
+        "image": "/images/stamps/1964/特61-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "蓝田玉",
+        "denomination": "10分",
+        "image": "/images/stamps/1964/特61-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "御衣黄",
+        "denomination": "10分",
+        "image": "/images/stamps/1964/特61-11.jpg"
+      },
+      {
+        "sn": 12,
+        "name": "胡红",
+        "denomination": "10分",
+        "image": "/images/stamps/1964/特61-12.jpg"
+      },
+      {
+        "sn": 13,
+        "name": "豆绿",
+        "denomination": "20分",
+        "image": "/images/stamps/1964/特61-13.jpg"
+      },
+      {
+        "sn": 14,
+        "name": "魏紫",
+        "denomination": "43分",
+        "image": "/images/stamps/1964/特61-14.jpg"
+      },
+      {
+        "sn": 15,
+        "name": "醉仙桃",
+        "denomination": "52分",
+        "image": "/images/stamps/1964/特61-15.jpg"
+      },
+      {
+        "sn": 16,
+        "name": "状元红·大金粉",
+        "denomination": "2元",
+        "format": "小型张",
+        "image": "/images/stamps/1964/特61-16.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特63",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "殷代铜器",
+    "issueDate": "1964-08-25",
+    "year": 1964,
+    "themes": [
+      "文物古迹",
+      "青铜器"
+    ],
+    "designer": "邵柏林",
+    "totalStamps": 8,
+    "extras": [],
+    "description": "1964年8月25日，邮电部发行了这套以殷代青铜器为题材的特种邮票，全套8枚，是青铜器系列邮票的第1组。邮票图案分别描绘了父戊舟爵、亚觚、父乙觥、斝、尊、戊箙卣、尊和司母戊鼎八件商代青铜器，白色底衬，直接展示器物，无多余装饰。我国冶铜技术在原始社会后期已经发明，殷代是青铜发展史上的第一个高峰。殷代青铜器大多装饰丰富、花纹布满全体，也有少数朴素无饰。其中司母戊鼎是现存最大的商代青铜礼器，重达832.84公斤。",
+    "quantity": "100万套",
+    "needsReview": true,
+    "localImageFolder": "特63 《殷代铜器》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "父戊舟爵",
+        "denomination": "4分",
+        "image": "/images/stamps/1964/特63-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "亚觚",
+        "denomination": "4分",
+        "image": "/images/stamps/1964/特63-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "父乙觥",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特63-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "斝",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特63-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "尊",
+        "denomination": "10分",
+        "image": "/images/stamps/1964/特63-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "戊箙卣",
+        "denomination": "10分",
+        "image": "/images/stamps/1964/特63-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "尊",
+        "denomination": "20分",
+        "image": "/images/stamps/1964/特63-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "司母戊鼎",
+        "denomination": "20分",
+        "image": "/images/stamps/1964/特63-8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特66",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "知识青年在农村",
+    "issueDate": "1964-09-26",
+    "year": 1964,
+    "themes": [
+      "历史事件",
+      "知识青年"
+    ],
+    "designer": "邵柏林",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1964年9月26日，邮电部发行了这套以知识青年上山下乡为题材的特种邮票。当时中宣部要求邮政设计一套邮票，既要表现农村广阔天地大有作为，也要表现知识青年上山下乡接受贫下中农再教育，还要强调阶级斗争、生产斗争和科学实验三大革命运动。设计师邵柏林以其农村劳动生活经验，巧妙地以收割和种树表现生产斗争，以学习表现阶级斗争（背景有《人民日报》），以科学实验表现科学实验。值得注意的是，4-3\"学习\"邮票的背景图上有一本《雷锋的故事》书籍，封面是雷锋的木刻头像，这是雷锋形象首次登上\"国家名片\"。",
+    "quantity": "600万套",
+    "needsReview": true,
+    "localImageFolder": "特66 《知识青年在农村》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "收割",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特66-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "种树",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特66-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "学习",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特66-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "科学实验",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特66-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪107",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "第一国际成立一百周年",
+    "issueDate": "1964-09-28",
+    "year": 1964,
+    "themes": [
+      "周年纪念",
+      "马克思主义"
+    ],
+    "designer": "钟灵、孙传哲",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1864年9月28日，英国、**法国**、德国、意大利和波兰的工人代表在**伦敦**召开国际工人会议，成立了国际工人协会，即第一国际。马克思参加了大会，被选为临时委员会委员，并亲自起草了《国际工人协会成立宣言》和《国际工人协会共同规章》。1964年9月28日，为纪念第一国际成立一百周年，邮电部发行了这套纪念邮票。邮票主图是马克思和恩格斯头像，背景是一面鲜艳的大红旗和建筑物，整个画面庄严瑰丽，具有浓郁的宣传画效果。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "纪107 《第一国际成立一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "马克思、恩格斯像、红旗、伦敦圣马丁堂外景",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/纪107-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特67",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "石油工业",
+    "issueDate": "1964-10-01",
+    "year": 1964,
+    "themes": [
+      "科技",
+      "能源",
+      "石油"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "1964年10月1日，为庆祝国庆15周年和纪念我国石油工业取得的辉煌成就，邮电部发行了这套特种邮票。1949年以前中国原油产量仅12万吨，新中国成立后石油工业飞速发展，1963年12月26日《人民日报》宣布\"中国石油已基本自给\"。邮票图案分别描绘了地震勘探、钻井、采油、炼油和运油五个石油工业生产环节。其中20分\"运油\"发行量仅100万枚，是本套票的总筋票。",
+    "quantity": "100万套",
+    "needsReview": true,
+    "localImageFolder": "特67 《石油工业》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "地震勘探",
+        "denomination": "4分",
+        "image": "/images/stamps/1964/特67-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "钻井",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特67-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "采油",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特67-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "炼油",
+        "denomination": "10分",
+        "image": "/images/stamps/1964/特67-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "运油",
+        "denomination": "20分",
+        "image": "/images/stamps/1964/特67-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪106",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "中华人民共和国成立十五周年",
+    "issueDate": "1964-10-01",
+    "year": 1964,
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 3,
+    "extras": [
+      "小全张"
+    ],
+    "description": "1964年10月1日，为庆祝建国15年来在各方面所取得的辉煌胜利，邮电部发行了这套纪念邮票。3枚邮票以横三联形式出现，构成一个整体，以绚丽多彩的画面表现出中国人民举国欢腾、热烈庆祝中华人民共和国成立15周年的场面。另有纪106M小全张于10月20日发行，面值24分，3枚邮票相连处未打齿孔，只能作为面值24分的邮票一起使用，发行量仅4万枚，极为珍贵。",
+    "quantity": "630万套",
+    "needsReview": true,
+    "localImageFolder": "纪106 《中华人民共和国成立十五周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国共产党万岁",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/纪106-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "庆祝中华人民共和国成立15周年",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/纪106-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "毛主席万岁",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/纪106-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "中华人民共和国成立十五周年",
+        "denomination": "24分",
+        "format": "小全张",
+        "image": "/images/stamps/1964/纪106-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "纪108",
+    "series": "纪",
+    "type": "纪念邮票",
+    "title": "庆祝阿尔巴尼亚解放二十周年",
+    "issueDate": "1964-11-29",
+    "year": 1964,
+    "themes": [
+      "周年纪念",
+      "阿尔巴尼亚"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1964年11月29日，正值**阿尔巴尼亚**解放20周年纪念日，邮电部发行了这套纪念邮票。邮票图案分别描绘了中阿友谊和胜利属于**阿尔巴尼亚**两个主题，体现了当时中国与**阿尔巴尼亚**之间的友好关系。",
+    "quantity": "200万套",
+    "needsReview": true,
+    "localImageFolder": "纪108 《庆祝阿尔巴尼亚解放二十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中阿友谊",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/纪108-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "胜利属于阿尔巴尼亚",
+        "denomination": "10分",
+        "image": "/images/stamps/1964/纪108-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特68",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "新安江水电站",
+    "issueDate": "1964-12-15",
+    "year": 1964,
+    "themes": [
+      "科技",
+      "水电"
+    ],
+    "designer": "吴建坤",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**新安江**水电站是新中国第一座\"自己设计、自制设备、自行施工\"的大型水电站，工程于1957年4月启动，1960年4月正式投入生产使用。为纪念这项大型工程的完成，邮电部于1964年12月15日发行了这套特种邮票。邮票图案从大坝施工的人声鼎沸，到发电机组安装的精密瞬间，再到拦河大坝横亘峡谷的宏伟全景，最后到输电线路延伸向远方，完整展现了水电站的建设历程。20分\"送电\"发行量仅100万枚，是本套票中的筋票。",
+    "quantity": "100万套",
+    "needsReview": true,
+    "localImageFolder": "特68 《新安江水电站》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "大坝施工",
+        "denomination": "4分",
+        "image": "/images/stamps/1964/特68-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "安装",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特68-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "拦河大坝",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特68-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "送电",
+        "denomination": "20分",
+        "image": "/images/stamps/1964/特68-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "特69",
+    "series": "特",
+    "type": "特种邮票",
+    "title": "化学工业",
+    "issueDate": "1964-12-30",
+    "year": 1964,
+    "themes": [
+      "科技",
+      "化学工业"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 8,
+    "extras": [],
+    "description": "1964年12月30日，为宣传新中国化学工业的伟大成就，邮电部发行了这套特种邮票。新中国成立后，化学工业迅速发展，到1964年已基本建成一个门类齐全、技术先进的新兴工业部门。8枚邮票分别描绘了肥料、塑料、医药、橡胶、农药、酸、碱和合成纤维八种不同的化工产品。全套8枚面值均为8分，发行量统一为500万枚。",
+    "quantity": "500万套",
+    "needsReview": true,
+    "localImageFolder": "特69 《化学工业》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "肥料",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特69-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "塑料",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特69-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "医药",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特69-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "橡胶",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特69-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "农药",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特69-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "酸",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特69-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "碱",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特69-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "合成纤维",
+        "denomination": "8分",
+        "image": "/images/stamps/1964/特69-8.jpg"
+      }
+    ]
+  }
+]
