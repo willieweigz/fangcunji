@@ -45,6 +45,7 @@ export default function RootLayout({
             <p>
               方寸集 · 个人集邮学习交流网站，非商业用途。邮票图案版权归中国邮政及原设计者所有，如有侵权请联系删除。
             </p>
+            <p className="mt-1">由 <span className="text-seal">力力</span> 制作维护</p>
           </div>
         </footer>
       </body>
