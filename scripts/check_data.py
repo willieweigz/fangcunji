@@ -26,6 +26,14 @@ MAX_KB = 400  # 图片体积上限(KB)
 GANZHI = re.compile(r"^[甲乙丙丁戊己庚辛壬癸][子丑寅卯辰巳午未申酉戌亥]年?$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
+# 遗产认定类标签是横切的荣誉属性（UNESCO 名录状态），不是内容分类，
+# 不占用二级标签"最多3个"的名额（2026-07-17 定，见数据录入手册"世界遗产标签"一节）
+HERITAGE_TAGS = {"世界文化遗产", "世界自然遗产", "文化和自然双重遗产"}
+
+
+def secondary_count(themes: list[str]) -> int:
+    return sum(1 for t in themes[1:] if t not in HERITAGE_TAGS)
+
 errors: list[str] = []
 warns: list[str] = []
 
@@ -51,8 +59,8 @@ def check_tag_plan(primary_set):
             errors.append(f"{ctx}: 出现多个一级主题 {prims}，有且只能有 1 个")
         if len(th) < 2:
             errors.append(f"{ctx}: 缺少二级标签（每套至少 1 个，最多 3 个）")
-        elif len(th) - 1 > 3:
-            errors.append(f"{ctx}: 二级标签 {len(th) - 1} 个，超过上限 3 个")
+        elif secondary_count(th) > 3:
+            errors.append(f"{ctx}: 二级标签 {secondary_count(th)} 个，超过上限 3 个（遗产认定标签不计入此限）")
         for t in th:
             if GANZHI.match(t):
                 errors.append(f"{ctx}: 不允许干支年名标签『{t}』（生肖票用动物单字）")
@@ -142,12 +150,12 @@ def main():
                 errors.append(f"{ctx}: 出现多个一级主题 {prims}，有且只能有 1 个")
             if len(th) < 2:
                 errors.append(f"{ctx}: 缺少二级标签（每套至少 1 个，最多 3 个）")
-            elif len(th) - 1 > 3:
-                errors.append(f"{ctx}: 二级标签 {len(th) - 1} 个，超过上限 3 个")
+            elif secondary_count(th) > 3:
+                errors.append(f"{ctx}: 二级标签 {secondary_count(th)} 个，超过上限 3 个（遗产认定标签不计入此限）")
             for t in th:
                 if GANZHI.match(t):
                     errors.append(f"{ctx}: 不允许干支年名标签『{t}』（生肖票用动物单字）")
-            if len(th) > 4:
+            if secondary_count(th) > 4:
                 warns.append(f"{ctx}: 标签 {len(th)} 个，二级标签建议不超过 3 个: {th}")
 
     pending = sum(
