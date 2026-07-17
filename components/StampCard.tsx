@@ -2,7 +2,10 @@ import Link from "next/link";
 import type { StampSet } from "@/lib/stamps";
 
 export default function StampCard({ set }: { set: StampSet }) {
-  const cover = set.stamps.find((s) => s.hasImage);
+  // 封面：优先用构建时标记的优选条目（比例合适的小全张），否则用第一枚有图的
+  const cover =
+    set.stamps.find((s) => s.coverPreferred && s.hasImage) ??
+    set.stamps.find((s) => s.hasImage);
   return (
     <Link
       href={`/stamps/${set.id}`}
