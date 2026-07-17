@@ -19,22 +19,7 @@ export default function ThemesPage() {
           进入主题后可通过"细分浏览"查看更细的分类（如文学名著 → 封神演义）
         </span>
       </div>
-      <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
-        {themes.map(({ theme, count }) => (
-          <Link
-            key={theme}
-            href={`/themes/${encodeURIComponent(theme)}`}
-            className="rounded-sm border border-ink/15 bg-cream p-5 text-center shadow-sm transition-shadow hover:shadow-md"
-          >
-            <div className="font-serif-cn text-xl font-bold hover:text-seal">
-              {theme}
-            </div>
-            <div className="mt-1 text-xs text-faded">{count} 套</div>
-          </Link>
-        ))}
-      </div>
-
-      <h2 className="mb-4 mt-10 font-serif-cn text-xl font-bold">按地域</h2>
+      <h2 className="mb-4 font-serif-cn text-xl font-bold">按地域</h2>
       <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
         <Link
           href="/themes/省份"
@@ -54,6 +39,22 @@ export default function ThemesPage() {
           </div>
           <div className="mt-1 text-xs text-faded">{countryCoverage} 国有邮票</div>
         </Link>
+      </div>
+
+      <h2 className="mb-4 mt-10 font-serif-cn text-xl font-bold">全部主题</h2>
+      <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
+        {themes.map(({ theme, count }) => (
+          <Link
+            key={theme}
+            href={`/themes/${encodeURIComponent(theme)}`}
+            className="rounded-sm border border-ink/15 bg-cream p-5 text-center shadow-sm transition-shadow hover:shadow-md"
+          >
+            <div className="font-serif-cn text-xl font-bold hover:text-seal">
+              {theme}
+            </div>
+            <div className="mt-1 text-xs text-faded">{count} 套</div>
+          </Link>
+        ))}
       </div>
     </div>
   );

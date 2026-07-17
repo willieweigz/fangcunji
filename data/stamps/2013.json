@@ -1,0 +1,1403 @@
+[
+  {
+    "id": "2013-1",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "癸巳年",
+    "issueDate": "2013-01-05",
+    "year": 2013,
+    "themes": [
+      "生肖",
+      "生肖蛇"
+    ],
+    "designer": "吴冠英",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "蛇是十二生肖之一，在**中国**文化中具有丰富的象征意义。蛇被视为智慧、灵活和生命力的象征，民间有“小龙”之称。该套邮票是第三轮生肖邮票的第十套，以盘蛇为造型，蛇身装饰有牡丹、荷花等四季花卉，寓意四季平安、富贵吉祥。蛇头口中衔一颗明珠，寓意福泽天下。设计者吴冠英长期从事生肖邮票设计，其作品风格温馨喜庆，深受集邮爱好者喜爱。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-1 《癸巳年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "癸巳年",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-1-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-2",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "海洋石油",
+    "issueDate": "2013-01-18",
+    "year": 2013,
+    "themes": [
+      "科技",
+      "能源"
+    ],
+    "designer": "沈嘉宏",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "海洋石油开发是现代海洋工程的重要组成部分。该套邮票以海洋石油勘探、钻井和生产三个环节为主题，展现了**中国**海洋石油工业从勘探到开采的完整流程。第一枚“勘探”表现海上地震勘探船作业场景；第二枚“钻井”表现海上钻井平台作业场景；第三枚“生产”表现海上采油平台和FPSO储油船的生产场景。资料由**中国**海洋石油总公司提供。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-2 《海洋石油》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "勘探",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-2-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "钻井",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-2-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "生产",
+        "denomination": "3.00元",
+        "image": "/images/stamps/2013/2013-2-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-3",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "毛泽东“向雷锋同志学习”题词发表五十周年",
+    "issueDate": "2013-03-05",
+    "year": 2013,
+    "themes": [
+      "解放军",
+      "雷锋",
+      "毛泽东"
+    ],
+    "designer": "李晨",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "1963年3月5日，**毛泽东**（1893-1976）题词“向雷锋同志学习”发表，全国掀起了学习雷锋的热潮。雷锋（1940-1962）是**中国**人民解放军战士，以无私奉献、助人为乐的精神感动了无数**中国**人。该套邮票选取雷锋生平四个代表性场景：第一枚以**毛泽东**题词手迹为主图；第二枚表现雷锋刻苦学习的场景；第三枚表现雷锋在岗位上兢兢业业的工作精神；第四枚表现雷锋助人为乐的感人事迹。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-3 《毛泽东“向雷锋同志学习”题词发表50周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "向雷锋同志学习",
+        "denomination": "80分",
+        "image": "/images/stamps/2013/2013-3-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "学习钻研",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-3-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "爱岗敬业",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-3-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "助人为乐",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-3-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-4",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中华人民共和国第十二届全国人民代表大会",
+    "issueDate": "2013-03-05",
+    "year": 2013,
+    "themes": [
+      "历史事件",
+      "人大"
+    ],
+    "designer": "董琪",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "2013年3月5日，第十二届全国人民代表大会第一次会议在**北京**开幕。邮票以**人民大会堂**为主体形象，配以鲜艳的红旗和国徽元素，庄严而富有喜庆气氛。设计者董琪以摄影作品为基础进行艺术加工，展现了**人民大会堂**的宏伟壮观。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-4 《中华人民共和国第12届全国人民代表大会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中华人民共和国第十二届全国人民代表大会",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-4-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-5",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中共中央党校建校八十周年",
+    "issueDate": "2013-03-13",
+    "year": 2013,
+    "themes": [
+      "周年纪念",
+      "中共中央党校"
+    ],
+    "designer": "董琪",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "中共中央党校的前身是1933年3月13日创办于中央革命根据地瑞金的马克思共产主义学校。1935年随**中国**工农红军长征到达陕北后改称中共中央党校。**毛泽东**（1893-1976）、刘少奇同志都曾任校长。中共中央党校为我国革命、建设、改革事业培养了大批领导干部，在坚持党的思想路线、推进党的理论创新中作出了重要贡献。邮票以中共中央党校主楼和**毛泽东**题写的校训“实事求是”石刻为主要表现内容。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-5 《中共中央党校建校80周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中共中央党校建校八十周年",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-5-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-6",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "桃花",
+    "issueDate": "2013-03-16",
+    "year": 2013,
+    "themes": [
+      "植物花卉",
+      "花卉"
+    ],
+    "designer": "郝旭东、李庆发",
+    "totalStamps": 12,
+    "extras": [],
+    "description": "桃花是蔷薇科李属植物，自古以来就是**中国**文学和艺术中的重要题材。该套邮票选取12种观赏桃花品种，涵盖了白碧桃、单粉、品霞、紫叶桃、瑕玉寿星、碧桃、五宝桃、照手红、绿萼垂枝、二色桃、菊花桃、绯桃等，展现了桃花丰富的品种多样性和色彩变化。邮票采用影写版印制，并使用香味油墨，使邮票散发淡淡的花香。全套12枚的规模在新**中国**邮票发行史上较为少见。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-6 《桃花》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "白碧桃",
+        "denomination": "80分",
+        "image": "/images/stamps/2013/2013-6-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "单粉",
+        "denomination": "80分",
+        "image": "/images/stamps/2013/2013-6-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "品霞",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-6-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "紫叶桃",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-6-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "瑕玉寿星",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-6-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "碧桃",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-6-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "五宝桃",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-6-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "照手红",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-6-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "绿萼垂枝",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-6-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "二色桃",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-6-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "菊花桃",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-6-11.jpg"
+      },
+      {
+        "sn": 12,
+        "name": "绯桃",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2013/2013-6-12.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-7",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "世界水日",
+    "issueDate": "2013-03-22",
+    "year": 2013,
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "designer": "陈国进",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1993年1月18日，第四十七届联合国大会作出决议，确定每年的3月22日为“世界水日”。该套纪念邮票的发行是为了倡导人们节约水资源、节约用水、循环用水。邮票将海蓝色作为主体色调，中间是闪闪发光的汉字偏旁版的“水”字，下方展现了水滴落下时水面激荡起的波纹，设计精美，寓意深刻。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-7 《世界水日》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "世界水日",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-7-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-8",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "捣练图",
+    "issueDate": "2013-04-13",
+    "year": 2013,
+    "themes": [
+      "绘画艺术",
+      "古画"
+    ],
+    "designer": "王虎鸣",
+    "totalStamps": 3,
+    "extras": [
+      "小型张"
+    ],
+    "description": "捣练意为捣洗煮过的熟绢。“练”是一种丝织品，刚刚织成时质地坚硬，经过沸煮、漂白，再用杵捣，才能变得柔软洁白。《捣练图》是唐朝宫廷画家张萱的作品，现藏**美国**波士顿博物馆。这幅长卷画共刻画了12个人物形象，按劳动工序分成捣练、织线、熨烫三组场面。第一组描绘四个人以木杵捣练的情景；第二组画两个人，一人坐在地毡上理线，一人坐于凳上缝纫；第三组是三个人熨烫的场景。画面上还有三个女孩：一个煽火时以袖遮面；一个淘气地从布底下窜来窜去；一个出神地观看熨练。邮票选取画卷中三个局部，小型张则完整呈现全画卷。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-8 《捣练图》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "捣练图（局部）",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-8-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "捣练图（局部）",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-8-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "捣练图（局部）",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-8-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "捣练图",
+        "denomination": "",
+        "format": "小型张",
+        "image": "/images/stamps/2013/2013-8-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-9",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "景泰蓝",
+    "issueDate": "2013-04-21",
+    "year": 2013,
+    "themes": [
+      "文物古迹",
+      "非物质文化遗产"
+    ],
+    "designer": "夏竞秋",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "景泰蓝又称铜胎掐丝珐琅，是**中国**传统手工艺品之一，因其在明朝景泰年间盛行，使用的珐琅釉多以蓝色为主，故而得名“景泰蓝”。该套邮票选取元、明、清三代的六件景泰蓝代表作品，涵盖炉、觚、尊、壶、卣、瓶等不同器型，展现了景泰蓝工艺从元代到清代的发展脉络和精湛技艺。资料由**故宫博物院**和观复博物馆提供。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-9 《景泰蓝》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "元·缠枝莲纹鼎式炉",
+        "denomination": "80分",
+        "image": "/images/stamps/2013/2013-9-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "明·出戟花卉纹花觚",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-9-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "清·天鸡尊",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-9-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "清·缠枝莲纹多穆壶",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-9-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "清·兽面纹提梁卣",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-9-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "明·缠枝莲纹直颈瓶",
+        "denomination": "3.00元",
+        "image": "/images/stamps/2013/2013-9-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-10",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中华全国集邮联合会第七次代表大会",
+    "issueDate": "2013-04-25",
+    "year": 2013,
+    "themes": [
+      "文化",
+      "集邮",
+      "中华全国集邮联合会"
+    ],
+    "designer": "赵玮",
+    "totalStamps": 1,
+    "extras": [
+      "小型张"
+    ],
+    "description": "小型张图案名称为**中华全国集邮联合会**第七次代表大会。小型张面值6元。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-10 《中华全国集邮联合会第七次代表大会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中华全国集邮联合会第七次代表大会",
+        "denomination": "6.00元",
+        "image": "/images/stamps/2013/2013-10-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中华全国集邮联合会第七次代表大会",
+        "denomination": "",
+        "format": "小型张",
+        "image": "/images/stamps/2013/2013-10-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-11",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "感恩母亲",
+    "issueDate": "2013-05-11",
+    "year": 2013,
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "designer": "沈嘉宏、蒋蔚",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "母亲节起源于**美国**，在**中国**，每年五月的第二个星期日也有越来越多的人向母亲表达感恩之情。该套邮票画面中，母亲与孩子相拥，背景是金色丝带和康乃馨，充满温馨的亲子情意。邮票采用刮刮乐工艺，刮开金色丝带覆盖层可见祝福语，增加了互动趣味。此套邮票是**中国邮政**发行的首套刮出祝福邮票。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-11 《感恩母亲》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "感恩母亲",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-11-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-12",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国古镇（一）",
+    "issueDate": "2013-05-19",
+    "year": 2013,
+    "themes": [
+      "建筑",
+      "中国古镇"
+    ],
+    "designer": "史渊",
+    "totalStamps": 8,
+    "extras": [],
+    "description": "**中国**古镇星罗棋布，各具特色，是中华文明的历史见证。该套邮票选取全国八个具有代表性的历史文化名镇：前童镇以八卦水系闻名；涞滩镇以瓮城和明清建筑著称；和平镇保留完整的**古街**巷；荆紫关镇为三省交界处的商贸重镇；和顺镇是著名的侨乡；唐家湾镇是**中国**近代文明的先驱之地；李庄镇有“万里**长江**第一古镇”之誉；静升镇以王家大院闻名。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-12 《中国古镇（一）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "浙江宁海前童镇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-12-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "重庆合川涞滩镇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-12-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "福建邵武和平镇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-12-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "河南淅川荆紫关镇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-12-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "云南腾冲和顺镇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-12-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "广东珠海唐家湾镇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-12-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "四川宜宾李庄镇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-12-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "山西灵石静升镇",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-12-8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-13",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "小蝌蚪找妈妈",
+    "issueDate": "2013-06-01",
+    "year": 2013,
+    "themes": [
+      "6.1儿童邮票",
+      "动画"
+    ],
+    "designer": "宋鉴",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "《小蝌蚪找妈妈》是**上海**美术电影制片厂于1960年制作的**中国**第一部水墨动画片，根据方惠珍、盛璐德创作的同名童话改编。影片取材于**齐白石**（1864-1957）的水墨鱼虾形象，将**中国**传统水墨画技法与动画艺术相结合，开创了世界动画史上的新篇章。该套邮票选取动画片中五个经典情节，以儿童节为契机发行，充满童趣。邮票资料由**上海**美术电影制片厂提供。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-13 《小蝌蚪找妈妈》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "巧遇虾公公",
+        "denomination": "80分",
+        "image": "/images/stamps/2013/2013-13-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "金鱼妈妈大眼睛",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-13-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "螃蟹妈妈白肚皮",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-13-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "乌龟妈妈四条腿",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-13-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "找到妈妈啦",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-13-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-14",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "金铜佛造像",
+    "issueDate": "2013-06-16",
+    "year": 2013,
+    "themes": [
+      "文物古迹",
+      "佛教"
+    ],
+    "designer": "夏竞秋",
+    "totalStamps": 6,
+    "extras": [
+      "小型张"
+    ],
+    "description": "金铜佛造像是指用铜或青铜铸造，表面鎏金的可移动的佛教造像，包括佛、菩萨、弟子、天王、力士、诸天等形象。该套邮票选取五代、宋、明时期的六尊金铜佛造像，图案依次为象征慈悲的观世音菩萨、象征愿力的地藏王菩萨、**释迦牟尼**佛、无量寿佛（即阿弥陀佛）、象征智慧的文殊菩萨、象征实践的普贤菩萨。小型张取材为《西方三圣像》，展现了我国古代不同时期高超的金铜佛造像艺术。资料由**中国**国家博物馆、**苏州**博物馆、**故宫博物院**、观复博物馆、首都博物馆、西安博物院提供。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-14 《金铜佛造像》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "五代·铜鎏金观音菩萨像",
+        "denomination": "80分",
+        "image": "/images/stamps/2013/2013-14-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "宋·铜鎏金地藏菩萨像",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-14-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "明·铜鎏金释迦牟尼佛像",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-14-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "明·铜鎏金无量寿佛像",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-14-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "明·铜鎏金文殊菩萨像",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-14-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "明·铜鎏金普贤菩萨像",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-14-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "金铜佛造像",
+        "denomination": "",
+        "format": "小型张",
+        "image": "/images/stamps/2013/2013-14-7.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-15",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "琴棋书画",
+    "issueDate": "2013-07-13",
+    "year": 2013,
+    "themes": [
+      "文化",
+      "传统文化"
+    ],
+    "designer": "范曾",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "琴棋书画是**中国**古代文人雅士修身养性的四项基本技能，合称“四雅”。该套邮票以四个典故为题材：第一枚“高山流水”取伯牙鼓琴遇知音钟子期的故事；第二枚“弈秋课徒”取孟子所述围棋大师弈秋教徒的故事；第三枚“怀素临池”取唐代书法家怀素蕉叶练字的典故；第四枚“道子画壁”取唐代画圣吴道子在大同殿壁上作画的传说。设计者范曾以**中国**画人物画风格绘制，线条流畅，气韵生动。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-15 《琴棋书画》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "高山流水",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-15-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "弈秋课徒",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-15-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "怀素临池",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-15-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "道子画壁",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-15-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-16",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "龙虎山",
+    "issueDate": "2013-07-27",
+    "year": 2013,
+    "themes": [
+      "山水风光",
+      "山",
+      "道教"
+    ],
+    "designer": "丁忠兵",
+    "totalStamps": 3,
+    "extras": [
+      "小型张"
+    ],
+    "description": "龙虎山位于江西省贵溪市境内，以丹霞地貌峰林景观闻名。龙虎山的最高峰是天门山，海拔1350.4米。2010年被列为世界自然遗产。龙虎山有丰富的文化遗产，有两千多年前古越人遗留下的仙水岩崖墓群。东**汉中**叶，正一道创始人张陵曾在此炼丹，传说“丹成而龙虎现，山因得名”。三枚邮票分别表现龙虎山的自然风光、丹霞地貌和道教文化，小型张“仙班迎宾”以道教神仙题材为内容。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-16 《龙虎山》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "丹山碧水",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-16-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "龙盘虎踞",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-16-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "道教祖庭",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-16-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "龙虎山",
+        "denomination": "",
+        "format": "小型张",
+        "image": "/images/stamps/2013/2013-16-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-17",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "猫",
+    "issueDate": "2013-08-18",
+    "year": 2013,
+    "themes": [
+      "动物",
+      "猫"
+    ],
+    "designer": "马丁·莫克（丹麦）",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "猫是人类最喜爱的伴侣动物之一。该套邮票选取四种各具特色的名猫：**中国**狸花猫是**中国**本土的自然猫种，体格健壮，善于捕鼠；缅因猫原产于**美国**缅因州，是体型最大的家猫品种之一，性格温顺；阿比西尼亚猫原产于埃塞俄比亚，毛色华丽，体态优美，被誉为“猫中芭蕾舞者”；异国短毛猫又称“加菲猫”，是由**美国**育种专家以**波斯**猫和**美国**短毛猫杂交培育而成。设计者为瑞典邮票雕刻师马丁·莫克，他多次为**中国**邮票操刀设计。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-17 《猫》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国狸花猫",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-17-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "缅因猫",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-17-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "阿比西尼亚猫",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-17-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "异国短毛猫",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-17-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-18",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国—东盟博览会",
+    "issueDate": "2013-08-15",
+    "year": 2013,
+    "themes": [
+      "历史事件",
+      "国际峰会"
+    ],
+    "designer": "郑军里、柒万里、陈再乾",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**中国—东盟博览会**（CAEXPO）是**中国**和**东盟**10国政府经贸主管部门及**东盟**秘书处共同主办的国际性经贸盛会，自2004年起每年在**广西****南宁**举办。2013年正值**中国**与**东盟**建立战略伙伴关系10周年。邮票以博览会会标和**南宁**国际会展中心为主体形象，融入**中国**和**东盟**元素，象征双方友好合作。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-18 《中国—东盟博览会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "中国—东盟博览会",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-18-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-19",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中华人民共和国第十二届运动会",
+    "issueDate": "2013-08-31",
+    "year": 2013,
+    "themes": [
+      "体育",
+      "全运会"
+    ],
+    "designer": "王虎鸣、李志宏",
+    "totalStamps": 2,
+    "extras": [
+      "小全张"
+    ],
+    "description": "**中华人民共和国**第十二届运动会于2013年8月31日至9月12日在辽宁省举行，这是全运会首次在夏季以外的城市举办，也是辽宁省首次承办全运会。邮票选取艺术体操和击剑两个比赛项目，以动感十足的运动姿态展现体育竞技的魅力。防伪方式中特别加入了微缩文字防伪技术。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-19 《中华人民共和国第十二届运动会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "艺术体操",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-19-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "击剑",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-19-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "中华人民共和国第十二届运动会",
+        "denomination": "",
+        "format": "小全张",
+        "image": "/images/stamps/2013/2013-19-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-20",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "韦国清同志诞生一百周年",
+    "issueDate": "2013-09-02",
+    "year": 2013,
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "designer": "杨佳焕",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "韦国清（1913-1989），**广西**东兰人，壮族。**中国**人民解放军高级将领，1955年被授予上将军衔。韦国清早年参加百色起义，在长征中历任红军大学特科团团长等职。新**中国**成立后，曾任**广西**壮族自治区党委书记、**广西**区人民政府主席等职，主政**广西**近二十年。该套邮票选取韦国清在长征时期和主政**广西**时期两个代表性阶段的形象，展现了这位革命家的光辉一生。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-20 《韦国清同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "长征中的韦国清",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-20-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "主政广西时期的韦国清",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-20-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-21",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "豫园",
+    "issueDate": "2013-09-07",
+    "year": 2013,
+    "themes": [
+      "建筑",
+      "园林"
+    ],
+    "designer": "张安朴",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "豫园位于**上海市**黄浦区，是江南古典园林的代表，始建于明嘉靖年间，原为**四川**布政使潘允端的私家花园。豫园内亭台楼阁、假山流水，布局精巧，景色宜人。四枚邮票分别选取豫园四处标志性景观：湖心亭与九曲桥是豫园的标志性建筑；大假山为明代遗物，用武康石叠成；卷雨楼取意“山雨欲来风满楼”，位于大假山旁；玉玲珑为江南三大名石之一，具有“皱、漏、瘦、透”之美。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-21 《豫园》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "湖心亭与九曲桥",
+        "denomination": "80分",
+        "image": "/images/stamps/2013/2013-21-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "大假山",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-21-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "卷雨楼",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-21-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "玉玲珑",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-21-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-22",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "南华寺",
+    "issueDate": "2013-09-07",
+    "year": 2013,
+    "themes": [
+      "建筑",
+      "佛教"
+    ],
+    "designer": "李庆发、李群、姜伟杰",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "南华禅寺位于**广东**省韶关市曲江区马坝镇曹溪畔，始建于南北朝梁天监元年（502年），初名“宝林寺”，至今已有1500多年历史。唐仪凤二年（667年），禅宗六祖惠能在此弘扬禅宗，佛教徒视为“祖庭”。南华寺几经易名，宋开宝元年（968年）宋太祖赐名“南华禅寺”，沿用至今。四枚邮票分别表现南华寺的曹溪门、大雄宝殿、灵照塔和祖殿四处代表性建筑。“菩提本无树，明镜亦非台，本来无一物，何处惹尘埃。”正是六祖惠能的名偈。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-22 《南华寺》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "曹溪门",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-22-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "大雄宝殿",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-22-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "灵照塔",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-22-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "祖殿",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-22-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-23",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国古代文学家（三）",
+    "issueDate": "2013-09-15",
+    "year": 2013,
+    "themes": [
+      "人物",
+      "古代人",
+      "中国古代文学家"
+    ],
+    "designer": "高云",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "该套邮票选取汉代四位文学家：贾谊（前200-前168），西汉政论家、文学家，代表作有《过秦论》《论积贮疏》等；司马相如（约前179-前118），西汉辞赋家，代表作有《子虚赋》《上林赋》，被誉为“赋圣”；扬雄（前53-18），西汉哲学家、文学家，代表作有《太玄》《法言》等；班固（32-92），东汉史学家、文学家，著有《汉书》，开创了纪传体断代史先例。四人并称“汉赋四大家”，在**中国**文学史上具有重要地位。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-23 《中国古代文学家（三）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "贾谊",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-23-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "司马相如",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-23-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "扬雄",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-23-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "班固",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-23-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-24",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "乒乓球运动",
+    "issueDate": "2013-09-27",
+    "year": 2013,
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
+    "designer": "于雪",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "乒乓球运动起源于19世纪末的**英国**，是**中国**的“国球”。该套邮票是**中国**与瑞典联合发行的主题邮票，两国各设计一枚。瑞典是乒乓球强国，曾涌现出瓦尔德内尔等世界名将。邮票选取拉弧圈球和正手发球两个经典技术动作，以动感十足的姿态展现乒乓球运动的魅力，象征中瑞两国在体育领域的友好交流。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-24 《乒乓球运动》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "拉弧圈球",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-24-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "正手发球",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-24-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-25",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "中国梦—国家富强",
+    "issueDate": "2013-09-29",
+    "year": 2013,
+    "themes": [
+      "历史事件",
+      "中国梦"
+    ],
+    "designer": "何洁、周岳",
+    "totalStamps": 4,
+    "extras": [
+      "小全张"
+    ],
+    "description": "该套邮票是《**中国**梦》系列邮票的第一组，主题为“国家富强”，与后续发行的《**中国**梦—民族振兴》《**中国**梦—人民幸福》共同构成**中国**梦系列。四枚邮票分别展现**中国**在航天、导航、海军和深海探测领域的重大成就：神舟飞船与天宫一号交会对接标志着**中国**空间交会对接技术的突破；北斗卫星导航系统是**中国**自主建设的全球卫星导航系统；辽宁号航空母舰是**中国**第一艘航空母舰；蛟龙号载人潜水器创造了下潜7062米的**中国**载人深潜纪录。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-25 《中国梦—国家富强》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "神舟飞船与天宫一号交会对接",
+        "denomination": "80分",
+        "image": "/images/stamps/2013/2013-25-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "北斗卫星导航系统",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-25-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "辽宁号航空母舰",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-25-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "蛟龙号载人潜水器",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-25-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "中国梦—国家富强",
+        "denomination": "",
+        "format": "小全张",
+        "image": "/images/stamps/2013/2013-25-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-26",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "第十届中国艺术节",
+    "issueDate": "2013-10-11",
+    "year": 2013,
+    "themes": [
+      "文化",
+      "中国艺术节"
+    ],
+    "designer": "何洁",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "第十届**中国**艺术节于2013年10月在**山东省**举办，是**中国**规格最高、规模最大的国家艺术盛会。邮票以第十届**中国**艺术节标志和吉祥物为主要元素，融合**山东**文化特色，展现艺术节的主题精神。设计者何洁以简洁明快的图形语言，传达出艺术节的喜庆氛围和文化内涵。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-26 《第十届中国艺术节》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "第十届中国艺术节",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-26-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-27",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "习仲勋同志诞生一百周年",
+    "issueDate": "2013-10-15",
+    "year": 2013,
+    "themes": [
+      "共产党人",
+      "老一辈革命家"
+    ],
+    "designer": "姜伟杰",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "习仲勋（1913-2002），陕西富平人，**中国共产党**的优秀党员，伟大的共产主义战士。习仲勋早年参加革命，1932年参与领导两当兵变。新**中国**成立后，历任中央人民政府委员、西北军政委员会副主席等职。1978年后任**广东**省委第一书记、中央政治局委员、中央书记处书记等职，为改革开放事业作出了重要贡献。该套邮票选取习仲勋在两当兵变前和任中央书记处书记时期两个代表性阶段的形象。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-27 《习仲勋同志诞生一百周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "两当兵变前的习仲勋",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-27-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "任中央书记处书记时期的习仲勋",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-27-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-28",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "世界审计组织第二十一届大会",
+    "issueDate": "2013-10-22",
+    "year": 2013,
+    "themes": [
+      "历史事件",
+      "审计"
+    ],
+    "designer": "沈嘉宏",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "世界审计组织（INTOSAI）是最高审计机关的国际组织，成立于1953年。2013年10月，第二十一届世界审计组织大会在**中国****北京**举行，这是**中国**审计署首次承办该组织大会。邮票第一枚以大会会标为主图，第二枚以世界审计组织标志为主图，展现审计国际合作的主题。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-28 《世界审计组织第二十一届大会》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "世界审计组织第二十一届大会会标",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-28-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "世界审计组织标志",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-28-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-29",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "杂交水稻",
+    "issueDate": "2013-10-25",
+    "year": 2013,
+    "themes": [
+      "科技",
+      "杂交水稻"
+    ],
+    "designer": "李志宏",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "杂交水稻是**中国**农业科技的重大成就之一。其主要思想是利用水稻的雄性不育来实现水稻的杂交。**中国**农学家袁隆平成功地选育出了第一个得到大面积应用的杂交水稻品种——南优2号，并1981年荣获**中国**第一个国家发明特等奖。袁隆平被国际科学界称为“杂交水稻之父”。邮票第一枚“制种”表现杂交水稻制种过程中的田间场景；第二枚“丰收”表现丰收时节金黄稻穗的喜人景象。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-29 《杂交水稻》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "制种",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-29-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "丰收",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-29-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-30",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "毛泽东同志诞生一百二十周年",
+    "issueDate": "2013-11-16",
+    "year": 2013,
+    "themes": [
+      "共产党人",
+      "毛泽东"
+    ],
+    "designer": "马刚",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "**毛泽东**（1893-1976），湖南湘潭人，伟大的马克思主义者，无产阶级革命家、战略家和理论家，**中国共产党**、**中国**人民解放军和**中华人民共和国**的主要缔造者和领导人。2013年是**毛泽东**诞生120周年。四枚邮票选取**毛泽东**不同历史时期的形象，部分图案取材于著名画家的油画作品：陈衍宁的《问苍茫大地谁主沉浮》、**靳尚谊**的《十二月会议》和高泉的《北国风光》等，展现了**毛泽东**从青年到中年各个时期的革命风采。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-30 《毛泽东同志诞生一百二十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "问苍茫大地谁主沉浮",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-30-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "北国风光",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-30-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "毛泽东在十二月会议上",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-30-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "心潮",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-30-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2013-31",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "武汉大学建校一百二十周年",
+    "issueDate": "2013-11-29",
+    "year": 2013,
+    "themes": [
+      "周年纪念",
+      "大学建校"
+    ],
+    "designer": "许开强、饶鉴",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**武汉**大学溯源于1893年11月29日（清光绪十九年）湖广总督张之洞向清朝**光绪帝**上奏《设立自强学堂片》，最初名为自强学堂，后历经方言学堂、国立武昌高等师范学校、国立武昌大学等阶段，1928年定名为国立**武汉**大学。**武汉**大学坐落在珞珈山畔、东湖之滨，是**中国**最美大学之一，以樱花闻名。邮票以**武汉**大学老图书馆建筑为主体形象，展现百年学府的历史底蕴和文化气息。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "2013-31 《武汉大学建校一百二十周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "武汉大学建校一百二十周年",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/2013-31-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "普32",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "美丽中国（第一组）",
+    "issueDate": "2013-05-19",
+    "year": 2013,
+    "themes": [
+      "普票",
+      "美丽中国"
+    ],
+    "designer": "马立航、姜伟杰",
+    "totalStamps": 6,
+    "extras": [
+      "小全张"
+    ],
+    "description": "《美丽**中国**》普通邮票旨在展现**中国**各省具有标志性的人文景观和自然风光。这是继2002年发行普30《保护人类共有家园》与普31《**中国**鸟》普通邮票后，**中国邮政**间隔11年再次发行的普通邮票。该套邮票打破普通票小票幅传统，规格与纪念特种邮票相仿，采用影写版印刷，色彩斑斓。全套六枚分别展现：福建霞浦滩涂（被誉为“**中国**最美的滩涂”）、湖南张家界天子山（世界自然遗产武陵源的核心景区）、**海南**三沙七连屿（南海诸岛美丽风光）、辽宁盘锦**红海**滩（全球保存最完好的湿地资源）、**广西**龙胜梯田（始建于元朝的梯田奇观）、**江苏**兴化垛田（“千岛之乡”的独特文化景观）。按照每省一景的构想，预计全部出齐后将达到32枚。",
+    "quantity": "",
+    "source": "本地邮票资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "普32 《美丽中国（第一组）-小全张》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "霞浦滩涂",
+        "denomination": "80分",
+        "image": "/images/stamps/2013/普32-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "张家界天子山",
+        "denomination": "80分",
+        "image": "/images/stamps/2013/普32-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "三沙七连屿",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/普32-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "盘锦红海滩",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2013/普32-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "龙胜梯田",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2013/普32-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "兴化垛田",
+        "denomination": "3.00元",
+        "image": "/images/stamps/2013/普32-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "美丽中国（第一组）-小全张",
+        "denomination": "",
+        "format": "小全张",
+        "image": "/images/stamps/2013/普32-7.jpg"
+      }
+    ]
+  }
+]
