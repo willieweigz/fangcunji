@@ -1,253 +1,1127 @@
 [
   {
-    "id": "T35", "series": "T", "type": "特种邮票", "title": "金鸡", "issueDate": "1979-01-25", "year": 1979,
-    "themes": ["动物", "鸟类", "鸡"], "designer": "刘硕仁", "totalStamps": 3, "extras": [],
-    "description": "**金鸡**即红腹锦鸡，雄鸟具有金黄色羽冠、橙黄色披肩和很长的斑纹尾羽，主要栖息于中国中西部山地森林。三枚邮票分别表现它在竹石间栖立、展翅和觅食的姿态。", "quantity": "200万套",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T35 《金鸡》",
+    "id": "T35",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "金鸡",
+    "issueDate": "1979-01-25",
+    "year": 1979,
+    "themes": [
+      "动物",
+      "鸟类",
+      "鸡"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "**金鸡**即红腹锦鸡，雄鸟具有金黄色羽冠、橙黄色披肩和很长的斑纹尾羽，主要栖息于中国中西部山地森林。三枚邮票分别表现它在竹石间栖立、展翅和觅食的姿态。",
+    "quantity": "200万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "T35 《金鸡》",
     "stamps": [
-      {"sn": 1, "name": "竹石金鸡", "denomination": "4分", "image": "/images/stamps/1979/T35-1.jpg"}, {"sn": 2, "name": "金鸡展翅", "denomination": "8分", "image": "/images/stamps/1979/T35-2.jpg"},
-      {"sn": 3, "name": "金鸡觅食", "denomination": "45分", "image": "/images/stamps/1979/T35-3.jpg"}
+      {
+        "sn": 1,
+        "name": "竹石金鸡",
+        "denomination": "4分",
+        "image": "/images/stamps/1979/T35-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "金鸡展翅",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T35-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "金鸡觅食",
+        "denomination": "45分",
+        "image": "/images/stamps/1979/T35-3.jpg"
+      }
     ]
   },
   {
-    "id": "J36", "series": "J", "type": "纪念邮票", "title": "纪念爱因斯坦诞辰一百周年", "issueDate": "1979-03-14", "year": 1979,
-    "themes": ["人物", "科学家"], "designer": "李印清", "totalStamps": 1, "extras": [],
-    "description": "**阿尔伯特·爱因斯坦**（1879—1955）是现代物理学的重要奠基人，提出狭义相对论和广义相对论，并因光电效应研究获诺贝尔物理学奖。票面以素描头像和质能方程 E=mc² 概括其科学贡献。", "quantity": "1500万枚",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J36 《纪念爱因斯坦诞辰一百周年》",
-    "stamps": [{"sn": 1, "name": "爱因斯坦像", "denomination": "8分", "image": "/images/stamps/1979/J36-1.jpg"}]
-  },
-  {
-    "id": "T33", "series": "T", "type": "特种邮票", "title": "中国绘画·长沙楚墓帛画", "issueDate": "1979-03-29", "year": 1979,
-    "themes": ["绘画艺术", "古画", "长沙楚墓帛画", "墓葬文物"], "designer": "邵柏林", "totalStamps": 2, "extras": [],
-    "description": "两枚邮票取材于**湖南长沙**战国楚墓出土的帛画。“龙凤引魂升仙帛画”描绘女子与龙凤，“人物驭龙帛画”描绘男子执缰立于龙背，反映两千多年前楚地绘画的线描、构图和升仙观念。", "quantity": "200万套",
-    "source": "https://stampprint.chinapost.com.cn/xhtml1/report/1909/5988-1.htm；本地票面图片核对", "needsReview": true, "localImageFolder": "T33 《中国绘画—长沙楚墓帛画》",
+    "id": "J36",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "纪念爱因斯坦诞辰一百周年",
+    "issueDate": "1979-03-14",
+    "year": 1979,
+    "themes": [
+      "人物",
+      "科学家"
+    ],
+    "designer": "李印清",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "**阿尔伯特·爱因斯坦**（1879—1955）是现代物理学的重要奠基人，提出狭义相对论和广义相对论，并因光电效应研究获诺贝尔物理学奖。票面以素描头像和质能方程 E=mc² 概括其科学贡献。",
+    "quantity": "1500万枚",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J36 《纪念爱因斯坦诞辰一百周年》",
     "stamps": [
-      {"sn": 1, "name": "龙凤引魂升仙帛画", "denomination": "8分", "image": "/images/stamps/1979/T33-1.jpg"},
-      {"sn": 2, "name": "人物驭龙帛画", "denomination": "60分", "image": "/images/stamps/1979/T33-2.jpg"}
+      {
+        "sn": 1,
+        "name": "爱因斯坦像",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J36-1.jpg"
+      }
     ]
   },
   {
-    "id": "普20", "series": "普", "type": "普通邮票", "title": "北京风景图案普通邮票", "issueDate": "1979-04-02", "year": 1979,
-    "themes": ["普票", "北京风景"], "designer": "万维生", "totalStamps": 3, "extras": [],
+    "id": "T33",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "中国绘画·长沙楚墓帛画",
+    "issueDate": "1979-03-29",
+    "year": 1979,
+    "themes": [
+      "绘画艺术",
+      "古画",
+      "长沙楚墓帛画",
+      "墓葬文物"
+    ],
+    "designer": "邵柏林",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "两枚邮票取材于**湖南长沙**战国楚墓出土的帛画。“龙凤引魂升仙帛画”描绘女子与龙凤，“人物驭龙帛画”描绘男子执缰立于龙背，反映两千多年前楚地绘画的线描、构图和升仙观念。",
+    "quantity": "200万套",
+    "source": "https://stampprint.chinapost.com.cn/xhtml1/report/1909/5988-1.htm；本地票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "T33 《中国绘画—长沙楚墓帛画》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "龙凤引魂升仙帛画",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T33-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "人物驭龙帛画",
+        "denomination": "60分",
+        "image": "/images/stamps/1979/T33-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "普20",
+    "series": "普",
+    "type": "普通邮票",
+    "title": "北京风景图案普通邮票",
+    "issueDate": "1979-04-02",
+    "year": 1979,
+    "themes": [
+      "普票",
+      "北京风景"
+    ],
+    "designer": "万维生",
+    "totalStamps": 3,
+    "extras": [],
     "description": "这套普通邮票选取**北京**三处园林名胜：景山公园以万春亭为主体，颐和园呈现昆明湖与万寿山，北海公园以琼华岛白塔及湖面倒影入画。1元、2元、5元的高面值主要满足较高邮资需求。",
-    "source": "https://cpi.chinapost.com.cn/html1/appreciationstamp/24101/6046-1.htm；本地票面图片核对", "needsReview": true, "localImageFolder": "普20 《北京风景图案普通邮票》",
+    "source": "https://cpi.chinapost.com.cn/html1/appreciationstamp/24101/6046-1.htm；本地票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "普20 《北京风景图案普通邮票》",
     "stamps": [
-      {"sn": 1, "name": "景山公园", "denomination": "1元", "image": "/images/stamps/1979/普20-1.jpg"}, {"sn": 2, "name": "颐和园", "denomination": "2元", "image": "/images/stamps/1979/普20-2.jpg"},
-      {"sn": 3, "name": "北海公园", "denomination": "5元", "image": "/images/stamps/1979/普20-3.jpg"}
+      {
+        "sn": 1,
+        "name": "景山公园",
+        "denomination": "1元",
+        "image": "/images/stamps/1979/普20-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "颐和园",
+        "denomination": "2元",
+        "image": "/images/stamps/1979/普20-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "北海公园",
+        "denomination": "5元",
+        "image": "/images/stamps/1979/普20-3.jpg"
+      }
     ]
   },
   {
-    "id": "J35", "series": "J", "type": "纪念邮票", "title": "纪念“五一”国际劳动节九十周年", "issueDate": "1979-05-01", "year": 1979,
-    "themes": ["节日", "现代节日"], "designer": "邓锡清", "totalStamps": 1, "extras": [],
-    "description": "1889年第二国际决定把5月1日定为国际劳动节。邮票把镰刀和铁锤组合成“51”，上方配《国际歌》乐谱，以简洁符号纪念国际工人争取八小时工作制的历史。", "quantity": "1500万枚",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J35 《纪念「五一」国际劳动节九十周年》",
-    "stamps": [{"sn": 1, "name": "镰刀和铁锤", "denomination": "8分", "image": "/images/stamps/1979/J35-1.jpg"}]
-  },
-  {
-    "id": "J37", "series": "J", "type": "纪念邮票", "title": "纪念“五·四”运动六十周年", "issueDate": "1979-05-04", "year": 1979,
-    "themes": ["历史事件", "五四运动"], "designer": "邓锡清", "totalStamps": 2, "extras": [],
-    "description": "1919年5月4日，**北京**学生举行集会游行，五四运动由此展开。第一枚取材于人民英雄纪念碑基座的五四运动浮雕；第二枚表现青年学生学习科学文化知识，把历史纪念与当时的“新长征”主题相联系。", "quantity": "1000万套",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J37 《纪念“五·四”运动六十周年》",
+    "id": "J35",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "纪念“五一”国际劳动节九十周年",
+    "issueDate": "1979-05-01",
+    "year": 1979,
+    "themes": [
+      "节日",
+      "现代节日"
+    ],
+    "designer": "邓锡清",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "1889年第二国际决定把5月1日定为国际劳动节。邮票把镰刀和铁锤组合成“51”，上方配《国际歌》乐谱，以简洁符号纪念国际工人争取八小时工作制的历史。",
+    "quantity": "1500万枚",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J35 《纪念「五一」国际劳动节九十周年》",
     "stamps": [
-      {"sn": 1, "name": "“五四”运动浮雕", "denomination": "8分", "image": "/images/stamps/1979/J37-1.jpg"}, {"sn": 2, "name": "新长征", "denomination": "8分", "image": "/images/stamps/1979/J37-2.jpg"}
+      {
+        "sn": 1,
+        "name": "镰刀和铁锤",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J35-1.jpg"
+      }
     ]
   },
   {
-    "id": "J38", "series": "J", "type": "纪念邮票", "title": "国际儿童年", "issueDate": "1979-05-25", "year": 1979,
-    "themes": ["历史事件", "青少年"], "designer": "邹建军", "totalStamps": 2, "extras": [],
-    "description": "联合国把1979年定为国际儿童年，推动各国关注儿童健康、教育和权益。第一枚采用母亲拥抱孩子与橄榄枝组成的国际儿童年标志，第二枚以不同肤色儿童表现共同成长。", "quantity": "120万套",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J38 《国际儿童年》",
+    "id": "J37",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "纪念“五·四”运动六十周年",
+    "issueDate": "1979-05-04",
+    "year": 1979,
+    "themes": [
+      "历史事件",
+      "五四运动"
+    ],
+    "designer": "邓锡清",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "1919年5月4日，**北京**学生举行集会游行，五四运动由此展开。第一枚取材于人民英雄纪念碑基座的五四运动浮雕；第二枚表现青年学生学习科学文化知识，把历史纪念与当时的“新长征”主题相联系。",
+    "quantity": "1000万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J37 《纪念“五·四”运动六十周年》",
     "stamps": [
-      {"sn": 1, "name": "国际儿童年标记", "denomination": "8分", "image": "/images/stamps/1979/J38-1.jpg"}, {"sn": 2, "name": "幸福成长", "denomination": "60分", "image": "/images/stamps/1979/J38-2.jpg"}
+      {
+        "sn": 1,
+        "name": "“五四”运动浮雕",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J37-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "新长征",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J37-2.jpg"
+      }
     ]
   },
   {
-    "id": "T38", "series": "T", "type": "特种邮票", "title": "万里长城", "issueDate": "1979-06-25", "year": 1979,
-    "themes": ["文物古迹", "世界文化遗产", "长城"], "designer": "万维生", "totalStamps": 4, "extras": ["小型张"],
-    "description": "四枚邮票以春、夏、秋、冬的光线与植被变化表现**万里长城**的四季景观。小型张以东端重要关隘**山海关**为主体，边纸用金线概括长城山势和关城轮廓。", "quantity": "150万套",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T38 《万里长城》",
+    "id": "J38",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "国际儿童年",
+    "issueDate": "1979-05-25",
+    "year": 1979,
+    "themes": [
+      "历史事件",
+      "青少年"
+    ],
+    "designer": "邹建军",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "联合国把1979年定为国际儿童年，推动各国关注儿童健康、教育和权益。第一枚采用母亲拥抱孩子与橄榄枝组成的国际儿童年标志，第二枚以不同肤色儿童表现共同成长。",
+    "quantity": "120万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J38 《国际儿童年》",
     "stamps": [
-      {"sn": 1, "name": "长城之春", "denomination": "8分", "image": "/images/stamps/1979/T38-1.jpg"}, {"sn": 2, "name": "长城之夏", "denomination": "8分", "image": "/images/stamps/1979/T38-2.jpg"},
-      {"sn": 3, "name": "长城之秋", "denomination": "8分", "image": "/images/stamps/1979/T38-3.jpg"}, {"sn": 4, "name": "长城之冬", "denomination": "60分", "image": "/images/stamps/1979/T38-4.jpg"},
-      {"sn": 5, "name": "山海关", "denomination": "2元", "format": "小型张", "image": "/images/stamps/1979/T38-5.jpg"}
+      {
+        "sn": 1,
+        "name": "国际儿童年标记",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J38-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "幸福成长",
+        "denomination": "60分",
+        "image": "/images/stamps/1979/J38-2.jpg"
+      }
     ]
   },
   {
-    "id": "T40", "series": "T", "type": "特种邮票", "title": "东北虎", "issueDate": "1979-07-20", "year": 1979,
-    "themes": ["动物", "濒危动物", "虎"], "designer": "刘硕仁", "totalStamps": 3, "extras": [],
-    "description": "邮票据画家**刘继卣**作品设计，以工笔重彩表现东北虎在岩谷、原野和草莽中的不同状态。东北虎是中国东北森林生态系统中的大型猫科动物，也是重点保护的珍稀物种。", "quantity": "200万套",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T40 《东北虎》",
+    "id": "T38",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "万里长城",
+    "issueDate": "1979-06-25",
+    "year": 1979,
+    "themes": [
+      "文物古迹",
+      "世界文化遗产",
+      "长城"
+    ],
+    "designer": "万维生",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "四枚邮票以春、夏、秋、冬的光线与植被变化表现**万里长城**的四季景观。小型张以东端重要关隘**山海关**为主体，边纸用金线概括长城山势和关城轮廓。",
+    "quantity": "150万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "T38 《万里长城》",
     "stamps": [
-      {"sn": 1, "name": "岩谷回声", "denomination": "4分", "image": "/images/stamps/1979/T40-1.jpg"}, {"sn": 2, "name": "呼应原野", "denomination": "8分", "image": "/images/stamps/1979/T40-2.jpg"},
-      {"sn": 3, "name": "喧啸草莽", "denomination": "60分", "image": "/images/stamps/1979/T40-3.jpg"}
+      {
+        "sn": 1,
+        "name": "长城之春",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T38-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "长城之夏",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T38-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "长城之秋",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T38-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "长城之冬",
+        "denomination": "60分",
+        "image": "/images/stamps/1979/T38-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "山海关",
+        "denomination": "2元",
+        "format": "小型张",
+        "image": "/images/stamps/1979/T38-5.jpg"
+      }
     ]
   },
   {
-    "id": "T39", "series": "T", "type": "特种邮票", "title": "人民公社五业兴旺", "issueDate": "1979-08-10", "year": 1979,
-    "themes": ["历史事件", "农业", "人民公社"], "designer": "邹建军", "totalStamps": 5, "extras": [],
-    "description": "全套分别描绘农业、林业、牧业、副业和渔业：机械收割、植树造林、水乡牧鸭、手工编织与繁忙渔港，记录当时“农林牧副渔全面发展”的农业生产观念。", "quantity": "400万套",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T39 《人民公社五业兴旺》",
+    "id": "T40",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "东北虎",
+    "issueDate": "1979-07-20",
+    "year": 1979,
+    "themes": [
+      "动物",
+      "哺乳动物",
+      "濒危动物",
+      "虎"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "邮票据画家**刘继卣**作品设计，以工笔重彩表现东北虎在岩谷、原野和草莽中的不同状态。东北虎是中国东北森林生态系统中的大型猫科动物，也是重点保护的珍稀物种。",
+    "quantity": "200万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "T40 《东北虎》",
     "stamps": [
-      {"sn": 1, "name": "机械收割（农业）", "denomination": "4分", "image": "/images/stamps/1979/T39-1.jpg"}, {"sn": 2, "name": "植树造林（林业）", "denomination": "8分", "image": "/images/stamps/1979/T39-2.jpg"},
-      {"sn": 3, "name": "水乡牧鸭（牧业）", "denomination": "8分", "image": "/images/stamps/1979/T39-3.jpg"}, {"sn": 4, "name": "编织（副业）", "denomination": "8分", "image": "/images/stamps/1979/T39-4.jpg"},
-      {"sn": 5, "name": "繁忙的渔港（渔业）", "denomination": "10分", "image": "/images/stamps/1979/T39-5.jpg"}
+      {
+        "sn": 1,
+        "name": "岩谷回声",
+        "denomination": "4分",
+        "image": "/images/stamps/1979/T40-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "呼应原野",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T40-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "喧啸草莽",
+        "denomination": "60分",
+        "image": "/images/stamps/1979/T40-3.jpg"
+      }
     ]
   },
   {
-    "id": "J43", "series": "J", "type": "纪念邮票", "title": "中华人民共和国第四届运动会", "issueDate": "1979-09-15", "year": 1979,
-    "themes": ["体育", "全运会"], "designer": "法乃光（邮票）、卢天骄（小型张）", "totalStamps": 4, "extras": ["小型张"],
-    "description": "第四届全国运动会在**北京**举行。四枚横式连印票以白描线条组合跑步、球类、举重、体操、冰雪运动等项目；小型张以火炬和跑道构成的大会会徽为中心，边纸环列运动器械图标。", "quantity": "1500万套",
-    "source": "https://stampprint.chinapost.com.cn/xhtml1/report/1909/4119-1.htm；本地票面图片核对", "needsReview": true, "localImageFolder": "J43 《中华人民共和国第四届运动会》",
+    "id": "T39",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "人民公社五业兴旺",
+    "issueDate": "1979-08-10",
+    "year": 1979,
+    "themes": [
+      "历史事件",
+      "农业",
+      "人民公社"
+    ],
+    "designer": "邹建军",
+    "totalStamps": 5,
+    "extras": [],
+    "description": "全套分别描绘农业、林业、牧业、副业和渔业：机械收割、植树造林、水乡牧鸭、手工编织与繁忙渔港，记录当时“农林牧副渔全面发展”的农业生产观念。",
+    "quantity": "400万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "T39 《人民公社五业兴旺》",
     "stamps": [
-      {"sn": 1, "name": "会徽、跑步、排球、举重", "denomination": "8分", "image": "/images/stamps/1979/J43-1.jpg"}, {"sn": 2, "name": "足球、羽毛球、跳高、滑冰", "denomination": "8分", "image": "/images/stamps/1979/J43-2.jpg"},
-      {"sn": 3, "name": "击剑、滑雪、体操、跳水", "denomination": "8分", "image": "/images/stamps/1979/J43-3.jpg"}, {"sn": 4, "name": "摩托车、乒乓球、篮球、射箭", "denomination": "8分", "image": "/images/stamps/1979/J43-4.jpg"},
-      {"sn": 5, "name": "会徽", "denomination": "2元", "format": "小型张", "image": "/images/stamps/1979/J43-5.jpg"}
+      {
+        "sn": 1,
+        "name": "机械收割（农业）",
+        "denomination": "4分",
+        "image": "/images/stamps/1979/T39-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "植树造林（林业）",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T39-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "水乡牧鸭（牧业）",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T39-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "编织（副业）",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T39-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "繁忙的渔港（渔业）",
+        "denomination": "10分",
+        "image": "/images/stamps/1979/T39-5.jpg"
+      }
     ]
   },
   {
-    "id": "J44", "series": "J", "type": "纪念邮票", "title": "中华人民共和国成立三十周年（第一组）", "issueDate": "1979-10-01", "year": 1979,
-    "themes": ["历史事件", "国庆"], "designer": "万维生", "totalStamps": 2, "extras": [],
-    "description": "建国三十周年系列第一组以**五星红旗**为主题：一枚以蓝天、白云和彩虹作背景，另一枚把红旗与万里长城、群山结合，分别表现节庆与国家象征。", "quantity": "1200万套",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J44 《中华人民共和国成立三十周年（第一组）》",
+    "id": "J43",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中华人民共和国第四届运动会",
+    "issueDate": "1979-09-15",
+    "year": 1979,
+    "themes": [
+      "体育",
+      "全运会"
+    ],
+    "designer": "法乃光（邮票）、卢天骄（小型张）",
+    "totalStamps": 4,
+    "extras": [
+      "小型张"
+    ],
+    "description": "第四届全国运动会在**北京**举行。四枚横式连印票以白描线条组合跑步、球类、举重、体操、冰雪运动等项目；小型张以火炬和跑道构成的大会会徽为中心，边纸环列运动器械图标。",
+    "quantity": "1500万套",
+    "source": "https://stampprint.chinapost.com.cn/xhtml1/report/1909/4119-1.htm；本地票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J43 《中华人民共和国第四届运动会》",
     "stamps": [
-      {"sn": 1, "name": "国旗（一）", "denomination": "8分", "image": "/images/stamps/1979/J44-1.jpg"}, {"sn": 2, "name": "国旗（二）", "denomination": "8分", "image": "/images/stamps/1979/J44-2.jpg"}
+      {
+        "sn": 1,
+        "name": "会徽、跑步、排球、举重",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J43-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "足球、羽毛球、跳高、滑冰",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J43-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "击剑、滑雪、体操、跳水",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J43-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "摩托车、乒乓球、篮球、射箭",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J43-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "会徽",
+        "denomination": "2元",
+        "format": "小型张",
+        "image": "/images/stamps/1979/J43-5.jpg"
+      }
     ]
   },
   {
-    "id": "J45", "series": "J", "type": "纪念邮票", "title": "中华人民共和国成立三十周年（第二组）", "issueDate": "1979-10-01", "year": 1979,
-    "themes": ["历史事件", "国庆"], "designer": "卢天骄", "totalStamps": 0, "extras": ["小型张"],
+    "id": "J44",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中华人民共和国成立三十周年（第一组）",
+    "issueDate": "1979-10-01",
+    "year": 1979,
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "designer": "万维生",
+    "totalStamps": 2,
+    "extras": [],
+    "description": "建国三十周年系列第一组以**五星红旗**为主题：一枚以蓝天、白云和彩虹作背景，另一枚把红旗与万里长城、群山结合，分别表现节庆与国家象征。",
+    "quantity": "1200万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J44 《中华人民共和国成立三十周年（第一组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "国旗（一）",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J44-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "国旗（二）",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J44-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J45",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中华人民共和国成立三十周年（第二组）",
+    "issueDate": "1979-10-01",
+    "year": 1979,
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 0,
+    "extras": [
+      "小型张"
+    ],
     "description": "建国三十周年系列第二组只发行一枚**小型张**。主图是中华人民共和国国徽，周围以多色彩带、礼花和“祖国万岁”印章营造国庆气氛。",
-    "source": "https://stampprint.chinapost.com.cn/xhtml1/report/1909/4137-1.htm；本地票面图片核对", "needsReview": true, "localImageFolder": "J45 《中华人民共和国成立三十周年（第二组）》",
-    "stamps": [{"sn": 1, "name": "国徽", "denomination": "1元", "format": "小型张", "image": "/images/stamps/1979/J45-1.jpg"}]
-  },
-  {
-    "id": "J46", "series": "J", "type": "纪念邮票", "title": "中华人民共和国成立三十周年（第三组）", "issueDate": "1979-10-01", "year": 1979,
-    "themes": ["历史事件", "国庆"], "designer": "万维生", "totalStamps": 1, "extras": [],
-    "description": "建国三十周年系列第三组以国旗和当时通行的《中华人民共和国国歌》乐谱为主图。乐谱纵向铺展，突出国歌这一国家象征。", "quantity": "840万枚",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J46 《中华人民共和国成立三十周年（第三组）》",
-    "stamps": [{"sn": 1, "name": "国歌", "denomination": "8分", "image": "/images/stamps/1979/J46-1.jpg"}]
-  },
-  {
-    "id": "J47", "series": "J", "type": "纪念邮票", "title": "中华人民共和国成立三十周年（第四组）", "issueDate": "1979-10-01", "year": 1979,
-    "themes": ["历史事件", "国庆"], "designer": "卢天骄", "totalStamps": 4, "extras": [],
-    "description": "第四组为四枚连印的“欢庆”图，来自不同民族的人物载歌载舞。四图拼合成完整场面，形成近似四方联的整体视觉效果。", "quantity": "1500万套",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J47 《中华人民共和国成立三十周年（第四组）》",
+    "source": "https://stampprint.chinapost.com.cn/xhtml1/report/1909/4137-1.htm；本地票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J45 《中华人民共和国成立三十周年（第二组）》",
     "stamps": [
-      {"sn": 1, "name": "欢庆（一）", "denomination": "8分", "image": "/images/stamps/1979/J47-1.jpg"}, {"sn": 2, "name": "欢庆（二）", "denomination": "8分", "image": "/images/stamps/1979/J47-2.jpg"},
-      {"sn": 3, "name": "欢庆（三）", "denomination": "8分", "image": "/images/stamps/1979/J47-3.jpg"}, {"sn": 4, "name": "欢庆（四）", "denomination": "8分", "image": "/images/stamps/1979/J47-4.jpg"}
+      {
+        "sn": 1,
+        "name": "国徽",
+        "denomination": "1元",
+        "format": "小型张",
+        "image": "/images/stamps/1979/J45-1.jpg"
+      }
     ]
   },
   {
-    "id": "J48", "series": "J", "type": "纪念邮票", "title": "中华人民共和国成立三十周年（第五组）", "issueDate": "1979-10-01", "year": 1979,
-    "themes": ["历史事件", "国庆"], "designer": "薛世哲", "totalStamps": 4, "extras": [],
-    "description": "第五组以“四个现代化”为主题，分别以农业机械、工业设备、火箭卫星和科技符号表现农业、工业、国防及科学技术现代化。", "quantity": "1200万套",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J48 《中华人民共和国成立三十周年（第五组）》",
+    "id": "J46",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中华人民共和国成立三十周年（第三组）",
+    "issueDate": "1979-10-01",
+    "year": 1979,
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "designer": "万维生",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "建国三十周年系列第三组以国旗和当时通行的《中华人民共和国国歌》乐谱为主图。乐谱纵向铺展，突出国歌这一国家象征。",
+    "quantity": "840万枚",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J46 《中华人民共和国成立三十周年（第三组）》",
     "stamps": [
-      {"sn": 1, "name": "农业现代化", "denomination": "8分", "image": "/images/stamps/1979/J48-1.jpg"}, {"sn": 2, "name": "工业现代化", "denomination": "8分", "image": "/images/stamps/1979/J48-2.jpg"},
-      {"sn": 3, "name": "国防现代化", "denomination": "8分", "image": "/images/stamps/1979/J48-3.jpg"}, {"sn": 4, "name": "科学技术现代化", "denomination": "8分", "image": "/images/stamps/1979/J48-4.jpg"}
+      {
+        "sn": 1,
+        "name": "国歌",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J46-1.jpg"
+      }
     ]
   },
   {
-    "id": "J40", "series": "J", "type": "纪念邮票", "title": "全国青少年科技作品展览", "issueDate": "1979-10-03", "year": 1979,
-    "themes": ["科技", "青少年", "科技创新"], "designer": "邹建军", "totalStamps": 1, "extras": [],
+    "id": "J47",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中华人民共和国成立三十周年（第四组）",
+    "issueDate": "1979-10-01",
+    "year": 1979,
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "designer": "卢天骄",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "第四组为四枚连印的“欢庆”图，来自不同民族的人物载歌载舞。四图拼合成完整场面，形成近似四方联的整体视觉效果。",
+    "quantity": "1500万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J47 《中华人民共和国成立三十周年（第四组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "欢庆（一）",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J47-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "欢庆（二）",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J47-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "欢庆（三）",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J47-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "欢庆（四）",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J47-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J48",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中华人民共和国成立三十周年（第五组）",
+    "issueDate": "1979-10-01",
+    "year": 1979,
+    "themes": [
+      "历史事件",
+      "国庆"
+    ],
+    "designer": "薛世哲",
+    "totalStamps": 4,
+    "extras": [],
+    "description": "第五组以“四个现代化”为主题，分别以农业机械、工业设备、火箭卫星和科技符号表现农业、工业、国防及科学技术现代化。",
+    "quantity": "1200万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J48 《中华人民共和国成立三十周年（第五组）》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "农业现代化",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J48-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "工业现代化",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J48-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "国防现代化",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J48-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "科学技术现代化",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J48-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J40",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "全国青少年科技作品展览",
+    "issueDate": "1979-10-03",
+    "year": 1979,
+    "themes": [
+      "科技",
+      "青少年",
+      "科技创新"
+    ],
+    "designer": "邹建军",
+    "totalStamps": 1,
+    "extras": [],
     "description": "1979年10月，全国青少年优秀科技作品在**北京展览馆**展出。邮票采用展览会徽，两个绿色芽瓣和根芽象征青少年的科技创作正在萌发成长。",
-    "source": "https://stampprint.chinapost.com.cn/html1/report/1909/4104-1.htm；本地票面图片核对", "needsReview": true, "localImageFolder": "J40 《全国青少年科技作品展览》",
-    "stamps": [{"sn": 1, "name": "会徽", "denomination": "8分", "image": "/images/stamps/1979/J40-1.jpg"}]
-  },
-  {
-    "id": "T41", "series": "T", "type": "特种邮票", "title": "从小爱科学", "issueDate": "1979-10-03", "year": 1979,
-    "themes": ["6.1儿童邮票", "青少年", "科学教育"], "designer": "邹建军", "totalStamps": 6, "extras": ["小型张"],
-    "description": "六枚邮票表现少年儿童制作航模、学习医学、观测天文、研究生物、记录气象和操纵船模。小型张以女孩阅读时想象宇宙和海洋为画面，把科学活动与好奇心联系起来。", "quantity": "120万套",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T41 《从小爱科学》",
+    "source": "https://stampprint.chinapost.com.cn/html1/report/1909/4104-1.htm；本地票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J40 《全国青少年科技作品展览》",
     "stamps": [
-      {"sn": 1, "name": "航模", "denomination": "8分", "image": "/images/stamps/1979/T41-1.jpg"}, {"sn": 2, "name": "学医", "denomination": "8分", "image": "/images/stamps/1979/T41-2.jpg"},
-      {"sn": 3, "name": "天文", "denomination": "8分", "image": "/images/stamps/1979/T41-3.jpg"}, {"sn": 4, "name": "生物", "denomination": "8分", "image": "/images/stamps/1979/T41-4.jpg"},
-      {"sn": 5, "name": "气象", "denomination": "8分", "image": "/images/stamps/1979/T41-5.jpg"}, {"sn": 6, "name": "船模", "denomination": "60分", "image": "/images/stamps/1979/T41-6.jpg"},
-      {"sn": 7, "name": "从小爱科学", "denomination": "2元", "format": "小型张", "image": "/images/stamps/1979/T41-7.jpg"}
+      {
+        "sn": 1,
+        "name": "会徽",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J40-1.jpg"
+      }
     ]
   },
   {
-    "id": "T42", "series": "T", "type": "特种邮票", "title": "台湾风光", "issueDate": "1979-10-20", "year": 1979,
-    "themes": ["山水风光", "台湾"], "designer": "孙传哲", "totalStamps": 6, "extras": [],
-    "description": "六枚邮票选取**台湾**的自然与人文景观：玉山、日月潭、台南赤嵌楼、苏花沿海公路、太鲁阁天祥瀑布和高雄半屏山月夜，形成从山岳湖泊到古迹、交通与城市夜景的风光组图。", "quantity": "150万套",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T42 《台湾风光》",
+    "id": "T41",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "从小爱科学",
+    "issueDate": "1979-10-03",
+    "year": 1979,
+    "themes": [
+      "6.1儿童邮票",
+      "青少年",
+      "科学教育"
+    ],
+    "designer": "邹建军",
+    "totalStamps": 6,
+    "extras": [
+      "小型张"
+    ],
+    "description": "六枚邮票表现少年儿童制作航模、学习医学、观测天文、研究生物、记录气象和操纵船模。小型张以女孩阅读时想象宇宙和海洋为画面，把科学活动与好奇心联系起来。",
+    "quantity": "120万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "T41 《从小爱科学》",
     "stamps": [
-      {"sn": 1, "name": "玉山", "denomination": "8分", "image": "/images/stamps/1979/T42-1.jpg"}, {"sn": 2, "name": "日月潭", "denomination": "8分", "image": "/images/stamps/1979/T42-2.jpg"},
-      {"sn": 3, "name": "赤嵌楼", "denomination": "8分", "image": "/images/stamps/1979/T42-3.jpg"}, {"sn": 4, "name": "苏花沿海公路", "denomination": "8分", "image": "/images/stamps/1979/T42-4.jpg"},
-      {"sn": 5, "name": "天祥大瀑布", "denomination": "55分", "image": "/images/stamps/1979/T42-5.jpg"}, {"sn": 6, "name": "半屏山月夜", "denomination": "60分", "image": "/images/stamps/1979/T42-6.jpg"}
+      {
+        "sn": 1,
+        "name": "航模",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T41-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "学医",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T41-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "天文",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T41-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "生物",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T41-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "气象",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T41-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "船模",
+        "denomination": "60分",
+        "image": "/images/stamps/1979/T41-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "从小爱科学",
+        "denomination": "2元",
+        "format": "小型张",
+        "image": "/images/stamps/1979/T41-7.jpg"
+      }
     ]
   },
   {
-    "id": "J39", "series": "J", "type": "纪念邮票", "title": "中国文学艺术工作者第四次代表大会", "issueDate": "1979-10-30", "year": 1979,
-    "themes": ["文化", "文艺"], "designer": "刘硕仁", "totalStamps": 2, "extras": [],
+    "id": "T42",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "台湾风光",
+    "issueDate": "1979-10-20",
+    "year": 1979,
+    "themes": [
+      "山水风光",
+      "台湾"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "六枚邮票选取**台湾**的自然与人文景观：玉山、日月潭、台南赤嵌楼、苏花沿海公路、太鲁阁天祥瀑布和高雄半屏山月夜，形成从山岳湖泊到古迹、交通与城市夜景的风光组图。",
+    "quantity": "150万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "T42 《台湾风光》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "玉山",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T42-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "日月潭",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T42-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "赤嵌楼",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T42-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "苏花沿海公路",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T42-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "天祥大瀑布",
+        "denomination": "55分",
+        "image": "/images/stamps/1979/T42-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "半屏山月夜",
+        "denomination": "60分",
+        "image": "/images/stamps/1979/T42-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "J39",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "中国文学艺术工作者第四次代表大会",
+    "issueDate": "1979-10-30",
+    "year": 1979,
+    "themes": [
+      "文化",
+      "文艺"
+    ],
+    "designer": "刘硕仁",
+    "totalStamps": 2,
+    "extras": [],
     "description": "大会在**北京**召开。第一枚以调色板、竖琴、舞蹈和彩带构成花篮，象征“文化的春天”；第二枚以篆刻“百花齐放、百家争鸣”为主图，突出中国印章艺术。",
-    "source": "https://stampprint.chinapost.com.cn/xhtml1/report/1909/4102-1.htm；本地票面图片核对", "needsReview": true, "localImageFolder": "J39 《中国文学艺术工作者第四次代表大会》",
+    "source": "https://stampprint.chinapost.com.cn/xhtml1/report/1909/4102-1.htm；本地票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J39 《中国文学艺术工作者第四次代表大会》",
     "stamps": [
-      {"sn": 1, "name": "文化的春天", "denomination": "4分", "image": "/images/stamps/1979/J39-1.jpg"}, {"sn": 2, "name": "百花齐放百家争鸣", "denomination": "8分", "image": "/images/stamps/1979/J39-2.jpg"}
+      {
+        "sn": 1,
+        "name": "文化的春天",
+        "denomination": "4分",
+        "image": "/images/stamps/1979/J39-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "百花齐放百家争鸣",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J39-2.jpg"
+      }
     ]
   },
   {
-    "id": "T36", "series": "T", "type": "特种邮票", "title": "铁路建设", "issueDate": "1979-10-30", "year": 1979,
-    "themes": ["科技", "铁路"], "designer": "姜伟杰、李庆发", "totalStamps": 3, "extras": [],
-    "description": "三枚邮票从运输装备、线路施工和桥梁工程介绍铁路建设：电力机车代表牵引动力更新，铁路新线表现勘测铺轨，铁路大桥突出跨越复杂地形的工程能力。", "quantity": "750万套",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T36 《铁路建设》",
+    "id": "T36",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "铁路建设",
+    "issueDate": "1979-10-30",
+    "year": 1979,
+    "themes": [
+      "科技",
+      "铁路"
+    ],
+    "designer": "姜伟杰、李庆发",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "三枚邮票从运输装备、线路施工和桥梁工程介绍铁路建设：电力机车代表牵引动力更新，铁路新线表现勘测铺轨，铁路大桥突出跨越复杂地形的工程能力。",
+    "quantity": "750万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "T36 《铁路建设》",
     "stamps": [
-      {"sn": 1, "name": "电力机车", "denomination": "8分", "image": "/images/stamps/1979/T36-1.jpg"}, {"sn": 2, "name": "铁路新线", "denomination": "8分", "image": "/images/stamps/1979/T36-2.jpg"},
-      {"sn": 3, "name": "铁路大桥", "denomination": "8分", "image": "/images/stamps/1979/T36-3.jpg"}
+      {
+        "sn": 1,
+        "name": "电力机车",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T36-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "铁路新线",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T36-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "铁路大桥",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T36-3.jpg"
+      }
     ]
   },
   {
-    "id": "T37", "series": "T", "type": "特种邮票", "title": "云南山茶花", "issueDate": "1979-11-10", "year": 1979,
-    "themes": ["植物花卉", "花卉", "山茶花"], "designer": "任宇", "totalStamps": 10, "extras": ["小型张"],
-    "description": "**云南山茶花**又称滇山茶，花期多在冬春。十枚邮票描绘菊瓣、狮子头、金花茶、小桂叶、童子面、大玛瑙、牡丹茶、紫袍、六角恨天高、柳叶银红等品种；小型张以宝珠茶为主图，边纸仿绫绢装裱。", "quantity": "200万套；小型张25万枚",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T37 《云南山茶花》",
+    "id": "T37",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "云南山茶花",
+    "issueDate": "1979-11-10",
+    "year": 1979,
+    "themes": [
+      "植物花卉",
+      "花卉",
+      "山茶花"
+    ],
+    "designer": "任宇",
+    "totalStamps": 10,
+    "extras": [
+      "小型张"
+    ],
+    "description": "**云南山茶花**又称滇山茶，花期多在冬春。十枚邮票描绘菊瓣、狮子头、金花茶、小桂叶、童子面、大玛瑙、牡丹茶、紫袍、六角恨天高、柳叶银红等品种；小型张以宝珠茶为主图，边纸仿绫绢装裱。",
+    "quantity": "200万套；小型张25万枚",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "T37 《云南山茶花》",
     "stamps": [
-      {"sn": 1, "name": "菊瓣", "denomination": "4分", "image": "/images/stamps/1979/T37-1.jpg"}, {"sn": 2, "name": "狮子头", "denomination": "8分", "image": "/images/stamps/1979/T37-2.jpg"},
-      {"sn": 3, "name": "金花茶", "denomination": "8分", "image": "/images/stamps/1979/T37-3.jpg"}, {"sn": 4, "name": "小桂叶", "denomination": "10分", "image": "/images/stamps/1979/T37-4.jpg"},
-      {"sn": 5, "name": "童子面", "denomination": "20分", "image": "/images/stamps/1979/T37-5.jpg"}, {"sn": 6, "name": "大玛瑙", "denomination": "30分", "image": "/images/stamps/1979/T37-6.jpg"},
-      {"sn": 7, "name": "牡丹茶", "denomination": "40分", "image": "/images/stamps/1979/T37-7.jpg"}, {"sn": 8, "name": "紫袍", "denomination": "50分", "image": "/images/stamps/1979/T37-8.jpg"},
-      {"sn": 9, "name": "六角恨天高", "denomination": "60分", "image": "/images/stamps/1979/T37-9.jpg"}, {"sn": 10, "name": "柳叶银红", "denomination": "70分", "image": "/images/stamps/1979/T37-10.jpg"},
-      {"sn": 11, "name": "宝珠茶", "denomination": "2元", "format": "小型张", "image": "/images/stamps/1979/T37-11.jpg"}
+      {
+        "sn": 1,
+        "name": "菊瓣",
+        "denomination": "4分",
+        "image": "/images/stamps/1979/T37-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "狮子头",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T37-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "金花茶",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T37-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "小桂叶",
+        "denomination": "10分",
+        "image": "/images/stamps/1979/T37-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "童子面",
+        "denomination": "20分",
+        "image": "/images/stamps/1979/T37-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "大玛瑙",
+        "denomination": "30分",
+        "image": "/images/stamps/1979/T37-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "牡丹茶",
+        "denomination": "40分",
+        "image": "/images/stamps/1979/T37-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "紫袍",
+        "denomination": "50分",
+        "image": "/images/stamps/1979/T37-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "六角恨天高",
+        "denomination": "60分",
+        "image": "/images/stamps/1979/T37-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "柳叶银红",
+        "denomination": "70分",
+        "image": "/images/stamps/1979/T37-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "宝珠茶",
+        "denomination": "2元",
+        "format": "小型张",
+        "image": "/images/stamps/1979/T37-11.jpg"
+      }
     ]
   },
   {
-    "id": "J50", "series": "J", "type": "纪念邮票", "title": "诺尔曼·白求恩逝世四十周年", "issueDate": "1979-11-12", "year": 1979,
-    "themes": ["人物", "国际主义战士"], "designer": "任宇", "totalStamps": 2, "extras": [],
+    "id": "J50",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "诺尔曼·白求恩逝世四十周年",
+    "issueDate": "1979-11-12",
+    "year": 1979,
+    "themes": [
+      "人物",
+      "国际主义战士"
+    ],
+    "designer": "任宇",
+    "totalStamps": 2,
+    "extras": [],
     "description": "加拿大医生**诺尔曼·白求恩**（1890—1939）于1938年来华参加抗日医疗工作，后因手术感染去世。第一枚以司徒杰雕塑为蓝本塑造肖像，第二枚据吴印咸照片表现他为伤员手术。",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J50 《诺尔曼·白求恩逝世四十周年》",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J50 《诺尔曼·白求恩逝世四十周年》",
     "stamps": [
-      {"sn": 1, "name": "诺尔曼·白求恩像", "denomination": "70分", "image": "/images/stamps/1979/J50-1.jpg"}, {"sn": 2, "name": "鞠躬尽瘁", "denomination": "8分", "image": "/images/stamps/1979/J50-2.jpg"}
+      {
+        "sn": 1,
+        "name": "诺尔曼·白求恩像",
+        "denomination": "70分",
+        "image": "/images/stamps/1979/J50-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "鞠躬尽瘁",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J50-2.jpg"
+      }
     ]
   },
   {
-    "id": "J51", "series": "J", "type": "纪念邮票", "title": "国际档案周", "issueDate": "1979-11-26", "year": 1979,
-    "themes": ["节日", "现代节日", "档案"], "designer": "孙传哲", "totalStamps": 3, "extras": [],
+    "id": "J51",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "国际档案周",
+    "issueDate": "1979-11-26",
+    "year": 1979,
+    "themes": [
+      "节日",
+      "现代节日",
+      "档案"
+    ],
+    "designer": "孙传哲",
+    "totalStamps": 3,
+    "extras": [],
     "description": "邮票介绍现代与古代档案保存设施：**中央档案馆**建于1959年；**皇史宬**始建于明嘉靖年间，是保存皇家档案的建筑，金匮用于收藏重要文书，正殿石室则体现防火、防潮的传统构造。",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J51 《国际档案周》",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J51 《国际档案周》",
     "stamps": [
-      {"sn": 1, "name": "中央档案馆", "denomination": "8分", "image": "/images/stamps/1979/J51-1.jpg"}, {"sn": 2, "name": "皇史宬—金匮", "denomination": "8分", "image": "/images/stamps/1979/J51-2.jpg"},
-      {"sn": 3, "name": "皇史宬正殿—石室", "denomination": "60分", "image": "/images/stamps/1979/J51-3.jpg"}
+      {
+        "sn": 1,
+        "name": "中央档案馆",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J51-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "皇史宬—金匮",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J51-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "皇史宬正殿—石室",
+        "denomination": "60分",
+        "image": "/images/stamps/1979/J51-3.jpg"
+      }
     ]
   },
   {
-    "id": "T43", "series": "T", "type": "特种邮票", "title": "中国古典小说——《西游记》", "issueDate": "1979-12-01", "year": 1979,
-    "themes": ["文学名著", "西游记"], "designer": "李大玮", "totalStamps": 8, "extras": [],
-    "description": "《西游记》是明代吴承恩所著长篇神魔小说。邮票选取孙悟空出世、大闹天宫及西行取经中的八个情节，吸收京剧、动画和民间年画的造型特点，以工笔重彩塑造鲜明人物。", "quantity": "150万套",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "T43 《中国古典文学名著—《西游记》》",
+    "id": "T43",
+    "series": "T",
+    "type": "特种邮票",
+    "title": "中国古典小说——《西游记》",
+    "issueDate": "1979-12-01",
+    "year": 1979,
+    "themes": [
+      "文学名著",
+      "西游记"
+    ],
+    "designer": "李大玮",
+    "totalStamps": 8,
+    "extras": [],
+    "description": "《西游记》是明代吴承恩所著长篇神魔小说。邮票选取孙悟空出世、大闹天宫及西行取经中的八个情节，吸收京剧、动画和民间年画的造型特点，以工笔重彩塑造鲜明人物。",
+    "quantity": "150万套",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "T43 《中国古典文学名著—《西游记》》",
     "stamps": [
-      {"sn": 1, "name": "水帘洞", "denomination": "8分", "image": "/images/stamps/1979/T43-1.jpg"}, {"sn": 2, "name": "战哪吒", "denomination": "8分", "image": "/images/stamps/1979/T43-2.jpg"},
-      {"sn": 3, "name": "蟠桃园", "denomination": "8分", "image": "/images/stamps/1979/T43-3.jpg"}, {"sn": 4, "name": "八卦炉", "denomination": "8分", "image": "/images/stamps/1979/T43-4.jpg"},
-      {"sn": 5, "name": "打白骨", "denomination": "10分", "image": "/images/stamps/1979/T43-5.jpg"}, {"sn": 6, "name": "芭蕉扇", "denomination": "20分", "image": "/images/stamps/1979/T43-6.jpg"},
-      {"sn": 7, "name": "盘丝洞", "denomination": "60分", "image": "/images/stamps/1979/T43-7.jpg"}, {"sn": 8, "name": "取经路", "denomination": "70分", "image": "/images/stamps/1979/T43-8.jpg"}
+      {
+        "sn": 1,
+        "name": "水帘洞",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T43-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "战哪吒",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T43-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "蟠桃园",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T43-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "八卦炉",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/T43-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "打白骨",
+        "denomination": "10分",
+        "image": "/images/stamps/1979/T43-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "芭蕉扇",
+        "denomination": "20分",
+        "image": "/images/stamps/1979/T43-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "盘丝洞",
+        "denomination": "60分",
+        "image": "/images/stamps/1979/T43-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "取经路",
+        "denomination": "70分",
+        "image": "/images/stamps/1979/T43-8.jpg"
+      }
     ]
   },
   {
-    "id": "J49", "series": "J", "type": "纪念邮票", "title": "约·维·斯大林诞生一百周年", "issueDate": "1979-12-21", "year": 1979,
-    "themes": ["共产党人", "马克思主义"], "designer": "任宇", "totalStamps": 2, "extras": [],
+    "id": "J49",
+    "series": "J",
+    "type": "纪念邮票",
+    "title": "约·维·斯大林诞生一百周年",
+    "issueDate": "1979-12-21",
+    "year": 1979,
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
+    "designer": "任宇",
+    "totalStamps": 2,
+    "extras": [],
     "description": "**约瑟夫·斯大林**曾任苏联党和国家主要领导人。第一枚为雕刻肖像，第二枚表现其在1941年苏德战争爆发后发表广播讲话的历史场景；两枚采用雕刻版印制。",
-    "source": "中国邮政历史邮票目录；本地资料与票面图片核对", "needsReview": true, "localImageFolder": "J49 《约·维·斯大林诞生一百周年》",
+    "source": "中国邮政历史邮票目录；本地资料与票面图片核对",
+    "needsReview": true,
+    "localImageFolder": "J49 《约·维·斯大林诞生一百周年》",
     "stamps": [
-      {"sn": 1, "name": "斯大林像", "denomination": "8分", "image": "/images/stamps/1979/J49-1.jpg"}, {"sn": 2, "name": "伟大的贡献", "denomination": "70分", "image": "/images/stamps/1979/J49-2.jpg"}
+      {
+        "sn": 1,
+        "name": "斯大林像",
+        "denomination": "8分",
+        "image": "/images/stamps/1979/J49-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "伟大的贡献",
+        "denomination": "70分",
+        "image": "/images/stamps/1979/J49-2.jpg"
+      }
     ]
   }
 ]

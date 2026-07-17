@@ -6,7 +6,10 @@
     "title": "癸亥年",
     "issueDate": "1983-01-05",
     "year": 1983,
-    "themes": ["生肖", "生肖猪"],
+    "themes": [
+      "生肖",
+      "生肖猪"
+    ],
     "designer": "卢天骄",
     "totalStamps": 1,
     "extras": [],
@@ -15,7 +18,12 @@
     "needsReview": true,
     "localImageFolder": "T80 《癸亥年》",
     "stamps": [
-      { "sn": 1, "name": "猪", "denomination": "8分", "image": "/images/stamps/1983/T80-1.jpg" }
+      {
+        "sn": 1,
+        "name": "猪",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T80-1.jpg"
+      }
     ]
   },
   {
@@ -25,7 +33,10 @@
     "title": "民族乐器—拨弦乐器",
     "issueDate": "1983-01-20",
     "year": 1983,
-    "themes": ["文化", "民族乐器"],
+    "themes": [
+      "文化",
+      "民族乐器"
+    ],
     "designer": "邓锡清",
     "totalStamps": 5,
     "extras": [],
@@ -34,11 +45,36 @@
     "needsReview": true,
     "localImageFolder": "T81 《民族乐器—拨弦乐器》",
     "stamps": [
-      { "sn": 1, "name": "箜篌", "denomination": "4分", "image": "/images/stamps/1983/T81-1.jpg" },
-      { "sn": 2, "name": "阮", "denomination": "8分", "image": "/images/stamps/1983/T81-2.jpg" },
-      { "sn": 3, "name": "琴", "denomination": "8分", "image": "/images/stamps/1983/T81-3.jpg" },
-      { "sn": 4, "name": "琵琶", "denomination": "10分", "image": "/images/stamps/1983/T81-4.jpg" },
-      { "sn": 5, "name": "三弦", "denomination": "70分", "image": "/images/stamps/1983/T81-5.jpg" }
+      {
+        "sn": 1,
+        "name": "箜篌",
+        "denomination": "4分",
+        "image": "/images/stamps/1983/T81-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "阮",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T81-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "琴",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T81-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "琵琶",
+        "denomination": "10分",
+        "image": "/images/stamps/1983/T81-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "三弦",
+        "denomination": "70分",
+        "image": "/images/stamps/1983/T81-5.jpg"
+      }
     ]
   },
   {
@@ -48,7 +84,11 @@
     "title": "京汉铁路工人「二七」大罢工六十周年",
     "issueDate": "1983-02-07",
     "year": 1983,
-    "themes": ["历史事件", "工人运动", "二七大罢工"],
+    "themes": [
+      "历史事件",
+      "工人运动",
+      "二七大罢工"
+    ],
     "designer": "李印清",
     "totalStamps": 2,
     "extras": [],
@@ -57,8 +97,18 @@
     "needsReview": true,
     "localImageFolder": "J89 《京汉铁路工人「二七」大罢工六十周年》",
     "stamps": [
-      { "sn": 1, "name": "汉口江岸「二七」纪念碑", "denomination": "8分", "image": "/images/stamps/1983/J89-1.jpg" },
-      { "sn": 2, "name": "郑州「二七」纪念塔", "denomination": "8分", "image": "/images/stamps/1983/J89-2.jpg" }
+      {
+        "sn": 1,
+        "name": "汉口江岸「二七」纪念碑",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J89-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "郑州「二七」纪念塔",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J89-2.jpg"
+      }
     ]
   },
   {
@@ -68,20 +118,51 @@
     "title": "西厢记",
     "issueDate": "1983-02-21",
     "year": 1983,
-    "themes": ["文学名著", "西厢记"],
+    "themes": [
+      "文学名著",
+      "西厢记"
+    ],
     "designer": "刘硕仁",
     "totalStamps": 4,
-    "extras": ["小型张"],
+    "extras": [
+      "小型张"
+    ],
     "description": "《西厢记》是元代杂剧作家**王实甫**的代表作，描写张君瑞与崔莺莺在红娘帮助下冲破礼教束缚、终成眷属的爱情故事。四枚邮票选取“惊艳”“听琴”“佳期”“长亭”四个情节，画面取自**王叔晖**作品。小型张“拷红”表现崔老夫人拷问红娘的场景，带有传统木刻插图意味。",
     "quantity": "惊艳1028.41万枚，听琴963.16万枚，佳期561.16万枚，长亭293.51万枚，小型张94.10万枚",
     "needsReview": true,
     "localImageFolder": "T82 《西厢记》",
     "stamps": [
-      { "sn": 1, "name": "惊艳", "denomination": "8分", "image": "/images/stamps/1983/T82-1.jpg" },
-      { "sn": 2, "name": "听琴", "denomination": "8分", "image": "/images/stamps/1983/T82-2.jpg" },
-      { "sn": 3, "name": "佳期", "denomination": "10分", "image": "/images/stamps/1983/T82-3.jpg" },
-      { "sn": 4, "name": "长亭", "denomination": "80分", "image": "/images/stamps/1983/T82-4.jpg" },
-      { "sn": 5, "format": "小型张", "name": "拷红", "denomination": "2元", "image": "/images/stamps/1983/T82-5.jpg" }
+      {
+        "sn": 1,
+        "name": "惊艳",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T82-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "听琴",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T82-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "佳期",
+        "denomination": "10分",
+        "image": "/images/stamps/1983/T82-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "长亭",
+        "denomination": "80分",
+        "image": "/images/stamps/1983/T82-4.jpg"
+      },
+      {
+        "sn": 5,
+        "format": "小型张",
+        "name": "拷红",
+        "denomination": "2元",
+        "image": "/images/stamps/1983/T82-5.jpg"
+      }
     ]
   },
   {
@@ -91,7 +172,10 @@
     "title": "马克思逝世一百周年",
     "issueDate": "1983-03-14",
     "year": 1983,
-    "themes": ["共产党人", "马克思主义"],
+    "themes": [
+      "共产党人",
+      "马克思主义"
+    ],
     "designer": "黄里",
     "totalStamps": 2,
     "extras": [],
@@ -100,8 +184,18 @@
     "needsReview": true,
     "localImageFolder": "J90 《马克思逝世一百周年》",
     "stamps": [
-      { "sn": 1, "name": "马克思像", "denomination": "8分", "image": "/images/stamps/1983/J90-1.jpg" },
-      { "sn": 2, "name": "马克思在演讲", "denomination": "20分", "image": "/images/stamps/1983/J90-2.jpg" }
+      {
+        "sn": 1,
+        "name": "马克思像",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J90-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "马克思在演讲",
+        "denomination": "20分",
+        "image": "/images/stamps/1983/J90-2.jpg"
+      }
     ]
   },
   {
@@ -111,7 +205,11 @@
     "title": "黄帝陵",
     "issueDate": "1983-04-05",
     "year": 1983,
-    "themes": ["文物古迹", "陵墓", "黄帝陵"],
+    "themes": [
+      "文物古迹",
+      "陵墓",
+      "黄帝陵"
+    ],
     "designer": "张克让",
     "totalStamps": 3,
     "extras": [],
@@ -120,9 +218,24 @@
     "needsReview": true,
     "localImageFolder": "T84 《黄帝陵》",
     "stamps": [
-      { "sn": 1, "name": "黄帝陵", "denomination": "8分", "image": "/images/stamps/1983/T84-1.jpg" },
-      { "sn": 2, "name": "人文初祖殿", "denomination": "10分", "image": "/images/stamps/1983/T84-2.jpg" },
-      { "sn": 3, "name": "轩辕柏", "denomination": "20分", "image": "/images/stamps/1983/T84-3.jpg" }
+      {
+        "sn": 1,
+        "name": "黄帝陵",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T84-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "人文初祖殿",
+        "denomination": "10分",
+        "image": "/images/stamps/1983/T84-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "轩辕柏",
+        "denomination": "20分",
+        "image": "/images/stamps/1983/T84-3.jpg"
+      }
     ]
   },
   {
@@ -132,7 +245,10 @@
     "title": "世界通信年",
     "issueDate": "1983-04-28",
     "year": 1983,
-    "themes": ["科技", "通信"],
+    "themes": [
+      "科技",
+      "通信"
+    ],
     "designer": "任宇",
     "totalStamps": 1,
     "extras": [],
@@ -141,7 +257,12 @@
     "needsReview": true,
     "localImageFolder": "J91 《世界通信年》",
     "stamps": [
-      { "sn": 1, "name": "飞天", "denomination": "8分", "image": "/images/stamps/1983/J91-1.jpg" }
+      {
+        "sn": 1,
+        "name": "飞天",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J91-1.jpg"
+      }
     ]
   },
   {
@@ -151,7 +272,12 @@
     "title": "扬子鳄",
     "issueDate": "1983-05-24",
     "year": 1983,
-    "themes": ["动物", "濒危动物", "扬子鳄"],
+    "themes": [
+      "动物",
+      "爬行动物",
+      "濒危动物",
+      "扬子鳄"
+    ],
     "designer": "任宇",
     "totalStamps": 2,
     "extras": [],
@@ -160,8 +286,18 @@
     "needsReview": true,
     "localImageFolder": "T85 《扬子鳄》",
     "stamps": [
-      { "sn": 1, "name": "雄姿勃勃", "denomination": "8分", "image": "/images/stamps/1983/T85-1.jpg" },
-      { "sn": 2, "name": "破壳而出", "denomination": "20分", "image": "/images/stamps/1983/T85-2.jpg" }
+      {
+        "sn": 1,
+        "name": "雄姿勃勃",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T85-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "破壳而出",
+        "denomination": "20分",
+        "image": "/images/stamps/1983/T85-2.jpg"
+      }
     ]
   },
   {
@@ -171,7 +307,11 @@
     "title": "儿童画选",
     "issueDate": "1983-06-01",
     "year": 1983,
-    "themes": ["6.1儿童邮票", "儿童画", "儿童作品"],
+    "themes": [
+      "6.1儿童邮票",
+      "儿童画",
+      "儿童作品"
+    ],
     "designer": "程传理",
     "totalStamps": 4,
     "extras": [],
@@ -180,10 +320,30 @@
     "needsReview": true,
     "localImageFolder": "T86 《儿童画选》",
     "stamps": [
-      { "sn": 1, "name": "给妈妈抓痒", "denomination": "8分", "image": "/images/stamps/1983/T86-1.jpg" },
-      { "sn": 2, "name": "我爱长城", "denomination": "8分", "image": "/images/stamps/1983/T86-2.jpg" },
-      { "sn": 3, "name": "小猫咪", "denomination": "8分", "image": "/images/stamps/1983/T86-3.jpg" },
-      { "sn": 4, "name": "太阳、小鸟、花和我", "denomination": "8分", "image": "/images/stamps/1983/T86-4.jpg" }
+      {
+        "sn": 1,
+        "name": "给妈妈抓痒",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T86-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "我爱长城",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T86-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "小猫咪",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T86-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "太阳、小鸟、花和我",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T86-4.jpg"
+      }
     ]
   },
   {
@@ -193,7 +353,10 @@
     "title": "中华人民共和国第六届全国人民代表大会",
     "issueDate": "1983-06-06",
     "year": 1983,
-    "themes": ["历史事件", "人大"],
+    "themes": [
+      "历史事件",
+      "人大"
+    ],
     "designer": "万维生",
     "totalStamps": 2,
     "extras": [],
@@ -202,8 +365,18 @@
     "needsReview": true,
     "localImageFolder": "J94 《中华人民共和国第六届全国人民代表大会》",
     "stamps": [
-      { "sn": 1, "name": "六届人大隆重召开", "denomination": "8分", "image": "/images/stamps/1983/J94-1.jpg" },
-      { "sn": 2, "name": "中华人民共和国国歌", "denomination": "20分", "image": "/images/stamps/1983/J94-2.jpg" }
+      {
+        "sn": 1,
+        "name": "六届人大隆重召开",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J94-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "中华人民共和国国歌",
+        "denomination": "20分",
+        "image": "/images/stamps/1983/J94-2.jpg"
+      }
     ]
   },
   {
@@ -213,20 +386,51 @@
     "title": "秦始皇陵兵马俑",
     "issueDate": "1983-06-30",
     "year": 1983,
-    "themes": ["文物古迹", "兵马俑"],
+    "themes": [
+      "文物古迹",
+      "兵马俑"
+    ],
     "designer": "吴建坤",
     "totalStamps": 4,
-    "extras": ["小型张"],
+    "extras": [
+      "小型张"
+    ],
     "description": "秦始皇陵位于**陕西临潼**，是中国历史上第一个皇帝**嬴政**的陵墓。1974年发现的兵马俑坑阵容庞大、气势恢宏，被誉为“世界第八大奇迹”。四枚邮票表现群俑、陶俑、兵马俑和兵马俑坑，小型张“牵马俑”突出单件陶俑的雕塑力量。",
     "quantity": "群俑1038.22万枚，陶俑981.16万枚，兵马俑498.66万枚，兵马俑坑274.76万枚，小型张85.04万枚",
     "needsReview": true,
     "localImageFolder": "T88 《秦始皇陵兵马俑》",
     "stamps": [
-      { "sn": 1, "name": "群俑", "denomination": "8分", "image": "/images/stamps/1983/T88-1.jpg" },
-      { "sn": 2, "name": "陶俑", "denomination": "8分", "image": "/images/stamps/1983/T88-2.jpg" },
-      { "sn": 3, "name": "兵马俑", "denomination": "10分", "image": "/images/stamps/1983/T88-3.jpg" },
-      { "sn": 4, "name": "兵马俑坑", "denomination": "70分", "image": "/images/stamps/1983/T88-4.jpg" },
-      { "sn": 5, "format": "小型张", "name": "牵马俑", "denomination": "2元", "image": "/images/stamps/1983/T88-5.jpg" }
+      {
+        "sn": 1,
+        "name": "群俑",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T88-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "陶俑",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T88-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "兵马俑",
+        "denomination": "10分",
+        "image": "/images/stamps/1983/T88-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "兵马俑坑",
+        "denomination": "70分",
+        "image": "/images/stamps/1983/T88-4.jpg"
+      },
+      {
+        "sn": 5,
+        "format": "小型张",
+        "name": "牵马俑",
+        "denomination": "2元",
+        "image": "/images/stamps/1983/T88-5.jpg"
+      }
     ]
   },
   {
@@ -236,7 +440,10 @@
     "title": "京剧旦角",
     "issueDate": "1983-07-20",
     "year": 1983,
-    "themes": ["戏曲", "京剧"],
+    "themes": [
+      "戏曲",
+      "京剧"
+    ],
     "designer": "李为",
     "totalStamps": 8,
     "extras": [],
@@ -245,14 +452,54 @@
     "needsReview": true,
     "localImageFolder": "T87 《京剧旦角》",
     "stamps": [
-      { "sn": 1, "name": "孙玉姣", "denomination": "4分", "image": "/images/stamps/1983/T87-1.jpg" },
-      { "sn": 2, "name": "陈妙常", "denomination": "8分", "image": "/images/stamps/1983/T87-2.jpg" },
-      { "sn": 3, "name": "白素贞", "denomination": "8分", "image": "/images/stamps/1983/T87-3.jpg" },
-      { "sn": 4, "name": "十三妹", "denomination": "8分", "image": "/images/stamps/1983/T87-4.jpg" },
-      { "sn": 5, "name": "秦香莲", "denomination": "10分", "image": "/images/stamps/1983/T87-5.jpg" },
-      { "sn": 6, "name": "杨贵妃", "denomination": "20分", "image": "/images/stamps/1983/T87-6.jpg" },
-      { "sn": 7, "name": "崔莺莺", "denomination": "50分", "image": "/images/stamps/1983/T87-7.jpg" },
-      { "sn": 8, "name": "穆桂英", "denomination": "70分", "image": "/images/stamps/1983/T87-8.jpg" }
+      {
+        "sn": 1,
+        "name": "孙玉姣",
+        "denomination": "4分",
+        "image": "/images/stamps/1983/T87-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "陈妙常",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T87-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "白素贞",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T87-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "十三妹",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T87-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "秦香莲",
+        "denomination": "10分",
+        "image": "/images/stamps/1983/T87-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "杨贵妃",
+        "denomination": "20分",
+        "image": "/images/stamps/1983/T87-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "崔莺莺",
+        "denomination": "50分",
+        "image": "/images/stamps/1983/T87-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "穆桂英",
+        "denomination": "70分",
+        "image": "/images/stamps/1983/T87-8.jpg"
+      }
     ]
   },
   {
@@ -262,7 +509,11 @@
     "title": "中国古代文学家（第一组）",
     "issueDate": "1983-08-10",
     "year": 1983,
-    "themes": ["人物", "古代人", "中国古代文学家"],
+    "themes": [
+      "人物",
+      "古代人",
+      "中国古代文学家"
+    ],
     "designer": "李大玮",
     "totalStamps": 4,
     "extras": [],
@@ -271,10 +522,30 @@
     "needsReview": true,
     "localImageFolder": "J92 《中国古代文学家（第一组）》",
     "stamps": [
-      { "sn": 1, "name": "李白", "denomination": "8分", "image": "/images/stamps/1983/J92-1.jpg" },
-      { "sn": 2, "name": "杜甫", "denomination": "8分", "image": "/images/stamps/1983/J92-2.jpg" },
-      { "sn": 3, "name": "韩愈", "denomination": "8分", "image": "/images/stamps/1983/J92-3.jpg" },
-      { "sn": 4, "name": "柳宗元", "denomination": "70分", "image": "/images/stamps/1983/J92-4.jpg" }
+      {
+        "sn": 1,
+        "name": "李白",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J92-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "杜甫",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J92-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "韩愈",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J92-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "柳宗元",
+        "denomination": "70分",
+        "image": "/images/stamps/1983/J92-4.jpg"
+      }
     ]
   },
   {
@@ -284,7 +555,10 @@
     "title": "中国妇女第五次全国代表大会",
     "issueDate": "1983-09-01",
     "year": 1983,
-    "themes": ["历史事件", "妇女"],
+    "themes": [
+      "历史事件",
+      "妇女"
+    ],
     "designer": "邹建军",
     "totalStamps": 1,
     "extras": [],
@@ -293,7 +567,12 @@
     "needsReview": true,
     "localImageFolder": "J95 《中国妇女第五次全国代表大会》",
     "stamps": [
-      { "sn": 1, "name": "中国妇女", "denomination": "8分", "image": "/images/stamps/1983/J95-1.jpg" }
+      {
+        "sn": 1,
+        "name": "中国妇女",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J95-1.jpg"
+      }
     ]
   },
   {
@@ -303,7 +582,10 @@
     "title": "中华人民共和国第五届运动会",
     "issueDate": "1983-09-16",
     "year": 1983,
-    "themes": ["体育", "全运会"],
+    "themes": [
+      "体育",
+      "全运会"
+    ],
     "designer": "邹建军",
     "totalStamps": 6,
     "extras": [],
@@ -312,12 +594,42 @@
     "needsReview": true,
     "localImageFolder": "J93 《中华人民共和国第五届运动会》",
     "stamps": [
-      { "sn": 1, "name": "会徽", "denomination": "4分", "image": "/images/stamps/1983/J93-1.jpg" },
-      { "sn": 2, "name": "自由体操", "denomination": "8分", "image": "/images/stamps/1983/J93-2.jpg" },
-      { "sn": 3, "name": "羽毛球", "denomination": "8分", "image": "/images/stamps/1983/J93-3.jpg" },
-      { "sn": 4, "name": "跳水", "denomination": "8分", "image": "/images/stamps/1983/J93-4.jpg" },
-      { "sn": 5, "name": "跳高", "denomination": "20分", "image": "/images/stamps/1983/J93-5.jpg" },
-      { "sn": 6, "name": "帆板", "denomination": "70分", "image": "/images/stamps/1983/J93-6.jpg" }
+      {
+        "sn": 1,
+        "name": "会徽",
+        "denomination": "4分",
+        "image": "/images/stamps/1983/J93-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "自由体操",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J93-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "羽毛球",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J93-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "跳水",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J93-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "跳高",
+        "denomination": "20分",
+        "image": "/images/stamps/1983/J93-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "帆板",
+        "denomination": "70分",
+        "image": "/images/stamps/1983/J93-6.jpg"
+      }
     ]
   },
   {
@@ -327,7 +639,10 @@
     "title": "计划生育",
     "issueDate": "1983-09-19",
     "year": 1983,
-    "themes": ["历史事件", "民生"],
+    "themes": [
+      "历史事件",
+      "民生"
+    ],
     "designer": "华明雄",
     "totalStamps": 2,
     "extras": [],
@@ -336,8 +651,18 @@
     "needsReview": true,
     "localImageFolder": "T91 《计划生育》",
     "stamps": [
-      { "sn": 1, "name": "一对夫妇生一个孩子", "denomination": "8分", "image": "/images/stamps/1983/T91-1.jpg" },
-      { "sn": 2, "name": "人口、耕地与粮食", "denomination": "20分", "image": "/images/stamps/1983/T91-2.jpg" }
+      {
+        "sn": 1,
+        "name": "一对夫妇生一个孩子",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T91-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "人口、耕地与粮食",
+        "denomination": "20分",
+        "image": "/images/stamps/1983/T91-2.jpg"
+      }
     ]
   },
   {
@@ -347,7 +672,10 @@
     "title": "中国工会第十次全国代表大会",
     "issueDate": "1983-10-18",
     "year": 1983,
-    "themes": ["历史事件", "工人运动"],
+    "themes": [
+      "历史事件",
+      "工人运动"
+    ],
     "designer": "刘硕仁",
     "totalStamps": 1,
     "extras": [],
@@ -356,7 +684,12 @@
     "needsReview": true,
     "localImageFolder": "J98 《中国工会第十次全国代表大会》",
     "stamps": [
-      { "sn": 1, "name": "铁锤和齿轮", "denomination": "8分", "image": "/images/stamps/1983/J98-1.jpg" }
+      {
+        "sn": 1,
+        "name": "铁锤和齿轮",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J98-1.jpg"
+      }
     ]
   },
   {
@@ -366,7 +699,11 @@
     "title": "天鹅",
     "issueDate": "1983-11-18",
     "year": 1983,
-    "themes": ["动物", "鸟类", "天鹅"],
+    "themes": [
+      "动物",
+      "鸟类",
+      "天鹅"
+    ],
     "designer": "万维生",
     "totalStamps": 4,
     "extras": [],
@@ -375,10 +712,30 @@
     "needsReview": true,
     "localImageFolder": "T83 《天鹅》",
     "stamps": [
-      { "sn": 1, "name": "嬉水", "denomination": "8分", "image": "/images/stamps/1983/T83-1.jpg" },
-      { "sn": 2, "name": "情侣", "denomination": "8分", "image": "/images/stamps/1983/T83-2.jpg" },
-      { "sn": 3, "name": "漫游", "denomination": "10分", "image": "/images/stamps/1983/T83-3.jpg" },
-      { "sn": 4, "name": "飞翔", "denomination": "80分", "image": "/images/stamps/1983/T83-4.jpg" }
+      {
+        "sn": 1,
+        "name": "嬉水",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T83-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "情侣",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/T83-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "漫游",
+        "denomination": "10分",
+        "image": "/images/stamps/1983/T83-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "飞翔",
+        "denomination": "80分",
+        "image": "/images/stamps/1983/T83-4.jpg"
+      }
     ]
   },
   {
@@ -388,7 +745,10 @@
     "title": "刘少奇同志诞生八十五周年",
     "issueDate": "1983-11-24",
     "year": 1983,
-    "themes": ["共产党人", "领袖"],
+    "themes": [
+      "共产党人",
+      "领袖"
+    ],
     "designer": "邓锡清",
     "totalStamps": 4,
     "extras": [],
@@ -397,10 +757,30 @@
     "needsReview": true,
     "localImageFolder": "J96 《刘少奇同志诞生八十五周年》",
     "stamps": [
-      { "sn": 1, "name": "刘少奇同志像", "denomination": "8分", "image": "/images/stamps/1983/J96-1.jpg" },
-      { "sn": 2, "name": "刘少奇在中共八大作政治报告", "denomination": "8分", "image": "/images/stamps/1983/J96-2.jpg" },
-      { "sn": 3, "name": "刘少奇在陕甘宁边区劳动英雄大会上作报告", "denomination": "8分", "image": "/images/stamps/1983/J96-3.jpg" },
-      { "sn": 4, "name": "刘少奇接见劳动模范时传祥", "denomination": "8分", "image": "/images/stamps/1983/J96-4.jpg" }
+      {
+        "sn": 1,
+        "name": "刘少奇同志像",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J96-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "刘少奇在中共八大作政治报告",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J96-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "刘少奇在陕甘宁边区劳动英雄大会上作报告",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J96-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "刘少奇接见劳动模范时传祥",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J96-4.jpg"
+      }
     ]
   },
   {
@@ -410,7 +790,11 @@
     "title": "中华全国集邮展览·1983·北京",
     "issueDate": "1983-11-29",
     "year": 1983,
-    "themes": ["文化", "集邮", "全国集邮展览"],
+    "themes": [
+      "文化",
+      "集邮",
+      "全国集邮展览"
+    ],
     "designer": "黄里",
     "totalStamps": 2,
     "extras": [],
@@ -419,8 +803,18 @@
     "needsReview": true,
     "localImageFolder": "J99 《中华全国集邮展览·1983·北京》",
     "stamps": [
-      { "sn": 1, "name": "票中票（国徽）", "denomination": "8分", "image": "/images/stamps/1983/J99-1.jpg" },
-      { "sn": 2, "name": "票中票（延安宝塔山）", "denomination": "20分", "image": "/images/stamps/1983/J99-2.jpg" }
+      {
+        "sn": 1,
+        "name": "票中票（国徽）",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J99-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "票中票（延安宝塔山）",
+        "denomination": "20分",
+        "image": "/images/stamps/1983/J99-2.jpg"
+      }
     ]
   },
   {
@@ -430,7 +824,11 @@
     "title": "毛泽东同志诞生九十周年",
     "issueDate": "1983-12-26",
     "year": 1983,
-    "themes": ["共产党人", "毛泽东", "领袖"],
+    "themes": [
+      "共产党人",
+      "毛泽东",
+      "领袖"
+    ],
     "designer": "潘可明",
     "totalStamps": 4,
     "extras": [],
@@ -439,10 +837,30 @@
     "needsReview": true,
     "localImageFolder": "J97 《毛泽东同志诞生九十周年》",
     "stamps": [
-      { "sn": 1, "name": "毛泽东同志1925年在广州", "denomination": "8分", "image": "/images/stamps/1983/J97-1.jpg" },
-      { "sn": 2, "name": "毛泽东同志1945年在延安", "denomination": "8分", "image": "/images/stamps/1983/J97-2.jpg" },
-      { "sn": 3, "name": "毛泽东同志1952年视察黄河", "denomination": "8分", "image": "/images/stamps/1983/J97-3.jpg" },
-      { "sn": 4, "name": "毛泽东同志1961年在江西", "denomination": "8分", "image": "/images/stamps/1983/J97-4.jpg" }
+      {
+        "sn": 1,
+        "name": "毛泽东同志1925年在广州",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J97-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "毛泽东同志1945年在延安",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J97-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "毛泽东同志1952年视察黄河",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J97-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "毛泽东同志1961年在江西",
+        "denomination": "8分",
+        "image": "/images/stamps/1983/J97-4.jpg"
+      }
     ]
   }
 ]

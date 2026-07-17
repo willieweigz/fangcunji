@@ -6,7 +6,12 @@
     "title": "熊猫",
     "issueDate": "1973-01-15",
     "year": 1973,
-    "themes": ["动物", "濒危动物", "熊猫"],
+    "themes": [
+      "动物",
+      "哺乳动物",
+      "濒危动物",
+      "熊猫"
+    ],
     "designer": "许彦博",
     "totalStamps": 6,
     "extras": [],
@@ -16,12 +21,42 @@
     "needsReview": true,
     "localImageFolder": "编号57-62 《熊猫》",
     "stamps": [
-      {"sn": 1, "name": "熊猫", "denomination": "20分", "image": "/images/stamps/1973/编号57-62-1.jpg"},
-      {"sn": 2, "name": "熊猫", "denomination": "10分", "image": "/images/stamps/1973/编号57-62-2.jpg"},
-      {"sn": 3, "name": "熊猫", "denomination": "8分", "image": "/images/stamps/1973/编号57-62-3.jpg"},
-      {"sn": 4, "name": "熊猫", "denomination": "8分", "image": "/images/stamps/1973/编号57-62-4.jpg"},
-      {"sn": 5, "name": "熊猫", "denomination": "4分", "image": "/images/stamps/1973/编号57-62-5.jpg"},
-      {"sn": 6, "name": "熊猫", "denomination": "43分", "image": "/images/stamps/1973/编号57-62-6.jpg"}
+      {
+        "sn": 1,
+        "name": "熊猫",
+        "denomination": "20分",
+        "image": "/images/stamps/1973/编号57-62-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "熊猫",
+        "denomination": "10分",
+        "image": "/images/stamps/1973/编号57-62-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "熊猫",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号57-62-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "熊猫",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号57-62-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "熊猫",
+        "denomination": "4分",
+        "image": "/images/stamps/1973/编号57-62-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "熊猫",
+        "denomination": "43分",
+        "image": "/images/stamps/1973/编号57-62-6.jpg"
+      }
     ]
   },
   {
@@ -31,7 +66,11 @@
     "title": "中国妇女",
     "issueDate": "1973-03-08",
     "year": 1973,
-    "themes": ["人物", "现代人", "妇女"],
+    "themes": [
+      "人物",
+      "现代人",
+      "妇女"
+    ],
     "designer": "张源、杨白子",
     "totalStamps": 3,
     "extras": [],
@@ -41,9 +80,24 @@
     "needsReview": true,
     "localImageFolder": "编号63-65 《中国妇女》",
     "stamps": [
-      {"sn": 1, "name": "矿山新兵", "denomination": "8分", "image": "/images/stamps/1973/编号63-65-1.jpg"},
-      {"sn": 2, "name": "女委员", "denomination": "8分", "image": "/images/stamps/1973/编号63-65-2.jpg"},
-      {"sn": 3, "name": "我是海燕", "denomination": "8分", "image": "/images/stamps/1973/编号63-65-3.jpg"}
+      {
+        "sn": 1,
+        "name": "矿山新兵",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号63-65-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "女委员",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号63-65-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "我是海燕",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号63-65-3.jpg"
+      }
     ]
   },
   {
@@ -53,7 +107,10 @@
     "title": "儿童歌舞",
     "issueDate": "1973-06-01",
     "year": 1973,
-    "themes": ["6.1儿童邮票", "儿童歌舞"],
+    "themes": [
+      "6.1儿童邮票",
+      "儿童歌舞"
+    ],
     "designer": "吴建坤",
     "totalStamps": 5,
     "extras": [],
@@ -63,11 +120,36 @@
     "needsReview": true,
     "localImageFolder": "编号86-90 《儿童歌舞》",
     "stamps": [
-      {"sn": 1, "name": "秧歌舞（汉族）", "denomination": "8分", "image": "/images/stamps/1973/编号86-90-1.jpg"},
-      {"sn": 2, "name": "拉马头琴（蒙古族）", "denomination": "8分", "image": "/images/stamps/1973/编号86-90-2.jpg"},
-      {"sn": 3, "name": "哈达舞（藏族）", "denomination": "8分", "image": "/images/stamps/1973/编号86-90-3.jpg"},
-      {"sn": 4, "name": "手鼓舞（维吾尔族）", "denomination": "8分", "image": "/images/stamps/1973/编号86-90-4.jpg"},
-      {"sn": 5, "name": "长鼓舞（朝鲜族）", "denomination": "8分", "image": "/images/stamps/1973/编号86-90-5.jpg"}
+      {
+        "sn": 1,
+        "name": "秧歌舞（汉族）",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号86-90-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "拉马头琴（蒙古族）",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号86-90-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "哈达舞（藏族）",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号86-90-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "手鼓舞（维吾尔族）",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号86-90-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "长鼓舞（朝鲜族）",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号86-90-5.jpg"
+      }
     ]
   },
   {
@@ -77,7 +159,10 @@
     "title": "亚非拉乒乓球友好邀请赛",
     "issueDate": "1973-08-25",
     "year": 1973,
-    "themes": ["体育", "乒乓球"],
+    "themes": [
+      "体育",
+      "乒乓球"
+    ],
     "designer": "张克让",
     "totalStamps": 4,
     "extras": [],
@@ -87,10 +172,30 @@
     "needsReview": true,
     "localImageFolder": "编号91-94 《亚非拉乒乓球友好邀请赛》",
     "stamps": [
-      {"sn": 1, "name": "亚非拉乒乓球友好邀请赛标志", "denomination": "8分", "image": "/images/stamps/1973/编号91-94-1.jpg"},
-      {"sn": 2, "name": "热烈欢迎亚非拉朋友", "denomination": "8分", "image": "/images/stamps/1973/编号91-94-2.jpg"},
-      {"sn": 3, "name": "女乒乓球运动员", "denomination": "8分", "image": "/images/stamps/1973/编号91-94-3.jpg"},
-      {"sn": 4, "name": "团结和友谊", "denomination": "22分", "image": "/images/stamps/1973/编号91-94-4.jpg"}
+      {
+        "sn": 1,
+        "name": "亚非拉乒乓球友好邀请赛标志",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号91-94-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "热烈欢迎亚非拉朋友",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号91-94-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "女乒乓球运动员",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号91-94-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "团结和友谊",
+        "denomination": "22分",
+        "image": "/images/stamps/1973/编号91-94-4.jpg"
+      }
     ]
   },
   {
@@ -100,7 +205,11 @@
     "title": "革命现代舞剧《白毛女》",
     "issueDate": "1973-09-25",
     "year": 1973,
-    "themes": ["文化", "舞剧", "样板戏"],
+    "themes": [
+      "文化",
+      "舞剧",
+      "样板戏"
+    ],
     "designer": "尹定邦、杨白子",
     "totalStamps": 4,
     "extras": [],
@@ -110,10 +219,30 @@
     "needsReview": true,
     "localImageFolder": "编号53-56 《革命现代舞剧《白毛女》》",
     "stamps": [
-      {"sn": 1, "name": "喜儿", "denomination": "8分", "image": "/images/stamps/1973/编号53-56-1.jpg"},
-      {"sn": 2, "name": "盼东方出红日", "denomination": "8分", "image": "/images/stamps/1973/编号53-56-2.jpg"},
-      {"sn": 3, "name": "愤怒诉说", "denomination": "8分", "image": "/images/stamps/1973/编号53-56-3.jpg"},
-      {"sn": 4, "name": "喜儿参军", "denomination": "8分", "image": "/images/stamps/1973/编号53-56-4.jpg"}
+      {
+        "sn": 1,
+        "name": "喜儿",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号53-56-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "盼东方出红日",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号53-56-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "愤怒诉说",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号53-56-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "喜儿参军",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号53-56-4.jpg"
+      }
     ]
   },
   {
@@ -123,7 +252,10 @@
     "title": "中国出口商品交易会",
     "issueDate": "1973-10-15",
     "year": 1973,
-    "themes": ["历史事件", "经贸"],
+    "themes": [
+      "历史事件",
+      "经贸"
+    ],
     "designer": "杨白子",
     "totalStamps": 1,
     "extras": [],
@@ -133,7 +265,12 @@
     "needsReview": true,
     "localImageFolder": "编号95 《中国出口商品交易会》",
     "stamps": [
-      {"sn": 1, "name": "中国出口商品交易会", "denomination": "8分", "image": "/images/stamps/1973/编号95-1.jpg"}
+      {
+        "sn": 1,
+        "name": "中国出口商品交易会",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号95-1.jpg"
+      }
     ]
   },
   {
@@ -143,7 +280,10 @@
     "title": "交通运输图案普通邮票",
     "issueDate": "1973-10-20",
     "year": 1973,
-    "themes": ["普票", "交通运输"],
+    "themes": [
+      "普票",
+      "交通运输"
+    ],
     "designer": "卢天骄、陈晓聪",
     "totalStamps": 2,
     "extras": [],
@@ -152,8 +292,18 @@
     "needsReview": true,
     "localImageFolder": "普15 《交通运输图案普通邮票》",
     "stamps": [
-      {"sn": 1, "name": "铁路运输", "denomination": "1元", "image": "/images/stamps/1973/普15-1.jpg"},
-      {"sn": 2, "name": "公路运输", "denomination": "2元", "image": "/images/stamps/1973/普15-2.jpg"}
+      {
+        "sn": 1,
+        "name": "铁路运输",
+        "denomination": "1元",
+        "image": "/images/stamps/1973/普15-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "公路运输",
+        "denomination": "2元",
+        "image": "/images/stamps/1973/普15-2.jpg"
+      }
     ]
   },
   {
@@ -163,7 +313,10 @@
     "title": "文化大革命期间出土文物",
     "issueDate": "1973-11-20",
     "year": 1973,
-    "themes": ["文物古迹", "出土文物"],
+    "themes": [
+      "文物古迹",
+      "出土文物"
+    ],
     "designer": "吴建坤",
     "totalStamps": 12,
     "extras": [],
@@ -173,18 +326,78 @@
     "needsReview": true,
     "localImageFolder": "编号66-77 《文化大革命期间出土文物》",
     "stamps": [
-      {"sn": 1, "name": "青花凤首扁壶", "denomination": "4分", "image": "/images/stamps/1973/编号66-77-1.jpg"},
-      {"sn": 2, "name": "鎏金舞马衔杯银壶", "denomination": "4分", "image": "/images/stamps/1973/编号66-77-2.jpg"},
-      {"sn": 3, "name": "黑彩马", "denomination": "8分", "image": "/images/stamps/1973/编号66-77-3.jpg"},
-      {"sn": 4, "name": "泥俑", "denomination": "8分", "image": "/images/stamps/1973/编号66-77-4.jpg"},
-      {"sn": 5, "name": "石雕柱础", "denomination": "8分", "image": "/images/stamps/1973/编号66-77-5.jpg"},
-      {"sn": 6, "name": "天马", "denomination": "8分", "image": "/images/stamps/1973/编号66-77-6.jpg"},
-      {"sn": 7, "name": "鎏金镶嵌铜砚盒", "denomination": "8分", "image": "/images/stamps/1973/编号66-77-7.jpg"},
-      {"sn": 8, "name": "长信宫灯", "denomination": "8分", "image": "/images/stamps/1973/编号66-77-8.jpg"},
-      {"sn": 9, "name": "鸭纽盖铜鼎", "denomination": "10分", "image": "/images/stamps/1973/编号66-77-9.jpg"},
-      {"sn": 10, "name": "曾中游父方壶", "denomination": "10分", "image": "/images/stamps/1973/编号66-77-10.jpg"},
-      {"sn": 11, "name": "青铜提梁卣", "denomination": "20分", "image": "/images/stamps/1973/编号66-77-11.jpg"},
-      {"sn": 12, "name": "彩绘红陶鼎", "denomination": "52分", "image": "/images/stamps/1973/编号66-77-12.jpg"}
+      {
+        "sn": 1,
+        "name": "青花凤首扁壶",
+        "denomination": "4分",
+        "image": "/images/stamps/1973/编号66-77-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "鎏金舞马衔杯银壶",
+        "denomination": "4分",
+        "image": "/images/stamps/1973/编号66-77-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "黑彩马",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号66-77-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "泥俑",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号66-77-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "石雕柱础",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号66-77-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "天马",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号66-77-6.jpg"
+      },
+      {
+        "sn": 7,
+        "name": "鎏金镶嵌铜砚盒",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号66-77-7.jpg"
+      },
+      {
+        "sn": 8,
+        "name": "长信宫灯",
+        "denomination": "8分",
+        "image": "/images/stamps/1973/编号66-77-8.jpg"
+      },
+      {
+        "sn": 9,
+        "name": "鸭纽盖铜鼎",
+        "denomination": "10分",
+        "image": "/images/stamps/1973/编号66-77-9.jpg"
+      },
+      {
+        "sn": 10,
+        "name": "曾中游父方壶",
+        "denomination": "10分",
+        "image": "/images/stamps/1973/编号66-77-10.jpg"
+      },
+      {
+        "sn": 11,
+        "name": "青铜提梁卣",
+        "denomination": "20分",
+        "image": "/images/stamps/1973/编号66-77-11.jpg"
+      },
+      {
+        "sn": 12,
+        "name": "彩绘红陶鼎",
+        "denomination": "52分",
+        "image": "/images/stamps/1973/编号66-77-12.jpg"
+      }
     ]
   }
 ]

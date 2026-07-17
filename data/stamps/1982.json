@@ -91,7 +91,7 @@
   },
   {
     "id":"J86","series":"J","type":"纪念邮票","title":"中国共产党第十二次全国代表大会","issueDate":"1982-09-01","year":1982,
-    "themes":["历史事件","党史","十二大"],"designer":"卢天骄","totalStamps":1,"extras":[],
+    "themes":["历史事件","党史","党代会"],"designer":"卢天骄","totalStamps":1,"extras":[],
     "description":"中国共产党第十二次全国代表大会于1982年9月在**北京**举行。邮票把**天安门**、党徽和数字“12”组合在同一画面中，以简洁构图标明会议届次与纪念主题。","quantity":"869.66万枚","source":"本地邮票资料与票面图片核对","needsReview":true,"localImageFolder":"J86 《中国共产党第十二次全国代表大会》",
     "stamps":[{"sn":1,"name":"党徽和“12”","denomination":"8分","image":"/images/stamps/1982/J86-1.jpg"}]
   },
