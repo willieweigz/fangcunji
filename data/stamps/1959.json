@@ -24,7 +24,7 @@
   },
   {
     "id": "纪59", "series": "纪", "type": "纪念邮票", "title": "三八国际妇女节", "issueDate": "1959-03-08", "year": 1959,
-    "themes": ["节日", "现代节日"], "designer": "卢天骄", "totalStamps": 2, "extras": [],
+    "themes": ["节日", "现代节日", "妇女节"], "designer": "卢天骄", "totalStamps": 2, "extras": [],
     "description": "为纪念三八国际妇女节发行。第1枚集合工、农、商、学、兵各界妇女形象，第2枚以不同肤色的各国妇女并肩站立，表达全世界妇女团结的主题。",
     "needsReview": true, "localImageFolder": "纪59 《三八国际妇女节》",
     "stamps": [
