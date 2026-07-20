@@ -1,6 +1,7 @@
 import "./globals.css";
 import Link from "next/link";
 import type { Metadata } from "next";
+import HeaderSearch from "@/components/HeaderSearch";
 
 export const metadata: Metadata = {
   title: "方寸集 — 中国邮票图鉴",
@@ -35,6 +36,7 @@ export default function RootLayout({
                 我的收藏
               </Link>
             </nav>
+            <HeaderSearch />
           </div>
         </header>
         <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-8">
