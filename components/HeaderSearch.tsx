@@ -25,8 +25,8 @@ export default function HeaderSearch() {
   const [open, setOpen] = useState(false);
   const [items, setItems] = useState<SearchItem[] | null>(null);
 
-  // 首页正文自带大搜索框，顶栏不重复显示
-  if (pathname === "/") return null;
+  // 邮票馆首页正文自带大搜索框，顶栏不重复显示
+  if (pathname === "/stamps") return null;
 
   const query = q.trim().toLowerCase();
   const results =

@@ -32,7 +32,7 @@ export default async function StampDetailPage({
   return (
     <div>
       <nav className="mb-6 text-sm text-faded">
-        <Link href="/" className="hover:text-seal">
+        <Link href="/stamps" className="hover:text-seal">
           首页
         </Link>
         {" / "}
