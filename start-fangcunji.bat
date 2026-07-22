@@ -19,7 +19,7 @@ if errorlevel 1 (
 rem 已经在跑就直接开浏览器
 netstat -ano | findstr ":3000" | findstr "LISTENING" >nul
 if %errorlevel%==0 (
-  start "" "http://localhost:3000"
+  start "" "http://localhost:3000/stamps"
   exit /b 0
 )
 
@@ -30,7 +30,7 @@ echo   注意：请保持本窗口开着，关闭窗口 = 停止网站
 echo   如果这个窗口很快自己关闭，说明启动出错，
 echo   请重新双击一次，仔细看这里打印的报错信息
 echo ============================================
-start "" cmd /c "timeout /t 6 /nobreak >nul & start http://localhost:3000"
+start "" cmd /c "timeout /t 6 /nobreak >nul & start http://localhost:3000/stamps"
 
 call npm run dev
 if errorlevel 1 (

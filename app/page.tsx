@@ -80,6 +80,50 @@ function MountainDivider() {
   );
 }
 
+// 书签形入口：竖长方形，顶部彩色条 + 挂穗孔，内容竖排其中
+function Bookmark({
+  href,
+  accent,
+  name,
+  subtitle,
+  open,
+  children,
+}: {
+  href: string;
+  accent: string;
+  name: string;
+  subtitle: string;
+  open?: boolean;
+  children: React.ReactNode;
+}) {
+  return (
+    <Link
+      href={href}
+      className="group flex w-60 flex-col overflow-hidden rounded-sm border border-ink/15 bg-cream shadow-sm transition-all hover:-translate-y-1 hover:shadow-lg"
+    >
+      {/* 书签天头：彩色条 + 挂穗孔 */}
+      <div
+        className="relative flex h-12 items-center justify-center"
+        style={{ backgroundColor: accent }}
+      >
+        <span className="h-2.5 w-2.5 rounded-full border border-white/50 bg-cream/30" />
+      </div>
+      {/* 书签正文 */}
+      <div className="flex flex-1 flex-col items-center px-6 pb-8 pt-7 text-center">
+        <div
+          className={`font-serif-cn text-3xl font-bold tracking-[0.2em] ${
+            open ? "text-seal" : "text-ink/75"
+          }`}
+        >
+          {name}
+        </div>
+        <div className="mt-2 text-sm text-faded">{subtitle}</div>
+        <div className="mt-6 flex flex-1 flex-col">{children}</div>
+      </div>
+    </Link>
+  );
+}
+
 // 总门厅：三馆入口
 export default function Portal() {
   const sets = getAllSets();
@@ -109,61 +153,38 @@ export default function Portal() {
           <MountainDivider />
         </section>
 
-        <section className="mx-auto grid max-w-5xl gap-6 pb-10 md:grid-cols-3">
+        <section className="flex flex-wrap items-stretch justify-center gap-8 pb-12">
           {/* 邮票馆（已开放） */}
-          <Link
-            href="/stamps"
-            className="group border-2 border-ink/20 bg-cream p-8 text-center shadow-sm transition-shadow hover:shadow-lg"
-          >
-            <div className="font-serif-cn text-3xl font-bold tracking-[0.2em] text-seal">
-              方寸集
-            </div>
-            <div className="mt-2 text-sm text-faded">中国邮票图鉴</div>
-            <p className="mt-6 text-sm leading-relaxed text-faded">
+          <Bookmark href="/stamps" accent="#b23a2a" open name="方寸集" subtitle="中国邮票图鉴">
+            <p className="text-sm leading-relaxed text-faded">
               已收录 <span className="font-bold text-seal">{sets.length}</span> 套、
               <span className="font-bold text-seal">{totalStamps}</span> 枚邮票，
               覆盖 {years[years.length - 1]?.year}–{years[0]?.year} 年。
             </p>
-            <div className="mt-6 text-sm text-postal group-hover:underline">
+            <div className="mt-auto pt-8 text-sm text-postal group-hover:underline">
               进入邮票馆 →
             </div>
-          </Link>
+          </Bookmark>
 
           {/* 画册馆（筹备中） */}
-          <Link
-            href="/albums"
-            className="group border-2 border-ink/20 bg-cream/60 p-8 text-center shadow-sm transition-shadow hover:shadow-lg"
-          >
-            <div className="font-serif-cn text-3xl font-bold tracking-[0.2em] text-ink/70">
-              画 册
-            </div>
-            <div className="mt-2 text-sm text-faded">古籍原稿 · 自制图册</div>
-            <p className="mt-6 text-sm leading-relaxed text-faded">
-              清代彩绘原稿与自制工笔画册，
-              以图辅文，读懂古典小说。
+          <Bookmark href="/albums" accent="#2c5f8a" name="画 册" subtitle="古籍原稿 · 自制图册">
+            <p className="text-sm leading-relaxed text-faded">
+              清代彩绘原稿与自制工笔画册，以图辅文，读懂古典小说。
             </p>
-            <div className="mt-6 text-sm text-faded group-hover:underline">
+            <div className="mt-auto pt-8 text-sm text-faded group-hover:underline">
               筹备中 →
             </div>
-          </Link>
+          </Bookmark>
 
           {/* 名画馆（筹备中） */}
-          <Link
-            href="/gallery"
-            className="group border-2 border-ink/20 bg-cream/60 p-8 text-center shadow-sm transition-shadow hover:shadow-lg"
-          >
-            <div className="font-serif-cn text-3xl font-bold tracking-[0.2em] text-ink/70">
-              中外名画
-            </div>
-            <div className="mt-2 text-sm text-faded">画廊 · 中西对望</div>
-            <p className="mt-6 text-sm leading-relaxed text-faded">
-              从<span className="font-serif-cn">仇英、唐寅</span>到文艺复兴与浮世绘，
-              如逛画展般欣赏中外名作。
+          <Bookmark href="/gallery" accent="#c9a227" name="中外名画" subtitle="画廊 · 中西对望">
+            <p className="text-sm leading-relaxed text-faded">
+              从仇英、唐寅到文艺复兴与浮世绘，如逛画展般欣赏中外名作。
             </p>
-            <div className="mt-6 text-sm text-faded group-hover:underline">
+            <div className="mt-auto pt-8 text-sm text-faded group-hover:underline">
               筹备中 →
             </div>
-          </Link>
+          </Bookmark>
         </section>
       </main>
     </div>
