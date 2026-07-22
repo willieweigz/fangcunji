@@ -1,5 +1,6 @@
 @echo off
-title Fangcunji Stamp Website
+chcp 65001 >nul
+title Collection Portal - Stamps / Paintings / Albums
 cd /d "%~dp0"
 
 rem If already running, just open the browser
@@ -10,9 +11,9 @@ if %errorlevel%==0 (
 )
 
 echo ============================================
-echo   ·½´ç¼¯ÓÊÆ±ÍøÕ¾Æô¶¯ÖÐ£¬ÇëÉÔºò...
-echo   Æô¶¯ºó»á×Ô¶¯´ò¿ªä¯ÀÀÆ÷
-echo   ×¢Òâ£ºÇë±£³Ö±¾´°¿Ú¿ª×Å£¬¹Ø±Õ´°¿Ú=Í£Ö¹ÍøÕ¾
+echo   æ€»ç«™å¯åŠ¨ä¸­ï¼Œè¯·ç¨å€™...
+echo   æµè§ˆå™¨å°†è‡ªåŠ¨æ‰“å¼€æ€»é—¨åŽ…ï¼ˆé‚®ç¥¨é¦†/åç”»é¦†/ç”»å†Œé¦†ï¼‰
+echo   æ³¨æ„ï¼šè¯·ä¿æŒæœ¬çª—å£å¼€ç€ï¼Œå…³é—­çª—å£=åœæ­¢ç½‘ç«™
 echo ============================================
 start "" cmd /c "timeout /t 6 /nobreak >nul & start http://localhost:3000"
 npm run dev

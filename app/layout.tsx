@@ -2,9 +2,9 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "藏馆 — 邮票 · 名画 · 画册",
+  title: "纸上山河 — 邮票 · 画册 · 名画",
   description:
-    "个人收藏与学习空间：方寸集邮票图鉴、中外名画、画册，三馆合一。",
+    "个人收藏与学习空间：方寸集邮票图鉴、画册、中外名画，三馆合一。",
 };
 
 export default function RootLayout({
