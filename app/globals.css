@@ -22,6 +22,13 @@ body {
   background-size: 22px 22px;
 }
 
+/* 总门厅整屏"山水青"（含页脚）——页脚背景透明后由 body 统一提供 */
+body:has(.portal-root) {
+  background-color: #dde6e0;
+  background-image: radial-gradient(rgba(31, 59, 47, 0.05) 1px, transparent 1px);
+  background-size: 16px 16px;
+}
+
 .font-serif-cn {
   font-family: "Noto Serif SC", "Songti SC", "SimSun", "STSong", serif;
 }

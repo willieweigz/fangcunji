@@ -22,21 +22,21 @@ function GuanFuSeal() {
         strokeWidth="1.4"
         opacity="0.4"
       />
-      {/* 传统三字印排布：右列一字、左列两字，自右向左读"观复斋" */}
+      {/* 三字两列印：右列自上而下"观""复"（先读），左列"斋"单字放大居中 */}
       <text
-        x="69"
-        y="61"
+        x="67"
+        y="44"
         textAnchor="middle"
         fill="#fbf7ec"
-        fontSize="36"
+        fontSize="30"
         fontWeight="bold"
         style={{ fontFamily: '"Noto Serif SC","Songti SC","SimSun",serif' }}
       >
         观
       </text>
       <text
-        x="29"
-        y="43"
+        x="67"
+        y="80"
         textAnchor="middle"
         fill="#fbf7ec"
         fontSize="30"
@@ -47,10 +47,10 @@ function GuanFuSeal() {
       </text>
       <text
         x="29"
-        y="79"
+        y="63"
         textAnchor="middle"
         fill="#fbf7ec"
-        fontSize="30"
+        fontSize="40"
         fontWeight="bold"
         style={{ fontFamily: '"Noto Serif SC","Songti SC","SimSun",serif' }}
       >
@@ -131,16 +131,8 @@ export default function Portal() {
   const totalStamps = sets.reduce((n, s) => n + s.totalStamps, 0);
 
   return (
-    <div
-      className="flex-1"
-      style={{
-        // 门厅用"山水青"——与邮票馆的米黄纸色完全错开色相，扣"纸上山河"的山水意象
-        backgroundColor: "#dde6e0",
-        backgroundImage:
-          "radial-gradient(rgba(31,59,47,0.05) 1px, transparent 1px)",
-        backgroundSize: "16px 16px",
-      }}
-    >
+    // portal-root 触发 body 的"山水青"整屏背景（含页脚），见 globals.css
+    <div className="portal-root flex-1">
       <main className="mx-auto w-full max-w-6xl px-4 py-8">
         <section className="py-14 text-center">
           <h1 className="font-serif-cn text-5xl font-bold tracking-[0.3em] text-ink">
