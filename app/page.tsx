@@ -90,9 +90,10 @@ export default function Portal() {
     <div
       className="flex-1"
       style={{
-        backgroundColor: "#ede2c8",
+        // 门厅用"山水青"——与邮票馆的米黄纸色完全错开色相，扣"纸上山河"的山水意象
+        backgroundColor: "#dde6e0",
         backgroundImage:
-          "radial-gradient(rgba(59,47,35,0.045) 1px, transparent 1px)",
+          "radial-gradient(rgba(31,59,47,0.05) 1px, transparent 1px)",
         backgroundSize: "16px 16px",
       }}
     >
