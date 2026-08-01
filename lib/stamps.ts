@@ -32,42 +32,30 @@ export interface StampSet {
 }
 
 const dataDir = path.join(process.cwd(), "data", "stamps");
-const imageStoreDir = path.join(process.cwd(), "image-store");
 
-// 模块级缓存：避免每次请求都同步读取 20+ JSON + 数千次 fs.existsSync
+// 图片清单：image 路径 → [宽, 高]。图片本体托管在独立仓库（经 jsDelivr 读取），
+// 不随主仓库/Vercel 构建打包，所以构建时不能再读图片文件本体来判断"是否有图"
+// 和"小全张长宽比"，改为读这份由 scripts/build_image_manifest.py 生成的清单。
+// 清单里有某 image = 该图存在；清单外（含 15 张缺图）= 显示"图片待录入"占位。
+type ImageManifest = Record<string, [number, number]>;
+let _imageManifestCache: ImageManifest | null = null;
+function getImageManifest(): ImageManifest {
+  if (_imageManifestCache) return _imageManifestCache;
+  try {
+    _imageManifestCache = JSON.parse(
+      fs.readFileSync(path.join(process.cwd(), "data", "image-manifest.json"), "utf-8")
+    ) as ImageManifest;
+  } catch {
+    _imageManifestCache = {};
+  }
+  return _imageManifestCache;
+}
+
+// 模块级缓存：避免每次请求都同步读取 20+ JSON
 let _allSetsCache: StampSet[] | null = null;
 let _primaryThemeNamesCache: string[] | null = null;
 let _provincesCache: string[] | null = null;
 let _countriesCache: string[] | null = null;
-
-// 读 JPEG 头部拿宽高（仅用于封面比例判断；解析失败返回 null 即回退默认封面）
-function jpegSize(file: string): { w: number; h: number } | null {
-  try {
-    const buf = fs.readFileSync(file);
-    if (buf[0] !== 0xff || buf[1] !== 0xd8) return null;
-    let i = 2;
-    while (i < buf.length - 9) {
-      if (buf[i] !== 0xff) {
-        i++;
-        continue;
-      }
-      const marker = buf[i + 1];
-      if (
-        marker >= 0xc0 &&
-        marker <= 0xcf &&
-        marker !== 0xc4 &&
-        marker !== 0xc8 &&
-        marker !== 0xcc
-      ) {
-        return { h: buf.readUInt16BE(i + 5), w: buf.readUInt16BE(i + 7) };
-      }
-      i += 2 + buf.readUInt16BE(i + 2);
-    }
-  } catch {
-    /* 解析失败按无尺寸处理 */
-  }
-  return null;
-}
 
 export function getAllSets(): StampSet[] {
   if (_allSetsCache) return _allSetsCache;
@@ -79,17 +67,18 @@ export function getAllSets(): StampSet[] {
     ) as StampSet[];
     sets.push(...arr);
   }
+  const manifest = getImageManifest();
   for (const set of sets) {
     for (const stamp of set.stamps) {
-      stamp.hasImage = fs.existsSync(path.join(imageStoreDir, stamp.image));
+      stamp.hasImage = manifest[stamp.image] !== undefined;
     }
     // 封面优选：小全张一张图能看全套，但过于细长的（如四枚横连印）塞进 4:3
     // 卡片会缩成一条细带反而看不清，只有长宽比 ≤3:1 的小全张才标记为优选封面
     const sqz = set.stamps.find((s) => s.format === "小全张" && s.hasImage);
     if (sqz) {
-      const size = jpegSize(path.join(imageStoreDir, sqz.image));
-      if (size && size.h > 0) {
-        const aspect = size.w / size.h;
+      const size = manifest[sqz.image];
+      if (size && size[1] > 0) {
+        const aspect = size[0] / size[1];
         if (aspect <= 3 && aspect >= 1 / 3) sqz.coverPreferred = true;
       }
     }

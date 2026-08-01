@@ -17,6 +17,7 @@ import json
 import os
 import re
 import shutil
+import subprocess
 import sys
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -212,6 +213,18 @@ def main():
         print("\n[需要人工处理]")
         for p in problems:
             print(" -", p)
+
+    # 图片改动后自动重生成尺寸清单（网站构建靠它判断有图/封面比例，见 PRD.md）
+    if copied:
+        print("\n[刷新图片尺寸清单 data/image-manifest.json]")
+        subprocess.run(
+            [sys.executable, os.path.join("scripts", "build_image_manifest.py")],
+            check=False,
+        )
+        print(
+            "⚠ 别忘了把新图推到图片仓库：cd image-store && git add . && "
+            "git commit -m '图片：新增' && git push"
+        )
 
 
 if __name__ == "__main__":

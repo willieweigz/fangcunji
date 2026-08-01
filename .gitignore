@@ -9,8 +9,14 @@ next-dev.err.log
 *.log
 
 # 原始邮票图库（24GB，仅本地录入用，绝不提交到 git / 不部署）
-# 网站只需要 public/images/stamps/ 里筛选压缩后的图片
+# 网站只需要 image-store/images/stamps/ 里筛选压缩后的图片
 新中国邮票图片全集（1949年-2026年最新）/
+
+# 网站用图片：托管在独立仓库 fangcunji-images（经 jsDelivr 读取），不进主仓库。
+# image-store/ 本身是那个图片仓库的一份本地检出（有自己的 .git），主仓库只保留
+# data/image-manifest.json（尺寸清单）。往这里加图后要 cd image-store 推到图片仓库，
+# 并重跑 scripts/build_image_manifest.py。详见 PRD.md"图片托管方案变更"一节。
+image-store/
 
 # Python 缓存
 __pycache__/

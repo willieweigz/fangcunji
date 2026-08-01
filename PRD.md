@@ -174,21 +174,35 @@
 ### 5.2 架构示意
 
 ```
-GitHub 仓库（Public，见下方说明）
- ├── data/stamps/*.json       ← 邮票数据（你维护的核心资产）
- ├── image-store/images/stamps/  ← 邮票图片（不在 public/ 下，不随 Vercel 构建打包）
- └── app/                     ← Next.js 页面代码
+GitHub 仓库 willieweigz/fangcunji（Public，代码+数据，Vercel 构建这个）
+ ├── data/stamps/*.json      ← 邮票数据（你维护的核心资产）
+ ├── data/image-manifest.json← 图片尺寸清单（构建时判断有图/封面比例，由脚本生成）
+ └── app/ components/ lib/   ← Next.js 页面代码（不含任何图片文件）
         │
         ▼  git push 自动触发
-     Vercel 构建 → 生成纯静态页面（不含图片）→ 全球 CDN 分发
+     Vercel 构建 → 生成纯静态页面（不含图片，输出仅 ~120MB）→ 全球 CDN 分发
         │
         ▼
-     访客浏览器：页面来自 Vercel，图片经 jsDelivr 从本仓库直读
-     （https://cdn.jsdelivr.net/gh/willieweigz/fangcunji@main/image-store/...）
-        （收藏状态存在 localStorage）
+     访客浏览器：页面 HTML 来自 Vercel，图片经 jsDelivr 从下面这个独立图片仓库直读
+
+GitHub 仓库 willieweigz/fangcunji-images（Public，只放图片）
+ └── images/stamps/<年份>/<志号>-<枚序>.jpg
+        ▲
+        └── jsDelivr：https://cdn.jsdelivr.net/gh/willieweigz/fangcunji-images@main/images/stamps/...
+            （收藏状态仍存在访客浏览器 localStorage）
 ```
 
-> ℹ️ **2026-08 图片托管方案变更**：图片体积涨到 5000+ 张、1.4GB 后，把它们和 `public/` 一起打进 Vercel 构建的做法导致构建容器磁盘写满（ENOSPC）报错。解决办法是把图片挪到仓库里的 `image-store/`（不再是 Next.js 的 `public/` 静态目录，Vercel 不会把它复制进部署产物），网站改成通过 jsDelivr CDN 直接读取 GitHub 仓库里的图片文件。**代价是仓库必须是 Public**（jsDelivr 读不了私有仓库），已征得站长同意从 Private 改为 Public。jsDelivr 对内容有缓存（通常几小时到一天量级），新增图片上线后可能有短暂延迟，紧急时可用 https://www.jsdelivr.com/tools/purge 手动刷新对应 URL。
+> ℹ️ **2026-08 图片托管方案变更（重要，改图片/部署前必读）**
+>
+> **踩的坑**：图片涨到 5713 张、约 1.4GB 后，Vercel 构建反复失败，报 `ENOSPC`（构建容器磁盘写满）。排查发现即使图片不打进网站输出，只要它们和代码在**同一个 git 仓库**里，Vercel 每次构建就得把这 1.4GB 连同 git 一起 clone 下来，磁盘还是满。
+>
+> **最终方案（已落地）**：图片单独拆到 **`willieweigz/fangcunji-images`** 仓库，主仓库 `fangcunji` 里**一张图都不放**（`image-store/` 已在 `.gitignore` 排除）。网站通过 jsDelivr 从图片仓库读图（见 `lib/image-url.ts`）。构建时需要知道"某枚是否有图 / 小全张长宽比"，改为读 `data/image-manifest.json`（由 `scripts/build_image_manifest.py` 从本地 `image-store/` 生成），不再读图片本体。
+>
+> **本地目录约定**：`image-store/`（在主项目根目录下、已被主仓库忽略）是**图片仓库的一份本地检出**，它自己带一个 `.git` 指向 `fangcunji-images`。日常录入图片仍然导入到 `image-store/images/stamps/<年份>/`。
+>
+> **两个仓库都必须是 Public**（jsDelivr 读不了私有仓库），已征得站长同意；代价是任何人都能 clone 走全部图片原图，这是权衡后接受的。jsDelivr 对 `@main` 内容有缓存（几小时到一天量级），紧急刷新用 https://www.jsdelivr.com/tools/purge 。
+>
+> **加了新图之后要做的额外两步**（见《数据录入手册.md》）：① `cd image-store && git add . && git commit && git push` 把新图推到图片仓库；② 在主项目根 `python scripts/build_image_manifest.py` 重生成清单，连同数据一起提交主仓库。漏了第①步线上没图，漏了第②步网站以为没图显示占位。
 
 ### 5.3 页面路由
 

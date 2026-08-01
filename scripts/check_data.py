@@ -73,6 +73,19 @@ def check_tag_plan(primary_set):
 def check_images(all_sets):
     missing = 0
     oversized = []
+    # 图片尺寸清单：网站构建靠它判断"有图/封面比例"。这里核对它是否与 image-store
+    # 里的实际图片同步，漏更新会导致线上把有图的套票显示成"图片待录入"占位。
+    manifest = {}
+    manifest_path = os.path.join("data", "image-manifest.json")
+    if os.path.exists(manifest_path):
+        try:
+            with open(manifest_path, encoding="utf-8") as f:
+                manifest = json.load(f)
+        except Exception as exc:
+            errors.append(f"data/image-manifest.json 解析失败：{exc}")
+    else:
+        warns.append("缺 data/image-manifest.json，请运行 scripts/build_image_manifest.py")
+    stale = 0
     try:
         from PIL import Image
     except ImportError:
@@ -91,6 +104,9 @@ def check_images(all_sets):
             if not os.path.exists(path):
                 missing += 1
                 continue
+            # 图片在本地存在，但清单里没有 → 清单过期，网站会误判为无图
+            if manifest and image not in manifest:
+                stale += 1
             kb = os.path.getsize(path) / 1024
             if Image:
                 try:
@@ -107,6 +123,11 @@ def check_images(all_sets):
                 oversized.append(f"{image} ({kb:.0f}KB)")
     if missing:
         warns.append(f"缺图 {missing} 枚（允许，占位图会显示，但请在交付说明中注明）")
+    if stale:
+        warns.append(
+            f"图片尺寸清单过期：有 {stale} 张图在 image-store 里但不在 "
+            "data/image-manifest.json，请运行 scripts/build_image_manifest.py 重生成后再提交"
+        )
     for o in oversized:
         warns.append(f"图片超标（>{MAX_EDGE}px 或 >{MAX_KB}KB），请运行 scripts/compress_images.py: {o}")
 
