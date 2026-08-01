@@ -16,3 +16,4 @@
   - push 前**必须先 `git status --short`** 看清楚将提交哪些文件——多 AI / 多会话共用同一文件夹，历史上出过 24GB 图库、`.workbuddy/` 缓存、`nul` 文件被误加入暂存区的情况（这些已在 .gitignore，但仍要人工核一眼）。
   - 标准动作：`git status --short` →（优先精确 add，不要无脑 `git add -A`）`git add <文件>` → `git commit -m "说明"` → `git push`。
   - push 成功后 Vercel 自动构建，1–2 分钟线上生效；不需要手动登录或在 Vercel 后台操作。
+  - **push 后必须查一次公开图片仓库的下载量并报给站长**：`gh api repos/willieweigz/fangcunji-images/traffic/clones`（看 `count`/`uniques`，近14天）。图片仓库是 Public，站长在意版权曝光——**发现下载量异常上涨要主动提示，并问是否把仓库转私有**（转私有线上图会挂，是站长明确接受的取舍）。基线 2026-08-01 为 0。

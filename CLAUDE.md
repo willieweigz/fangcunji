@@ -14,3 +14,4 @@
   - 仓库位置：`G:\微云同步文件夹\邮票网站`（项目根目录本身就是 git 仓库）。远程 `origin` → `https://github.com/willieweigz/fangcunji.git`，分支 `main`。
   - push 前**必须先 `git status --short`** 看清楚将提交哪些文件——多 AI / 多会话共用同一文件夹，历史上出过 24GB 图库、`.workbuddy/` 缓存、`nul` 文件被误加入暂存区的情况（这些已在 .gitignore，但仍要人工核一眼）。
   - 标准动作：`git status --short` →（优先精确 add，不要无脑 `git add -A`）`git add <文件>` → `git commit -m "说明"` → `git push`。push 后 Vercel 自动构建，1–2 分钟线上生效。
+  - **push 后必须查一次公开图片仓库下载量并报给站长**：`gh api repos/willieweigz/fangcunji-images/traffic/clones`（看近14天 `count`/`uniques`）。图片仓库 Public，站长在意版权曝光——下载量异常上涨要主动提示并问是否转私有（转私有线上图会挂，站长已知此取舍）。基线 2026-08-01 为 0。
