@@ -104,6 +104,19 @@ export function getSetById(id: string): StampSet | undefined {
   return getAllSets().find((s) => s.id === id);
 }
 
+export function getStandaloneFormat(set: StampSet): string {
+  const formats = [
+    ...new Set(
+      set.stamps
+        .map((stamp) => stamp.format)
+        .filter((format): format is string => Boolean(format))
+    ),
+  ];
+  if (formats.length > 0) return formats.join("、");
+  if (set.extras.length > 0) return [...new Set(set.extras)].join("、");
+  return "特殊版式";
+}
+
 export function getYears(): { year: number; count: number }[] {
   const map = new Map<number, number>();
   for (const s of getAllSets()) map.set(s.year, (map.get(s.year) ?? 0) + 1);
@@ -148,6 +161,7 @@ const REGION_ALIASES: Record<string, string[]> = {
 };
 // 排除：文字里出现这些更长的词时，不算对应地区（防子串误伤）
 const REGION_EXCLUSIONS: Record<string, string[]> = {
+  上海: ["上海合作组织"],
   蒙古: ["内蒙古"],
   印度: ["印度尼西亚"],
 };

@@ -6,10 +6,29 @@ export type CollectStatus = "none" | "owned" | "wish";
 
 const KEY = "fangcunji-collection";
 
+export function normalizeCollection(
+  value: unknown,
+  validIds?: ReadonlySet<string>
+): Record<string, CollectStatus> {
+  if (value === null || typeof value !== "object" || Array.isArray(value)) {
+    throw new Error("收藏备份的顶层必须是对象");
+  }
+
+  const result: Record<string, CollectStatus> = {};
+  for (const [id, status] of Object.entries(value)) {
+    if (status !== "owned" && status !== "wish") {
+      throw new Error(`邮票 ${id} 的收藏状态不合法`);
+    }
+    if (!validIds || validIds.has(id)) result[id] = status;
+  }
+  return result;
+}
+
 export function loadCollection(): Record<string, CollectStatus> {
   try {
-    return JSON.parse(localStorage.getItem(KEY) || "{}");
+    return normalizeCollection(JSON.parse(localStorage.getItem(KEY) || "{}"));
   } catch {
+    localStorage.removeItem(KEY);
     return {};
   }
 }

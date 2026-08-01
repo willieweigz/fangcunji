@@ -2,32 +2,13 @@
 
 import { useState } from "react";
 import Link from "next/link";
-
-export interface SearchItem {
-  id: string;
-  title: string;
-  year: number;
-  issueDate: string;
-  themes: string[];
-  names: string[];
-}
+import { searchItems, type SearchItem } from "@/lib/search";
 
 export default function SearchBox({ items }: { items: SearchItem[] }) {
   const [q, setQ] = useState("");
   const query = q.trim().toLowerCase();
-
-  const results = query
-    ? items
-        .filter(
-          (it) =>
-            it.id.toLowerCase().includes(query) ||
-            it.title.toLowerCase().includes(query) ||
-            String(it.year).includes(query) ||
-            it.themes.some((t) => t.toLowerCase().includes(query)) ||
-            it.names.some((n) => n.toLowerCase().includes(query))
-        )
-        .slice(0, 10)
-    : [];
+  const allResults = searchItems(items, query);
+  const results = allResults.slice(0, 10);
 
   return (
     <div className="relative mx-auto mt-8 w-full max-w-lg">
@@ -62,6 +43,16 @@ export default function SearchBox({ items }: { items: SearchItem[] }) {
               </Link>
             </li>
           ))}
+          {allResults.length > 10 && (
+            <li className="border-t border-ink/15">
+              <Link
+                href={`/search?q=${encodeURIComponent(q.trim())}`}
+                className="block px-4 py-3 text-center text-sm font-bold text-seal hover:bg-ink/5"
+              >
+                查看全部 {allResults.length} 条结果 →
+              </Link>
+            </li>
+          )}
         </ul>
       )}
     </div>

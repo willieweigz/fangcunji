@@ -1,5 +1,5 @@
 import Link from "next/link";
-import type { StampSet } from "@/lib/stamps";
+import { getStandaloneFormat, type StampSet } from "@/lib/stamps";
 
 export default function StampCard({ set }: { set: StampSet }) {
   // 封面：优先用构建时标记的优选条目（比例合适的小全张），否则用第一枚有图的
@@ -41,7 +41,10 @@ export default function StampCard({ set }: { set: StampSet }) {
         </div>
         <div className="mt-1 text-xs text-faded">
           {set.issueDate} ·{" "}
-          {set.totalStamps > 0 ? `${set.totalStamps}枚` : "小型张"} · {set.type}
+          {set.totalStamps > 0
+            ? `${set.totalStamps}枚`
+            : getStandaloneFormat(set)}{" "}
+          · {set.type}
         </div>
       </div>
     </Link>

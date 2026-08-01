@@ -4,7 +4,11 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "check:types": "tsc --noEmit --incremental false",
+    "check:data": "python scripts/check_data.py --images",
+    "check": "npm run check:types && npm run check:data",
+    "reports": "python scripts/check_data.py --write-reports"
   },
   "dependencies": {
     "next": "^15.3.0",

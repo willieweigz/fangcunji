@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import {
   loadCollection,
+  normalizeCollection,
   saveCollection,
   type CollectStatus,
 } from "@/components/CollectButton";
@@ -45,16 +46,21 @@ export default function CollectionView({ sets }: { sets: SetSummary[] }) {
     URL.revokeObjectURL(a.href);
   };
 
-  const importData = (file: File) => {
-    file.text().then((text) => {
-      try {
-        const imported = JSON.parse(text) as Record<string, CollectStatus>;
-        saveCollection(imported);
-        setData(imported);
-      } catch {
-        alert("文件格式不正确，导入失败。");
+  const importData = async (file: File) => {
+    try {
+      if (file.size > 1024 * 1024) {
+        throw new Error("收藏备份不能超过 1 MB");
       }
-    });
+      const validIds = new Set(sets.map((s) => s.id));
+      const imported = normalizeCollection(
+        JSON.parse(await file.text()),
+        validIds
+      );
+      saveCollection(imported);
+      setData(imported);
+    } catch {
+      alert("文件格式不正确，导入失败；原有收藏未被修改。");
+    }
   };
 
   if (!loaded) return null;

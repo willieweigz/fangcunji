@@ -5,6 +5,7 @@ import {
   getPrevNext,
   getPrimaryThemeNames,
   getSetById,
+  getStandaloneFormat,
 } from "@/lib/stamps";
 import CollectButton from "@/components/CollectButton";
 import StampGallery from "@/components/StampGallery";
@@ -54,7 +55,7 @@ export default async function StampDetailPage({
           <span>
             {set.totalStamps > 0
               ? `全套 ${set.totalStamps} 枚`
-              : "小型张发行"}
+              : `${getStandaloneFormat(set)}发行`}
           </span>
           {set.extras.length > 0 && <span>附：{set.extras.join("、")}</span>}
           {set.designer && <span>设计：{set.designer}</span>}
