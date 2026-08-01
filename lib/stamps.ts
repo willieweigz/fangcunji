@@ -32,7 +32,7 @@ export interface StampSet {
 }
 
 const dataDir = path.join(process.cwd(), "data", "stamps");
-const publicDir = path.join(process.cwd(), "public");
+const imageStoreDir = path.join(process.cwd(), "image-store");
 
 // 模块级缓存：避免每次请求都同步读取 20+ JSON + 数千次 fs.existsSync
 let _allSetsCache: StampSet[] | null = null;
@@ -81,13 +81,13 @@ export function getAllSets(): StampSet[] {
   }
   for (const set of sets) {
     for (const stamp of set.stamps) {
-      stamp.hasImage = fs.existsSync(path.join(publicDir, stamp.image));
+      stamp.hasImage = fs.existsSync(path.join(imageStoreDir, stamp.image));
     }
     // 封面优选：小全张一张图能看全套，但过于细长的（如四枚横连印）塞进 4:3
     // 卡片会缩成一条细带反而看不清，只有长宽比 ≤3:1 的小全张才标记为优选封面
     const sqz = set.stamps.find((s) => s.format === "小全张" && s.hasImage);
     if (sqz) {
-      const size = jpegSize(path.join(publicDir, sqz.image));
+      const size = jpegSize(path.join(imageStoreDir, sqz.image));
       if (size && size.h > 0) {
         const aspect = size.w / size.h;
         if (aspect <= 3 && aspect >= 1 / 3) sqz.coverPreferred = true;

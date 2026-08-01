@@ -15,7 +15,7 @@ Image.MAX_IMAGE_PIXELS = None  # 允许处理超大图片（邮票原图可能�
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-ROOT = os.path.join("public", "images", "stamps")
+ROOT = os.path.join("image-store", "images", "stamps")
 MAX_EDGE = 1600
 MAX_KB = 400
 QUALITY = 85

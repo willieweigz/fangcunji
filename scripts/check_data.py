@@ -21,7 +21,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 DATA_DIR = os.path.join("data", "stamps")
 THEMES_FILE = os.path.join("data", "themes.json")
-IMG_ROOT = "public"
+IMG_ROOT = "image-store"
 MAX_EDGE = 1600  # 图片长边上限(px)
 MAX_KB = 400  # 图片体积上限(KB)
 

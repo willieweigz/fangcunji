@@ -5,6 +5,7 @@
 - **添加/修改邮票数据**：严格按照 `数据录入手册.md` 执行（含标签 SOP），禁止编造图名/面值，没把握就标 `needsReview: true`。交付前必须运行 `python scripts/check_data.py --images` 做到 0 ERROR。
 - **extras 字段规则**：只填"小型张"和"小全张"（含变体统一写"小全张"），其他版式（小版张、小本票、版式二等）一律不填。
 - 本地邮票图库：`新中国邮票图片全集（1949年-2026年最新）/`（项目根目录下，约24GB，已在 .gitignore 排除，绝不提交/部署）；导入图片用 `python scripts/import_year_images.py <年份>`。
+- **网站用图片托管在 `image-store/images/stamps/`（不是 `public/`），经 jsDelivr CDN 读取**；仓库因此改为 **Public**（2026-08，见 `PRD.md`"图片托管方案变更"一节和 `部署上线指南.md`）——改图片相关代码前注意这一点，`lib/image-url.ts` 的 `imageUrl()` 是拼 URL 的唯一入口。
 - 启动: `npm run dev`（端口 3000，根路径 `/` 现在是总门厅，邮票馆在 `/stamps`）。项目在微云同步文件夹内，npm install 很慢属正常。桌面"纸上山河"快捷方式 / `start-fangcunji.bat` 双击直接打开邮票馆 `/stamps`（站长日常最常用，总门厅从邮票馆顶栏"⌂ 总馆"进）。
 - 视觉风格是"典雅集邮册风"（米色纸纹 + 印章红 #b23a2a + 邮政绿 #1f6b50），改样式时保持此基调。
 - **上线部署**：已上线，线上地址 https://fangcunji.vercel.app 。push 到 GitHub 后 Vercel 自动构建（1–2 分钟）。账号/授权类步骤（注册 GitHub/Vercel、浏览器登录）必须站长本人做，AI 只做技术操作（git 命令、检查构建日志），详见 `部署上线指南.md`。

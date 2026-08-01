@@ -1,6 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
+import { imageUrl } from "@/lib/image-url";
 
 interface Stamp {
   sn: number;
@@ -65,7 +66,7 @@ export default function StampGallery({
               >
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src={stamp.image}
+                  src={imageUrl(stamp.image)}
                   alt={`${title} ${stamp.name}`}
                   className="max-h-full max-w-full object-contain"
                   loading="lazy"
@@ -98,7 +99,7 @@ export default function StampGallery({
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src={active.image}
+            src={imageUrl(active.image)}
             alt={`${title} ${active.name}`}
             onClick={(e) => e.stopPropagation()}
             className="max-h-[80vh] max-w-full object-contain shadow-2xl"

@@ -146,7 +146,7 @@ def main():
         sys.exit(1)
     print(f"图库目录: {year_dir}")
 
-    dst_dir = os.path.join("public", "images", "stamps", year)
+    dst_dir = os.path.join("image-store", "images", "stamps", year)
     os.makedirs(dst_dir, exist_ok=True)
 
     copied = skipped = 0

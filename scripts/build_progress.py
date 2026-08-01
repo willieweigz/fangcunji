@@ -99,7 +99,7 @@ def check_year(year, plan_by_id):
         data = "—"
 
     # 图片导入
-    img_dir = os.path.join("public", "images", "stamps", str(year))
+    img_dir = os.path.join("image-store", "images", "stamps", str(year))
     if os.path.isdir(img_dir) and os.listdir(img_dir):
         img = f"✅{len(os.listdir(img_dir))}张"
     else:

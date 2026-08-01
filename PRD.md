@@ -167,24 +167,28 @@
 | 样式   | **Tailwind CSS**                             | vibe coding 首选，改样式直观      |
 | 数据   | **本地 JSON 文件**（构建时读取，静态生成页面）                 | 无数据库、无后端、零运维；改数据 = 改文件    |
 | 收藏状态 | **localStorage**                             | 零后端实现个人收藏                 |
-| 图片   | 项目 `public/` 目录（起步）→ 量大后迁 Cloudflare R2 免费图床 | 简单起步，留升级空间                |
+| 图片   | `image-store/` 目录随 git 托管，网站经 jsDelivr CDN 读取（2026-08 起，见下方说明） | 免费、无需额外账号，规避 Vercel 构建磁盘限额 |
 | 部署   | **Vercel 免费版**（GitHub 仓库自动部署）                | push 代码即上线，免费额度足够         |
 | 版本管理 | Git + GitHub                                 | 数据和代码都有历史记录，改坏可回滚         |
 
 ### 5.2 架构示意
 
 ```
-GitHub 仓库
- ├── data/stamps/*.json     ← 邮票数据（你维护的核心资产）
- ├── public/images/stamps/  ← 邮票图片
- └── app/                   ← Next.js 页面代码
+GitHub 仓库（Public，见下方说明）
+ ├── data/stamps/*.json       ← 邮票数据（你维护的核心资产）
+ ├── image-store/images/stamps/  ← 邮票图片（不在 public/ 下，不随 Vercel 构建打包）
+ └── app/                     ← Next.js 页面代码
         │
         ▼  git push 自动触发
-     Vercel 构建 → 生成纯静态页面 → 全球 CDN 分发
+     Vercel 构建 → 生成纯静态页面（不含图片）→ 全球 CDN 分发
         │
         ▼
-     访客浏览器（收藏状态存在 localStorage）
+     访客浏览器：页面来自 Vercel，图片经 jsDelivr 从本仓库直读
+     （https://cdn.jsdelivr.net/gh/willieweigz/fangcunji@main/image-store/...）
+        （收藏状态存在 localStorage）
 ```
+
+> ℹ️ **2026-08 图片托管方案变更**：图片体积涨到 5000+ 张、1.4GB 后，把它们和 `public/` 一起打进 Vercel 构建的做法导致构建容器磁盘写满（ENOSPC）报错。解决办法是把图片挪到仓库里的 `image-store/`（不再是 Next.js 的 `public/` 静态目录，Vercel 不会把它复制进部署产物），网站改成通过 jsDelivr CDN 直接读取 GitHub 仓库里的图片文件。**代价是仓库必须是 Public**（jsDelivr 读不了私有仓库），已征得站长同意从 Private 改为 Public。jsDelivr 对内容有缓存（通常几小时到一天量级），新增图片上线后可能有短暂延迟，紧急时可用 https://www.jsdelivr.com/tools/purge 手动刷新对应 URL。
 
 ### 5.3 页面路由
 
@@ -233,7 +237,7 @@ GitHub 仓库
 | **M2 完整功能** | 搜索、收藏管理、我的收藏页、导出导入、响应式打磨                           | 全功能在本地可用      | ✅ 完成                              |
 | **M3 上线**   | GitHub + Vercel 部署，绑定域名（可选）。**具体操作步骤见《部署上线指南.md》** | 手机可访问线上网址     | ✅ 完成（域名未绑，用 Vercel 子域名）           |
 | **M4 数据扩充** | 全目录数据录入（已远超首批 50–200 套设想，目标覆盖 1949–至今 完整目录）        | 每个年代、每个主题都有内容 | 🚧 进行中（已录入 400+ 套；进度见 `录入进度表.md`） |
-| **M5 迭代**   | 视数据量决定：图片迁图床、收藏云同步、全目录扩充                           | —             | ⏳ 未开始                             |
+| **M5 迭代**   | 图片迁出 Vercel 构建（改 jsDelivr 读仓库，仓库转 Public）；收藏云同步、全目录扩充仍待做 | —             | 🚧 图片迁移已完成，其余未开始              |
 
 ---
 
