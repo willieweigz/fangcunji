@@ -6,7 +6,7 @@
 - **extras 字段规则**：只填"小型张"和"小全张"（含变体统一写"小全张"），其他版式（小版张、小本票、版式二等）一律不填。
 - 本地邮票图库：`新中国邮票图片全集（1949年-2026年最新）/`（项目根目录下，约24GB，已在 .gitignore 排除，绝不提交/部署）；导入图片用 `python scripts/import_year_images.py <年份>`。
 - **网站用图片放在独立仓库 `willieweigz/fangcunji-images`（经 jsDelivr 读取），主仓库一张图都不放**（2026-08 图片托管方案变更，见 `PRD.md` 同名章节 + `部署上线指南.md`；起因是图片 1.4GB 把 Vercel 构建磁盘撑爆 ENOSPC）。本地 `image-store/`（已在 .gitignore）是图片仓库的检出，自带 `.git`。`lib/image-url.ts` 的 `imageUrl()` 是拼图片 URL 的唯一入口；构建时靠 `data/image-manifest.json` 判断有图/封面比例，不读图片本体。**加图后要：① `cd image-store` 提交推送图片仓库；② `python scripts/build_image_manifest.py` 重生成清单再提交主仓库。**
-- 启动: `npm run dev`（端口 3000）。项目在微云同步文件夹内，npm install 很慢属正常。
+- 本机跨项目端口分配以 `C:\Users\jd\.codex\LOCAL_DEV_PORTS.md` 为唯一登记表。启动：`npm run dev`（固定端口 3011，地址 `http://localhost:3011`）；不得占用或关闭登记给其他项目的端口。项目在微云同步文件夹内，npm install 很慢属正常。
 - 视觉风格是"典雅集邮册风"（米色纸纹 + 印章红 #b23a2a + 邮政绿 #1f6b50），改样式时保持此基调。
 - **上线部署**：已上线，线上地址 https://fangcunji.vercel.app 。push 到 GitHub 后 Vercel 自动构建（1–2 分钟）。账号/授权类步骤（注册 GitHub/Vercel、浏览器登录）必须站长本人做，AI 只做技术操作（git 命令、检查构建日志），详见 `部署上线指南.md`。
 - **⚠️ 提交并推送到 GitHub（默认不做，必须站长同意或要求才执行）**：
