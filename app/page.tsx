@@ -158,13 +158,22 @@ export default function Portal() {
             </div>
           </Bookmark>
 
-          {/* 画册馆（筹备中） */}
-          <Bookmark href="/albums" accent="#2c5f8a" name="画 册" subtitle="古籍原稿 · 自制图册">
+          {/* 画册馆（已开放） */}
+          <Bookmark
+            href="/albums"
+            accent="#2c5f8a"
+            open
+            name="画 册"
+            subtitle="古代图册 · 趣味重读"
+          >
             <p className="text-sm leading-relaxed text-faded">
-              清代彩绘原稿与自制工笔画册，以图辅文，读懂古典小说。
+              收录中国有趣的古代图册，从原作出发，以设色、重绘和故事整理帮助阅读。
             </p>
-            <div className="mt-auto pt-8 text-sm text-faded group-hover:underline">
-              筹备中 →
+            <p className="mt-5 text-xs tracking-[0.18em] text-[#2c5f8a]">
+              已开放 · 1 册 · 33 图
+            </p>
+            <div className="mt-auto pt-8 text-sm text-[#2c5f8a] group-hover:underline">
+              进入画册馆 →
             </div>
           </Bookmark>
 

@@ -29,6 +29,79 @@ body:has(.portal-root) {
   background-size: 16px 16px;
 }
 
+/* 画册馆：靛蓝书衣与旧纸册页，不沿用邮票馆的米色点阵。 */
+body:has(.albums-root) {
+  background-color: #e8e2d5;
+  background-image:
+    linear-gradient(90deg, rgba(44, 95, 138, 0.035) 1px, transparent 1px),
+    linear-gradient(rgba(59, 47, 35, 0.025) 1px, transparent 1px);
+  background-size: 38px 38px;
+}
+
+.album-cloth {
+  background-color: #234f74;
+  background-image:
+    linear-gradient(115deg, rgba(255, 255, 255, 0.045), transparent 38%),
+    repeating-linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.018) 0,
+      rgba(255, 255, 255, 0.018) 1px,
+      transparent 1px,
+      transparent 4px
+    );
+}
+
+.album-paper {
+  background-color: #f3eedf;
+  background-image:
+    radial-gradient(rgba(75, 59, 41, 0.045) 0.7px, transparent 0.8px),
+    linear-gradient(105deg, rgba(255, 255, 255, 0.18), transparent 45%);
+  background-size: 7px 7px, 100% 100%;
+}
+
+.album-pan {
+  scrollbar-color: rgba(243, 238, 223, 0.52) rgba(255, 255, 255, 0.08);
+  scrollbar-width: thin;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .album-reveal {
+    animation: album-reveal 620ms cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+}
+
+@keyframes album-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes album-carousel-reveal {
+  from {
+    opacity: 0.18;
+    transform: scale(1.012);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.album-carousel-reveal {
+  animation: album-carousel-reveal 720ms ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .album-carousel-reveal {
+    animation: none;
+  }
+}
+
 .font-serif-cn {
   font-family: "Noto Serif SC", "Songti SC", "SimSun", "STSong", serif;
 }

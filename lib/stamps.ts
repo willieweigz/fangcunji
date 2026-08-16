@@ -8,7 +8,7 @@ export interface Stamp {
   image: string;
   hasImage: boolean;
   format?: string;
-  /** 列表卡片封面优先用此条目（构建时计算：小全张且长宽比适合卡片） */
+  /** 列表卡片封面优先用此条目（构建时计算：大版式图片且长宽比适合卡片） */
   coverPreferred?: boolean;
 }
 
@@ -35,7 +35,7 @@ const dataDir = path.join(process.cwd(), "data", "stamps");
 
 // 图片清单：image 路径 → [宽, 高]。图片本体托管在独立仓库（经 jsDelivr 读取），
 // 不随主仓库/Vercel 构建打包，所以构建时不能再读图片文件本体来判断"是否有图"
-// 和"小全张长宽比"，改为读这份由 scripts/build_image_manifest.py 生成的清单。
+// 和"大版式图片长宽比"，改为读这份由 scripts/build_image_manifest.py 生成的清单。
 // 清单里有某 image = 该图存在；清单外（含 15 张缺图）= 显示"图片待录入"占位。
 type ImageManifest = Record<string, [number, number]>;
 let _imageManifestCache: ImageManifest | null = null;
@@ -72,14 +72,18 @@ export function getAllSets(): StampSet[] {
     for (const stamp of set.stamps) {
       stamp.hasImage = manifest[stamp.image] !== undefined;
     }
-    // 封面优选：小全张一张图能看全套，但过于细长的（如四枚横连印）塞进 4:3
-    // 卡片会缩成一条细带反而看不清，只有长宽比 ≤3:1 的小全张才标记为优选封面
-    const sqz = set.stamps.find((s) => s.format === "小全张" && s.hasImage);
-    if (sqz) {
-      const size = manifest[sqz.image];
+    // 封面优选：小全张、全套或整版一张图能看全貌，但过于细长的版式塞进 4:3
+    // 卡片会缩成一条细带反而看不清，只有长宽比在 1:3 至 3:1 的图片才标记为优选封面。
+    const preferredCover = ["小全张", "全套", "整版"]
+      .map((format) =>
+        set.stamps.find((stamp) => stamp.format === format && stamp.hasImage)
+      )
+      .find((stamp) => stamp !== undefined);
+    if (preferredCover) {
+      const size = manifest[preferredCover.image];
       if (size && size[1] > 0) {
         const aspect = size[0] / size[1];
-        if (aspect <= 3 && aspect >= 1 / 3) sqz.coverPreferred = true;
+        if (aspect <= 3 && aspect >= 1 / 3) preferredCover.coverPreferred = true;
       }
     }
   }
