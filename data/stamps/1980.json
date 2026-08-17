@@ -614,6 +614,14 @@
         "name": "“啊！木瓜”",
         "denomination": "8分",
         "image": "/images/stamps/1980/T51-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "童话—“咕咚”（全套）",
+        "denomination": "32分",
+        "image": "/images/stamps/1980/T51-5.jpg",
+        "format": "全套",
+        "coverPreferred": true
       }
     ]
   },
