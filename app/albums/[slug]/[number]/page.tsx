@@ -35,7 +35,19 @@ export default async function AlbumEntryPage({ params }: { params: Promise<{ slu
           <p className="text-xs text-faded"><span className="hidden sm:inline">点击画面进入全屏；键盘 ← → 翻页</span><span className="sm:hidden">点击画面进入全屏；左右滑动翻页</span></p>
         </div>
 
-        <AlbumViewer image={entry.image} title={entry.title} index={index + 1} total={album.entries.length} previousHref={previousHref} nextHref={nextHref} />
+        <AlbumViewer
+          image={entry.image}
+          title={entry.title}
+          index={index + 1}
+          total={album.entries.length}
+          previousHref={previousHref}
+          nextHref={nextHref}
+          pages={album.entries.map((albumEntry) => ({
+            href: `/albums/${album.slug}/${albumEntry.number}`,
+            image: albumEntry.image,
+            title: albumEntry.title,
+          }))}
+        />
 
         <nav className="mt-6 grid grid-cols-3 items-center border-y border-ink/12 py-4 text-sm">
           <div>{previousHref ? <Link href={previousHref} className="text-[#2c5f8a] hover:underline">← {previous.title}</Link> : null}</div>
