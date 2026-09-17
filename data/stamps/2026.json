@@ -545,5 +545,47 @@
         "format": "小型张"
       }
     ]
+  },
+  {
+    "id": "2026-14",
+    "series": "编年",
+    "type": "特种邮票",
+    "title": "世界文化遗产——普洱景迈山古茶林文化景观",
+    "issueDate": "2026-09-17",
+    "year": 2026,
+    "themes": [
+      "山水风光",
+      "茶",
+      "云南",
+      "世界文化遗产"
+    ],
+    "designer": "郭振山",
+    "totalStamps": 3,
+    "extras": [],
+    "description": "2023年9月17日，**云南普洱景迈山**古茶林文化景观列入《世界遗产名录》，成为全球首个茶主题世界文化遗产。景迈山当地世居民族发展出“林下茶”种植技术，形成林茶共生、人地和谐的文化景观。三枚连票以水彩画法结合写意山水，依次表现云海中的村寨、依山而建的聚落，以及乔木层、茶树层、草本层相互依存的古茶林；画面借此呈现人与自然和谐共生的千年生态智慧。",
+    "quantity": "套票390万套，版式二54万版",
+    "source": "https://www.chinapost.com.cn/cn/stamp/2609/3866-1.htm",
+    "needsReview": false,
+    "localImageFolder": "2026-14 《世界文化遗产——普洱景迈山古茶林文化景观》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "云上景迈",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2026/2026-14-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "人地和谐",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2026/2026-14-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "茶林共生",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2026/2026-14-3.jpg"
+      }
+    ]
   }
 ]
