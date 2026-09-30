@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "index": {"jsGzip": 161000, "requests": 7, "htmlWarning": 6000},
+    "stamps": {"jsGzip": 162500, "requests": 8, "htmlWarning": 125000},
+    "albums": {"jsGzip": 168000, "requests": 8, "htmlWarning": 15000},
+    "albums/sanshisan-jianke-tu/001": {"jsGzip": 167000, "requests": 8, "htmlWarning": 15000}
+  }
+}

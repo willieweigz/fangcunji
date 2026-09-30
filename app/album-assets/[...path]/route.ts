@@ -2,7 +2,7 @@ import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { NextResponse } from "next/server";
 
-const CDN_BASE = process.env.ALBUM_IMAGE_CDN_BASE ?? "https://cdn.jsdelivr.net/gh/willieweigz/fangcunji-images@main/images/albums";
+import { ALBUM_IMAGE_CDN_BASE as CDN_BASE } from "@/lib/album-image-url";
 
 export async function GET(_request: Request, { params }: { params: Promise<{ path: string[] }> }) {
   const { path: parts } = await params;

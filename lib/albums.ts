@@ -1,3 +1,4 @@
+import { albumImageUrl } from "@/lib/album-image-url";
 import albumData from "@/data/albums/sanshisan-jianke-tu.json";
 
 export type AlbumEntryKind = "cover" | "plate" | "end";
@@ -7,10 +8,11 @@ type RawAlbumEntry = { number: string; title: string; kind?: AlbumEntryKind };
 
 const albums: Album[] = [{
   ...albumData,
+  coverImage: albumImageUrl(albumData.coverImage),
   entries: (albumData.entries as RawAlbumEntry[]).map((entry) => ({
     ...entry,
     kind: entry.kind ?? "plate",
-    image: `/album-assets/${albumData.slug}/${entry.number}.webp`,
+    image: albumImageUrl(`/album-assets/${albumData.slug}/${entry.number}.webp`),
   })),
 }];
 

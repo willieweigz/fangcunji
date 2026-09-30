@@ -9,5 +9,8 @@ const IMAGE_CDN_BASE =
   "https://cdn.jsdelivr.net/gh/willieweigz/fangcunji-images@main";
 
 export function imageUrl(image: string): string {
+  if (process.env.NODE_ENV === "development" && image.startsWith("/images/stamp-previews/")) {
+    return `/stamp-preview-assets/${image.slice("/images/stamp-previews/".length)}`;
+  }
   return `${IMAGE_CDN_BASE}${image}`;
 }

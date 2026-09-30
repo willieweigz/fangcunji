@@ -20,6 +20,7 @@ export default function AlbumPreviewCarousel({
   slides: AlbumPreviewSlide[];
 }) {
   const [current, setCurrent] = useState(0);
+  const [loadedImage, setLoadedImage] = useState<string | null>(null);
   const [hovered, setHovered] = useState(false);
   const [interacting, setInteracting] = useState(false);
   const [inView, setInView] = useState(true);
@@ -55,10 +56,12 @@ export default function AlbumPreviewCarousel({
   }, [hovered, inView, interacting, move, pageVisible, slides.length]);
 
   useEffect(() => {
-    if (slides.length < 2) return;
+    // Let the visible image finish before warming the next slide.
+    if (slides.length < 2 || loadedImage !== slides[current].image) return;
     const nextImage = new window.Image();
+    nextImage.fetchPriority = "low";
     nextImage.src = slides[(current + 1) % slides.length].image;
-  }, [current, slides]);
+  }, [current, loadedImage, slides]);
 
   if (slides.length === 0) return null;
   const slide = slides[current];
@@ -113,6 +116,7 @@ export default function AlbumPreviewCarousel({
           <div className="absolute inset-y-0 right-0 w-[176%] transition-transform duration-[1600ms] ease-out group-hover/carousel:scale-[1.018]">
             <Image
               src={slide.image}
+              onLoad={() => setLoadedImage(slide.image)}
               alt={`${albumTitle}第${Number(slide.number)}图 ${slide.title}`}
               fill
               priority={current === 0}

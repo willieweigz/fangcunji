@@ -8,7 +8,9 @@
     "check:types": "tsc --noEmit --incremental false",
     "check:data": "python scripts/check_data.py --images",
     "check": "npm run check:types && npm run check:data",
-    "reports": "python scripts/check_data.py --write-reports"
+    "reports": "python scripts/check_data.py --write-reports",
+    "perf:check": "node perf/check-build.cjs && node perf/stamps/check-preview-budget.cjs",
+    "postbuild": "npm run perf:check"
   },
   "dependencies": {
     "next": "^15.3.0",

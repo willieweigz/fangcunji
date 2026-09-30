@@ -60,3 +60,6 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+    # Keep list previews in sync when original stamp images are imported or replaced.
+    import subprocess
+    subprocess.run([sys.executable, os.path.join("scripts", "build_stamp_previews.py")], check=True)
