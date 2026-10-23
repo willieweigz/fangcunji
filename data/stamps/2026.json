@@ -632,5 +632,94 @@
       {"sn": 5, "name": "元青花四爱图梅瓶", "denomination": "1.20元", "image": "/images/stamps/2026/2026-16-5.jpg"},
       {"sn": 6, "name": "元青花釉里红开光贴花盖罐", "denomination": "6元", "image": "/images/stamps/2026/2026-16-6.jpg", "format": "小型张"}
     ]
+  },
+  {
+    "id": "2026-17",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "中国工农红军长征胜利90周年",
+    "issueDate": "2026-10-22",
+    "year": 2026,
+    "themes": [
+      "历史事件",
+      "党史",
+      "长征",
+      "遵义会议"
+    ],
+    "designer": "夏竞秋",
+    "totalStamps": 6,
+    "extras": [],
+    "description": "这套邮票以长征中的重要历史场景为线索，将写实叙事与精神象征相结合。前五枚采用历史写实油画，依次呈现“踏上征程”“血战湘江”“遵义会议”“激战腊子口”和“胜利会师”，从出发、战斗到会师，串起红军长征的艰难历程。**湘江**、**遵义**和**腊子口**等地，也由此成为承载长征记忆的重要地点。第六枚“弘扬伟大长征精神”转向象征写意表达，与前五枚的具体历史场景形成呼应。整套采用高精度胶版印制，保留油画层次与人物群像的细节，让历史叙事在方寸之间展开。",
+    "quantity": "430万套",
+    "source": "https://www.chinapost.com.cn/cn/stamp/2610/4103-1.htm",
+    "needsReview": false,
+    "localImageFolder": "2026-17 《中国工农红军长征胜利90周年》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "踏上征程",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2026/2026-17-1.jpg"
+      },
+      {
+        "sn": 2,
+        "name": "血战湘江",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2026/2026-17-2.jpg"
+      },
+      {
+        "sn": 3,
+        "name": "遵义会议",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2026/2026-17-3.jpg"
+      },
+      {
+        "sn": 4,
+        "name": "激战腊子口",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2026/2026-17-4.jpg"
+      },
+      {
+        "sn": 5,
+        "name": "胜利会师",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2026/2026-17-5.jpg"
+      },
+      {
+        "sn": 6,
+        "name": "弘扬伟大长征精神",
+        "denomination": "1.50元",
+        "image": "/images/stamps/2026/2026-17-6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2026-18",
+    "series": "编年",
+    "type": "纪念邮票",
+    "title": "台湾光复纪念日",
+    "issueDate": "2026-10-25",
+    "year": 2026,
+    "themes": [
+      "节日",
+      "现代节日",
+      "台湾"
+    ],
+    "designer": "何洁、周岳、何忠",
+    "totalStamps": 1,
+    "extras": [],
+    "description": "邮票以10月25日台湾光复纪念日为主题，纪念1945年抗日战争胜利后**台湾**光复的历史。画面采用平面设计，将**长城**与台湾的**阿里山**、**日月潭**等景观及纪念日日期融为一体，以不同地域的代表性景物连接共同历史记忆。整套采用影写工艺，通过景观、文字与色彩的组合，表达铭记历史、促进两岸联系的主题。",
+    "quantity": "400万套",
+    "source": "https://www.chinapost.com.cn/cn/stamp/2610/4445-1.htm",
+    "needsReview": false,
+    "localImageFolder": "2026-18 《台湾光复纪念日》",
+    "stamps": [
+      {
+        "sn": 1,
+        "name": "台湾光复纪念日",
+        "denomination": "1.20元",
+        "image": "/images/stamps/2026/2026-18-1.jpg"
+      }
+    ]
   }
 ]
