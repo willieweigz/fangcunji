@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
-import { imageUrl } from "@/lib/image-url";
+import StampImage from "@/components/StampImage";
 
 interface Stamp {
   sn: number;
@@ -111,9 +111,8 @@ export default function StampGallery({
                 title="点击查看大图"
                 className="flex aspect-square w-full cursor-zoom-in items-center justify-center overflow-hidden border border-dashed border-faded/40 p-2"
               >
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={imageUrl(stamp.image)}
+                <StampImage
+                  image={stamp.image}
                   alt={`${title} ${stamp.name}`}
                   className="max-h-full max-w-full object-contain"
                   loading="lazy"
@@ -163,9 +162,8 @@ export default function StampGallery({
 
           <div ref={viewportRef} className={`touch-none flex-1 overflow-auto ${zoom > 1 ? "cursor-grab active:cursor-grabbing" : ""}`} onPointerDown={startDrag} onPointerMove={drag} onPointerUp={stopDrag} onPointerCancel={cancelDrag}>
             <div className="flex min-h-full min-w-full items-center justify-center p-4 md:p-8" style={{ width: `${zoom * 100}%`, height: `${zoom * 100}%` }}>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src={imageUrl(active.image)}
+              <StampImage
+                image={active.image}
                 alt={`${title} ${active.name}`}
                 draggable={false}
                 onClick={(e) => e.stopPropagation()}

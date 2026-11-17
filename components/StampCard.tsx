@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { getStandaloneFormat, type StampSet } from "@/lib/stamps";
-import { imageUrl } from "@/lib/image-url";
+import StampImage from "@/components/StampImage";
 import { stampPreviewImage } from "@/lib/stamp-preview";
 
 export default function StampCard({ set }: { set: StampSet }) {
@@ -16,9 +16,8 @@ export default function StampCard({ set }: { set: StampSet }) {
       <div className="p-3">
         <div className="flex aspect-[4/3] items-center justify-center overflow-hidden border border-dashed border-faded/40 p-2">
           {cover ? (
-            /* eslint-disable-next-line @next/next/no-img-element */
-            <img
-              src={imageUrl(stampPreviewImage(cover.image))}
+            <StampImage
+              image={stampPreviewImage(cover.image)}
               alt={`${set.title} ${cover.name}`}
               className="max-h-full max-w-full object-contain transition-transform group-hover:scale-[1.03]"
               loading="lazy"
